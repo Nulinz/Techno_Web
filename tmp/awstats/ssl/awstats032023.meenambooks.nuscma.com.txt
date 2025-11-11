@@ -1,0 +1,333 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202303 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.meenambooks.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2024                
+POS_TIME 2699                
+POS_VISITOR 7415                
+POS_DAY 9020                
+POS_DOMAIN 3298                
+POS_LOGIN 3582                
+POS_ROBOT 3737                
+POS_WORMS 3950                
+POS_EMAILSENDER 4081                
+POS_EMAILRECEIVER 4224                
+POS_SESSION 9480                
+POS_SIDER 9653                
+POS_FILETYPES 4359                
+POS_DOWNLOADS 4508                
+POS_OS 4608                
+POS_BROWSER 4743                
+POS_SCREENSIZE 4952                
+POS_UNKNOWNREFERER 5026                
+POS_UNKNOWNREFERERBROWSER 5614                
+POS_ORIGIN 6010                
+POS_SEREFERRALS 6142                
+POS_PAGEREFS 6286                
+POS_SEARCHWORDS 6434                
+POS_KEYWORDS 6586                
+POS_MISC 2363                
+POS_ERRORS 6645                
+POS_CLUSTER 3438                
+POS_SIDER_404 6775                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230401055309 7 1482 27409630824930
+FirstTime 20230301052058
+LastTime 20230331215207
+LastUpdate 20230401185200 7 0 6 0 0
+TotalVisits 42                  
+TotalUnique 39                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 39                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 2 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 26122 1 2 13287
+1 4 4 76795 4 5 13409
+2 7 9 204311 1 2 35
+3 2 4 139006 0 3 941
+4 2 2 17845 0 2 716
+5 3 3 30906 0 1 0
+6 3 3 22629 1 5 14135
+7 0 0 0 0 1 226
+8 1 1 13061 1 2 358
+9 1 1 13061 0 0 0
+10 2 2 26122 0 0 0
+11 4 4 27413 0 3 358
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 13 13 74061 5 8 14526
+15 0 0 0 0 0 0
+16 0 0 0 1 1 226
+17 5 10 27157228 3 13 8722
+18 0 0 0 0 0 0
+19 0 0 0 1 1 226
+20 1 1 13061 0 0 0
+21 3 3 30906 1 5 14135
+22 4 4 35690 3 10 1369
+23 3 3 22629 0 5 1074
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+ca 20 20 261220
+cn 19 28 14058913
+mu 9 9 38371
+us 8 8 38272
+be 4 4 19136
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+no_user_agent 5 65305 20230322065524 0
+Go\-http\-client/ 1 4784 20230331175241 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+php 9 36964 0 0
+css 3 31907 0 0
+woff2 1 18028 0 0
+html 50 520338 0 0
+js 6 293741 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/bootstrap/video/meenambooks-video.mp4 0 1 13514934
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+linux 1 1
+macosx11 9 9
+Unknown 39 39
+win10 9 3
+macosx15 1 1
+win7 11 7
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+chrome96.0.4664.110 1 1
+chrome111.0.0.0 9 3
+mozilla 10 10
+firefox47.0 9 9
+Unknown 29 29
+chrome63.0.3239.132 5 5
+chrome49.0.2623.112 6 2
+chrome83.0.4103.97 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230330035751
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230331172556
+panscient.com 20230310142220
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230331144436
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+panscient.com 20230310142220
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230331172556
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 58 62
+From1 0 0
+From2 0 0
+From3 0 0
+From4 2 8
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+401 4 140
+400 4 208
+404 36 11906
+406 5 1130
+409 2 166
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 7
+/bootstrap/img/meenabooks_tabicons.png 15 -
+/../bootstrap/img/meenabooks_tabicons.png 4 -
+/robots.txt 6 -
+/admin.php 5 -
+/bootstrap/img/meenam-book.jpg 2 https://meenambooks.nuscma.com/books.php
+/img/logo.png 2 https://meenambooks.nuscma.com/books.php
+/bootstrap/img/MEENAMBOOKS_LOGO.png 2 https://meenambooks.nuscma.com/books.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 39
+154.16.192.44 9 9 38371 20230310142220
+183.136.225.45 4 4 35690 20230331215207
+101.68.211.2 4 4 76795 20230307020029
+183.136.225.44 4 4 35690 20230306235021
+117.70.135.69 3 9 13624449 20230327172648
+205.210.31.177 2 2 26122 20230325082659
+183.136.225.46 2 2 17845 20230304061416
+205.210.31.15 1 1 13061 20230318014302
+162.142.125.14 1 1 4784 20230331144436
+205.210.31.58 1 1 13061 20230314211234
+87.236.176.197 1 1 4784 20230315115338
+106.75.174.19 1 3 134222 20230303020708
+205.210.31.2 1 1 13061 20230307011440
+198.235.24.60 1 1 13061 20230303093418
+87.236.176.132 1 1 4784 20230318140316
+198.235.24.10 1 1 13061 20230311023520
+198.235.24.50 1 1 13061 20230304105453
+198.235.24.26 1 1 13061 20230329142313
+167.248.133.190 1 1 4784 20230303061724
+205.210.31.183 1 1 13061 20230310203329
+198.235.24.139 1 1 13061 20230318022800
+87.236.176.135 1 1 4784 20230301174950
+167.94.138.124 1 1 4784 20230316221743
+205.210.31.31 1 1 13061 20230301102023
+205.210.31.54 1 1 13061 20230310022032
+162.142.125.11 1 1 4784 20230317024903
+162.142.125.214 1 1 4784 20230316113734
+198.235.24.29 1 1 13061 20230301140413
+205.210.31.24 1 1 13061 20230329051555
+52.37.122.89 1 1 4784 20230301052058
+198.235.24.165 1 1 13061 20230324022443
+205.210.31.16 1 1 13061 20230314054451
+167.248.133.126 1 1 4784 20230324113146
+205.210.31.3 1 1 13061 20230307221825
+198.235.24.5 1 1 13061 20230307113249
+205.185.116.89 1 1 4784 20230316230748
+87.236.176.165 1 1 4784 20230330035751
+198.235.24.166 1 1 13061 20230331172556
+106.75.164.143 1 3 134222 20230303035503
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20230301 4 4 35690 4
+20230303 4 8 286289 4
+20230304 3 3 30906 2
+20230306 4 4 35690 2
+20230307 7 7 115978 4
+20230310 11 11 64493 3
+20230311 2 2 26122 2
+20230314 2 2 26122 2
+20230315 1 1 4784 1
+20230316 3 3 14352 3
+20230317 1 1 4784 1
+20230318 3 3 30906 3
+20230324 2 2 17845 2
+20230325 1 1 13061 1
+20230326 2 2 17845 1
+20230327 3 8 27139383 1
+20230329 2 2 26122 2
+20230330 1 1 4784 1
+20230331 4 4 35690 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+2mn-5mn 1
+30s-2mn 3
+0s-30s 37
+1h+ 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/ 50 520338 42 40
+/Privacy_Policies.php 2 9532 0 1
+/books.php 2 6754 0 1
+/terms.php 1 4874 0 0
+/publisher_list.php 1 3373 0 0
+/book.php 1 4436 0 0
+/cart.php 1 3211 0 0
+/index.php 1 4784 0 0
+/bootstrap/fonts/glyphicons-halflings-regular.woff2 1 18028 0 0
+END_SIDER

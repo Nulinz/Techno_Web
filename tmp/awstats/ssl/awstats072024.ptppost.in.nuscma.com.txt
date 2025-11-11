@@ -1,0 +1,830 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202407 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.ptppost.in.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2023                
+POS_TIME 2685                
+POS_VISITOR 37246               
+POS_DAY 39357               
+POS_DOMAIN 3417                
+POS_LOGIN 3742                
+POS_ROBOT 3897                
+POS_WORMS 4402                
+POS_EMAILSENDER 4533                
+POS_EMAILRECEIVER 4676                
+POS_SESSION 39928               
+POS_SIDER 40095               
+POS_FILETYPES 4811                
+POS_DOWNLOADS 4966                
+POS_OS 5014                
+POS_BROWSER 5304                
+POS_SCREENSIZE 5881                
+POS_UNKNOWNREFERER 5955                
+POS_UNKNOWNREFERERBROWSER 6434                
+POS_ORIGIN 6585                
+POS_SEREFERRALS 6719                
+POS_PAGEREFS 6882                
+POS_SEARCHWORDS 7030                
+POS_KEYWORDS 7182                
+POS_MISC 2349                
+POS_ERRORS 7241                
+POS_CLUSTER 3598                
+POS_SIDER_404 7382                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240801065141 6 1562 11644027427897
+FirstTime 0
+LastTime 20240731074446
+LastUpdate 20240801184928 6 0 5 0 0
+TotalVisits 54                  
+TotalUnique 52                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 52                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 1 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 24469 19 29 96045
+1 3 3 73407 18 39 124045
+2 3 3 73407 13 29 105047
+3 0 0 0 11 22 80085
+4 2 2 36482 10 31 342736
+5 2 3 51850 14 39 76262
+6 3 3 73407 21 61 255275
+7 9 9 233797 16 69 183093
+8 2 3 39384 21 37 264596
+9 8 8 160729 72 93 180322
+10 1 1 24469 20 26 180836
+11 1 1 24469 21 34 215786
+12 2 2 48938 17 36 147218
+13 14 15 270135 19 86 150245
+14 6 6 115656 30 51 310968
+15 1 1 24469 18 33 136920
+16 1 1 12008 19 50 195747
+17 0 0 0 14 23 133157
+18 7 7 171283 15 31 124829
+19 14 16 39310 14 31 141861
+20 2 2 48938 9 24 69325
+21 0 0 0 8 12 58440
+22 11 12 272071 192 332 146202
+23 0 0 0 21 29 107084
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+in 33 37 288919
+us 30 31 836396
+cn 15 16 369947
+se 5 5 122345
+be 4 4 85415
+nl 2 2 48938
+pl 2 2 17780
+ca 2 2 48938
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+Googlebot/ 162 2275346 20240731210031 0
+Googlebot\-Image/ 12 437935 20240731045122 0
+bingbot/ 7 149726 20240731194711 0
+facebookexternalhit/ 4 177324 20240709152433 0
+no_user_agent 2 171464 20240717084226 0
+Go\-http\-client/ 2 48938 20240709052616 0
+curl 2 110201 20240730233416 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 24469 20240715094903 0
+MixrankBot 1 24469 20240724104440 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+webp 1 15776 0 0
+php 31 140234 0 0
+html 59 1577613 0 0
+css 5 11648 0 0
+Unknown 3 73407 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+macosx11 4 4
+win10 9 9
+androidnougat 1 1
+android 22 20
+Unknown 13 13
+androidkitkat 1 1
+androidpie 1 1
+macosx15 14 14
+androidmarshmallow 3 3
+android10 18 15
+winnt 1 1
+win7 1 1
+linux 7 6
+macosx14 1 1
+macosx 2 2
+ios_iphone 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 26
+chrome83.0.4103.97 4 4
+Unknown 2 2
+mozilla 10 10
+chrome51.0.2704.103 1 1
+chrome124.0.0.0 2 1
+chrome127.0.0.0 16 14
+chrome76.0.3809.132 1 1
+chrome70.0.2218 1 1
+chrome63.0.2852 1 1
+chrome85.0.4183.121 2 2
+chrome60.0.3112.107 1 1
+chrome126.0.6478.126 3 3
+chrome87.0.4280.141 9 8
+safari4.0.5 1 1
+android 1 1
+firefox52.0 4 4
+nokia 1 1
+safari5.0.2 1 1
+chrome121.0.0.0 9 9
+chrome100.0.4896.60 2 2
+chrome96.0.4664.110 3 3
+chrome105.0.0.0 5 5
+chrome76.0.3809.111 1 1
+chrome91.0.4472.88 13 12
+chrome87.0.4280.88 1 1
+chrome126.0.0.0 4 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240730010051
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240707130224
+okhttp/3.14.9 20240708222459
+Python/3.8_aiohttp/3.9.5 20240728093747
+Nokia6230i/2.0_(03.80)_Profile/MIDP-2.0_Configuration/CLDC-1.1 20240729135418
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240728164540
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+okhttp/3.14.9 20240708222459
+Python/3.8_aiohttp/3.9.5 20240728093747
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 58 58
+From1 1 1
+From2 2 2
+From3 0 0
+From4 32 38
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+406 14 3164
+401 9 383
+503 8 0
+404 994 390052
+409 2 166
+400 9 468
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 445
+/mobile/index/home 1 https://www.ptppost.in.nuscma.com:443/mobile/index/home
+/robots.txt 114 -
+/sitemap.xml 7 -
+/js/app.js 1 https://www.ptppost.in.nuscma.com:443/js/app.js
+/masterControl/getSystemSetting 1 https://www.ptppost.in.nuscma.com:443/masterControl/getSystemSetting
+/Beta_Version_jio.php 1 -
+/upload/2024-06-15-11:22:47%20am-Triple_Jubilee_Coimbatore.jpg 5 https://ptppost.in/
+/upload/2024-06-03-05:29:58%20pm-Foreign_Investors_Pull_25_5k_Crore.jpg 4 https://ptppost.in/
+/api/vue/transaction/config 1 https://www.ptppost.in.nuscma.com:443/api/vue/transaction/config
+/index/login/register 1 https://www.ptppost.in.nuscma.com:443/index/login/register
+/Public/js/common.js 1 https://www.ptppost.in.nuscma.com:443/Public/js/common.js
+/HDFC_Bank_upi_transactions.php 2 -
+/upload/2024-06-15-04:40:22%20pm-Vijay_Sethupathi_Surprising.jpg 6 https://ptppost.in/
+/api/chat/init 1 https://www.ptppost.in.nuscma.com:443/api/chat/init
+/data/json/config.json 1 https://www.ptppost.in.nuscma.com:443/data/json/config.json
+/Apple_reports_major_appdevelopers.php 1 -
+/.git/config 6 -
+/app/js/base.js 1 https://www.ptppost.in.nuscma.com:443/app/js/base.js
+/new_change_Google_Maps.php 2 -
+/static/wap/css/tipmask.css 1 https://www.ptppost.in.nuscma.com:443/static/wap/css/tipmask.css
+/SpaceX_Sunita_Williams.php 3 -
+/api/v/index/queryOfficePage 1 https://www.ptppost.in.nuscma.com:443/api/v/index/queryOfficePage%3FofficeCode%3DcustomHomeLink
+/home/login.jpg 1 https://www.ptppost.in.nuscma.com:443/home/login.jpg
+/upload/2024-03-05-05:41:16%20pm-South_Chennai_DMK_strategy.jpg 1 -
+/config 1 https://www.ptppost.in.nuscma.com:443/config
+/biz/server/config 1 https://www.ptppost.in.nuscma.com:443/biz/server/config
+/Modi_Promises_Nuclear_Weapons.php 3 -
+/static/home/css/feiqi-ee5401a8e6.css 1 https://www.ptppost.in.nuscma.com:443/static/home/css/feiqi-ee5401a8e6.css
+/resource/home/js/common.js 1 https://www.ptppost.in.nuscma.com:443/resource/home/js/common.js
+/Shakib_Al_Hasan.php 3 -
+/market/market-ws/iframe.html 1 https://www.ptppost.in.nuscma.com:443/market/market-ws/iframe.html
+/MP_Kangana_Ranaut.php 2 -
+/js/home.js 1 https://www.ptppost.in.nuscma.com:443/js/home.js
+/resources/css/headernav.css 1 https://www.ptppost.in.nuscma.com:443/resources/css/headernav.css
+/upload/2024-03-04-09:17:16%20pm-Keep_eye_on_these_stocks.jpg 2 -
+/appxz/index.html 1 https://www.ptppost.in.nuscma.com:443/appxz/index.html
+/Public/initJs.php 1 https://www.ptppost.in.nuscma.com:443/Public/initJs.php
+/upload/2024-06-15-04:49:01%20pm-Vikravandi_by_election.jpg 5 https://ptppost.in/
+/index_files/conf.js 2 https://www.ptppost.in.nuscma.com:443/index_files/conf.js
+/Prabhas_Fans_Rejoice.php 3 -
+/script.js 135 https://www.ptppost.in.nuscma.com/trishas_telugu_comeback.php
+/TNPSC_Group_halltickets_out.php 2 -
+/public/css/style.css 1 https://www.ptppost.in.nuscma.com:443/public/css/style.css
+/client/api/findConfigByKey 1 https://www.ptppost.in.nuscma.com:443/client/api/findConfigByKey%3FconfigKey%3Dlevel_config
+/api/predict-whole-panel.do 1 https://www.ptppost.in.nuscma.com:443/api/predict-whole-panel.do
+/api/index/webconfig 1 https://www.ptppost.in.nuscma.com:443/api/index/webconfig
+/codebuild.yml 2 -
+//translate.google.com/translate_a/element.js 5 -
+/css/style.css 1 https://www.ptppost.in.nuscma.com:443/css/style.css
+/room/script/face.js 1 https://www.ptppost.in.nuscma.com:443/room/script/face.js
+/upload/2024-06-15-11:42:04%20am-next_Wasim_Akram.jpg 5 https://ptppost.in/
+/axis2/ 2 -
+/upload/2024-06-15-12:04:46%20pm-Malayalam_cinema_Filmmakers.jpg 5 https://ptppost.in/
+/Web/JS/i18n/lng_en.js 1 https://www.ptppost.in.nuscma.com:443/Web/JS/i18n/lng_en.js
+/RCB_vs_pbks_may09.php 1 -
+/skin/main/onload.js 2 https://www.ptppost.in.nuscma.com:443/skin/main/onload.js
+/wap/ 1 https://www.ptppost.in.nuscma.com:443/wap/
+/api/config 1 https://www.ptppost.in.nuscma.com:443/api/config
+/static/css/reset.css 1 https://www.ptppost.in.nuscma.com:443/static/css/reset.css
+/index_files/bankCheck.js 1 https://www.ptppost.in.nuscma.com:443/index_files/bankCheck.js
+/thriveGame.css 2 https://www.ptppost.in.nuscma.com:443/thriveGame.css
+/static/wap/css/common.css 1 https://www.ptppost.in.nuscma.com:443/static/wap/css/common.css
+/api/shares/hqStrList 1 https://www.ptppost.in.nuscma.com:443/api/shares/hqStrList
+/loksaba_election_2024_phase5.php 1 -
+/Public/Home/js/cls.js 1 https://www.ptppost.in.nuscma.com:443/Public/Home/js/cls.js
+/upload/2024-06-18-04:05:30%20pm-AI_meteoric_rise.jpg 7 https://ptppost.in/
+/api/config/getkefu 1 https://www.ptppost.in.nuscma.com:443/api/config/getkefu
+/getLocale 2 https://www.ptppost.in.nuscma.com:443/getLocale
+/api/common/config 1 https://www.ptppost.in.nuscma.com:443/api/common/config
+/index/newapi/api 1 https://www.ptppost.in.nuscma.com:443/index/newapi/api
+/Australia_Seeks_killed.php 1 -
+/index/home/login.html 1 https://www.ptppost.in.nuscma.com:443/index/home/login.html
+/static/css/public.css 1 https://www.ptppost.in.nuscma.com:443/static/css/public.css
+/im/h5/ 2 https://www.ptppost.in.nuscma.com:443/im/h5/
+/homes/ 1 https://www.ptppost.in.nuscma.com:443/homes/
+/6/ 1 https://www.ptppost.in.nuscma.com:443/6/
+/public/static/index/picture/img_33.png 1 https://www.ptppost.in.nuscma.com:443/public/static/index/picture/img_33.png
+/dist/index.html 1 https://www.ptppost.in.nuscma.com:443/dist/index.html
+/aktv/img/nyyh/chkjs.js 1 https://www.ptppost.in.nuscma.com:443/aktv/img/nyyh/chkjs.js
+/AI_transforming_healthcare.php 1 -
+/login.html 1 https://www.ptppost.in.nuscma.com:443/login.html
+/Content/css/wzwstylel.css 1 https://www.ptppost.in.nuscma.com:443/Content/css/wzwstylel.css
+/leftDao.php 1 https://www.ptppost.in.nuscma.com:443/leftDao.php%3Fcallback%3DjQuery183016740860980352856_1604309800583
+/wap 1 https://www.ptppost.in.nuscma.com:443/wap
+/app/ 1 https://www.ptppost.in.nuscma.com:443/app/
+/js/xz.js 1 https://www.ptppost.in.nuscma.com:443/js/xz.js
+/static/css/common.css 1 https://www.ptppost.in.nuscma.com:443/static/css/common.css
+/bet/lotteryinfo/allLotteryInfoList 1 https://www.ptppost.in.nuscma.com:443/bet/lotteryinfo/allLotteryInfoList
+/upload/2024-06-03-05:51:25%20pm-Amul_Milk_Gets_Pricier.jpg 5 https://ptppost.in/
+/files/pub_rem.js 1 https://www.ptppost.in.nuscma.com:443/files/pub_rem.js
+/otc/ 1 https://www.ptppost.in.nuscma.com:443/otc/
+/Anirudh_Ravichander.php 2 -
+/Vodafone_Idea_FPO.php 1 -
+/static/wap/css/trade-history.css 1 https://www.ptppost.in.nuscma.com:443/static/wap/css/trade-history.css
+/Content/m_1/js/m_1_Jquery.js 1 https://www.ptppost.in.nuscma.com:443/Content/m_1/js/m_1_Jquery.js
+//cdn.js 3 -
+/axis2-admin/ 2 -
+/api/index/grailindex 1 https://www.ptppost.in.nuscma.com:443/api/index/grailindex
+/pro/qb365/ 1 https://www.ptppost.in.nuscma.com:443/pro/qb365/
+/api/notice 2 https://www.ptppost.in.nuscma.com:443/api/notice
+/upload/2024-06-14-02:31:26%20pm-Shakib_Al_Hasan.jpg 5 https://ptppost.in/
+/upload/2024-06-14-11:48:32%20am-Anirudh_Ravichander.jpg 5 https://ptppost.in/
+/upload/2024-06-13-12:52:29%20pm-Sunil_Gavaskar_backs.jpg 5 https://ptppost.in/
+/mobile/v3/appSuperDownload.do 1 https://www.ptppost.in.nuscma.com:443/mobile/v3/appSuperDownload.do
+/Power_of_Youth.php 1 -
+/static/index/js/common.js 1 https://www.ptppost.in.nuscma.com:443/static/index/js/common.js
+/im/App/config 1 https://www.ptppost.in.nuscma.com:443/im/App/config
+/India_vs_Canada_Predictions.php 3 -
+/img/style.css 1 https://www.ptppost.in.nuscma.com:443/img/style.css
+/xy/ 1 https://www.ptppost.in.nuscma.com:443/xy/
+/Mei_Azhagan_upcomming_film.php 3 -
+/Child_Dental_Health.php 1 -
+/resources/main/common.js 1 https://www.ptppost.in.nuscma.com:443/resources/main/common.js
+/fePublicInfo/ 1 https://www.ptppost.in.nuscma.com:443/fePublicInfo/
+/site/info 1 https://www.ptppost.in.nuscma.com:443/site/info
+/unsubscribe_annoying_emails.php 2 -
+/Public/Wchat/js/cvphp.js 1 https://www.ptppost.in.nuscma.com:443/Public/Wchat/js/cvphp.js
+/static/data/thirdgames.json 1 https://www.ptppost.in.nuscma.com:443/static/data/thirdgames.json
+/Protect_Your_Smartphone.php 2 -
+/Scripts/common.js 1 https://www.ptppost.in.nuscma.com:443/Scripts/common.js
+/sitemap_index.xml 2 -
+/WhatsApp_extends_status_limit.php 1 -
+/sitemap.txt 4 -
+/saconfig/secure/yunwei.js 1 https://www.ptppost.in.nuscma.com:443/saconfig/secure/yunwei.js
+/paytm_payment_upi_worldwide.php 2 -
+/static/data/configjs.js 1 https://www.ptppost.in.nuscma.com:443/static/data/configjs.js
+/app/gjs/top 1 https://www.ptppost.in.nuscma.com:443/app/gjs/top
+/mobile/login.html 2 https://www.ptppost.in.nuscma.com:443/mobile/login.html
+/upload/2024-03-05-05:00:27%20pm-musk_vs_besoz.jpg 1 -
+/config.js 2 https://www.ptppost.in.nuscma.com:443/config.js
+/api/currency/quotation_new 1 https://www.ptppost.in.nuscma.com:443/api/currency/quotation_new
+/Journey_T20_World_Cup.php 4 -
+/CSK_MS_Dhoni_Powerful 1 -
+/static/admincp/js/common.js 1 https://www.ptppost.in.nuscma.com:443/static/admincp/js/common.js
+/public/wap/js/basis.js 1 https://www.ptppost.in.nuscma.com:443/public/wap/js/basis.js
+/h5 1 https://www.ptppost.in.nuscma.com:443/h5
+/install.inc/vipsignInstall.css 1 https://www.ptppost.in.nuscma.com:443/install.inc/vipsignInstall.css
+/Gaza_Under_Fire.php 1 -
+/static/picture/gz.png 1 https://www.ptppost.in.nuscma.com:443/static/picture/gz.png
+/img/xxing.png 1 https://www.ptppost.in.nuscma.com:443/img/xxing.png
+/NarendraModi_Upcoming_Biopic.php 3 -
+/football_legend_Sunilchhetri.php 1 -
+/mindex.html 1 https://www.ptppost.in.nuscma.com:443/mindex.html
+/web_CoinSwitch_Ventures.php 1 -
+/Public/css/_pk10.css 1 https://www.ptppost.in.nuscma.com:443/Public/css/_pk10.css
+/mobile/ 2 https://www.ptppost.in.nuscma.com:443/mobile/
+/India_vs_Ireland_T20.php 2 -
+/Ding_Liren_Mate_in_2.php 1 -
+/IPL_Eliminator_Not_Canceled.php 2 -
+/m/ 2 https://www.ptppost.in.nuscma.com:443/m/
+/css/skin/ymPrompt.css 1 https://www.ptppost.in.nuscma.com:443/css/skin/ymPrompt.css
+/kline/1m/1 1 https://www.ptppost.in.nuscma.com:443/kline/1m/1
+/api/user/ismustmobile 3 https://www.ptppost.in.nuscma.com:443/api/user/ismustmobile
+/Home/GetInitSource 1 https://www.ptppost.in.nuscma.com:443/Home/GetInitSource
+/manager/js/left.js 1 https://www.ptppost.in.nuscma.com:443/manager/js/left.js
+/Home/Get/getJnd28 1 https://www.ptppost.in.nuscma.com:443/Home/Get/getJnd28
+/assets/res/mods/room.js 1 https://www.ptppost.in.nuscma.com:443/assets/res/mods/room.js
+/Old_Rs_100_Notes.php 1 -
+/Public/Mobile/ecshe_css/wapmain.css 1 https://www.ptppost.in.nuscma.com:443/Public/Mobile/ecshe_css/wapmain.css%3Fv%3D1545408652
+/888/ 1 https://www.ptppost.in.nuscma.com:443/888/
+/upload/2024-06-15-01:34:27%20pm-India_vs_Canada_Predictions.jpg 7 https://ptppost.in/
+/common/member/js/user.util.js 1 https://www.ptppost.in.nuscma.com:443/common/member/js/user.util.js
+/api/index/init 1 https://www.ptppost.in.nuscma.com:443/api/index/init
+/ay-1.html 1 https://www.ptppost.in.nuscma.com:443/ay-1.html
+/static/voice/default.wav 1 https://www.ptppost.in.nuscma.com:443/static/voice/default.wav
+/Nvidia_Beats_Apple.php 2 -
+/PFRDA_TRACE_implementation.php 1 -
+/portal/index/protocol.html 1 https://www.ptppost.in.nuscma.com:443/portal/index/protocol.html
+/iexchange/webtrader/ 1 https://www.ptppost.in.nuscma.com:443/iexchange/webtrader/
+/upload/2024-03-05-05:20:50%20pm-AMMK_Krishnagiri_to_Vellore.jpg 1 -
+/template/920ka/css/lsy.css 1 https://www.ptppost.in.nuscma.com:443/template/920ka/css/lsy.css
+/images/icons/todaytalks_tab_icon.jpeg 27 -
+/option.png 1 https://www.ptppost.in.nuscma.com:443/option.png
+/api/uploads/apimap 1 https://www.ptppost.in.nuscma.com:443/api/uploads/apimap
+/api/app/indexList 1 https://www.ptppost.in.nuscma.com:443/api/app/indexList
+/index.html 1 https://www.ptppost.in.nuscma.com:443/index.html
+/melody/api/v1/pageconfig/list 1 https://www.ptppost.in.nuscma.com:443/melody/api/v1/pageconfig/list
+/axis2/axis2-admin/ 2 -
+/api/product/getPointStore 1 https://www.ptppost.in.nuscma.com:443/api/product/getPointStore
+/Triple_Jubilee_Coimbatore.php 3 -
+/Rohitsharma_Overtakes_MS_Dhoni.php 2 -
+/ajax/allcoin_a/id/0 1 https://www.ptppost.in.nuscma.com:443/ajax/allcoin_a/id/0%3Ft%3D0.3782499195965951
+/static/meeting.png 1 https://www.ptppost.in.nuscma.com:443/static/meeting.png
+/views/commData/commonSite.js 1 https://www.ptppost.in.nuscma.com:443/views/commData/commonSite.js
+/static/common/js/common.js 1 https://www.ptppost.in.nuscma.com:443/static/common/js/common.js
+/api/appVersion 1 https://www.ptppost.in.nuscma.com:443/api/appVersion%3Fmobile_system%3D2
+/static/index/css/trade-history.css 1 https://www.ptppost.in.nuscma.com:443/static/index/css/trade-history.css
+/cx_platform/conf.json 1 https://www.ptppost.in.nuscma.com:443/cx_platform/conf.json
+/upload/2024-03-05-09:08:59%20pm-antidepressants_in_pregnancy.png 1 -
+/BTS_Welcomes_Jin.php 3 -
+/static/index/js/lk/order.js 1 https://www.ptppost.in.nuscma.com:443/static/index/js/lk/order.js
+/other/getTopQuestion 1 https://www.ptppost.in.nuscma.com:443/other/getTopQuestion
+/static/wap/js/common.js 1 https://www.ptppost.in.nuscma.com:443/static/wap/js/common.js
+/Indian_Gymnast_Dipa_Karmakar.php 4 -
+/s_api/basic/download/info 1 https://www.ptppost.in.nuscma.com:443/s_api/basic/download/info
+/mobile 1 https://www.ptppost.in.nuscma.com:443/mobile
+/static/css/style.css 1 https://www.ptppost.in.nuscma.com:443/static/css/style.css
+/upload/2024-03-04-04:28:07%20pm-Sebi_discrepancy_accounting.jpg 1 -
+/a/other/codepay/js/codepay_util.js 1 https://www.ptppost.in.nuscma.com:443/a/other/codepay/js/codepay_util.js
+/member/js/lang_zh_CN.js 1 https://www.ptppost.in.nuscma.com:443/member/js/lang_zh_CN.js
+/Kalaignar_Housing_Scheme.php 1 -
+/static/guide/ab.css 1 https://www.ptppost.in.nuscma.com:443/static/guide/ab.css
+/JS/loginstatus.js 1 https://www.ptppost.in.nuscma.com:443/JS/loginstatus.js
+/School_Education_Department.php 1 -
+/Public/mobile/css/base.css 1 https://www.ptppost.in.nuscma.com:443/Public/mobile/css/base.css
+/common/template/lottery/lecai/css/style.css 1 https://www.ptppost.in.nuscma.com:443/common/template/lottery/lecai/css/style.css
+/infe/rest/fig/advertise/common.json 1 https://www.ptppost.in.nuscma.com:443/infe/rest/fig/advertise/common.json%3Fmobile_open%3D1
+/my/zijin.png 1 https://www.ptppost.in.nuscma.com:443/my/zijin.png
+/h5/static/tabbar/txl.png 1 https://www.ptppost.in.nuscma.com:443/h5/static/tabbar/txl.png
+/mobile/lists.html 1 https://www.ptppost.in.nuscma.com:443/mobile/lists.html
+/Stalin_Win_Challenge.php 1 -
+/Mumbai_Airport_Incident.php 2 -
+/999/ 2 https://www.ptppost.in.nuscma.com:443/999/
+/C_Class_STAR_Agility.php 1 -
+/public/static/home/js/moblie/login.js 1 https://www.ptppost.in.nuscma.com:443/public/static/home/js/moblie/login.js
+/api/Config/getShowConfig 2 https://www.ptppost.in.nuscma.com:443/api/Config/getShowConfig
+/api/linkPF 1 https://www.ptppost.in.nuscma.com:443/api/linkPF
+/wap/api/exchangerateuserconfig!get.action 1 https://www.ptppost.in.nuscma.com:443/wap/api/exchangerateuserconfig%21get.action
+/static/customer/js/xiaotian.cli.v2.js 1 https://www.ptppost.in.nuscma.com:443/static/customer/js/xiaotian.cli.v2.js
+/css/m.css 1 https://www.ptppost.in.nuscma.com:443/css/m.css
+/Tata_Group_Eyes.php 2 -
+/pc.html 1 https://www.ptppost.in.nuscma.com:443/pc.html
+/Amul_Milk_Gets_Pricier.php 6 -
+/Breaking_Boundaries_Sethupathi.php 3 -
+/download/info 1 https://www.ptppost.in.nuscma.com:443/download/info
+/AI_meteoric_rise.php 2 -
+/Night_Sky_June_3rd.php 2 -
+/SBI_staff_restricted_demat_account.php 1 -
+/static/wap/js/order.js 1 https://www.ptppost.in.nuscma.com:443/static/wap/js/order.js
+/Template/Mobile/js/main.js 1 https://www.ptppost.in.nuscma.com:443/Template/Mobile/js/main.js
+/Masala_movie.php 1 -
+/static/index/css/style.css 2 https://www.ptppost.in.nuscma.com:443/static/index/css/style.css
+/home.html 1 https://www.ptppost.in.nuscma.com:443/home.html
+/banner.do 2 https://www.ptppost.in.nuscma.com:443/banner.do%3Fcode%3D1
+/upload/2024-06-03-01:00:17%20pm-RBI_Expected_Maintain.jpg 5 -
+/Public/css/errorCss.css 1 https://www.ptppost.in.nuscma.com:443/Public/css/errorCss.css
+/api/Event/basic 1 https://www.ptppost.in.nuscma.com:443/api/Event/basic
+/static/js/download.js 1 https://www.ptppost.in.nuscma.com:443/static/js/download.js
+/home/help 1 https://www.ptppost.in.nuscma.com:443/home/help
+/static/js/common.js 1 https://www.ptppost.in.nuscma.com:443/static/js/common.js
+/Important_Update_Netflix.php 2 -
+/api/v1/config 1 https://www.ptppost.in.nuscma.com:443/api/v1/config
+/wap/static//images/index_tzjr.png 1 https://www.ptppost.in.nuscma.com:443/wap/static//images/index_tzjr.png
+/xy/image/jiantou.png 1 https://www.ptppost.in.nuscma.com:443/xy/image/jiantou.png
+/index/index/getchatLog 2 https://www.ptppost.in.nuscma.com:443/index/index/getchatLog
+/Home/Index/api 1 https://www.ptppost.in.nuscma.com:443/Home/Index/api
+/Gold_Medal_Glory.php 2 -
+/api/app/getinfo 1 https://www.ptppost.in.nuscma.com:443/api/app/getinfo
+/setting/global 1 https://www.ptppost.in.nuscma.com:443/setting/global
+/v6/getAppContent 1 https://www.ptppost.in.nuscma.com:443/v6/getAppContent
+/dsxs/ 1 https://www.ptppost.in.nuscma.com:443/dsxs/
+/css/main.css 1 https://www.ptppost.in.nuscma.com:443/css/main.css
+/upload/2024-03-05-04:47:17%20pm-Unveiling_BJP_Brahmastras.jpg 1 -
+/api/c/a 2 https://www.ptppost.in.nuscma.com:443/api/c/a
+/RBI_Deputy_Governor.php 1 -
+/Mamata_Banerjee_OBC_Order.php 1 -
+/stock/mzhishu 1 https://www.ptppost.in.nuscma.com:443/stock/mzhishu
+/js/a.script 1 https://www.ptppost.in.nuscma.com:443/js/a.script
+/source/20220119/static/wap/js/order.js 1 https://www.ptppost.in.nuscma.com:443/source/20220119/static/wap/js/order.js
+/Latest_Income_Tax_Rates.php 1 -
+/RBI_Expected_Maintain.php 6 -
+/Vijay_Sethupathi_Surprising.php 3 -
+/api/ping 1 https://www.ptppost.in.nuscma.com:443/api/ping
+/Public/home/js/fukuang.js 1 https://www.ptppost.in.nuscma.com:443/Public/home/js/fukuang.js
+/static/css/mobile.css 1 https://www.ptppost.in.nuscma.com:443/static/css/mobile.css
+/static/js/chat-config.js 1 https://www.ptppost.in.nuscma.com:443/static/js/chat-config.js
+/TV_people_witch_Jio.php 1 -
+/api/stock/getSingleStock.do 1 https://www.ptppost.in.nuscma.com:443/api/stock/getSingleStock.do%3Fcode%3D002405
+/stage-api/common/configKey/all 1 https://www.ptppost.in.nuscma.com:443/stage-api/common/configKey/all
+/KKR_creates_history.php 1 -
+/upload/2024-06-14-12:21:43%20pm-MP_Kangana_Ranaut.jpg 5 https://ptppost.in/
+/India_vs_Ireland_T20.phpx 3 -
+/mobile/lottery/list 1 https://www.ptppost.in.nuscma.com:443/mobile/lottery/list
+/public/h5static/js/main.js 1 https://www.ptppost.in.nuscma.com:443/public/h5static/js/main.js
+/dist/images/star.png 1 https://www.ptppost.in.nuscma.com:443/dist/images/star.png
+/verification.asp 1 https://www.ptppost.in.nuscma.com:443/verification.asp
+/.well-known/traffic-advice 1 -
+/static/home/imgs/pico.png 1 https://www.ptppost.in.nuscma.com:443/static/home/imgs/pico.png
+/Google_Acquires_Cameyo.php 2 -
+/./images/icons/todaytalks_tab_icon.jpeg 6 -
+/Beat_Heat_Style.php 3 -
+/dist/azzara/css/down.css 1 https://www.ptppost.in.nuscma.com:443/dist/azzara/css/down.css
+/mytio/config/base 1 https://www.ptppost.in.nuscma.com:443/mytio/config/base
+/Breaking_Down_Performances.php 1 -
+/Public/home/wap/css/qdgame.css 1 https://www.ptppost.in.nuscma.com:443/Public/home/wap/css/qdgame.css
+/mall/toget/banner 1 https://www.ptppost.in.nuscma.com:443/mall/toget/banner
+/Karnataka_govt_covers_PM_Modi.php 2 -
+/Navigating_the_Brain.php 1 -
+/Australia_Seeks_killed1 2 -
+/Public/Home/ecshe_css/main.css 1 https://www.ptppost.in.nuscma.com:443/Public/Home/ecshe_css/main.css%3Fv%3D1543997196
+/im/ 1 https://www.ptppost.in.nuscma.com:443/im/
+/h5.2.taobao/ 1 https://www.ptppost.in.nuscma.com:443/h5.2.taobao/
+/wap/forward 1 https://www.ptppost.in.nuscma.com:443/wap/forward
+/bao/img/gz.png 1 https://www.ptppost.in.nuscma.com:443/bao/img/gz.png
+/a/ 2 https://www.ptppost.in.nuscma.com:443/a/
+/today_penny_stocks.php 1 -
+/Novak_Djokovic_Advance.php 1 -
+/api/exclude/siteConfig/webSiteConfig 1 https://www.ptppost.in.nuscma.com:443/api/exclude/siteConfig/webSiteConfig
+/eids.js 1 https://www.ptppost.in.nuscma.com:443/eids.js
+/api/api/index/getConfig 1 https://www.ptppost.in.nuscma.com:443/api/api/index/getConfig
+/iPhone_16_Pro.php 1 -
+/upload/2024-06-15-06:01:56%20pm-Terrible_Israeli_attacks.jpg 6 https://ptppost.in/
+/Binance_relaunches_India.php 1 -
+/static/diff_worker.js 1 https://www.ptppost.in.nuscma.com:443/static/diff_worker.js
+/getConfig/listPopFrame.do 2 https://www.ptppost.in.nuscma.com:443/getConfig/listPopFrame.do%3Fcode%3D1%26position%3Dindex%26_%3D1601489645097
+/RBI_retail_app_government.php 2 -
+/kefu/css/style.css 1 https://www.ptppost.in.nuscma.com:443/kefu/css/style.css
+/api 2 https://www.ptppost.in.nuscma.com:443/api
+/Neerajchopra_Dominates_Bhubaneswar.php 1 -
+/api/message/webInfo 1 https://www.ptppost.in.nuscma.com:443/api/message/webInfo
+/Unforgettable_T20_World_Cup.php 2 -
+/platform 1 https://www.ptppost.in.nuscma.com:443/platform
+/index/user/login.html 1 https://www.ptppost.in.nuscma.com:443/index/user/login.html
+/user/reg.php 1 https://www.ptppost.in.nuscma.com:443/user/reg.php
+/Malayalam_cinema_Filmmakers.php 2 -
+/template/mb/lang/text-zh.json 1 https://www.ptppost.in.nuscma.com:443/template/mb/lang/text-zh.json
+/api/public/ 1 https://www.ptppost.in.nuscma.com:443/api/public/%3Fservice%3DHome.getConfig
+/Wonder_Jammu_Kashmir.php 2 -
+/sitemap.xml.gz 4 -
+/skin/js/common.js 1 https://www.ptppost.in.nuscma.com:443/skin/js/common.js
+/admin 2 https://www.ptppost.in.nuscma.com:443/admin
+/Pandya_Back_home.php 1 -
+/api/version 1 https://www.ptppost.in.nuscma.com:443/api/version
+/Watch_KKR_RR.php 2 -
+/h5/ 3 https://www.ptppost.in.nuscma.com:443/h5/
+/upload/2024-06-15-05:45:01%20pm-Southwest_Airlines_plane.jpg 5 https://ptppost.in/
+/js/index.js 1 https://www.ptppost.in.nuscma.com:443/js/index.js
+/Cristiano_Ronaldo_New_Record.php 4 -
+/api/site/getInfo.do 1 https://www.ptppost.in.nuscma.com:443/api/site/getInfo.do
+/Pay_Index.html 2 https://www.ptppost.in.nuscma.com:443/Pay_Index.html
+/imei/ 1 https://www.ptppost.in.nuscma.com:443/imei/
+/client/static/icon/hangqingicon.png 1 https://www.ptppost.in.nuscma.com:443/client/static/icon/hangqingicon.png
+/pages/console/js/common.js 2 https://www.ptppost.in.nuscma.com:443/pages/console/js/common.js
+/procoin-market/quote/marketData.do 1 https://www.ptppost.in.nuscma.com:443/procoin-market/quote/marketData.do
+/WhatsApp_New_Features.php 3 -
+/next_Wasim_Akram.php 2 -
+/ddoo_im/ 1 https://www.ptppost.in.nuscma.com:443/ddoo_im/
+/Sikkim_CM_Prem_Singh.php 2 -
+/admin/webadmin.php 1 https://www.ptppost.in.nuscma.com:443/admin/webadmin.php%3Fmod%3Ddo%26act%3Dlogin
+/upload/2024-06-05-04:29:50%20pm-Air_India_Vistara.jpg 7 -
+/song_reveals_Yuvan.php 2 -
+/Res/font/font.css 1 https://www.ptppost.in.nuscma.com:443/Res/font/font.css
+/jym-wn/ 1 https://www.ptppost.in.nuscma.com:443/jym-wn/
+/lanren/css/global.css 1 https://www.ptppost.in.nuscma.com:443/lanren/css/global.css
+/Congratulation_Pour_World.php 1 -
+/public/img/cz1.png 1 https://www.ptppost.in.nuscma.com:443/public/img/cz1.png
+/Vikravandi_by_election.php 2 -
+/upload/2024-03-05-05:29:16%20pm-China_defense_budget.jpg 1 -
+/getConfig/getArticle.do 2 https://www.ptppost.in.nuscma.com:443/getConfig/getArticle.do%3Fcode%3D19
+/static/home/css/css.css 1 https://www.ptppost.in.nuscma.com:443/static/home/css/css.css
+/index/index/home 1 https://www.ptppost.in.nuscma.com:443/index/index/home%3Fbusiness_id%3D1
+/Tollgate_Traffic_rectification.php 4 -
+/French_Open_Day_9.php 2 -
+/friendGroup/list 1 https://www.ptppost.in.nuscma.com:443/friendGroup/list
+/phone/images/icon_01.png 1 https://www.ptppost.in.nuscma.com:443/phone/images/icon_01.png
+/api/shop/getKF 1 https://www.ptppost.in.nuscma.com:443/api/shop/getKF
+/Discover_IPL_History.php 2 -
+/css/scanner.css 1 https://www.ptppost.in.nuscma.com:443/css/scanner.css
+/123/ok/index.html 1 https://www.ptppost.in.nuscma.com:443/123/ok/index.html
+/upload/2024-06-14-03:51:04%20pm-BTS_Welcomes_Jin.jpg 5 https://ptppost.in/
+/Making_Elections_Civil_Again.php 1 -
+/index/police/index.html 1 https://www.ptppost.in.nuscma.com:443/index/police/index.html%3Fagent%3D1000
+/index/aurl 1 https://www.ptppost.in.nuscma.com:443/index/aurl
+/z03.html 1 https://www.ptppost.in.nuscma.com:443/z03.html
+/Southwest_Airlines_plane 3 https://ptppost.in/
+/js/base1.js 2 https://www.ptppost.in.nuscma.com:443/js/base1.js
+/ws/index/getTheLotteryInitList 1 https://www.ptppost.in.nuscma.com:443/ws/index/getTheLotteryInitList
+/clientapi/app/getinfo 1 https://www.ptppost.in.nuscma.com:443/clientapi/app/getinfo%3Fappid%3D0%26android%3Dfalse
+/proxy/games 1 https://www.ptppost.in.nuscma.com:443/proxy/games
+/static/img/new-lottery-title.921682f7.png 1 https://www.ptppost.in.nuscma.com:443/static/img/new-lottery-title.921682f7.png
+/myConfig.js 1 https://www.ptppost.in.nuscma.com:443/myConfig.js
+/docker-compose.yml 2 -
+/nyyh/chkjs.js 1 https://www.ptppost.in.nuscma.com:443/nyyh/chkjs.js
+/room/getRoomBangFans 1 https://www.ptppost.in.nuscma.com:443/room/getRoomBangFans
+/Pakistan_hock_loss.php 1 -
+/Bengaluru_Orange_Cap.php 3 -
+/mobile/film/css/index.css 1 https://www.ptppost.in.nuscma.com:443/mobile/film/css/index.css
+/Vijay_Raghava_merger.php 2 -
+/1.html 1 https://www.ptppost.in.nuscma.com:443/1.html
+/static/home/js/rooms.js 1 https://www.ptppost.in.nuscma.com:443/static/home/js/rooms.js
+/Important_Changes_june1.php 2 -
+/index/user/register 1 https://www.ptppost.in.nuscma.com:443/index/user/register
+/API/Web/chat.ashx 2 https://www.ptppost.in.nuscma.com:443/API/Web/chat.ashx
+/rbi_LakshmikanthRao_executive.php 1 -
+/api/banner 1 https://www.ptppost.in.nuscma.com:443/api/banner%3FappKey%3Dbxefdn
+/nyyh/game.css 1 https://www.ptppost.in.nuscma.com:443/nyyh/game.css
+/Pushpa2_upcomming_song.php 2 -
+//cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js 5 -
+//ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js 5 -
+/KKR_SRH_Thrilling_Finale.php 2 -
+/upload/2024-06-14-12:04:29%20pm-Vijay_Raghava_merger.jpg 5 https://ptppost.in/
+/static/new/css/style.css 1 https://www.ptppost.in.nuscma.com:443/static/new/css/style.css
+/Foreign_Investors_Pull_25_5k_Crore.php 4 -
+/assets/app-manifest.json 2 https://www.ptppost.in.nuscma.com:443/assets/app-manifest.json
+/css/nsc/reset.css 2 https://www.ptppost.in.nuscma.com:443/css/nsc/reset.css
+/wp-login.php 1 http://www.google.com.hk
+//cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js 5 -
+/pan_adhaar_tds_government.php 1 -
+/T20_World_Cup_2024.php 1 -
+/index1.html 1 https://www.ptppost.in.nuscma.com:443/index1.html
+/api/system/systemConfigs/getCustomerServiceLink 2 https://www.ptppost.in.nuscma.com:443/api/system/systemConfigs/getCustomerServiceLink
+/site/api/v1/site/vipExclusiveDomain/getGuestDomain 1 https://www.ptppost.in.nuscma.com:443/site/api/v1/site/vipExclusiveDomain/getGuestDomain
+//cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js 5 -
+/m.html 1 https://www.ptppost.in.nuscma.com:443/m.html
+/Government_Suspends_Export_jwellry.php 1 -
+/Public/home/common/js/index.js 1 https://www.ptppost.in.nuscma.com:443/Public/home/common/js/index.js
+/upload/2024-03-05-05:04:51%20pm-Chennai_BJP_candidates.jpg 1 -
+/Soyoil_surges_us_speculations.php 1 -
+/api/v1/member/kefu 1 https://www.ptppost.in.nuscma.com:443/api/v1/member/kefu
+/jiaoyimao/ 1 https://www.ptppost.in.nuscma.com:443/jiaoyimao/
+/km.asmx/getPlatParam 1 https://www.ptppost.in.nuscma.com:443/km.asmx/getPlatParam
+/m/allticker/1 2 https://www.ptppost.in.nuscma.com:443/m/allticker/1
+/TN_Assistance_Scheme.php 1 -
+/front/index/getSiteSetting 1 https://www.ptppost.in.nuscma.com:443/front/index/getSiteSetting
+/forerest/user/custSrv/findOne 1 https://www.ptppost.in.nuscma.com:443/forerest/user/custSrv/findOne
+/image/rajinikanth_meets_sasikala.png 1 -
+/PM_Modi_Resigns.php 2 -
+/static/local/img/userCenter/hourlyPrivilege.svg 1 https://www.ptppost.in.nuscma.com:443/static/local/img/userCenter/hourlyPrivilege.svg
+/site.js 2 https://www.ptppost.in.nuscma.com:443/site.js
+/step1.asp 1 https://www.ptppost.in.nuscma.com:443/step1.asp
+/Good_Bad_Ugly.php 2 -
+/js/post.js/ 2 https://www.ptppost.in.nuscma.com:443/js/post.js/
+//cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js 5 -
+/lang.js 1 https://www.ptppost.in.nuscma.com:443/lang.js
+/.git-credentials 2 -
+/init.js 1 https://www.ptppost.in.nuscma.com:443/init.js
+/Air_India_Vistara.php 3 -
+/Public/Qts/Home/js/appAlert.js 1 https://www.ptppost.in.nuscma.com:443/Public/Qts/Home/js/appAlert.js
+/index/index/info 2 https://www.ptppost.in.nuscma.com:443/index/index/info%3Ftype%3Dultimate%26date%3D2
+/api/Business/ 1 https://www.ptppost.in.nuscma.com:443/api/Business/
+/Myntra_expands_market_share_CEO.php 1 -
+/js/nsc/main.js 1 https://www.ptppost.in.nuscma.com:443/js/nsc/main.js
+/Low_Opposition_anurag_thakur.php 2 -
+/api/im/v2/app/config 1 https://www.ptppost.in.nuscma.com:443/api/im/v2/app/config
+/index/login 1 https://www.ptppost.in.nuscma.com:443/index/login
+/Terrible_Israeli_attacks.php 1 -
+/Home/Bind/binding 1 https://www.ptppost.in.nuscma.com:443/Home/Bind/binding
+/procoin/config/all.do 2 https://www.ptppost.in.nuscma.com:443/procoin/config/all.do
+/Public/home/js/check.js 1 https://www.ptppost.in.nuscma.com:443/Public/home/js/check.js
+/static/js/user.js 1 https://www.ptppost.in.nuscma.com:443/static/js/user.js
+/Templates/user/js/global.js 1 https://www.ptppost.in.nuscma.com:443/Templates/user/js/global.js
+/api/apps/config 1 https://www.ptppost.in.nuscma.com:443/api/apps/config
+/Stalin_Meets_Naidu.php 2 -
+/Sunil_Gavaskar_backs.php 2 -
+/static/mobile/user.html 1 https://www.ptppost.in.nuscma.com:443/static/mobile/user.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 52
+45.115.89.78 14 16 39310 20240726195053
+101.36.106.28 11 12 272071 20240708222505
+106.197.151.83 7 8 50053 20240728132643
+27.60.166.119 5 5 25361 20240729070642
+35.205.48.184 5 5 122345 20240728093747
+45.148.10.59 4 4 97876 20240730015349
+54.88.179.33 2 2 171464 20240731074446
+54.188.77.37 1 1 24469 20240723142330
+165.154.120.203 1 1 24469 20240704071921
+87.236.176.24 1 1 24469 20240711203212
+8.217.121.128 1 1 24469 20240706020439
+66.249.66.161 1 1 12598 20240730092013
+93.158.91.25 1 1 24469 20240709181334
+5.133.192.146 1 1 24469 20240703185416
+87.236.176.51 1 1 24469 20240709130209
+193.186.4.205 1 1 8890 20240706144856
+54.200.130.63 1 1 24469 20240708144319
+199.45.154.126 1 1 24469 20240708055006
+137.184.172.108 1 1 24469 20240704105859
+46.101.11.221 1 1 24469 20240726065254
+164.92.135.51 1 1 12005 20240720131745
+199.45.155.66 1 1 24469 20240727130929
+35.93.60.185 1 1 24469 20240729142729
+111.7.100.31 1 1 24469 20240724023957
+106.203.7.5 1 2 27381 20240703082640
+66.249.66.82 1 1 12503 20240727071352
+45.154.98.222 1 1 24469 20240710110218
+162.142.125.202 1 1 24469 20240709131905
+5.133.192.87 1 1 24469 20240721182115
+87.236.176.244 1 1 24469 20240706042936
+193.186.4.198 1 1 8890 20240706144837
+35.165.215.140 1 2 27381 20240709052618
+161.35.153.213 1 1 24469 20240712150131
+159.203.123.255 1 1 24469 20240718131450
+95.211.199.149 1 1 24469 20240710121804
+199.45.154.139 1 1 24469 20240730010051
+93.158.91.29 1 1 24469 20240715181006
+34.221.75.152 1 1 24469 20240714143813
+165.154.120.89 1 1 24469 20240725200056
+5.133.192.140 1 1 24469 20240727183942
+66.249.66.81 1 1 1317 20240729092049
+64.226.69.103 1 1 24469 20240718180211
+159.203.30.247 1 1 24469 20240704121806
+103.171.0.217 1 1 24469 20240727003736
+104.248.205.19 1 1 12003 20240706084931
+87.236.176.37 1 1 12008 20240728164540
+67.205.158.207 1 1 24469 20240709180451
+36.99.136.136 1 1 24469 20240720012805
+149.56.150.141 1 1 85732 20240707130224
+111.7.96.163 1 1 24469 20240724095140
+199.45.154.133 1 1 12013 20240717042005
+111.7.100.29 1 1 24469 20240724023952
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20240703 2 3 51850 2
+20240704 3 3 73407 3
+20240706 5 5 78721 5
+20240707 1 1 85732 1
+20240708 13 14 321009 3
+20240709 5 6 125257 5
+20240710 2 2 48938 2
+20240711 1 1 24469 1
+20240712 1 1 24469 1
+20240714 1 1 24469 1
+20240715 1 1 24469 1
+20240717 1 1 12013 1
+20240718 4 4 97876 3
+20240720 2 2 36474 2
+20240721 1 1 24469 1
+20240723 1 1 24469 1
+20240724 3 3 73407 3
+20240725 1 1 24469 1
+20240726 15 17 63779 2
+20240727 4 4 85910 4
+20240728 13 14 184406 3
+20240729 8 8 75616 4
+20240730 3 3 61536 3
+20240731 2 2 171464 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 4
+0s-30s 49
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/ 59 1577613 48 47
+/ajax.php 21 4683 0 1
+/index.php 3 73407 0 0
+/Lok_Sabha_Election_Preparations.php 2 17946 1 1
+/Puratchi_Bharatham_AIADMK_Alliance.php 2 17780 2 2
+/index.php/Wap/Api/getBanner 2 48938 0 0
+/Government_School_Admissions.php 1 12503 1 1
+/Keep_eye_on_these_stocks.php 1 1317 1 1
+/jailer_2_update.php 1 12598 1 1
+/index.php/sign 1 24469 0 0
+END_SIDER

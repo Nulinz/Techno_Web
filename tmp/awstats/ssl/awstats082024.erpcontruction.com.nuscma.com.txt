@@ -1,0 +1,999 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202408 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.erpcontruction.com.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2031                
+POS_TIME 2713                
+POS_VISITOR 33994               
+POS_DAY 40306               
+POS_DOMAIN 3519                
+POS_LOGIN 4167                
+POS_ROBOT 4322                
+POS_WORMS 4825                
+POS_EMAILSENDER 4956                
+POS_EMAILRECEIVER 5099                
+POS_SESSION 40513               
+POS_SIDER 40720               
+POS_FILETYPES 5234                
+POS_DOWNLOADS 5543                
+POS_OS 5832                
+POS_BROWSER 6192                
+POS_SCREENSIZE 7818                
+POS_UNKNOWNREFERER 7892                
+POS_UNKNOWNREFERERBROWSER 8336                
+POS_ORIGIN 8539                
+POS_SEREFERRALS 8680                
+POS_PAGEREFS 8843                
+POS_SEARCHWORDS 9689                
+POS_KEYWORDS 9841                
+POS_MISC 2377                
+POS_ERRORS 9900                
+POS_CLUSTER 4023                
+POS_SIDER_404 10047               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240901025907 198 54542 10968645453038
+FirstTime 20240827130652
+LastTime 20240831225623
+LastUpdate 20240901190104 198 0 197 0 0
+TotalVisits 172                 
+TotalUnique 151                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 163                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 23 1350167 1 4 6635
+1 27 35 65655 318 574 204802
+2 33 86 2130276 7 19 13186
+3 12 64 3907888 0 2 358
+4 7 26 1352170 0 9 3314
+5 19 58 2714996 3 20 13047
+6 22 81 2936222 5 71 3392708
+7 4 4 5673 2 7 68504
+8 31 105 5593787 6 57 3376340
+9 195 233 9092085 19 26 11748
+10 479 607 25517436 58 74 44871
+11 176 275 10098166 16 48 191266
+12 347 789 53356269 9 24 71353
+13 314 437 24756274 19 72 24704
+14 359 511 28102054 20 27 1331
+15 362 402 16519011 28 36 2989
+16 582 867 40996921 27 43 11708
+17 762 1495 88276513 91 143 115107
+18 184 359 15682368 39 79 107564
+19 94 162 6779178 44 107 452122
+20 4 23 1346497 1 8 71709
+21 1 1 1891 106 140 39718
+22 1 1 1891 2 2 11122
+23 2 3 4807 0 2 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 31
+in 3745 5787 295968570
+us 127 365 17026094
+ru 30 95 4264157
+no 24 57 764756
+cn 21 84 8110678
+sc 15 16 90482
+ma 7 11 22779
+ro 6 60 4024542
+pl 6 15 123994
+be 4 8 12368
+gb 4 24 2629256
+bd 3 3 5673
+eu 3 21 1343229
+ca 3 21 2084367
+kh 2 2 3782
+mu 2 2 3782
+au 2 21 1405514
+ph 2 20 1341514
+ua 2 2 1891
+eg 2 20 1341514
+br 2 2 3782
+jp 1 1 8
+tr 1 1 1891
+ar 1 1 0
+np 1 1 1891
+de 0 2 2402
+ke 1 1 1891
+cz 1 1 1891
+id 1 1 1891
+nl 1 1 1891
+vn 1 1 1715
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+Googlebot/ 102 6863914 20240831181557 0
+curl 12 51876 20240831205143 0
+scanner 8 3478 20240828070026 0
+no_user_agent 6 26921 20240830165033 0
+Go\-http\-client/ 5 9820 20240829180854 0
+Googlebot\-Image/ 4 130402 20240830121606 0
+Apache\-HttpClient/ 4 5505 20240829150006 0
+Applebot/ 3 67782 20240831201729 0
+unknown 2 52 20240830062350 2
+bingbot/ 1 1891 20240831112257 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+png 288 11182457 0 0
+js 1226 137049477 0 0
+Unknown 4 7212 0 0
+css 1094 14639886 0 0
+map 315 70946453 0 0
+ttf 2 0 0 0
+woff 13 136000 0 0
+eot 2 0 0 0
+svg 5 5931 0 0
+woff2 118 14758704 0 0
+html 231 449085 0 0
+php 3336 91411643 0 0
+csv 13 1347 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 6
+/boq_excel/Petty%20Cash.csv 6 0 709
+/boq_excel/Head%20Master.csv 2 0 74
+/boq_excel/Progress%20with%20sales%20rates.csv 2 0 230
+/boq_excel/Progress%20with%20zerocost.csv 1 0 98
+/boq_excel/Head%20Expense.csv 1 0 108
+/boq_excel/BOQ.csv 1 0 128
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+linux 229 60
+android 40 16
+androidmarshmallow 1802 232
+android10 80 20
+macosx 4 2
+linuxubuntu 26 26
+win8.1 1 0
+ios_iphone 163 20
+Unknown 37 25
+linuxdebian 1 0
+androidoreo 1 1
+macosx6 1 0
+win10 3957 3482
+win7 37 9
+winlong 3 0
+macosx15 199 115
+winnt 57 9
+win8 1 0
+win98 1 0
+macosx9 3 3
+winxp 4 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 79
+chrome103.0.5060.114 4 4
+chrome82.0.869 13 1
+safari17.4.1 2 1
+chrome104.0.0.0 21 3
+chrome112.0.0.0 1 1
+chrome111.0.0.0 1 1
+chrome84.0.4147.89 1 1
+chrome94.0.1935 1 1
+chrome119.0.0.0 60 6
+chrome106.0.2955 1 1
+opera12.00 1 0
+chrome114.0.0.0 2 1
+chrome55.0.1785 1 0
+chrome63.0.3239.108 2 2
+chrome126.0.0.0 30 12
+firefox120.0 25 25
+safari17.2 1 1
+chrome41.0.2225.0 1 0
+chrome58.0.3029.110 2 1
+Unknown 11 6
+chrome84.0.2376 1 1
+chrome79.0.3945.130 1 1
+firefox25.0 1 0
+chrome108.0.0.0 5 4
+opera11.51 1 0
+chrome117.0.0.0 2 2
+safari16.1 1 1
+opera11.62 1 0
+chrome96.0.1849 1 1
+chrome41.0.2224.3 1 0
+firefox106.0 1 1
+chrome124.0.6367.29 20 2
+chrome85.0.4183.127 1 1
+chrome107.0.0.0 6 4
+chrome127.0.6533.119 2 2
+chrome21.0.1180.83 9 5
+firefox63.0 1 0
+chrome87.0.4280.141 16 10
+chrome51.0.2622 19 1
+chrome66.0.3359.181 2 2
+chrome51.0.1802 19 1
+chrome49.0.2623.112 24 4
+chrome127.0.0.0 1655 1238
+chrome75.0.2960 1 1
+chrome85.0.4183.101 1 1
+chrome63.0.3239.132 3 3
+chrome65.0.2401 19 1
+chrome72.0.477 1 1
+chrome59.0.3071.104 1 1
+firefox27.0 1 0
+chrome87.0.883 1 1
+chrome102.0.147 1 0
+firefox46.0 1 0
+opera12.0 2 1
+mozilla 21 8
+firefox117.0 25 25
+chrome86.0.4240.111 1 1
+chrome128.0.0.0 4104 2497
+firefox31.0 1 0
+safari10.0 60 6
+chrome96.0.226 1 1
+chrome123.0.0.0 1 1
+chrome122.0.0.0 4 4
+edge12 45 16
+chrome85.0.4183.121 5 3
+edge17 2 2
+safari17.4 38 4
+chrome68.0.2266 1 0
+chrome69.0.3497.81 12 12
+firefox83.0 3 3
+opera11.01 1 0
+chrome120.0.0.0 122 48
+safari17.3.1 1 1
+chrome63.0.2429 1 0
+chrome124.0.0.0 22 3
+chrome83.0.4103.97 1 0
+chrome33.0.1750.152 3 3
+safari 60 6
+chrome116.0.0.0 109 18
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+WhatsApp/2.2433.3_W 20240827195000
+Chrome/69.0.3497.81_Safari/537.36 20240831181947
+okhttp/3.14.9 20240829014209
+okhttp/4.11.0 20240827131646
+axios/0.24.0 20240830062525
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240828022010
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240829100915
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+okhttp/4.11.0 20240827131646
+okhttp/3.14.9 20240829014209
+WhatsApp/2.2433.3_W 20240827195000
+axios/0.24.0 20240830062525
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 677 788
+From1 0 0
+From2 3 3
+From3 8 75
+From4 3333 5781
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+https://cpanel.erpcontruction.com/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/open_sans.min.css 3 3
+https://webmail.erpcontruction.com/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/open_sans.min.css 3 3
+https://fofa.info 1 1
+https://mail.erpcontruction.com/assets/vendor/bootstrap-icons/bootstrap-icons.css 1 1
+https://cpanel.erpcontruction.com/cPanel_magic_revision_1620091394/unprotected/cpanel/style_v2_optimized.css 0 7
+https://mail.erpcontruction.com 0 48
+https://webmail.erpcontruction.com 0 3
+https://webmail.erpcontruction.com/cPanel_magic_revision_1620091394/unprotected/cpanel/style_v2_optimized.css 0 6
+https://cpanel.erpcontruction.com 0 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+400 1 52
+403 3 850
+302 246 666067
+406 21 4294
+500 11 0
+404 1006 366253
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 387
+/static/h5/img/icon__create-group.png 2 https://erpcontruction.com/static/h5/img/icon__create-group.png
+/wp-config.php 2 -
+/js/xz.js 2 https://erpcontruction.com/js/xz.js
+/clientapi/app/getinfo 2 https://erpcontruction.com/clientapi/app/getinfo%3Fappid%3D0%26android%3Dfalse
+/im/ 2 https://erpcontruction.com/im/
+/merchant/z/payment/ 3 -
+/.svn/wc.db 2 -
+/site/info 2 https://erpcontruction.com/site/info
+/home/help 2 https://erpcontruction.com/home/help
+/im/h5/ 2 https://erpcontruction.com/im/h5/
+/pro/qb365/ 2 https://erpcontruction.com/pro/qb365/
+/jscripts/tiny_mce/tiny_mce.js 1 -
+/Public/mobile/css/base.css 2 https://erpcontruction.com/Public/mobile/css/base.css
+/mall/toget/banner 2 https://erpcontruction.com/mall/toget/banner
+/static/css/reset.css 2 https://erpcontruction.com/static/css/reset.css
+/download/info 2 https://erpcontruction.com/download/info
+/api/stock/getSingleStock.do 2 https://erpcontruction.com/api/stock/getSingleStock.do%3Fcode%3D002405
+/n6PdMqLz 3 -
+/api/config/getkefu 2 https://erpcontruction.com/api/config/getkefu
+/wap/forward 2 https://erpcontruction.com/wap/forward
+/mobile/login.html 2 https://erpcontruction.com/mobile/login.html
+/lang.js 2 https://erpcontruction.com/lang.js
+/static/img/new-lottery-title.921682f7.png 2 https://erpcontruction.com/static/img/new-lottery-title.921682f7.png
+/aktv/img/nyyh/chkjs.js 2 https://erpcontruction.com/aktv/img/nyyh/chkjs.js
+/install.inc/vipsignInstall.css 2 https://erpcontruction.com/install.inc/vipsignInstall.css
+/assets/images/w2.JPG 2 https://www.erpcontruction.com.nuscma.com/
+/bao/img/gz.png 2 https://erpcontruction.com/bao/img/gz.png
+/skin/js/common.js 2 https://erpcontruction.com/skin/js/common.js
+/axis2/axis2-admin/ 1 -
+/assets/images/w1.JPG 1 https://www.erpcontruction.com.nuscma.com/
+/phpmyadmin/index.php 1 -
+/xy/image/jiantou.png 2 https://erpcontruction.com/xy/image/jiantou.png
+/client/static/icon/hangqingicon.png 2 https://erpcontruction.com/client/static/icon/hangqingicon.png
+/appxz/index.html 2 https://erpcontruction.com/appxz/index.html
+/assets/js/jquery.magnific-popup.min.js 1 https://www.erpcontruction.com.nuscma.com/
+/axis2-admin/ 1 -
+/getConfig/getArticle.do 4 https://erpcontruction.com/getConfig/getArticle.do%3Fcode%3D19
+/Res/font/font.css 2 https://erpcontruction.com/Res/font/font.css
+/data/json/config.json 2 https://erpcontruction.com/data/json/config.json
+/Public/home/wap/css/qdgame.css 2 https://erpcontruction.com/Public/home/wap/css/qdgame.css
+/api/shares/hqStrList 2 https://erpcontruction.com/api/shares/hqStrList
+/assets/images/q4.JPG 1 https://www.erpcontruction.com.nuscma.com/
+/platform 2 https://erpcontruction.com/platform
+/m/allticker/1 2 https://erpcontruction.com/m/allticker/1
+/JS/loginstatus.js 2 https://erpcontruction.com/JS/loginstatus.js
+/users-profile.html 2 https://www.erpcontruction.com/add_project.php
+/.vscode/sftp.json 2 -
+/pc.html 2 https://erpcontruction.com/pc.html
+/api/shop/getKF 2 https://erpcontruction.com/api/shop/getKF
+/banner.do 2 https://erpcontruction.com/banner.do%3Fcode%3D1
+/assets/img/Amxxa-tab-icon.svg 157 https://erpcontruction.com/
+/Public/Mobile/ecshe_css/wapmain.css 2 https://erpcontruction.com/Public/Mobile/ecshe_css/wapmain.css%3Fv%3D1545408652
+/lander/gazinvest-forma9maymadrid-thanksqz9may/thank-QZ/ 3 -
+/m.html 2 https://erpcontruction.com/m.html
+/mytio/config/base 2 https://erpcontruction.com/mytio/config/base
+/api/index/grailindex 2 https://erpcontruction.com/api/index/grailindex
+/api/index/init 2 https://erpcontruction.com/api/index/init
+/api/front/index 2 https://erpcontruction.com/api/front/index
+/php/thinkphp/aaaffff123.php 1 -
+/phpinfo.php 2 -
+/tcn/ 3 -
+/static/css/style.css 2 https://erpcontruction.com/static/css/style.css
+/docker-compose.yml 2 -
+/kline/1m/1 2 https://erpcontruction.com/kline/1m/1
+/cabinet 3 -
+/index/aurl 2 https://erpcontruction.com/index/aurl
+/app/ 2 https://erpcontruction.com/app/
+/public/static/index/picture/img_33.png 2 https://erpcontruction.com/public/static/index/picture/img_33.png
+/static/css/common.css 2 https://erpcontruction.com/static/css/common.css
+/lander/sber/ 3 -
+/ads.txt 3 -
+/sb 3 -
+/public/wap/js/basis.js 2 https://erpcontruction.com/public/wap/js/basis.js
+/assets/images/counter-icon-5.png 1 https://www.erpcontruction.com.nuscma.com/
+/_vti_pvt/administrators.pwd 2 -
+/app/static/js/download.js 2 https://erpcontruction.com/app/static/js/download.js
+/login.html 2 https://erpcontruction.com/login.html
+/static/js/chat-config.js 2 https://erpcontruction.com/static/js/chat-config.js
+/lander/test 3 -
+/myConfig.js 2 https://erpcontruction.com/myConfig.js
+/assets/images/q7.JPG 1 https://www.erpcontruction.com.nuscma.com/
+/.aws/credentials 2 -
+/static/wap/css/trade-history.css 2 https://erpcontruction.com/static/wap/css/trade-history.css
+/api/v1/config 2 https://erpcontruction.com/api/v1/config
+/Public/Home/ecshe_css/main.css 2 https://erpcontruction.com/Public/Home/ecshe_css/main.css%3Fv%3D1543997196
+/api/site/getInfo.do 2 https://erpcontruction.com/api/site/getInfo.do
+/thriveGame.css 2 https://erpcontruction.com/thriveGame.css
+/Templates/user/js/global.js 2 https://erpcontruction.com/Templates/user/js/global.js
+/Home/Bind/binding 2 https://erpcontruction.com/Home/Bind/binding
+/xy/ 2 https://erpcontruction.com/xy/
+/api 4 https://erpcontruction.com/api
+/api/uploads/apimap 2 https://erpcontruction.com/api/uploads/apimap
+/resource/home/js/common.js 2 https://erpcontruction.com/resource/home/js/common.js
+/lander/1_offer_sber_chat_input_green_v3_nm 3 -
+/sberbank-quiz-v2/ 3 -
+/config.php 2 -
+/static/picture/gz.png 2 https://erpcontruction.com/static/picture/gz.png
+/css/m.css 2 https://erpcontruction.com/css/m.css
+/merchant/code 3 -
+/wap/ 2 https://erpcontruction.com/wap/
+/pages/console/js/common.js 2 https://erpcontruction.com/pages/console/js/common.js
+/km.asmx/getPlatParam 2 https://erpcontruction.com/km.asmx/getPlatParam
+/api/common/config 2 https://erpcontruction.com/api/common/config
+/static/home/imgs/pico.png 2 https://erpcontruction.com/static/home/imgs/pico.png
+/api/currency/quotation_new 2 https://erpcontruction.com/api/currency/quotation_new
+/getConfig/listPopFrame.do 4 https://erpcontruction.com/getConfig/listPopFrame.do%3Fcode%3D14%26position%3Dindex%26_%3D1601489645097
+/888/ 2 https://erpcontruction.com/888/
+/assets/images/testimonial-img-2.jpg 2 https://www.erpcontruction.com.nuscma.com/
+/Public/home/common/js/index.js 2 https://erpcontruction.com/Public/home/common/js/index.js
+/site.js 2 https://erpcontruction.com/site.js
+/stock/mzhishu 2 https://erpcontruction.com/stock/mzhishu
+/_vti_pvt/service.pwd 2 -
+/api/v1/member/kefu 2 https://erpcontruction.com/api/v1/member/kefu
+/lander/testsberv4-copy--1/ 3 -
+/assets/js/jquery.nice-select.min.js 1 https://www.erpcontruction.com.nuscma.com/
+/jiaoyimao/ 2 https://erpcontruction.com/jiaoyimao/
+/getLocale 2 https://erpcontruction.com/getLocale
+/resources/main/common.js 2 https://erpcontruction.com/resources/main/common.js
+/config.xml 2 -
+/index/login 2 https://erpcontruction.com/index/login
+/assets/js/animate-headline.js 1 https://www.erpcontruction.com.nuscma.com/
+/index/police/index.html 2 https://erpcontruction.com/index/police/index.html%3Fagent%3D1000
+/fePublicInfo/ 2 https://erpcontruction.com/fePublicInfo/
+/sellers.json 3 -
+/mobile/v3/appSuperDownload.do 2 https://erpcontruction.com/mobile/v3/appSuperDownload.do
+/nyyh/chkjs.js 2 https://erpcontruction.com/nyyh/chkjs.js
+/config/database.php 2 -
+/static/admincp/js/common.js 2 https://erpcontruction.com/static/admincp/js/common.js
+/app/static/picture/star.png 2 https://erpcontruction.com/app/static/picture/star.png
+/static/index/css/trade-history.css 2 https://erpcontruction.com/static/index/css/trade-history.css
+/bet/lotteryinfo/allLotteryInfoList 2 https://erpcontruction.com/bet/lotteryinfo/allLotteryInfoList
+/masterControl/getSystemSetting 2 https://erpcontruction.com/masterControl/getSystemSetting
+/client/api/findConfigByKey 2 https://erpcontruction.com/client/api/findConfigByKey%3FconfigKey%3Dlevel_config
+/favicon.png 2 -
+/melody/api/v1/pageconfig/list 2 https://erpcontruction.com/melody/api/v1/pageconfig/list
+/assets/js/slick.min.js 1 https://www.erpcontruction.com.nuscma.com/
+/css/scanner.css 2 https://erpcontruction.com/css/scanner.css
+/assets/js/ajax_callback.js 2 https://www.erpcontruction.com.nuscma.com/
+/api/message/webInfo 2 https://erpcontruction.com/api/message/webInfo
+/iexchange/webtrader/ 2 https://erpcontruction.com/iexchange/webtrader/
+/edit_employee 1 https://erpcontruction.com/employee_list.php
+/step1.asp 2 https://erpcontruction.com/step1.asp
+/home.html 2 https://erpcontruction.com/home.html
+/phone/images/icon_01.png 2 https://erpcontruction.com/phone/images/icon_01.png
+/backup.zip 2 -
+/static/js/user.js 2 https://erpcontruction.com/static/js/user.js
+/Public/Wchat/js/cvphp.js 2 https://erpcontruction.com/Public/Wchat/js/cvphp.js
+/forerest/user/custSrv/findOne 2 https://erpcontruction.com/forerest/user/custSrv/findOne
+/dist/images/star.png 2 https://erpcontruction.com/dist/images/star.png
+/dist/azzara/css/down.css 2 https://erpcontruction.com/dist/azzara/css/down.css
+/wp-admin/setup-config.php 2 -
+/static/wap/js/order.js 2 https://erpcontruction.com/static/wap/js/order.js
+/assets/images/counter-icon-6.png 2 https://www.erpcontruction.com.nuscma.com/
+/ay-1.html 2 https://erpcontruction.com/ay-1.html
+/mobile/ 2 https://erpcontruction.com/mobile/
+/im/App/config 2 https://erpcontruction.com/im/App/config
+/robots.txt 36 -
+/js/app.js 2 https://erpcontruction.com/js/app.js
+/assets/images/w8.JPG 2 https://www.erpcontruction.com.nuscma.com/
+/index/user/login.html 2 https://erpcontruction.com/index/user/login.html
+/gpLFR5sr 3 -
+/api/index/webconfig 2 https://erpcontruction.com/api/index/webconfig
+/index.html 2 https://erpcontruction.com/index.html
+/room/getRoomBangFans 2 https://erpcontruction.com/room/getRoomBangFans
+/assets/images/q3.JPG 1 https://www.erpcontruction.com.nuscma.com/
+/Scripts/common.js 2 https://erpcontruction.com/Scripts/common.js
+/api/appVersion 2 https://erpcontruction.com/api/appVersion%3Fmobile_system%3D2
+/resources/css/headernav.css 2 https://erpcontruction.com/resources/css/headernav.css
+/stage-api/common/configKey/all 2 https://erpcontruction.com/stage-api/common/configKey/all
+/portal/index/protocol.html 2 https://erpcontruction.com/portal/index/protocol.html
+/biz/server/config 2 https://erpcontruction.com/biz/server/config
+/backup.tar.gz 2 -
+/.project_list.php 5 https://erpcontruction.com/add_project.php
+/client-api/app/config 2 https://erpcontruction.com/client-api/app/config
+/common/member/js/user.util.js 2 https://erpcontruction.com/common/member/js/user.util.js
+/static/customer/js/xiaotian.cli.v2.js 2 https://erpcontruction.com/static/customer/js/xiaotian.cli.v2.js
+/server.key 2 -
+/api/ping 2 https://erpcontruction.com/api/ping
+/user_secrets.yml 2 -
+/static/new/css/style.css 2 https://erpcontruction.com/static/new/css/style.css
+/3ds1633693954432212 3 -
+/public/h5static/js/main.js 2 https://erpcontruction.com/public/h5static/js/main.js
+/lander/gazprom-prelandergnidanewkomment-thanksstory2-objv2/land/thank-you/ 3 -
+/api/Config/getShowConfig 2 https://erpcontruction.com/api/Config/getShowConfig
+/Public/Qts/Home/js/appAlert.js 2 https://erpcontruction.com/Public/Qts/Home/js/appAlert.js
+/lander/-w--sber-chat_1720439685 3 -
+/index_sso.php 1 -
+/Public/Home/js/cls.js 2 https://erpcontruction.com/Public/Home/js/cls.js
+/lander/05_042_offer_sber_chat_input_green_v3_nm 3 -
+/config.json 2 -
+/H6W7VRDj 3 -
+/option.png 2 https://erpcontruction.com/option.png
+/Public/js/common.js 2 https://erpcontruction.com/Public/js/common.js
+/config.yml 2 -
+/home/login.jpg 2 https://erpcontruction.com/home/login.jpg
+/tinkoff-v10-quiz/ 3 -
+/999/ 2 https://erpcontruction.com/999/
+/Public/css/_pk10.css 2 https://erpcontruction.com/Public/css/_pk10.css
+/Public/initJs.php 2 https://erpcontruction.com/Public/initJs.php
+/h5/static/tabbar/txl.png 2 https://erpcontruction.com/h5/static/tabbar/txl.png
+/wap/api/exchangerateuserconfig!get.action 2 https://erpcontruction.com/wap/api/exchangerateuserconfig%21get.action
+/Public/css/errorCss.css 2 https://erpcontruction.com/Public/css/errorCss.css
+/front/index/getSiteSetting 2 https://erpcontruction.com/front/index/getSiteSetting
+/static/home/css/css.css 2 https://erpcontruction.com/static/home/css/css.css
+/assets/images/footer-info-icon-2.png 1 https://www.erpcontruction.com.nuscma.com/
+/otc/ 2 https://erpcontruction.com/otc/
+/api/index/getConfig 2 https://erpcontruction.com/api/index/getConfig
+/mindex.html 2 https://erpcontruction.com/mindex.html
+/lander/sber-fix/ 3 -
+/admin/webadmin.php 2 https://erpcontruction.com/admin/webadmin.php%3Fmod%3Ddo%26act%3Dlogin
+/api/notice 2 https://erpcontruction.com/api/notice
+/api/Event/basic 2 https://erpcontruction.com/api/Event/basic
+/a/ 2 https://erpcontruction.com/a/
+/nyyh/game.css 2 https://erpcontruction.com/nyyh/game.css
+/5jshCV 3 -
+/static/wap/js/common.js 2 https://erpcontruction.com/static/wap/js/common.js
+/css/style.css 2 https://erpcontruction.com/css/style.css
+/index/index/home 2 https://erpcontruction.com/index/index/home%3Fbusiness_id%3D1
+/static/guide/ab.css 2 https://erpcontruction.com/static/guide/ab.css
+/sberchat008-prilca/ 3 -
+/api/app/indexList 2 https://erpcontruction.com/api/app/indexList
+/static/css/mobile.css 2 https://erpcontruction.com/static/css/mobile.css
+/mobile 2 https://erpcontruction.com/mobile
+/public/css/style.css 2 https://erpcontruction.com/public/css/style.css
+/assets/images/expand.png 2 https://www.erpcontruction.com.nuscma.com/
+/infe/rest/fig/advertise/common.json 2 https://erpcontruction.com/infe/rest/fig/advertise/common.json%3Fmobile_open%3D1
+/sbor_offerov/kripta/landing/lp_1/ 3 -
+/assets/images/q2.JPG 2 https://www.erpcontruction.com.nuscma.com/
+/static/index/js/lk/order.js 2 https://erpcontruction.com/static/index/js/lk/order.js
+/_vti_pvt/authors.pwd 2 -
+/assets/images/testimonial-img-1.jpg 1 https://www.erpcontruction.com.nuscma.com/
+/static/common/js/common.js 2 https://erpcontruction.com/static/common/js/common.js
+/assets/images/kids.avif 1 https://www.erpcontruction.com.nuscma.com/
+/Content/css/wzwstylel.css 2 https://erpcontruction.com/Content/css/wzwstylel.css
+/index/user/register 2 https://erpcontruction.com/index/user/register
+/assets/images/DSC_0346.jpg 1 https://www.erpcontruction.com.nuscma.com/
+/mobile/lists.html 2 https://erpcontruction.com/mobile/lists.html
+/api/c/a 2 https://erpcontruction.com/api/c/a
+/api/product/getPointStore 2 https://erpcontruction.com/api/product/getPointStore
+/h5.2.taobao/ 2 https://erpcontruction.com/h5.2.taobao/
+/a/other/codepay/js/codepay_util.js 2 https://erpcontruction.com/a/other/codepay/js/codepay_util.js
+/assets/images/q9.JPG 1 https://www.erpcontruction.com.nuscma.com/
+/api/public/ 2 https://erpcontruction.com/api/public/%3Fservice%3DHome.getConfig
+/api/config 2 https://erpcontruction.com/api/config
+/.git/HEAD 2 -
+/static/home/js/rooms.js 2 https://erpcontruction.com/static/home/js/rooms.js
+/static/home/css/feiqi-ee5401a8e6.css 2 https://erpcontruction.com/static/home/css/feiqi-ee5401a8e6.css
+/static/admin/javascript/hetong.js 5 -
+/static/data/configjs.js 2 https://erpcontruction.com/static/data/configjs.js
+/.ssh/id_ed25519 2 -
+/img/style.css 2 https://erpcontruction.com/img/style.css
+/views/commData/commonSite.js 2 https://erpcontruction.com/views/commData/commonSite.js
+/static/diff_worker.js 2 https://erpcontruction.com/static/diff_worker.js
+/mobile/film/css/index.css 2 https://erpcontruction.com/mobile/film/css/index.css
+/market/market-ws/iframe.html 2 https://erpcontruction.com/market/market-ws/iframe.html
+/index/login/register 2 https://erpcontruction.com/index/login/register
+/leftDao.php 2 https://erpcontruction.com/leftDao.php%3Fcallback%3DjQuery183016740860980352856_1604309800583
+/123/ok/index.html 2 https://erpcontruction.com/123/ok/index.html
+/verification.asp 2 https://erpcontruction.com/verification.asp
+/.ssh/id_ecdsa 2 -
+/Public/home/js/fukuang.js 2 https://erpcontruction.com/Public/home/js/fukuang.js
+/dist/index.html 2 https://erpcontruction.com/dist/index.html
+/lander/gp_newmain_calc_ru_land_obj_js_v2/index.php 3 -
+/Home/Index/api 2 https://erpcontruction.com/Home/Index/api
+/assets/images/w7.JPG 2 https://www.erpcontruction.com.nuscma.com/
+/assets/images/footer-info-icon-1.png 2 https://www.erpcontruction.com.nuscma.com/
+/index/home/login.html 2 https://erpcontruction.com/index/home/login.html
+/sitemap.xml 2 -
+/api/apps/config 2 https://erpcontruction.com/api/apps/config
+/api/user/ismustmobile 6 https://erpcontruction.com/api/user/ismustmobile
+/lander/testsberv4_1703110539/ 3 -
+/api/vue/transaction/config 2 https://erpcontruction.com/api/vue/transaction/config
+/friendGroup/list 2 https://erpcontruction.com/friendGroup/list
+/mobile/index/home 2 https://erpcontruction.com/mobile/index/home
+/assets/js/isotope.pkgd.min.js 1 https://www.erpcontruction.com.nuscma.com/
+/index_sber.php 3 -
+/skin/main/onload.js 2 https://erpcontruction.com/skin/main/onload.js
+/saconfig/secure/yunwei.js 2 https://erpcontruction.com/saconfig/secure/yunwei.js
+/assets/js/simple-pagination.js 1 https://www.erpcontruction.com.nuscma.com/
+/api/v/index/queryOfficePage 2 https://erpcontruction.com/api/v/index/queryOfficePage%3FofficeCode%3DcustomHomeLink
+/static/voice/default.wav 2 https://erpcontruction.com/static/voice/default.wav
+/admin 2 https://erpcontruction.com/admin
+/assets/app-manifest.json 2 https://erpcontruction.com/assets/app-manifest.json
+/assets/images/q5.JPG 1 https://www.erpcontruction.com.nuscma.com/
+/Pay_Index.html 2 https://erpcontruction.com/Pay_Index.html
+/../assets/img/Amxxa-tab-icon.svg 13 -
+/css2 2 https://www.erpcontruction.com.nuscma.com/assets/css/style.css
+/lanren/css/global.css 2 https://erpcontruction.com/lanren/css/global.css
+/secrets.json 2 -
+/config.js 2 https://erpcontruction.com/config.js
+/style.css 2 https://erpcontruction.com/style.css
+/app-ads.txt 3 -
+/site/api/v1/site/vipExclusiveDomain/getGuestDomain 2 https://erpcontruction.com/site/api/v1/site/vipExclusiveDomain/getGuestDomain
+/cx_platform/conf.json 2 https://erpcontruction.com/cx_platform/conf.json
+/js/nsc/main.js 2 https://erpcontruction.com/js/nsc/main.js
+/index/index/info 2 https://erpcontruction.com/index/index/info%3Ftype%3Dultimate%26date%3D2
+/imei/ 2 https://erpcontruction.com/imei/
+/assets/js/swiper-bundle.js 1 https://www.erpcontruction.com.nuscma.com/
+/js/index.js 2 https://erpcontruction.com/js/index.js
+/my/zijin.png 2 https://erpcontruction.com/my/zijin.png
+/dsxs/ 2 https://erpcontruction.com/dsxs/
+/static/js/download.js 2 https://erpcontruction.com/static/js/download.js
+/css/skin/ymPrompt.css 2 https://erpcontruction.com/css/skin/ymPrompt.css
+/eids.js 2 https://erpcontruction.com/eids.js
+/api/im/v2/app/config 2 https://erpcontruction.com/api/im/v2/app/config
+/js/a.script 2 https://erpcontruction.com/js/a.script
+/wap 2 https://erpcontruction.com/wap
+/js/base1.js 2 https://erpcontruction.com/js/base1.js
+/z03.html 2 https://erpcontruction.com/z03.html
+/lander/gpb_rus_short_obfs_nonetext/ 3 -
+/static/css/public.css 2 https://erpcontruction.com/static/css/public.css
+/js/home.js 2 https://erpcontruction.com/js/home.js
+/proxy/games 2 https://erpcontruction.com/proxy/games
+/t85TjsNn 3 -
+/API/Web/chat.ashx 2 https://erpcontruction.com/API/Web/chat.ashx
+/manager/js/left.js 2 https://erpcontruction.com/manager/js/left.js
+/api/banner 2 https://erpcontruction.com/api/banner%3FappKey%3Dbxefdn
+/config/production.json 2 -
+/assets/images/footer-info-icon-3.png 2 https://www.erpcontruction.com.nuscma.com/
+/Home/GetInitSource 2 https://erpcontruction.com/Home/GetInitSource
+/code1.html 2 https://erpcontruction.com/code1.html
+/img/xxing.png 2 https://erpcontruction.com/img/xxing.png
+/ddoo_im/ 2 https://erpcontruction.com/ddoo_im/
+/s_api/basic/download/info 2 https://erpcontruction.com/s_api/basic/download/info
+/api/Business/ 2 https://erpcontruction.com/api/Business/
+/api/version 2 https://erpcontruction.com/api/version
+/m/ 4 https://erpcontruction.com/m/
+/tink_chat/ 3 -
+/assets/images/about.jpg 1 https://www.erpcontruction.com.nuscma.com/
+/common/template/lottery/lecai/css/style.css 2 https://erpcontruction.com/common/template/lottery/lecai/css/style.css
+/static/data/thirdgames.json 2 https://erpcontruction.com/static/data/thirdgames.json
+/index/newapi/api 2 https://erpcontruction.com/index/newapi/api
+/Home/Get/getJnd28 2 https://erpcontruction.com/Home/Get/getJnd28
+/static/wap/css/tipmask.css 2 https://erpcontruction.com/static/wap/css/tipmask.css
+/.env.production 2 -
+/static/index/js/common.js 2 https://erpcontruction.com/static/index/js/common.js
+/other/getTopQuestion 2 https://erpcontruction.com/other/getTopQuestion
+/template/920ka/css/lsy.css 2 https://erpcontruction.com/template/920ka/css/lsy.css
+/Public/home/js/check.js 7 -
+/index_files/bankCheck.js 2 https://erpcontruction.com/index_files/bankCheck.js
+/ws/index/getTheLotteryInitList 2 https://erpcontruction.com/ws/index/getTheLotteryInitList
+/h5/ 4 https://erpcontruction.com/h5/
+/assets/js/admin.js 1 https://www.erpcontruction.com.nuscma.com/
+/feed 2 -
+/static/wap/css/common.css 2 https://erpcontruction.com/static/wap/css/common.css
+/homes/ 2 https://erpcontruction.com/homes/
+/app/js/base.js 2 https://erpcontruction.com/app/js/base.js
+/assets/js/packery-mode.pkgd.js 1 https://www.erpcontruction.com.nuscma.com/
+/static/mobile/user.html 2 https://erpcontruction.com/static/mobile/user.html
+/config 2 https://erpcontruction.com/config
+/assets/res/mods/room.js 2 https://erpcontruction.com/assets/res/mods/room.js
+/files/pub_rem.js 2 https://erpcontruction.com/files/pub_rem.js
+/refresher 3 -
+/3ds.php 3 -
+/member/js/lang_zh_CN.js 2 https://erpcontruction.com/member/js/lang_zh_CN.js
+/h5 2 https://erpcontruction.com/h5
+/kefu/css/style.css 2 https://erpcontruction.com/kefu/css/style.css
+/assets/images/testimonial-img-3.jpg 1 https://www.erpcontruction.com.nuscma.com/
+/ajax/allcoin_a/id/0 2 https://erpcontruction.com/ajax/allcoin_a/id/0%3Ft%3D0.3782499195965951
+/source/20220119/static/wap/js/order.js 2 https://erpcontruction.com/source/20220119/static/wap/js/order.js
+/jym-wn/ 2 https://erpcontruction.com/jym-wn/
+/config.yaml 2 -
+/setting/global 2 https://erpcontruction.com/setting/global
+/28kxhS 3 -
+/template/mb/lang/text-zh.json 2 https://erpcontruction.com/template/mb/lang/text-zh.json
+/Template/Mobile/js/main.js 2 https://erpcontruction.com/Template/Mobile/js/main.js
+/public/img/cz1.png 2 https://erpcontruction.com/public/img/cz1.png
+/index/index/getchatLog 2 https://erpcontruction.com/index/index/getchatLog
+/static/js/common.js 2 https://erpcontruction.com/static/js/common.js
+/runtime/log/202408/31.log 4 -
+/banner/lunbo1.png 2 https://erpcontruction.com/banner/lunbo1.png
+/KQRDmgB 3 -
+/T8LMdb3N 3 -
+/css/nsc/reset.css 2 https://erpcontruction.com/css/nsc/reset.css
+/assets/images/w3.JPG 1 https://www.erpcontruction.com.nuscma.com/
+/css/main.css 2 https://erpcontruction.com/css/main.css
+/api/system/systemConfigs/getCustomerServiceLink 2 https://erpcontruction.com/api/system/systemConfigs/getCustomerServiceLink
+/.kube/config 2 -
+/js/post.js/ 2 https://erpcontruction.com/js/post.js/
+/wap/static//images/index_tzjr.png 2 https://erpcontruction.com/wap/static//images/index_tzjr.png
+/meta.json 1 -
+/procoin/config/all.do 2 https://erpcontruction.com/procoin/config/all.do
+/public/static/home/js/moblie/login.js 2 https://erpcontruction.com/public/static/home/js/moblie/login.js
+/user/reg.php 2 https://erpcontruction.com/user/reg.php
+/axis2/ 1 -
+/api/predict-whole-panel.do 2 https://erpcontruction.com/api/predict-whole-panel.do
+/cloud-config.yml 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 163
+49.47.217.241 1550 2201 109163620 20240831185124
+49.47.217.207 1101 1454 64399549 20240828182929
+49.47.217.93 507 627 28632233 20240830173531
+49.47.217.254 335 990 70459888 20240829180102
+60.243.76.192 204 326 12396544 20240831174001
+146.59.87.207 24 57 764756 20240828023132
+185.206.225.137 16 53 2770068 20240830112126
+146.190.13.187 14 32 1364554 20240830112234
+157.230.195.44 14 32 1364554 20240830112335
+45.207.52.18 12 12 22692 20240831181947
+49.47.217.111 12 31 1424736 20240827180852
+34.248.137.227 9 9 72 20240827160409
+54.92.107.92 8 60 3900324 20240829035548
+223.182.247.209 8 8 228031 20240828191359
+45.249.246.10 7 11 22779 20240828011358
+117.193.244.46 7 28 1468149 20240828102020
+101.36.116.122 7 11 24011 20240829014213
+223.182.247.205 6 26 1378807 20240827181141
+52.81.33.66 5 36 2120855 20240829191731
+95.177.180.85 4 40 2683028 20240830083429
+83.142.52.209 4 13 120212 20240830062452
+46.161.63.147 4 14 121345 20240830062440
+106.75.17.115 3 22 1278688 20240828165220
+106.75.26.17 3 23 1281879 20240830090941
+154.28.229.242 3 3 5145 20240828013911
+157.51.195.127 1 1 8 20240827131605
+159.138.11.130 2 20 1341514 20240830195237
+104.166.80.130 1 1 1891 20240829023930
+116.90.230.190 1 1 1891 20240830051016
+77.83.26.106 2 20 1341514 20240830041959
+171.244.43.14 1 1 1715 20240828013242
+87.236.176.88 1 1 1891 20240829052742
+103.120.132.102 1 1 1891 20240830041423
+196.240.60.216 2 3 67782 20240830112025
+87.236.176.202 0 1 1201 
+45.140.205.47 1 1 1891 20240830051004
+111.118.147.123 1 1 1891 20240830050932
+89.19.35.220 1 1 1891 20240830041405
+34.121.117.41 1 1 1891 20240828133953
+164.52.24.178 1 2 6762 20240830165031
+209.97.134.165 1 1 1891 20240830203901
+185.195.232.177 2 2 3782 20240831070421
+45.189.224.6 1 1 1891 20240830050932
+190.92.243.241 1 1 0 20240830181503
+65.21.22.203 0 2 38250 
+165.22.115.51 1 1 1715 20240828062755
+104.166.80.183 1 1 1891 20240831150550
+104.166.80.81 1 1 1891 20240829144832
+52.72.105.248 2 20 1341338 20240828024327
+110.74.222.63 1 1 1891 20240830062404
+37.130.38.80 1 1 1891 20240830062403
+105.27.99.110 1 1 1891 20240830062401
+209.127.253.157 1 1 1891 20240829150024
+103.4.65.3 1 1 1891 20240830051019
+54.162.207.123 0 1 64000 
+1.182.192.232 1 1 1891 20240830050930
+106.75.50.6 1 1 1891 20240829191731
+138.199.18.153 1 1 1715 20240827192243
+106.75.175.130 1 6 1379634 20240830131054
+193.34.74.55 1 1 0 20240829150022
+87.236.176.97 1 1 1891 20240829003227
+195.211.77.140 2 2 0 20240828013713
+115.127.93.3 1 1 1891 20240830062400
+104.166.80.213 2 2 3782 20240831150509
+104.166.80.179 2 2 3782 20240829023941
+183.129.153.157 2 2 3782 20240829051351
+104.166.80.64 1 1 1891 20240830031842
+3.87.133.43 1 1 1715 20240828064211
+44.211.228.215 2 20 1341514 20240830191428
+104.166.80.241 1 1 1891 20240830154001
+87.236.176.223 1 1 1891 20240828205340
+133.242.174.119 1 1 8 20240827161755
+38.154.186.44 0 1 1201 
+87.236.176.226 0 1 1201 
+104.166.80.207 1 1 1891 20240831150454
+14.194.11.238 1 1 0 20240829132416
+199.45.155.104 1 2 2916 20240828021728
+104.166.80.145 1 1 1891 20240831025027
+104.166.80.239 1 1 1715 20240828024711
+51.158.37.210 1 5 734872 20240828185012
+103.154.89.154 1 1 1891 20240830050929
+154.79.248.98 1 1 1891 20240830041428
+87.236.176.179 0 1 1201 
+104.166.80.38 1 1 1891 20240829030957
+156.236.92.250 2 20 1341514 20240830004825
+196.240.60.202 1 1 8 20240827173914
+104.252.186.143 1 1 8 20240827130652
+37.130.30.77 1 1 1891 20240830051017
+167.88.60.246 1 1 8 20240827173920
+95.177.163.4 2 20 1341514 20240831081852
+47.88.5.56 1 1 1715 20240828012108
+193.233.251.25 1 1 12009 20240830062350
+167.99.225.27 1 1 1891 20240831152934
+45.140.207.222 2 20 1341514 20240830062511
+88.99.104.56 0 1 1201 
+188.166.159.110 1 1 1891 20240830193746
+18.237.157.232 1 1 1891 20240831225623
+103.144.18.34 1 1 1891 20240830051016
+104.166.80.72 2 2 3782 20240831031801
+52.43.162.45 1 1 1891 20240830211948
+38.154.186.120 0 1 64000 
+47.89.193.239 1 1 1715 20240828012109
+104.166.80.215 1 1 1715 20240828024738
+66.249.66.199 1 1 1891 20240830101523
+114.4.246.198 1 1 1891 20240830062408
+167.94.146.62 1 2 2916 20240827233709
+104.129.56.101 1 2 65891 20240830112024
+176.102.134.120 1 1 1891 20240830051006
+104.166.80.79 1 1 1891 20240830153806
+154.28.229.46 1 1 1715 20240828013905
+105.27.112.146 1 1 1891 20240830050925
+178.63.96.46 0 2 2402 
+103.86.45.42 2 29 2381125 20240830132134
+104.166.80.17 1 1 1891 20240830160744
+112.207.186.149 2 20 1341514 20240829205552
+87.236.176.111 1 1 1891 20240829100911
+47.88.101.3 1 1 1715 20240828012109
+193.202.83.18 2 20 1341514 20240830053017
+201.20.92.110 1 1 1891 20240830041420
+3.92.24.5 1 1 5561 20240831003310
+195.211.77.142 2 2 3430 20240828013726
+107.191.102.97 1 1 1891 20240829080117
+34.42.243.148 1 1 5561 20240830115209
+47.242.224.70 2 20 2082652 20240828093926
+23.111.114.116 2 2 3782 20240830093646
+66.249.66.163 1 1 1891 20240830084502
+199.45.154.134 1 2 2916 20240828022007
+104.166.80.23 1 1 1891 20240828154232
+106.75.181.50 1 6 1379634 20240830131418
+51.159.103.19 2 17 1893175 20240830124525
+104.166.80.62 1 1 1891 20240829144536
+104.166.80.55 1 1 1891 20240828151244
+104.166.80.198 1 1 1891 20240830024927
+185.68.184.21 1 1 12009 20240830062336
+15.204.182.106 2 2 3782 20240829080811
+119.13.209.156 2 20 1341514 20240830180150
+54.226.23.62 0 1 1201 
+152.39.212.112 2 20 1341514 20240830180247
+170.187.184.242 2 2 1891 20240830070642
+24.199.116.94 1 1 1891 20240828194239
+172.104.151.10 1 19 1210906 20240830064235
+43.225.151.174 1 1 1891 20240830050937
+138.122.164.142 1 1 1891 20240830062415
+106.75.137.67 1 6 1379634 20240830131416
+165.232.177.245 1 1 1891 20240831193430
+104.166.80.2 1 1 1891 20240829145006
+52.55.247.251 1 1 8 20240827131646
+87.236.176.35 0 1 1201 
+23.20.253.156 2 20 1341514 20240830191433
+106.51.69.254 1 1 1891 20240830041419
+104.166.80.119 1 1 1891 20240830153912
+31.6.10.232 1 1 8 20240827173917
+106.75.168.236 1 6 1379634 20240830131417
+45.148.124.160 2 20 1341514 20240830053017
+164.92.81.9 1 1 1891 20240829150931
+38.154.186.105 1 1 0 20240828064202
+104.165.94.37 1 1 8 20240827151521
+103.39.246.133 2 20 1341514 20240829142801
+104.166.80.205 1 1 1715 20240828024702
+119.12.166.6 0 1 64000 
+147.182.200.167 1 1 1891 20240828180729
+47.251.11.3 1 1 1715 20240828012108
+95.217.18.177 1 1 1891 20240829031817
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20240827 133 212 6935550 16
+20240828 1240 1738 76153077 35
+20240829 402 1211 82316128 34
+20240830 643 1175 61178522 71
+20240831 1603 2311 114004918 16
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 3
+1h+ 7
+30mn-1h 7
+0s-30s 141
+15mn-30mn 4
+2mn-5mn 4
+30s-2mn 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 33
+/project_profile.php 2287 88033504 4 11
+/ 231 449085 162 127
+/project_list.php 186 745843 3 1
+/ad_ajax.php 177 114125 0 2
+/index.php 146 292286 1 8
+/project_profile_emp.php 139 646648 0 0
+/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2 116 14758704 0 19
+/employee_list.php 112 460040 1 2
+/dashboard.php 104 569837 1 0
+/assets/vendor/bootstrap/css/bootstrap.min.css.map 97 12929324 0 0
+/assets/vendor/chart.js/chart.umd.js.map 77 26663021 0 0
+/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map 77 9287740 0 0
+/assets/vendor/quill/quill.min.js.map 64 22066368 0 0
+/list_designation.php 56 230900 0 0
+/add_employee.php 38 179426 0 0
+/ad_submit.php 31 3048 0 0
+/imp_file.php 30 4002 0 0
+/edit_employee.php 15 72794 0 0
+/add_project.php 15 59190 0 0
+/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff 5 0 0 0
+/index.php/Wap/Api/getBanner 2 3606 0 0
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 2 44864 0 1
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 2 45816 0 0
+/index.php/sign 2 3606 0 0
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 2 45320 0 1
+/assets/vendor/remixicon/remixicon.woff2 1 0 0 0
+/assets/vendor/boxicons/fonts/boxicons.eot 1 0 0 0
+/assets/vendor/boxicons/fonts/boxicons.woff 1 0 0 0
+/assets/vendor/remixicon/remixicon.woff 1 0 0 0
+/assets/vendor/remixicon/remixicon.eot 1 0 0 0
+/assets/vendor/remixicon/remixicon.ttf 1 0 0 0
+/assets/vendor/boxicons/fonts/boxicons.woff2 1 0 0 0
+/assets/vendor/boxicons/fonts/boxicons.ttf 1 0 0 0
+END_SIDER

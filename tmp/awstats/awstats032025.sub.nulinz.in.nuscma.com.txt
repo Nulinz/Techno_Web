@@ -1,0 +1,840 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202503 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/awstats.sub.nulinz.in.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2056                
+POS_TIME 2727                
+POS_VISITOR 16562               
+POS_DAY 18006               
+POS_DOMAIN 3297                
+POS_LOGIN 3606                
+POS_ROBOT 3761                
+POS_WORMS 3931                
+POS_EMAILSENDER 4062                
+POS_EMAILRECEIVER 4205                
+POS_SESSION 18667               
+POS_FILESIZE 23806               
+POS_SIDER 18824               
+POS_FILETYPES 4340                
+POS_DOWNLOADS 4443                
+POS_OS 4491                
+POS_BROWSER 4615                
+POS_SCREENSIZE 4765                
+POS_UNKNOWNREFERER 4839                
+POS_UNKNOWNREFERERBROWSER 5579                
+POS_ORIGIN 5984                
+POS_SEREFERRALS 6118                
+POS_PAGEREFS 6262                
+POS_SEARCHWORDS 6410                
+POS_KEYWORDS 6562                
+POS_MISC 2391                
+POS_ERRORS 6621                
+POS_CLUSTER 3462                
+POS_SIDER_404 6736                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250401020402 1 0 7657640734115
+FirstTime 20250301053322
+LastTime 20250331180204
+LastUpdate 20250401185255 1 0 0 0 0
+TotalVisits 69                  
+TotalUnique 37                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 37                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 2 2 42
+1 2 2 42 1 5 1074
+2 4 4 124 3 7 1790
+3 0 0 0 0 0 0
+4 2 2 42 4 4 84
+5 6 6 166 0 4 0
+6 2 2 42 0 0 0
+7 4 4 164 0 6 0
+8 2 2 82 0 4 0
+9 2 2 716 188 204 72108
+10 4 4 124 7 13 2548
+11 2 2 82 10 14 3580
+12 2 2 82 0 4 0
+13 4 4 164 0 8 0
+14 2 2 82 0 2 0
+15 6 6 338 22 22 7876
+16 0 0 0 0 0 0
+17 10 10 462 646 677 240356
+18 144 144 9584 60 60 21216
+19 6 6 206 40 40 14056
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 2 2 82 20 20 6896
+23 0 0 0 2 2 716
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+in 132 132 8448
+us 36 36 1988
+ca 14 14 466
+zz 12 12 1310
+cn 6 6 126
+sc 2 2 82
+be 2 2 82
+ru 2 2 82
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+no_user_agent 10 250 20250329040215 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+Unknown 151 10372 0 0
+html 55 2212 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+androidnougat 2 2
+win10 10 10
+macosx15 6 6
+Unknown 188 188
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+mozilla 44 44
+chrome91.0.4472.124 10 10
+Unknown 144 144
+chrome60.0.3112.107 2 2
+chrome120.0.0.0 6 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20250331180204
+Mozilla/5.0_(compatible) 20250324170900
+Cpanel-HTTP-Client/1.0 20250331180145
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250323082047
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250322020204
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250328190552
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Cpanel-HTTP-Client/1.0 20250331180145
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250328190552
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 204 204
+From1 2 2
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 6 2148
+404 1022 365876
+406 18 4068
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 443
+/apps/.env 2 -
+/php-info.php 2 -
+/shop/.env 2 -
+/phpinfo4.php 2 -
+/.git/packed-refs 2 -
+/kyc/.env 2 -
+/phpsysinfo/phpsysinfo.php 2 -
+/typo3conf/localconf.php 2 -
+/development/.env 2 -
+/.git/logs/refs/remotes/origin/HEAD 2 -
+/public/phpinfo.php 2 -
+/bitrix/php_interface/dbconn.php 2 -
+/test6.php 2 -
+/resources/docker/rabbitmq/.env 2 -
+/.aws/config%5D 1 -
+/resources/docker/phpmyadmin/.env 2 -
+/results/.env 2 -
+/phpinfo.php 4 -
+/pinfo.php 2 -
+/rasax/.env 2 -
+/routes/.env 2 -
+/user/config/config.js 1 -
+/sub 2 www.google.com
+/admin/controllers/partner.js 1 -
+/isadmin.php 2 -
+/xmlrpc.php 2 -
+/react_todo/.env 2 -
+/web.php%5D 1 -
+/.env.example.local 2 -
+/phpinfo 2 -
+/local_settings.py 2 -
+/sitestatic/.env 2 -
+/.env.production 6 -
+/blog 2 www.google.com
+/prisma/.env 2 -
+/config/settings.prod 2 -
+/api/.env 4 -
+/.env.staging 2 -
+/phpversion.php 2 -
+/index1.php 2 -
+/info3.php 2 -
+/.env.secure 2 -
+/restapi/.env 2 -
+/server/laravel/.env 2 -
+/partner/config/config.js 1 -
+/app.py 2 -
+/web.config 2 -
+/src/tests/fixtures/typeScriptIntegrationProject/.env 2 -
+/phpinfodev.php 2 -
+/administrator/index.php 2 -
+/frontend_dev.php/$ 2 -
+/.git/refs/ 4 -
+/env.txt 2 -
+/phpinfo.txt 2 -
+/Server_with_db/.env 2 -
+/wordpress 4 www.google.com
+/prod.env 2 -
+/.env.local 10 -
+/src/config.js 1 -
+/backend/web/phpinfo.php 2 -
+/.circleci/configs/development.yml 10 -
+/web.php] 1 -
+/helm/values.yaml 2 -
+/wp-json/wp/v2/users 1 -
+/selfish-darling-backend/.env 2 -
+/database.json 1 -
+/helper/EmailHelper.js 1 -
+/helper.js 1 -
+/config.env 2 -
+/test_info5.php 2 -
+/src/tests/fixtures/instanceWithDependentSteps/.env 2 -
+/question2/.env 2 -
+/jo.php 2 -
+/Dockerfile 2 -
+/script/.env 4 -
+/info4.php 2 -
+/config/default.json 1 -
+/openapi.json 1 -
+/swagger.js 1 -
+/logs/error.php 2 -
+/getcpuutil.php-bakworking 2 -
+/test_info.php 2 -
+/configs/s3_config.json 1 -
+/public/.env 6 -
+/dev/.env 2 -
+/.git/info/exclude 2 -
+/settings/.env 2 -
+/development.env 2 -
+/.git/logs/HEAD 4 -
+/.git/HEAD 24 -
+/my_env/palash.py 2 -
+/SpotiApps/.env 2 -
+/wp-admin/install.php 1 -
+/.env.override 2 -
+/of.php 2 -
+/server-info.php 2 -
+/configs/routes.js 1 -
+/shibboleth/.env 2 -
+/test1.php 2 -
+/services/minio/.env 2 -
+/phpinfo.html 2 -
+/services/traefik/.env 2 -
+/dashboard/phpinfo.php 2 -
+/pub/.env 2 -
+/.gitignore 2 -
+/dashboard/i.php 2 -
+/config/production.json 1 -
+/tester.php 2 -
+/.env.live 2 -
+/ini.php 2 -
+/admin/config 2 -
+/api/config/config.yml 2 -
+/var/log/system.log 1 -
+/debug.php 4 -
+/api/config.env 2 -
+/postfixadmin/.env 2 -
+/price_hawk_client/.env 2 -
+/test.php 4 -
+/wp 4 www.google.com
+/.env.dev.local 2 -
+/api/objects/codes.php.save 2 -
+/joomla/configuration.php-dist 2 -
+/config/secrets.json 1 -
+/.svn/entries 2 -
+/.aws/credentials 12 -
+/.env.settings 2 -
+/private/.env 2 -
+/backup 2 www.google.com
+/.npmrc 2 -
+/backup.env 2 -
+/serve-browserbench/.env 2 -
+/psnlink/.env 2 -
+/tz.php 2 -
+/api/config.js 1 -
+/.env.prod.local 2 -
+/secrets.json 1 -
+/.git/ORIG_HEAD 4 -
+/phpsysinfo/info.php 2 -
+/user/controllers/index.js 1 -
+/config/config.json 1 -
+/prod/.env 4 -
+/.env.stage 8 -
+/rust-backend/.env 2 -
+/index.js 1 -
+/config/cache.php 2 -
+/controllers/settings.js 1 -
+/.git/logs/ 2 -
+/repos/.env 2 -
+/old/.env 4 -
+/developer.php 2 -
+/swagger.json 2 -
+/apache/i.php 2 -
+/services/registry/.env 2 -
+/ppinfo.php 2 -
+/backend/config/development.yml 2 -
+/new 2 www.google.com
+/app/etc/local.xml 2 -
+/dashboard/test.php 2 -
+/old 2 www.google.com
+/.git/refs/heads/ 2 -
+/test_info3.php 2 -
+/roundcube/.env 2 -
+/helpers/utility.js 1 -
+/test_info1.php 2 -
+/services/redis-commander/.env 2 -
+/.env.test 2 -
+/resources/.env 2 -
+/dashboard/info.php 2 -
+/saas/.env 2 -
+/.git/COMMIT_EDITMSG 6 -
+/shared/.env 2 -
+/api/config.json 1 -
+/.git/hooks/post-commit 6 -
+/phpmyadmin/index.php 2 -
+/my_env/chakaash.py 2 -
+/apache2.php 2 -
+/.env.template 2 -
+/rabbitmq-cluster/.env 2 -
+/laravel/.env 4 -
+/old_phpinfo.php 2 -
+/Lara/.env 2 -
+/config/storage.yml 2 -
+/.aws/config 8 -
+/site/.env 2 -
+/resources/docker/.env 2 -
+/spikes/config-material-app/.env 2 -
+/phpinfoposmeta.php 2 -
+/test2.php 2 -
+/.env.example 12 -
+/yarn.lock 2 -
+/backend/phpinfo.php 2 -
+/storage/framework/views/ 2 -
+/inf.php 2 -
+/config/local.yml 2 -
+/sitemap.xml 4 -
+/config/application.yml 2 -
+/crm/.env 2 -
+/resources/docker/mysql/.env 2 -
+/roundcubemail/.env 2 -
+/phpinfo2.php 4 -
+/s-with-me-front/.env 2 -
+/build.php 2 -
+/services/graylog/.env 2 -
+/settings.py 2 -
+/.dockerignore 2 -
+/src/tests/fixtures/typeScriptProject/.env 2 -
+/Socketio/.env 2 -
+/dep.php 2 -
+/apache.php 2 -
+/sms.py 2 -
+/Serve_time_server/.env 2 -
+/phpinfo1.php 4 -
+/symfony/_profiler/phpinfo 2 -
+/.git/hooks/pre-commit 4 -
+/sitemaps/.env 2 -
+/appsettings.json 1 -
+/CHANGELOG.txt 2 -
+/pt8/library-backend-gql/.env 2 -
+/swagger-ui.html 2 -
+/samples/docker/deploymentscripts/.env 2 -
+/api/shared/config/.env 2 -
+/apache/info.php 2 -
+/phpinfo/phpinfo.php 2 -
+/application/.env 2 -
+/temp 2 www.google.com
+/server/s3.js 1 -
+/services/monitoring/.env 2 -
+/admin/.env 2 -
+/apis/config/config.js 1 -
+/config/settings.json 1 -
+/.aws/config] 1 -
+/test4.php 2 -
+/test_phpinfo2.php 2 -
+/_profiler/phpinfo/phpinfo.php 2 -
+/src/tests/fixtures/typeScriptVisualizeProject/.env/_profiler/phpinfo 2 -
+/test123.php 2 -
+/backend/config/default.yml 2 -
+/local/.env 2 -
+/post-deployment/.vscode/.env 2 -
+/bootstrap/cache/config.php 2 -
+/storage/logs/laravel.log 1 -
+/phpsysinfo/phpinfo.php 2 -
+/rails-api/react-app/.env 2 -
+/core/install.php 2 -
+/cloud/Scraper.js 1 -
+/env.template 2 -
+/.git/index 6 -
+/admin/phpinfo.php 2 -
+/test0.php 2 -
+/_profiler/phpinfo/info.php 2 -
+/app/config/parameters.yml 2 -
+/test_info2.php 2 -
+/wp-content/debug.log 1 -
+/server/config/.env 2 -
+/config/parameters.yml 2 -
+/temp.php 2 -
+/.env_1 2 -
+/var/logs/dev.log 1 -
+/info1.php 2 -
+/admin/info.php 2 -
+/rust-backend/dao/.env 2 -
+/services/jaeger/.env 2 -
+/api-docs 2 -
+/admincontrol/sys_phpinfo.php 2 -
+/cms/.env 2 -
+/.git/objects/ 4 -
+/phpinfos.php 2 -
+/php_info.php 2 -
+/db.ini 2 -
+/phpsysinfo 2 -
+/.git/ 6 -
+/.env.production.local 8 -
+/aws-secret.yaml 2 -
+/app.js 2 -
+/storage/framework/cache/ 2 -
+/services/deployment-agent/.env 2 -
+/dev.php 2 -
+/pt2/countries/src/.env 2 -
+/.phpinfo 2 -
+/qv-frontend/.env 2 -
+/config/.env 2 -
+/admin/sys_phpinfo.php 2 -
+/app/etc/env.php 2 -
+/server.js 2 -
+/php.php 2 -
+/test_phpinfo.php 2 -
+/config.json 5 -
+/stage.env 2 -
+/debug/default/view 2 -
+/staging.env 2 -
+/site-library/.env 2 -
+/application.yml 2 -
+/test_phpinfo5.php 2 -
+/configs/routes-4aug.js 1 -
+/api/shared/.env 2 -
+/core/.env 2 -
+/spearmint/.env 2 -
+/.git/config 8 -
+/adminphp.php 2 -
+/services/documents/.env 2 -
+/my_env/newsletter.py 2 -
+/admin/server_info.php 2 -
+/package.json 1 -
+/infophp.php 2 -
+/sites/all/themes/ 2 -
+/redmine/.env 2 -
+/website/.env 2 -
+/scripts/.env 2 -
+/test 2 www.google.com
+/test3.php 2 -
+/sites/all/modules/ 2 -
+/api/shared/config/config.env 2 -
+/admin/controllers/merchant.js 1 -
+/Sources/API/.env 2 -
+/cache.php 2 -
+/in.php 2 -
+/config/packages/ 2 -
+/.git/branches/ 2 -
+/project_root/.env 2 -
+/controller/admin/post.js 1 -
+/sessions/.env 2 -
+/infos.php 2 -
+/mytest/astech_robot.js 1 -
+/.env.dev 2 -
+/sites/default/settings.php 2 -
+/var/logs/prod.log 1 -
+/config.js 2 -
+/cgi-bin/phpinfo.php 2 -
+/processor/.env 2 -
+/secure-config.json 1 -
+/resources/docker/rediscommander/.env 2 -
+/auth.json 1 -
+/info2.php 2 -
+/repository/.env 2 -
+/public_root/.env 2 -
+/wp-config.php 2 -
+/.git/FETCH_HEAD 6 -
+/test_info4.php 2 -
+/.travis.yml 2 -
+/apache/phpinfo.php 2 -
+/resourcesync/.env 2 -
+/web/config.php 2 -
+/.well-known/security.txt 2 -
+/.env.dist 2 -
+/lindex.php 2 -
+/var/log/exception.log 1 -
+/api/shared/config.env 2 -
+/deploy.php 2 -
+/sites/.env 2 -
+/.env.save 2 -
+/phpcustom_info/phpinfo.php 2 -
+/config/routes.yaml 2 -
+/shared/config/config.js 1 -
+/config/secrets.yml 2 -
+/wp-config-sample.php 2 -
+/php1.php 2 -
+/test9.php 2 -
+/server/src/persistence/.env 2 -
+/devs.php 2 -
+/test_phpinfo3.php 2 -
+/backend/.env 2 -
+/phpinfo/config.php 2 -
+/time.php 2 -
+/.env.prod 10 -
+/main.yml 2 -
+/config/settings.local 2 -
+/s3.js 1 -
+/config/database.yml 2 -
+/production/.env 2 -
+/config/aws.yml 2 -
+/.env.private 2 -
+/services/simcore/.env 2 -
+/tool/phpinfo.php 2 -
+/controller/api/post.js 1 -
+/rosterBack/.env 2 -
+/test8.php 2 -
+/test7.php 2 -
+/api/v1/.env 2 -
+/phpinfo/info.php 2 -
+/robots.txt 6 -
+/.env_sample 4 -
+/info.php 4 -
+/app/.env 2 -
+/content/.env 2 -
+/backup/config.php 2 -
+/config.inc.php 2 -
+/up.php 2 -
+/new.php 2 -
+/run/.env 2 -
+/karma.conf.json 1 -
+/aws.yml 2 -
+/phpinfo3.php 2 -
+/index.html 2 -
+/staging/.env 2 -
+/public_html/.env 2 -
+/sources/.env 2 -
+/robots/.env 2 -
+/aws/credentials 2 -
+/config/app.php 2 -
+/services/portainer/.env 2 -
+/composer.json 1 -
+/ocp.php 2 -
+/.env.config 2 -
+/samples/chatroom/chatroom-spa/.env 2 -
+/scripts/fvt/.env 2 -
+/storage/framework/sessions/ 2 -
+/phpinfo.php4 2 -
+/docker/.env 2 -
+/root/.env 2 -
+/test_phpinfo1.php 2 -
+/server_info.php 2 -
+/.git/hooks/pre-push 6 -
+/rest/.env 2 -
+/apis/controllers/users.js 1 -
+/.env.development 2 -
+/services/adminer/.env 2 -
+/backend/config/settings.yml 2 -
+/api/credentials 2 -
+/gatsby-config.js 1 -
+/settings.yaml 2 -
+/testing.php 2 -
+/adminphp.php/configuration.php 2 -
+/rest.php 2 -
+/admin_phpinfo.php 2 -
+/php52/phpinfo.php 2 -
+/.git/description 6 -
+/test_phpinfo4.php 2 -
+/credentials.env 2 -
+/live_env 2 -
+/nova-api/styles 2 -
+/beta/.env 2 -
+/projbackend/.env 2 -
+/server/.env 2 -
+/.AWS_/credentials 10 -
+/phptest.php 2 -
+/phpsysinfo.php 2 -
+/main.php 2 -
+/token.php 2 -
+/.env 10 -
+/repo/.env 2 -
+/test5.php 2 -
+/laravel/core/.env 2 -
+/app/config/.env 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 37
+103.53.42.134 132 132 8448 20250331180145
+170.39.218.202 4 4 164 20250327192925
+147.185.132.156 2 2 42 20250328190552
+87.236.176.243 2 2 82 20250322020204
+167.94.146.50 2 2 82 20250313131003
+180.163.220.52 2 2 42 20250311013247
+170.39.218.98 2 2 82 20250326184537
+198.235.24.207 2 2 42 20250305051427
+167.94.138.170 2 2 82 20250314122900
+1.192.192.8 2 2 42 20250311022345
+16.16.206.244 2 2 174 20250331180202
+54.185.150.61 2 2 174 20250331180203
+205.210.31.129 2 2 42 20250325063203
+198.235.24.67 2 2 42 20250307054226
+199.45.154.129 2 2 82 20250322110742
+134.199.213.34 2 2 82 20250321072716
+198.235.24.220 2 2 42 20250311171748
+154.83.103.12 2 2 82 20250328223142
+167.94.138.160 2 2 82 20250307070958
+101.198.0.180 2 2 42 20250312100115
+170.39.218.72 2 2 716 20250327091653
+165.22.225.247 2 2 82 20250324170900
+205.210.31.56 2 2 42 20250304040532
+18.118.129.199 2 2 174 20250331180203
+18.170.216.20 2 2 82 20250322155325
+157.245.100.249 2 2 82 20250307105404
+52.32.221.161 2 2 174 20250331180204
+23.178.112.212 2 2 174 20250331180202
+18.138.225.214 2 2 174 20250331180203
+185.247.137.169 2 2 82 20250313192552
+199.45.155.92 2 2 82 20250323082047
+167.71.253.39 2 2 82 20250310140159
+162.142.125.193 2 2 82 20250305130426
+47.129.175.54 2 2 174 20250331180203
+167.94.138.198 2 2 82 20250301053322
+52.14.183.150 2 2 174 20250331180203
+23.178.112.217 2 2 174 20250331180202
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20250301 6 6 338 2
+20250302 4 4 256 1
+20250303 4 4 256 1
+20250304 6 6 298 2
+20250305 8 8 380 3
+20250306 4 4 256 1
+20250307 10 10 462 4
+20250308 12 12 768 2
+20250309 4 4 256 1
+20250310 6 6 338 2
+20250311 10 10 382 4
+20250312 6 6 298 2
+20250313 8 8 420 3
+20250314 6 6 338 2
+20250315 4 4 256 1
+20250316 4 4 256 1
+20250317 4 4 256 1
+20250318 4 4 256 1
+20250319 4 4 256 1
+20250320 4 4 256 1
+20250321 6 6 338 2
+20250322 10 10 502 4
+20250323 6 6 338 2
+20250324 6 6 338 2
+20250325 6 6 298 2
+20250326 6 6 338 2
+20250327 10 10 1136 4
+20250328 8 8 380 3
+20250329 4 4 256 1
+20250330 4 4 256 1
+20250331 22 22 1822 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 68
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 71
+/ 54 1854 27 27
+/.well-known/acme-challenge/aSY_C7eX-6BAhEnoWnQNCT3FXjD9wQ-Pj5b1cpdmAbQ 10 870 5 5
+/.well-known/acme-challenge/eRuHEk5PBErzrLXcX-9HXPiao_-nEUvMfgxFEYEK0lQ 8 696 4 4
+/.well-known/acme-challenge/64XW-FO95ZL2KD3UGMST04JZ4YCMI0EZ 2 128 0 1
+/.well-known/acme-challenge/M8HZ5ITFPYUH_6CCWR892G8_39BP4Z9V 2 128 1 0
+/.well-known/acme-challenge/Q38B2WW4LQSOD78UNWCHK-H6WJ79F5FP 2 128 0 1
+/.well-known/acme-challenge/J1EA0GMDKP20OSQDIKK_N9MBMY8X3ZAL 2 128 1 0
+/.well-known/acme-challenge/4UC8SD11TGUJ-R34DW1DJKIU9_71CXHD 2 128 1 0
+/.well-known/acme-challenge/39E_NOJX7F_1HVOR1-0YVSKUG955UW3Q 2 128 0 0
+/.well-known/acme-challenge/O8GGJA_YR3EILHCOWJ3C6XHTYWD-D61S 2 128 1 0
+/.well-known/acme-challenge/7G6V5PETA1ZI0_PO3ULKR_141_KJPEMN 2 128 0 1
+/.well-known/acme-challenge/ODVYA7KBDWA88_2C3X6FP6DBF04TVA3W 2 128 0 1
+/.well-known/acme-challenge/OIXVRG37OXDRNSNSQSXNUTWZKJQIU4NM 2 128 0 1
+/.well-known/acme-challenge/N4Y88GHQSWU0XA5GZ_0C883FBZ32YDXY 2 128 0 1
+/.well-known/acme-challenge/-_UO9_IXNK-0KUTNNROZSTR31Y0XGR77 2 128 0 1
+/.well-known/acme-challenge/H45AV33-_CPJR5NS6QLU65J5SFQGA995 2 128 1 0
+/.well-known/acme-challenge/84NGOXN74TQBGQL4XB0J7T7P094NYUMG 2 128 0 1
+/.well-known/acme-challenge/H0780X3VCBKYKE0MTL9-C_U56PTJW2JZ 2 128 0 1
+/.well-known/acme-challenge/KE2ZXC2T8E9E2FMX0WUPIQ8JKB07I-4E 2 128 0 1
+/.well-known/acme-challenge/96_8YLM1WXV6PCF06Y_14W_98G92_-LG 2 128 0 1
+/.well-known/acme-challenge/HV95UVJGCP9ND5L35XVNJCRD4AEC4YQU 2 128 0 1
+/.well-known/acme-challenge/FTCW6W_IK4DJ4SC6A9TCFELM814T9H3Z 2 128 0 1
+/.well-known/acme-challenge/XPP06-SWAJQM1RCRQJ82B9I0VGSO9ZSJ 2 128 0 1
+/.well-known/acme-challenge/FCMR2T6GBNOVC65J8JF32O9L2IBMOTVH 2 128 1 0
+/.well-known/acme-challenge/946P8UZYH-956KQPFU_PNYRERO2ZIQE8 2 128 0 1
+/.well-known/acme-challenge/U988R0KXT6B4PJX_N7XNP7SGKMJ29-JH 2 128 1 0
+/.well-known/acme-challenge/6_BYR13773CUJEB69JR9NNEH4HQ980KH 2 128 1 0
+/.well-known/acme-challenge/QOWT_24390S3UZMGVQPTDCWF2OJWQB-8 2 128 1 0
+/.well-known/acme-challenge/ZLIB188Z4KXKLGK1HEV-JH6PYE0IJWFR 2 128 1 0
+/.well-known/acme-challenge/RVOBM8_29VG6GVC9_YM3SL8WYCAS8KA5 2 128 1 0
+/.well-known/acme-challenge/NX3__ID1NEHWRGPKUL8D-0PIO9HHWB-W 2 128 0 1
+/.well-known/acme-challenge/X91M567H834IBY576F-SMEW3OCY-QTHY 2 128 0 1
+/.well-known/acme-challenge/ETNNUCSYPK17GXD4ARLDRJDY9G4S9ZXZ 2 128 0 1
+/.well-known/acme-challenge/04-N5WM3NC_2_G6Y3JQ-A_9O8V7AZF28 2 128 1 0
+/.well-known/acme-challenge/QJT4IKRT5O2PB2CQJ7DA6AYLW98-8YQ6 2 128 1 0
+/.well-known/acme-challenge/ZDY0HOWG6L8ZS48YZF5ME2WSM10OO5H9 2 128 1 0
+/.well-known/acme-challenge/5WPCNPU8YO5TAV3RN72H0G8J-UBHKNRD 2 128 1 0
+/.well-known/acme-challenge/I4MXJS7_NH6W79_AZ8B3Q5BIJP4QAXST 2 128 1 0
+/.well-known/acme-challenge/EKXLU1XEGRG-AA-R5OXNK9UXJL2WV6M7 2 128 0 1
+/.well-known/acme-challenge/665OVZKCR4HM765DYHW8AFLS5UXLAFQX 2 128 1 0
+/.well-known/acme-challenge/52LON-W5Z_VPAA_C17XT2N8OFM87TY05 2 128 0 1
+/.well-known/acme-challenge/4LV9PI7STWUMQBR4AQR9E2L2QX5_RQK9 2 128 0 1
+/.well-known/acme-challenge/HP5D_WIPRXBCPEGDI2CC9M8KV86VA_27 2 128 0 1
+/.well-known/acme-challenge/AYFK5VKNZ1-ZYWL-16RRLT5NUEQX2POE 2 128 1 0
+/.well-known/acme-challenge/46585Z8WFER1_I_YV7U6ADQR5JOLD7-O 2 128 1 0
+/.well-known/acme-challenge/KB9Q3F4RKL76DO3_I3EK13JE35ITYVVA 2 128 1 0
+/server-status 1 358 0 1
+/.well-known/acme-challenge/GIBU0Y_M_HDS6_F4G1BO-GRYY6GD2NH3 2 128 1 0
+/.well-known/acme-challenge/WL5NIWSQDXXM_2OC6BKXKK6ZMSOA7OCG 2 128 1 0
+/.well-known/acme-challenge/WR4S-16WFKT0C43PEAQ5FF5L8WA75ET7 2 128 1 0
+/.well-known/acme-challenge/--QDWGA1D-4CN8SN-5N7D688YODDEML7 2 128 0 1
+/.well-known/acme-challenge/2H1M7WBGW2WXYA-XYO6VJCTZL5I2-4FQ 2 128 1 0
+/cgi-sys/403.html 1 358 1 0
+/.well-known/acme-challenge/ZA9HDNZFO19A1A89DHOL09Q34W7GLFAU 2 128 1 0
+/.well-known/acme-challenge/W51NQU9U-SPXGPUMGJJKBM-GPG66EFFZ 2 128 0 1
+/.well-known/acme-challenge/88JC3NE5Z1KYF6ODDELMEVH471TIIGXW 2 128 1 0
+/.well-known/acme-challenge/AWGC4MN8_M3G4VPDEVQRXY-Q-7ADMZYN 2 128 0 1
+/.well-known/acme-challenge/LEZ5IQSP08BEFIS_5RIINN08SENB1NM9 2 128 1 0
+/.well-known/acme-challenge/Q7VNSFFIJJ2O5HY1CY4AX89MYR4Z2NHW 2 128 1 0
+/.well-known/acme-challenge/QO2IU-RSJMQFFDFF5CN0M6UM__S67O0G 2 128 0 1
+/.well-known/acme-challenge/PF-3N6B8PMHIDK1SYPGJIO2QZX3UGHSL 2 128 1 0
+/.well-known/acme-challenge/J27QA8KWC3VMHQ64ZBJM7DN0WR7TE_N- 2 128 0 1
+/.well-known/acme-challenge/BNS08N0_-ZTGF67B1QDQQ7DI345XN6X4 2 128 0 1
+/.well-known/acme-challenge/2QZ_ZXPQ189PG7MV1G6JJYB1A6V0RZVL 2 128 0 0
+/.well-known/acme-challenge/MU-V11P8WOUG5TAZYFWYNAP_P_O-PHM3 2 128 1 0
+/.well-known/acme-challenge/R_-03FF05Q_82RHF5439D4I6-XEBPL-_ 2 128 0 1
+/.well-known/acme-challenge/J_QKF17PGKDVJKDGV6-G0QBGAD6TA-7L 2 128 0 1
+/.well-known/acme-challenge/V5OWTXI02I5KQFEOHEIASIWK-SR6FH8- 2 128 1 0
+/.well-known/acme-challenge/-WDEGKOVOT2BALCE9U-TIXB3DFC6I7EH 2 128 0 1
+/.well-known/acme-challenge/0B4KF1YLVEN55V_-DQU46649MBBI_BOP 2 128 1 0
+/.well-known/acme-challenge/L8P_I-0LJF3YZFN4Q21YFRUX8L-I3ODA 2 128 0 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 3
+0-44 64
+100-500 1090
+44-100 150
+END_FILESIZE

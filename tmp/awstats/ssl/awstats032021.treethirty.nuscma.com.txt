@@ -1,0 +1,435 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202103 will be lost/reset.
+# Last config file used to build this data file was /home/nuscmy3y/tmp/awstats/ssl/awstats.treethirty.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2022                
+POS_TIME 2683                
+POS_VISITOR 8490                
+POS_DAY 12096               
+POS_DOMAIN 3392                
+POS_LOGIN 3718                
+POS_ROBOT 3873                
+POS_WORMS 4297                
+POS_EMAILSENDER 4428                
+POS_EMAILRECEIVER 4571                
+POS_SESSION 12819               
+POS_SIDER 13010               
+POS_FILETYPES 4706                
+POS_DOWNLOADS 4894                
+POS_OS 4942                
+POS_BROWSER 5090                
+POS_SCREENSIZE 5595                
+POS_UNKNOWNREFERER 5669                
+POS_UNKNOWNREFERERBROWSER 6369                
+POS_ORIGIN 7064                
+POS_SEREFERRALS 7201                
+POS_PAGEREFS 7377                
+POS_SEARCHWORDS 7525                
+POS_KEYWORDS 7677                
+POS_MISC 2347                
+POS_ERRORS 7736                
+POS_CLUSTER 3574                
+POS_SIDER_404 7858                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210401000825 4 523 18691489852673
+FirstTime 0
+LastTime 20210331171459
+LastUpdate 20210401190333 4 0 3 0 0
+TotalVisits 107                 
+TotalUnique 81                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 98                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 4 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 4 104555 12 18 37853
+1 1 1 22725 6 8 29294
+2 9 9 57131 10 28 179903
+3 4 4 81842 12 37 358784
+4 2 22 503721 7 8 42095
+5 7 7 136350 11 26 221807
+6 4 24 532062 6 18 148248
+7 0 0 0 17 46 600941
+8 8 8 45982 7 14 41642
+9 2 2 0 13 18 42219
+10 4 4 59105 4 12 95551
+11 1 1 22725 5 5 17241
+12 4 25 537365 10 16 41230
+13 2 2 45450 9 10 50323
+14 12 12 52350 16 16 37276
+15 0 0 0 7 12 61819
+16 2 2 22725 4 7 23763
+17 4 4 51066 13 20 37025
+18 1 1 5616 7 11 35388
+19 3 3 16848 7 11 26939
+20 31 31 225423 9 28 52659
+21 11 11 157795 5 8 17957
+22 6 6 70349 9 13 80445
+23 6 23 456823 18 46 529047
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+us 79 79 1166975
+de 17 17 5616
+ca 10 10 29625
+cn 9 26 485696
+il 7 7 51515
+ru 3 64 1403848
+gr 2 2 59117
+ua 1 1 5616
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+Googlebot/ 107 1128147 20210330094748 0
+bingbot/ 80 444849 20210331181049 0
+baidu 40 923426 20210329232109 0
+YandexBot/ 8 44928 20210328182803 0
+Googlebot\-Image/ 7 0 20210331203705 0
+no_user_agent 5 140935 20210320224248 0
+Baiduspider/ 2 45450 20210329232104 0
+discover 1 0 20210311030124 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+html 122 1385365 0 0
+png 26 396498 0 0
+jpeg 11 653349 0 0
+php 6 7161 0 0
+js 4 437872 0 0
+css 12 25144 0 0
+svg 25 302619 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+Unknown 51 51
+macosx 2 2
+win8.1 1 1
+win10 59 42
+linux 26 26
+macosx11 1 1
+win7 66 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 22
+chrome76.0.3809.132 2 2
+firefox66.0 1 1
+chrome41.0.2226.0 1 1
+chrome74.0.3729.131 1 1
+chrome45.0.2454.93 18 1
+chrome60.0.3112.113 1 1
+Unknown 51 51
+chrome61.0.3163.79 1 1
+chrome41.0.2228.0 1 1
+firefox62.0 1 1
+chrome66.0.3359.181 10 10
+chrome88.0.4324.111 64 3
+chrome88.0.4324.146 16 16
+chrome74.0.3729.157 2 2
+netscape 1 1
+edge12 7 7
+chrome54.0 3 3
+chrome47.0.2526.106 1 1
+chrome86.0.4240.111 1 1
+firefox72.0 9 9
+firefox84.0 1 1
+chrome83.0.4103.97 13 13
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Go-http-client/1.1 20210330200524
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210322123955
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210331171459
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20210327135521
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Go-http-client/1.1 20210330200524
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210322123955
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210331171459
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20210327135521
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 116 116
+From1 0 0
+From2 12 12
+From3 0 0
+From4 0 78
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 9 9
+yandexru 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+404 97 37426
+401 25 489
+406 35 7910
+409 4 332
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 15
+/Adminer.php 1 -
+/terms.html 3 https://www.google.com
+/vendor/phpunit/phpunit/phpunit.xml 1 -
+/adm.php 1 -
+/owa/auth/logon.aspx 1 -
+/adminer.php 1 -
+/privacy.html 4 -
+/.git/config 1 -
+/robots.txt 71 -
+/xmlrp.php 1 www.google.com
+/sql.php 1 -
+/_ignition/execute-solution 2 -
+/js/lib/ccard.js 1 -
+/fore 5 -
+/wp-content/ 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 98
+138.246.253.24 16 16 0 20210326143822
+2.57.122.20 7 7 51515 20210325025145
+192.99.18.136 6 6 16006 20210321140136
+111.7.96.158 6 6 23257 20210305085639
+34.77.162.16 4 4 104555 20210320140033
+34.77.162.23 3 3 95509 20210318205711
+192.99.18.108 3 3 8003 20210321140107
+34.77.162.27 2 2 45450 20210307080505
+34.77.162.32 2 2 45450 20210311032957
+34.77.162.33 2 2 59117 20210313051406
+34.77.162.15 2 2 45450 20210327135521
+34.77.162.21 2 2 45450 20210308201219
+34.77.162.28 2 2 45450 20210324000200
+34.77.162.30 2 2 45450 20210326214453
+34.77.162.7 2 2 59117 20210317031133
+34.77.162.24 2 2 45450 20210315210840
+34.77.162.2 1 1 22725 20210303223347
+44.234.188.200 1 1 5616 20210330200524
+106.75.245.121 1 1 5616 20210308021422
+79.136.233.196 1 22 469190 20210322124449
+34.96.130.11 1 1 22725 20210331171459
+34.77.162.5 1 1 22725 20210308002405
+34.77.162.13 1 1 22725 20210308205346
+54.200.135.73 1 1 5616 20210301202241
+95.28.172.6 1 21 467329 20210309045606
+111.206.222.23 0 1 1246 
+34.77.162.29 1 1 22725 20210308003132
+18.159.60.80 1 1 5616 20210313173410
+47.74.248.176 1 1 5616 20210322192716
+3.134.107.247 1 1 0 20210306221510
+44.234.61.156 1 1 5616 20210314220617
+54.149.239.11 1 1 5616 20210329200429
+34.214.242.128 1 1 5616 20210327200622
+34.212.15.103 1 1 5616 20210303212406
+111.206.222.30 0 1 1861 
+35.185.240.4 1 1 0 20210303232517
+111.206.198.230 0 1 630 
+54.213.100.23 1 1 5616 20210322203538
+44.234.21.230 1 1 5616 20210309200120
+34.219.191.55 1 1 5616 20210304212635
+111.206.222.139 0 1 1747 
+143.198.194.158 1 1 5616 20210330233718
+34.77.162.20 1 1 22725 20210312135814
+35.224.92.81 1 1 22725 20210311175301
+44.234.189.172 1 1 5616 20210323202952
+139.196.167.141 1 1 5616 20210322192703
+35.164.243.108 1 1 5616 20210321205226
+92.118.160.9 1 1 36392 20210307211737
+34.77.162.3 1 1 22725 20210326053825
+34.82.129.74 1 1 0 20210303232515
+54.200.251.128 1 1 5616 20210318203428
+111.206.222.157 0 1 15385 
+104.131.18.197 1 1 5616 20210327203521
+54.202.246.150 1 1 5616 20210312065246
+111.206.198.131 0 1 65014 
+194.44.203.70 1 1 5616 20210309192620
+35.160.154.156 1 1 5616 20210313203237
+54.202.184.242 1 1 5616 20210328203502
+44.234.118.20 1 1 5616 20210325200607
+44.235.77.33 1 1 5616 20210311200843
+111.206.222.10 0 1 10630 
+35.166.150.23 1 1 5616 20210310200823
+15.237.142.26 1 1 0 20210306214059
+137.226.113.44 1 1 5616 20210325144238
+111.206.198.202 0 1 1632 
+34.211.253.38 1 1 5616 20210308200429
+111.206.198.177 0 1 63060 
+34.219.20.233 1 1 5616 20210318203352
+34.219.206.108 1 1 5616 20210305200754
+111.206.198.153 0 1 4410 
+34.77.162.17 1 1 36380 20210308213710
+34.222.223.32 1 1 5616 20210314205733
+44.234.40.244 1 1 5616 20210325200631
+34.220.253.136 1 1 5616 20210324202215
+52.213.162.219 1 1 5616 20210313181746
+111.206.222.149 0 1 93770 
+34.212.27.140 1 1 5616 20210305201920
+54.189.131.167 1 1 5616 20210302204159
+220.181.51.105 1 1 22725 20210327235641
+34.223.42.117 1 1 5616 20210314220654
+34.223.93.102 1 1 5616 20210330200435
+111.206.222.229 0 1 109468 
+111.206.198.198 0 1 13553 
+54.149.163.137 1 1 5616 20210304200825
+34.77.162.14 1 1 22725 20210319162425
+34.222.140.17 1 1 5616 20210329200410
+111.206.222.148 0 1 2285 
+92.118.160.17 1 1 22725 20210322123955
+34.77.162.25 1 1 22725 20210308213541
+111.206.222.166 0 1 3736 
+34.77.162.9 1 1 36380 20210308000020
+111.206.222.86 0 1 14787 
+34.121.227.74 1 1 5616 20210312210413
+52.11.192.201 1 1 5616 20210306200936
+34.221.99.151 1 1 5616 20210317202744
+34.86.35.30 1 1 22725 20210330122816
+111.206.222.4 0 1 25268 
+158.46.54.189 1 21 467329 20210316064234
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20210301 2 2 42008 2
+20210302 3 3 51066 3
+20210303 7 7 110171 7
+20210304 4 4 11232 4
+20210305 10 10 34489 4
+20210306 4 4 28341 4
+20210307 4 4 118234 4
+20210308 9 9 197617 9
+20210309 3 23 478561 3
+20210310 1 1 5616 1
+20210311 4 4 87458 4
+20210312 7 7 33957 6
+20210313 5 5 75965 5
+20210314 3 3 16848 3
+20210315 2 2 45450 2
+20210316 1 21 467329 1
+20210317 2 2 28341 2
+20210318 6 6 33957 6
+20210319 2 2 22725 2
+20210320 1 1 22725 1
+20210321 10 10 29625 3
+20210322 5 26 508763 5
+20210323 2 2 28341 2
+20210324 3 3 51066 3
+20210325 12 12 68363 5
+20210326 4 4 45450 4
+20210327 4 21 485164 4
+20210328 1 1 5616 1
+20210329 2 2 11232 2
+20210330 4 4 39573 4
+20210331 1 1 22725 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30s-2mn 1
+0s-30s 103
+30mn-1h 1
+15mn-30mn 1
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 122 1385365 107 105
+/user_login.php 3 3606 0 2
+/admin_login.php 3 3555 0 0
+END_SIDER

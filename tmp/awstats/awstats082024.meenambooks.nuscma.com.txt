@@ -1,0 +1,435 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202408 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/awstats.meenambooks.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2694                
+POS_VISITOR 10459               
+POS_DAY 11111               
+POS_DOMAIN 3260                
+POS_LOGIN 3559                
+POS_ROBOT 3714                
+POS_WORMS 3930                
+POS_EMAILSENDER 4061                
+POS_EMAILRECEIVER 4204                
+POS_SESSION 11769               
+POS_SIDER 11926               
+POS_FILETYPES 4339                
+POS_DOWNLOADS 4442                
+POS_OS 4490                
+POS_BROWSER 4592                
+POS_SCREENSIZE 4729                
+POS_UNKNOWNREFERER 4803                
+POS_UNKNOWNREFERERBROWSER 5400                
+POS_ORIGIN 5805                
+POS_SEREFERRALS 5937                
+POS_PAGEREFS 6081                
+POS_SEARCHWORDS 6229                
+POS_KEYWORDS 6381                
+POS_MISC 2358                
+POS_ERRORS 6440                
+POS_CLUSTER 3415                
+POS_SIDER_404 6560                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240901133657 2 120 12608805161539
+FirstTime 20240801023446
+LastTime 20240831180709
+LastUpdate 20240901190052 2 0 1 0 0
+TotalVisits 54                  
+TotalUnique 15                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 15                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 1 13061
+1 1 1 4784 1 3 83
+2 3 3 22629 0 2 0
+3 1 1 4784 1 3 1074
+4 1 1 4784 1 3 134
+5 1 1 4784 49 52 22326
+6 0 0 0 1 1 226
+7 0 0 0 1 1 83
+8 0 0 0 0 0 0
+9 0 0 0 1 1 13061
+10 2 2 128 0 0 0
+11 6 6 27541 0 2 716
+12 3 3 4912 0 1 358
+13 2 2 128 0 0 0
+14 3 3 4912 51 53 23400
+15 4 4 256 0 0 0
+16 2 2 128 0 0 0
+17 2 2 9568 0 2 716
+18 62 62 3968 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 1 1 83
+21 0 0 0 2 2 13144
+22 1 1 13061 1 1 83
+23 0 0 0 2 2 166
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 87 87 64602
+nl 2 2 9568
+gr 1 1 4784
+ca 1 1 13061
+gb 1 1 4784
+be 1 1 4784
+au 1 1 4784
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+no_user_agent 3 39183 20240831214506 0
+bot[\s_+:,\.\;\/\\-] 2 9568 20240821143844 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+Unknown 78 4992 0 0
+html 16 101375 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+win10 8 8
+Unknown 84 84
+macosx15 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+Unknown 79 79
+chrome126.0.0.0 6 6
+chrome100.0.4896.60 2 2
+firefox122.0 2 2
+mozilla 5 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Cpanel-HTTP-Client/1.0 20240831180709
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240806034604
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240820225920
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240825044235
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Cpanel-HTTP-Client/1.0 20240831180709
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240820225920
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 94 94
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 1 134
+404 113 39022
+406 1 226
+409 7 581
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 62
+/classes/static/lib/webuploader/0.1.5/server/fileupload.php 1 -
+/hui/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/AdminAssets/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/application/index/view/layout/lib/webuploader/0.1.5/server/fileupload.php 1 -
+/H-ui.admin/lib/webuploader/0.1.5/server/fileupload.php 1 -
+/admin/lib/webuploader/server/fileupload.php 2 -
+/Public/Widget/webuploader/0.1.5/server/fileupload.php 1 -
+/public/js/hdjs/package/webuploader/server/fileupload.php 2 -
+/bootstrap/img/meenabooks_tabicons.png 8 http://meenambooks.nuscma.com/
+/public/admin/huiadmin/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/robots.txt 2 -
+/lib/webuploader/server/fileupload.php 2 -
+/src/main/resources/static/hui/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/public/back/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/public/static/admin/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/public/hui/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/admin/webuploader/server/fileupload.php 1 -
+/fix/Public/Webuploader/server/fileupload.php 2 -
+/templates/main/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/public/assets/vendor/webuploader/server/fileupload.php 2 -
+/static/admin/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/includes/libraries/fileupload.php 1 -
+/Admin/Tpl/public/lib/webuploader/0.1.5/server/fileupload.php 1 -
+/Public/admin/webuploader/server/fileupload.php 2 -
+/webuploader/server/fileupload.php 2 -
+/public/static/admin/lib/webuploader/server/fileupload.php 2 -
+/Public/agent/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/Public/webuploader/0.1.5/server/fileupload.php 2 -
+/static/admin/hui/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/static/lib/webuploader/0.1.5/server/fileupload.php 1 -
+/public/static/admin/hui/lib/webuploader/0.1.5/server/fileupload.php 1 -
+/wp-login.php 1 -
+/admin/hui/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/webuploader/0.1.5/server/fileupload.php 1 -
+/vendor/iisns/yii2-webuploader/assets/fileupload.php 1 -
+/Public/Home/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/admin/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/resources/views/web/mysys/lib/webuploader/0.1.5/server/fileupload.php 1 -
+/static/Widget/webuploader/0.1.5/server/fileupload.php 2 -
+/Public/admin/admin_style/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/text/webuploader-0.1.5/server/fileupload.php 2 -
+/public/assets/webuploader-master/server/fileupload.php 1 -
+/vendor/webupload/server/fileupload.php 1 -
+/Widget/webuploader/0.1.5/server/fileupload.php 2 -
+/public/complexPlugin/webuploader/server/fileupload.php 2 -
+/public/static/hadmin/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/WEB-INF/resources/h-ui/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/static/hui/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/public/org/hdjs/package/webuploader/server/fileupload.php 2 -
+/uploader/fileupload.php 2 -
+/Public/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/Public/Admin/Widget/webuploader/0.1.5/server/fileupload.php 1 -
+/WEB-INF/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/public/static/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/Public/Js/Webuploader/server/fileupload.php 2 -
+/Public/Admin/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/public/web/mysys/lib/webuploader/0.1.5/server/fileupload.php 1 -
+/public/back/Widget/webuploader/0.1.5/server/fileupload.php 2 -
+/public/vendor/webupload/server/fileupload.php 1 -
+/../bootstrap/img/meenabooks_tabicons.png 4 -
+/easycode-admin/src/main/webapp/WEB-INF/Widget/webuploader/0.1.5/server/fileupload.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 15
+216.10.252.82 78 78 4992 20240831180709
+145.220.91.19 2 2 9568 20240819024838
+54.88.179.33 2 2 26122 20240820114633
+178.128.197.24 1 1 4784 20240815145703
+87.236.176.183 1 1 4784 20240806034604
+206.168.34.198 1 1 4784 20240810053755
+206.168.34.193 1 1 4784 20240825044235
+137.184.229.91 1 1 4784 20240815113641
+167.94.145.96 1 1 4784 20240822023357
+167.172.186.108 1 1 4784 20240801120418
+165.227.99.47 1 1 4784 20240829113240
+139.59.89.143 1 1 4784 20240829172722
+205.210.31.193 1 1 13061 20240820225920
+165.22.77.6 1 1 4784 20240801170359
+199.45.155.80 1 1 4784 20240820014846
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240801 5 5 22757 4
+20240802 8 8 512 3
+20240803 4 4 256 2
+20240804 2 2 128 1
+20240805 2 2 128 1
+20240806 3 3 4912 2
+20240807 2 2 128 1
+20240808 2 2 128 1
+20240809 2 2 128 1
+20240810 3 3 4912 2
+20240811 2 2 128 1
+20240812 2 2 128 1
+20240813 2 2 128 1
+20240814 2 2 128 1
+20240815 4 4 9696 3
+20240816 2 2 128 1
+20240817 2 2 128 1
+20240818 3 3 4912 2
+20240819 3 3 4912 2
+20240820 5 5 31034 4
+20240821 2 2 128 1
+20240822 3 3 4912 2
+20240823 2 2 128 1
+20240824 6 6 384 3
+20240825 3 3 4912 2
+20240826 2 2 128 1
+20240827 6 6 384 3
+20240828 2 2 128 1
+20240829 4 4 9696 3
+20240830 2 2 128 1
+20240831 2 2 128 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 53
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 79
+/ 16 101375 16 16
+/.well-known/acme-challenge/XY3G5T_C5_YMKD645U8KNU1841BHX32Y 1 64 0 1
+/.well-known/acme-challenge/_8WYG7FB26CD26VBIYP15I4F2K3GWIEI 1 64 1 0
+/.well-known/acme-challenge/9KF2E3DSTIERA1PFL7H-D2LE7EV24M27 1 64 0 1
+/.well-known/acme-challenge/D8J_QAUXY4XZEZ2HQZRL6FCBDL0RIWXG 1 64 1 0
+/.well-known/acme-challenge/-BM2G5DOEWHYCCB6C0CA39NUTTTJQ_TS 1 64 1 0
+/.well-known/acme-challenge/S3SUUZUD9X8LG5-59PABJEZ94KWV4DLO 1 64 1 0
+/.well-known/acme-challenge/5WVYEULJJJXKH_SBL0DFBSAKHUGFWIQX 1 64 0 1
+/.well-known/acme-challenge/1DKAHLGS8PEE7M1W4UNDOYS4ZGKGZWW2 1 64 1 0
+/.well-known/acme-challenge/_B1XVGRV1ULUKRQIJXX-K47-YUT29D_C 1 64 0 1
+/.well-known/acme-challenge/N6I40DFMQZA73AR24-4HP6P7F2HU775W 1 64 0 1
+/.well-known/acme-challenge/OGITT7O1Q6OY-GQ3BARD_YSXIBL7KAA5 1 64 0 1
+/.well-known/acme-challenge/26IKFPF27G16Q1YO7N176_1S_OI7TFIQ 1 64 1 0
+/.well-known/acme-challenge/1FLIYI7X7Q9LURLQ67EE0N54H5DNRY91 1 64 0 1
+/.well-known/acme-challenge/SET4PSXNEA17_T5ETC0VAZGD0244R_3J 1 64 0 1
+/.well-known/acme-challenge/LJ08O2JH3B42UCVR6M3XPAUR0U0MQ22L 1 64 0 1
+/.well-known/acme-challenge/M3-QHAXGOG1A89D6_8WR08-547Y6_A8B 1 64 0 1
+/.well-known/acme-challenge/DFYA19-FBBFJYHJ_1D9-GL2CDIESXE42 1 64 1 0
+/.well-known/acme-challenge/GI3MZ80XLBRMQHY8H_EAS9CFSLHPITDB 1 64 0 1
+/.well-known/acme-challenge/JSGXAPC5EXZMTNLCY90NRLQ0SBGCORS7 1 64 0 1
+/.well-known/acme-challenge/5NPE4_H5DLK9G19WC8E0ZZVV3IBMN0T0 1 64 1 0
+/.well-known/acme-challenge/UAE2144AGRVT-KZLIV1I46G1GMXHJ4ID 1 64 1 0
+/.well-known/acme-challenge/GA3_JJTIH7V5LQTOB5UWRUOZ21EPV6_M 1 64 0 1
+/.well-known/acme-challenge/HBBNC1THBH3WSEI5CMLDN-NQ0D_-VNA1 1 64 1 0
+/.well-known/acme-challenge/DXND4D-3R2K044NAI-MVWGH0GFX7U9TK 1 64 1 0
+/.well-known/acme-challenge/ZXHPGY8KNT3ER8_2RYSCLQI28VNOV9-B 1 64 1 0
+/.well-known/acme-challenge/DEGTGIG_JFL0K3R6PRSS1W0X958V_8YS 1 64 1 0
+/.well-known/acme-challenge/WF9-PZ28EXABFM4YMRU7UK4GRCK3OP0C 1 64 1 0
+/.well-known/acme-challenge/I5FX9T23QRQOYB965KWH76ZSQQHV8YLO 1 64 1 0
+/.well-known/acme-challenge/ZVU_GOSXOSTGO3R7815DBEZI90JLX99D 1 64 0 1
+/.well-known/acme-challenge/CGOCD410186AETWLMRM4W30KZB11NRZM 1 64 0 1
+/.well-known/acme-challenge/7AR2MKSRNNURZGZHVMNY-1IG5CWX0DM9 1 64 1 0
+/.well-known/acme-challenge/47GBAO3NVA0M6SP0LUC0SN9-AYUCFU59 1 64 1 0
+/.well-known/acme-challenge/H2YRDKPZFU00U6E040AAJFOVUK2LI5KG 1 64 1 0
+/.well-known/acme-challenge/OB2UEZ9B-OFGFCB485S2TT9CL-E_4PO4 1 64 1 0
+/.well-known/acme-challenge/00NXTESD19J1WZ76P98V1L8HL7DZHT6J 1 64 0 1
+/.well-known/acme-challenge/L6W8BY1R2JSCGCHK0FM6GEHRIBDZQP81 1 64 0 1
+/.well-known/acme-challenge/PWMYV0UVHV7211FR891EVK9PQCLFXIIY 1 64 1 0
+/.well-known/acme-challenge/27AT3LDBK1SES94DFFOLRPBQHXJ29VUD 1 64 0 1
+/.well-known/acme-challenge/N_I74_VPUWDVYVC7VO557-C2U2IDPRY3 1 64 1 0
+/.well-known/acme-challenge/AI_B3O9IG5RORWS-G88NDDEQAZFXEE76 1 64 1 0
+/.well-known/acme-challenge/EYPCU-G7AVH6KNPNG-IEND87GTXD--VY 1 64 0 1
+/.well-known/acme-challenge/9D6M_AT_73SWXS7BUN2F54QD3L10B6PA 1 64 0 1
+/.well-known/acme-challenge/XV5LY9FEKSF1HT1-QW2Y353R_NE8JRC0 1 64 0 1
+/.well-known/acme-challenge/W1L4598WADC66C_KTN7595ZB096LVSPK 1 64 0 1
+/.well-known/acme-challenge/7P581H_8RX2BZLRI0V9MM59F5P63DWUA 1 64 1 0
+/.well-known/acme-challenge/QH4VMRKFQUD25T92TSS1Q7GZ3JVT1Y73 1 64 0 1
+/.well-known/acme-challenge/L_G5FSB6R-YGYE18-SULKXTP3KXI6138 1 64 1 0
+/.well-known/acme-challenge/V0RRKRCIMDH5DDSEJHU9L3AR63-FZ-MP 1 64 1 0
+/.well-known/acme-challenge/3AZHY_PAS64W2BV3RS2JLW9Z56UZCIO5 1 64 1 0
+/.well-known/acme-challenge/VKHEQI56_TW5HZRGGTZIW_J62VATS4RY 1 64 0 1
+/.well-known/acme-challenge/YI_BVNS53_-X9GRRNO7C9I94AP2CWIGT 1 64 1 0
+/.well-known/acme-challenge/AUIF70VVYCYRXDVJNMI4E8BA013BEXFN 1 64 0 1
+/.well-known/acme-challenge/FUM3MDBEBNDGAZWPZAMJU-0RW6_55BOF 1 64 0 1
+/.well-known/acme-challenge/-EL0K-W0Z67MM3GX44X53Z69297EH-ZX 1 64 0 1
+/.well-known/acme-challenge/P5Z_-EBV_62WJL05SSQZOWXJ8X0-8A8U 1 64 1 0
+/.well-known/acme-challenge/RTX1W5S1UCJ79GILXT-ZM_R_8AZWK4DN 1 64 0 1
+/.well-known/acme-challenge/BYWCHPNM_BRWT-N4C5YA73XIQZKDB4_C 1 64 0 1
+/.well-known/acme-challenge/_FLBCRWQFSDM3Q_L3UAOSF4Q9V2W8JQK 1 64 1 0
+/.well-known/acme-challenge/M0C1ZOYVPRWZGNS-CU5FJMHN60TU61A2 1 64 0 1
+/.well-known/acme-challenge/66FYV0NQWCD58CJLL8H0TK37_B40--MX 1 64 0 1
+/.well-known/acme-challenge/X4_VD5_81AIM668K4RW3ET6K__8YYSRS 1 64 1 0
+/.well-known/acme-challenge/MM8WYQTLT72X-SP3G7_Y21_D7L7SWJFN 1 64 1 0
+/.well-known/acme-challenge/WC-AG4J23U-1K5K8F-ZV8HIEDDDX849T 1 64 1 0
+/.well-known/acme-challenge/AKLYI5B8TGU7Y5ZI32J8AH-FZTQ8R8Q6 1 64 0 1
+/.well-known/acme-challenge/CZVUO87MTQRAV8UY0DFR83VOCEH0N3DO 1 64 0 1
+/.well-known/acme-challenge/R0UP0HVLR0HS7VRB23LGKR2DTQ1_1RGK 1 64 0 1
+/.well-known/acme-challenge/4531UHNFVU3_N7VAQ6EU_3F2_GEAW0AO 1 64 0 1
+/.well-known/acme-challenge/WU6QE3KNLZ11M-XM3VK91-N-AJRLO6TZ 1 64 0 0
+/.well-known/acme-challenge/7NWF97O1Z56FTGO5NS9N-R31YDBI1K2M 1 64 0 1
+/.well-known/acme-challenge/5SRQ01JU683V1ZRM6Z9QPS2IX8FIRK7C 1 64 1 0
+/.well-known/acme-challenge/1W01PA9S32SKEMU89ZMUL7DD4YTP4BVK 1 64 1 0
+/.well-known/acme-challenge/_845UG2GQ17A32E64HJFQBJ133QYPLG3 1 64 1 0
+/.well-known/acme-challenge/RWN26IKUKBPQCJ8FNRLYFM4OEYU210L1 1 64 1 0
+/.well-known/acme-challenge/HQ-897Q381KO36S2KG8RG82KD7ZU51__ 1 64 1 0
+/.well-known/acme-challenge/T9TC-KKIM--H38B84JNMTY8X9PB9KQJI 1 64 0 1
+/.well-known/acme-challenge/EKKS5MJ2TT6SF-JRMXGTJVJQE8WQEHRJ 1 64 0 1
+/.well-known/acme-challenge/OZOMDQBACP7LFYK7W5--T4QG_HINDJ31 1 64 1 0
+/.well-known/acme-challenge/WDXD4ZJT0J5YYWL3A8ZVVL1P0J13H9UC 1 64 0 0
+END_SIDER

@@ -1,0 +1,631 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202301 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.inventory.amxxa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2695                
+POS_VISITOR 11314               
+POS_DAY 14235               
+POS_DOMAIN 3488                
+POS_LOGIN 3797                
+POS_ROBOT 3952                
+POS_WORMS 4281                
+POS_EMAILSENDER 4412                
+POS_EMAILRECEIVER 4555                
+POS_SESSION 14918               
+POS_SIDER 15126               
+POS_FILETYPES 4690                
+POS_DOWNLOADS 4914                
+POS_OS 4962                
+POS_BROWSER 5113                
+POS_SCREENSIZE 5429                
+POS_UNKNOWNREFERER 5503                
+POS_UNKNOWNREFERERBROWSER 6094                
+POS_ORIGIN 6493                
+POS_SEREFERRALS 6633                
+POS_PAGEREFS 6796                
+POS_SEARCHWORDS 6972                
+POS_KEYWORDS 7124                
+POS_MISC 2359                
+POS_ERRORS 7183                
+POS_CLUSTER 3653                
+POS_SIDER_404 7325                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230201031214 2 387 12121918245626
+FirstTime 20230101050016
+LastTime 20230131204902
+LastUpdate 20230201184939 2 0 1 0 0
+TotalVisits 100                 
+TotalUnique 67                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 71                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 4 4 1432
+1 2 2 9926 1 1 226
+2 45 53 312959 8 30 8818
+3 1 1 4963 0 0 0
+4 216 250 5973249 8 95 33738
+5 356 409 7088176 12 80 24344
+6 1531 1612 32664270 89 272 85091
+7 1055 1147 20969004 103 349 116889
+8 324 333 3906675 57 143 96416
+9 805 830 17763253 55 207 104536
+10 1010 1011 9385157 15 133 54446
+11 420 441 3896091 10 150 49762
+12 474 523 10785969 16 119 35442
+13 344 357 2434909 11 126 39380
+14 29 30 119715 2 24 7518
+15 23 24 128994 6 12 3580
+16 153 184 5015806 12 143 65952
+17 413 423 3162154 17 95 35310
+18 350 361 1622060 18 105 37079
+19 116 116 629863 18 67 24390
+20 223 228 3264746 6 68 29018
+21 1 1 1989 7 22 9652
+22 0 0 0 2 4 4694
+23 0 0 0 1 2 716
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+in 5938 6053 81204809
+us 1928 2254 47783508
+ca 12 12 59556
+cn 7 7 37579
+be 4 8 43604
+gb 2 2 10872
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+Googlebot/ 65 131800 20230131084333 0
+Googlebot\-Image/ 3 26463 20230115162626 0
+discover 2 3978 20230114223537 0
+no_user_agent 1 5909 20230111073125 0
+bot[\s_+:,\.\;\/\\-] 1 1989 20230112040439 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+woff2 67 4887980 0 0
+php 7596 74797894 0 0
+html 228 537708 0 0
+png 115 1541529 0 0
+svg 60 476334 0 0
+js 118 39228691 0 0
+jpg 11 1518486 0 0
+css 141 6151306 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win10 6056 5669
+macosx11 7 7
+macosx15 2225 2174
+android 16 10
+linux 2 2
+Unknown 30 29
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 13
+firefox47.0 7 7
+chrome95.0.4638.69 4 0
+chrome109.0.0.0 2798 2770
+Unknown 19 19
+firefox108.0 2544 2203
+firefox104.0 2 2
+mozilla 11 10
+firefox77.0 1 1
+chrome102.0.5005.61 8 3
+chrome87.0.4280.141 4 1
+chrome108.0.0.0 2882 2826
+safari16.2 44 40
+chrome91.0.4472.114 12 9
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+PlayStore-Google 20230111161404
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230122105905
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230123211506
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230131204902
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230131204902
+PlayStore-Google 20230111161404
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 701 708
+From1 0 0
+From2 2 2
+From3 4 4
+From4 7184 7622
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://216.10.252.82:80 4 4
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+421 1 322
+503 4 716
+406 2 452
+500 150 0
+301 2 490
+404 1960 696310
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 64
+/beta/source/logo.jpg 1 https://inventory.amxxa.com/beta/uploadlogo.php
+/assets/js/vandor/jquery-3.2.1.min.js 134 https://www.inventory.amxxa.com/
+/beta/img/icons/brand-3.svg 1 https://www.inventory.amxxa.com/beta/dashboard1.php
+/beta/images/Pulsar-NS160.png 17 https://www.inventory.amxxa.com/beta/enquiry.php
+/beta/campActivity.php 1 https://inventory.amxxa.com/beta/marketing.php
+/beta/overallBike.php 1 https://inventory.amxxa.com/beta/dashboard1.php
+/beta/assets/js/plugins.js 91 https://inventory.amxxa.com/beta/
+/beta/table.php 1 -
+/beta/salesOrderlist.php 1 -
+/beta/images/Pulsar125SplitSeatDisc.png 17 https://www.inventory.amxxa.com/beta/enquiry.php
+/gtag/js 2 https://www.inventory.amxxa.com/enquiry.php
+/apple-touch-icon.png 1 -
+/beta/user.php 1 -
+/beta/gtag/js 101 https://www.inventory.amxxa.com/beta/enquiry.php
+/beta/images/Pulsar-150-TD.png 17 https://www.inventory.amxxa.com/beta/enquiry.php
+/beta/purchaseOrderlistDemo.php 1 -
+/robots.txt 63 -
+/beta/printFormat.php 1 -
+/beta/img/icons/brand-2.svg 1 https://www.inventory.amxxa.com/beta/dashboard1.php
+/beta/js/multislider.js 4 https://www.inventory.amxxa.com/beta/enquiry.php
+/app/assets/js/vandor/modernizr-3.5.0.min.js 7 https://inventory.amxxa.com/app/
+/app/assets/js/plugins.js 13 https://inventory.amxxa.com/app/
+/beta/editcustomers.php 3 https://inventory.amxxa.com/beta/cust_profile.php
+/apple-touch-icon-precomposed.png 1 -
+/app/assets/js/bootstrap.min.js 8 https://inventory.amxxa.com/app/
+/beta/... 3 https://www.inventory.amxxa.com/beta/enquiry.php
+/beta/assets/js/vandor/jquery-3.2.1.min.js 98 https://inventory.amxxa.com/beta/
+/assets/js/bootstrap.min.js 147 https://www.inventory.amxxa.com/
+/beta/dashboard1.php 1 -
+/assets/js/vandor/modernizr-3.5.0.min.js 129 https://www.inventory.amxxa.com/
+/beta/enquiry.php 1 -
+/beta/assets/js/vandor/modernizr-3.5.0.min.js 98 https://inventory.amxxa.com/beta/
+/assets/img/fixed-startup-india-logo.png 45 https://inventory.amxxa.com/
+/beta/quill.min.js.map 21 -
+/testfiles.php 2 -
+/beta/assets/js/main.js 82 https://inventory.amxxa.com/beta/
+/assets/img/iso.png 50 https://inventory.amxxa.com/
+/beta/js/app.js.map 21 -
+/beta/images/PulsarNS125.png 18 https://www.inventory.amxxa.com/beta/enquiry.php
+/beta/img/icons/brand-4.svg 1 https://www.inventory.amxxa.com/beta/dashboard1.php
+/beta/js/datatables.js.map 21 -
+/policies.html 50 -
+/beta/css2 1 https://www.inventory.amxxa.com/beta/dashboard1.php
+/assets/js/main.js 126 https://www.inventory.amxxa.com/
+//gtag/js 1 https://www.inventory.amxxa.com//enquiry.php
+/beta/salesOrderlistDemo.php 1 -
+/beta/ 3 -
+/beta/assets/js/bootstrap.min.js 102 https://inventory.amxxa.com/beta/
+/assets/js/plugins.js 126 https://www.inventory.amxxa.com/
+/beta/css/light.css 1 https://www.inventory.amxxa.com/beta/dashboard1.php
+/_ignition/health-check/ 4 http://inventory.amxxa.com/_ignition/health-check/
+/beta/enquery.php 2 -
+/public/_ignition/health-check/ 4 http://inventory.amxxa.com/public/_ignition/health-check/
+/app/assets/js/vandor/jquery-3.2.1.min.js 9 https://inventory.amxxa.com/app/
+/beta/img/icons/brand-5.svg 1 https://www.inventory.amxxa.com/beta/dashboard1.php
+/beta/img/icons/brand-1.svg 1 https://www.inventory.amxxa.com/beta/dashboard1.php
+/beta/refund-policy.html 3 -
+/assets/js/popper.min.js 141 https://www.inventory.amxxa.com/
+/app/assets/js/popper.min.js 10 https://inventory.amxxa.com/app/
+/app/assets/js/main.js 13 https://inventory.amxxa.com/app/
+/beta/reportSale.php 2 https://www.inventory.amxxa.com/beta/serviceorderlistDemo.php
+/app-ads.txt 28 -
+/beta/grsalesReport.php 2 https://www.inventory.amxxa.com/beta/dashboard1.php
+/beta/assets/js/popper.min.js 102 https://inventory.amxxa.com/beta/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 71
+103.225.125.170 3288 3321 51552820 20230131122008
+117.251.22.249 888 928 11741871 20230107064941
+106.197.79.217 718 734 5373193 20230111203352
+110.224.81.72 439 440 3548297 20230106203903
+157.51.92.192 298 320 1952935 20230107150931
+157.49.152.47 275 337 9849631 20230107055142
+157.49.159.6 269 326 10315211 20230107072544
+157.49.173.168 232 270 6980455 20230107134258
+110.224.87.62 230 230 549659 20230107072614
+157.51.75.132 222 251 1379634 20230106203438
+157.46.99.209 149 164 1607795 20230111120054
+110.224.85.62 134 134 205638 20230107050225
+157.49.203.215 98 98 2175811 20230112095539
+157.49.179.2 82 139 7597826 20230108074513
+157.51.70.74 80 91 461713 20230107045923
+106.197.111.215 78 82 1576175 20230113113521
+157.46.97.166 69 69 380588 20230111084829
+157.49.200.143 55 58 1015342 20230112074333
+106.222.111.222 54 61 1416757 20230117141442
+157.49.187.251 46 64 2671724 20230108043935
+106.211.223.148 39 39 356112 20230122190517
+110.224.82.146 22 24 1319190 20230106171129
+157.49.193.16 15 22 1222507 20230118083256
+106.222.111.210 15 15 66712 20230113055556
+106.197.127.220 13 17 1214783 20230122093811
+87.236.176.124 0 1 8821 
+74.125.151.192 2 2 5386 20230110171831
+205.210.31.42 1 1 4963 20230128172534
+205.210.31.144 1 1 4963 20230130010452
+101.68.211.2 7 7 37579 20230119180759
+87.236.176.54 1 1 1989 20230118053814
+167.248.133.119 2 3 12799 20230121154421
+74.125.217.122 1 1 2693 20230102153716
+157.49.182.209 1 1 4517 20230107071110
+87.236.176.78 1 1 1989 20230118125457
+182.18.178.196 2 5 1056929 20230106162835
+103.250.152.228 3 8 1184130 20230106162844
+162.142.125.213 1 1 1989 20230123211506
+74.125.217.118 1 1 2693 20230101155727
+87.236.176.176 0 1 8821 
+70.32.128.248 1 1 1761 20230102071437
+205.210.31.134 1 1 4963 20230121125310
+157.49.169.133 1 1 2514 20230108073931
+70.32.128.240 4 7 24900 20230102071537
+198.235.24.159 2 2 9926 20230128034934
+87.236.176.222 0 1 8821 
+87.236.176.43 1 1 1989 20230122105905
+162.142.125.212 1 1 2353 20230103131516
+74.125.151.154 1 1 2693 20230111161404
+70.32.128.250 2 2 3522 20230102071455
+198.235.24.128 1 1 4963 20230127131953
+205.210.31.20 1 1 4963 20230128062039
+51.158.37.195 1 1 5909 20230110145536
+87.236.176.133 1 1 2353 20230103164436
+198.235.24.46 1 1 4963 20230131204902
+110.224.94.146 7 7 20095 20230106161211
+74.125.218.14 1 1 2693 20230103163156
+70.32.128.254 1 1 1761 20230102071555
+157.45.237.130 1 4 19845 20230125180854
+157.49.157.150 11 11 61827 20230107100229
+167.248.133.44 2 2 4706 20230102131551
+205.210.31.18 2 2 9926 20230128132946
+66.249.92.12 1 1 2693 20230104160527
+205.210.31.45 1 1 4963 20230121084325
+198.235.24.17 1 1 4963 20230125010650
+18.190.87.2 1 1 2693 20230101050016
+87.236.176.159 0 1 8821 
+70.32.128.249 1 1 1761 20230102071516
+51.158.37.181 1 1 4963 20230128165639
+106.197.111.195 8 8 22448 20230104092544
+157.49.164.125 1 1 6537 20230107064501
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20230101 2 2 5386 2
+20230102 630 640 7754844 10
+20230103 3 4 16220 3
+20230104 522 544 6709961 5
+20230105 94 100 1093261 1
+20230106 782 826 10334482 8
+20230107 1841 2036 32099598 15
+20230108 129 204 10272064 3
+20230109 26 26 270937 1
+20230110 97 104 2019856 5
+20230111 560 582 4316838 7
+20230112 357 363 5292898 3
+20230113 93 97 1642887 3
+20230117 54 61 1416757 1
+20230118 285 301 4231944 5
+20230119 4 4 19852 1
+20230120 1 1 4963 1
+20230121 4 5 22725 3
+20230122 54 59 1586668 5
+20230123 1 1 1989 1
+20230125 489 498 15377074 4
+20230127 1 1 4963 1
+20230128 776 790 15224155 6
+20230130 65 66 918063 2
+20230131 1021 1021 8501543 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 9
+30mn-1h 15
+2mn-5mn 2
+0s-30s 43
+30s-2mn 4
+1h+ 20
+15mn-30mn 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 195
+/sales_add_item.php 1201 12000540 1 3
+/sales_add_item2.php 614 6116954 0 0
+/salesorder.php 359 1810246 0 7
+/beta/slsReport.php 314 20467 0 2
+/fitem.php 287 23224063 0 0
+/beta/dashboard1.php 279 2509140 0 2
+/service_labour_edit.php 214 1162805 0 3
+/beta/overallBike.php 195 20622 0 0
+/beta/consumeReport.php 165 438353 0 1
+/beta/grinvReport.php 161 684657 0 2
+/beta/purchaseReport.php 159 14754 0 2
+/cart.php 154 811157 0 1
+/gitem.php 151 10283 0 0
+/beta/invoiceReport.php 147 7592 0 4
+/beta/complaintReport.php 142 14096 0 2
+/ 133 339700 59 27
+/beta/enquiry.php 111 270551 2 2
+/createService.php 106 1385792 0 1
+/slsReport.php 102 9625 0 0
+/gcompany.php 101 5605 0 1
+/dashboard1.php 96 1509050 5 2
+/serviceorderlist.php 89 523327 1 3
+/beta/serviceorderlist.php 82 321194 0 0
+/beta/ 78 160615 9 0
+/salesorderlist.php 67 4443756 1 2
+/salescompany2.php 26 340215 0 0
+/beta/addcompany.php 9 58805 1 1
+/beta/pdf/pdf/po.php 2 5100 0 0
+/purchaseReport.php 51 8447 0 0
+/ajaxData.php 3 12148 0 0
+/beta/customer.php 26 525789 0 0
+/fonts/fa-solid-900.woff2 23 1720312 0 1
+/fscompany.php 21 152567 0 0
+/beta/receivesep.php 4 15171 0 0
+/beta/fonts/fa-solid-900.woff2 40 3049644 0 1
+/beta/soreceivable.php 5 19357 0 0
+/beta/sales_view.php 17 63104 1 0
+/labbourorder.php 3 10743 0 0
+/beta/labour.php 4 14516 0 0
+/beta/fonts/fa-regular-400.woff2 2 26552 0 0
+/beta/salesorderlist.php 64 685401 0 1
+/beta/warehouse.php 3 10788 0 0
+/beta/uProfileReport.php 26 12322 0 0
+/beta/addcomplaints.php 6 23168 0 0
+/service_view.php 9 36313 0 0
+/beta/sales_add_item.php 65 310986 0 0
+/labour_view.php 2 7078 0 0
+/beta/reportLeads.php 22 8463 0 0
+/products.php 1 3647 0 0
+//enquiry.php 1 2912 0 0
+/generate_invoice.php 2 6174 0 0
+/beta/grsalesReport.php 5 430 0 0
+/addlead.php 2 9237 0 0
+/beta/consumeItem1.php 6 23177 0 0
+/upreminderstatus.php 1 3875 0 0
+/submitreceive.php 7 539 0 0
+/purchase_receive_bulk.php 16 58447 0 0
+/overallBike.php 51 5784 0 1
+/beta/editwarehouse.php 2 7114 0 0
+/beta/fscompany.php 10 71199 0 0
+/customer.php 29 1189824 0 0
+/beta/shipping_details.php 7 31528 0 0
+/beta/cust_profile.php 60 256743 0 0
+/index.php 42 94466 0 0
+/beta/createSale.php 21 150828 0 0
+/campActivity.php 6 19812 0 1
+/beta/cart.php 6 27435 0 0
+/beta/logout.php 16 1040 0 0
+/beta/gcompany.php 25 2766 0 0
+/beta/reportPurchase.php 2 712 0 0
+/addmarketing.php 9 30881 0 0
+/profile.php 3 13065 0 0
+/reminders.php 3 11383 0 0
+/beta/salesreport.php 10 17137 0 0
+/beta/warehouse_item.php 5 34125 0 0
+/beta/campActivity.php 2 7490 0 0
+/beta/sear.php 3 11756 0 0
+/sales_shipping_details.php 20 83127 0 0
+/complaintReport.php 51 4560 0 0
+/beta/inventory1.php 6 22292 0 0
+/beta/printLeads.php 10 5944 0 0
+/beta/serviceorderlistDemo.php 2 8705 0 0
+/createJobcard.php 61 301388 0 0
+/beta/service_labour_edit.php 29 155255 0 0
+/complaints.php 20 67934 0 0
+/beta/printFormate.php 17 12410 2 1
+/beta/users.php 24 87785 0 0
+/beta/company.php 11 41764 0 0
+/beta/reportSales.php 26 28045 0 1
+/beta/editledgeraccount.php 1 3662 0 0
+/beta/complaints.php 5 17820 0 0
+/beta/labour_view.php 1 3769 0 0
+/policies.html 8 21544 8 8
+/beta/uploadlogo.php 3 10501 0 0
+/beta/profileService.php 10 51012 0 0
+/beta/thiscompanyaddress.php 4 24386 0 0
+/beta/searCBMW.php 23 89858 0 0
+/beta/purchaseorderlistDemo.php 1 4220 0 0
+/grinvReport.php 51 836321 0 0
+/additem.php 1 3627 0 0
+/beta/so_paymentvoucher.php 1 3548 0 0
+//fonts/fa-solid-900.woff2 1 78196 0 0
+/beta/gitem.php 3 174 0 0
+/profileService.php 29 142645 0 0
+/beta/logestics_pay.php 1 3605 0 0
+/modalwisereport.php 2 7738 0 0
+/testfile.php 15 175379 0 1
+/beta/submitreceive.php 3 231 0 0
+/beta/addlabour.php 1 3567 0 0
+/labour_add_item.php 6 23516 0 0
+/addcomplaints.php 29 106515 0 0
+/logout.php 7 455 1 0
+/beta/edit_inventory.php 1 3556 0 0
+/beta/userProfile.php 34 145493 0 2
+/beta/addlead.php 9 40304 0 0
+/beta/editcustomer.php 5 33433 0 0
+/purhcasereport.php 3 5333 0 0
+/receive.php 18 94713 0 1
+/beta/c_po_payable.php 2 5838 0 0
+/beta/update_logestics.php 1 3914 0 0
+/beta/index.php 37 77304 0 0
+/beta/marketing.php 47 159434 1 1
+/item.php 3 1650153 0 0
+/beta/addmarketing.php 20 69907 0 0
+/lead.php 14 78683 0 0
+/invoiceReport.php 49 1505 0 0
+/beta/paymentSale.php 18 75565 0 0
+/consumeItem1.php 28 254127 0 0
+/beta/reportService.php 2 2421 0 0
+/beta/products.php 6 22430 0 0
+/beta/addcustomers.php 5 34078 0 0
+/beta/editcompany.php 5 33170 0 0
+/beta/update_so_payment_details.php 1 3767 0 0
+/pdf/pdf/so.php 2 392 0 0
+/beta/fwdlogesticspayable.php 3 13011 0 0
+/beta/lead.php 33 127704 0 1
+/addcustomers.php 26 169563 0 0
+/beta/setting.php 2 7704 0 0
+/beta/edituser.php 1 3632 0 0
+/paymentSale.php 38 158457 0 0
+/beta/item.php 7 3849988 0 0
+/beta/addproduct.php 6 21470 0 0
+/beta/tables.php 9 6597 0 0
+/beta/fitem.php 6 486868 0 0
+/createSale.php 40 300385 0 0
+/marketing.php 27 94070 0 0
+/beta/productlist.php 24 92847 0 0
+/fonts/fa-regular-400.woff2 1 13276 0 0
+/beta/purchaseorder_view.php 6 25128 0 0
+/beta/profile.php 14 63164 1 1
+/beta/reminders.php 3 10929 0 0
+/beta/logesticspayable.php 5 17370 0 0
+/beta/demoDate.php 4 13879 0 0
+/app/ 9 15849 5 5
+/sales_view.php 5 21172 0 0
+/beta/ledgeraccount.php 6 22216 0 0
+/beta/createService.php 15 140054 0 0
+/productlist.php 3 11212 0 0
+/addreminder.php 1 3956 0 0
+/beta/salesorderlistDemo.php 8 38151 0 0
+/beta/additem.php 2 7182 0 0
+/beta/createJobcard.php 15 72971 0 0
+/beta/so_pay.php 2 7147 0 0
+/shipping_details.php 20 86668 0 0
+/beta/access_control.php 4 18738 0 0
+/purchaseorderlist.php 27 475981 0 3
+/beta/salesorder.php 31 141792 0 0
+/beta/upreminderstatus.php 3 11493 0 0
+/beta/consumeItem.php 9 34901 0 0
+/beta/homecurrency.php 1 3453 0 0
+/beta/ajaxData.php 41 55378 0 1
+/beta/modalwisereport.php 12 42710 0 0
+/beta/receive.php 9 40882 0 0
+/beta/addledgeraccount.php 2 7223 0 0
+/beta/purchaseorderlist.php 36 209622 0 0
+/beta/adduser.php 6 21565 0 0
+/beta/addwarehouse.php 1 3522 0 0
+/setsession.php 22 1562 2 0
+/consumeReport.php 51 420971 0 0
+/salesreport.php 7 11600 0 1
+/beta/analytics.php 11 53485 0 0
+/beta/profileSale.php 10 44409 0 0
+/beta/purhcasereport.php 10 14120 0 0
+/beta/purchase_receive_bulk.php 3 11090 0 0
+/beta/addreminder.php 4 15574 0 0
+/consumeItem.php 15 148646 0 0
+/setsession1.php 32 2208 0 0
+/beta/ledgerbalance.php 3 10942 0 0
+/beta/service_view.php 12 47867 0 0
+/beta/sales_add_item2.php 22 104606 0 0
+/beta/paymentvoucher.php 2 6280 0 0
+/profileSale.php 19 84536 0 0
+/enquiry.php 2 5824 0 0
+/beta/setsession1.php 53 3657 0 0
+/beta/booking.php 4 13848 0 0
+END_SIDER

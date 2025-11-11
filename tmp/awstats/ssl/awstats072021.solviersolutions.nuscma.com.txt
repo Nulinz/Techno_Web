@@ -1,0 +1,462 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202107 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.solviersolutions.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2029                
+POS_TIME 2702                
+POS_VISITOR 12402               
+POS_DAY 14739               
+POS_DOMAIN 3411                
+POS_LOGIN 3768                
+POS_ROBOT 3923                
+POS_WORMS 4264                
+POS_EMAILSENDER 4395                
+POS_EMAILRECEIVER 4538                
+POS_SESSION 15375               
+POS_SIDER 15543               
+POS_FILETYPES 4673                
+POS_DOWNLOADS 4845                
+POS_OS 4893                
+POS_BROWSER 5131                
+POS_SCREENSIZE 5691                
+POS_UNKNOWNREFERER 5765                
+POS_UNKNOWNREFERERBROWSER 6306                
+POS_ORIGIN 6842                
+POS_SEREFERRALS 6977                
+POS_PAGEREFS 7143                
+POS_SEARCHWORDS 7347                
+POS_KEYWORDS 7499                
+POS_MISC 2366                
+POS_ERRORS 7558                
+POS_CLUSTER 3624                
+POS_SIDER_404 7706                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210801021408 2 312 9274229145892
+FirstTime 20210701061623
+LastTime 20210731074912
+LastUpdate 20210801185443 2 0 1 0 0
+TotalVisits 63                  
+TotalUnique 55                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 60                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 4 80597 4 6 2201
+1 1 1 24622 8 14 8935
+2 2 2 49244 7 20 94462
+3 6 6 105219 27 58 83286
+4 0 0 0 9 28 52044
+5 5 53 2702325 18 75 357978
+6 1 1 6731 15 27 28513
+7 6 55 2737430 17 34 54294
+8 6 6 94059 26 61 281614
+9 5 5 69437 10 38 58173
+10 4 53 2711491 6 34 151716
+11 2 2 18870 3 8 15194
+12 3 4 35105 4 18 30347
+13 1 1 6731 4 7 1167
+14 9 9 179085 93 98 40710
+15 2 2 31353 13 48 268459
+16 2 2 49244 22 25 30381
+17 5 6 37407 11 43 41055
+18 4 52 2702325 14 30 167369
+19 4 4 91986 12 37 227718
+20 4 4 98488 46 51 22221
+21 4 4 55975 4 17 8854
+22 2 2 36757 8 52 266260
+23 0 0 0 2 4 24900
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 46 97 3321085
+in 13 62 2853809
+gr 10 10 246220
+ru 4 4 98488
+jp 2 50 2670972
+tr 2 50 2670972
+gb 2 2 24851
+nl 1 1 6731
+ua 1 1 6731
+eu 1 1 24622
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+Googlebot/ 283 1862254 20210731092825 0
+no_user_agent 6 148746 20210718064738 0
+(firefox/)([0-9]\.|[0-1][0]\.) 3 73866 20210723184116 0
+Googlebot\-Image/ 2 18730 20210717223558 0
+curl 1 12145 20210709110736 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 32 411840 0 0
+php 3 36419 0 0
+js 112 988284 0 0
+html 75 1216090 0 0
+woff 4 30144 0 0
+png 52 9241704 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+win10 24 24
+win8.1 1 1
+ios_iphone 103 6
+linuxandroid 53 4
+macosx6 1 1
+linux 5 3
+Unknown 19 19
+macosx 3 3
+macosx9 6 6
+win8 2 2
+macosx12 1 1
+macosx11 50 2
+winxp 1 1
+win7 9 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 26
+safari12.1 1 1
+chrome83.0.4103.61 2 2
+chrome88.0.4240.193 10 10
+firefox89.0 1 1
+iphone 50 2
+chrome51.0.2704.84 50 2
+chrome72.0.3626.121 1 1
+safari 53 4
+chrome83.0.4093.3 1 1
+firefox82.0 4 2
+chrome68.0.3440.106 2 2
+firefox67.0 1 1
+msie6.0 1 1
+firefox68.0 1 1
+chrome74.0.3729.131 2 2
+chrome89.0.4389.105 51 2
+chrome42.0.2311.90 5 5
+chrome60.0.3112.107 2 2
+firefox47.0 2 2
+chrome89.0.4389.114 7 7
+chrome35.0.1916.47 4 4
+safari5.1 1 1
+Unknown 19 19
+chrome36.0.1985.125 3 3
+firefox77.0 2 2
+chrome84.0.4147.105 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210731004542
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210731001440
+Go_http_package 20210731074912
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Go_http_package 20210731074912
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210731001440
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210731004542
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 59 60
+From1 0 0
+From2 5 5
+From3 6 6
+From4 12 207
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com_hk 5 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://216.10.252.82:80 5 5
+https://l.instagram.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+406 108 22600
+403 4 0
+401 24 891
+404 370 163857
+206 4 13462
+400 25 1300
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 74
+/Swathy%20Smart%20Cards_files/jquery-2_002.js 2 https://www.solviersolutions.in/our-profile.html
+/css/bootstrap.min.css 24 https://www.solviersolutions.in/css/css-style.css
+/Swathy%20Smart%20Cards_files/revolution_009.js 1 https://www.solviersolutions.in/our-profile.html
+/l 1 -
+/Swathy%20Smart%20Cards_files/sticky.js 2 https://www.solviersolutions.in/our-profile.html
+/Swathy%20Smart%20Cards_files/revolution_003.js 2 https://www.solviersolutions.in/our-profile.html
+/Swathy%20Smart%20Cards_files/jquery_005.js 2 https://www.solviersolutions.in/our-profile.html
+/config/aws.yml 1 -
+/Swathy%20Smart%20Cards_files/revolution_007.js 1 https://www.solviersolutions.in/our-profile.html
+/Swathy%20Smart%20Cards_files/waypoints.js 1 https://www.solviersolutions.in/our-profile.html
+/images/images-i6@2x.png 2 https://www.solviersolutions.in/
+/Swathy%20Smart%20Cards_files/revolution_008.js 2 https://www.solviersolutions.in/our-profile.html
+/content.php 3 -
+/ads.txt 1 http://solviersolutions.in/ads.txt
+/epic.html 1 -
+/css/jcarousel.responsive.css 21 https://www.solviersolutions.in/css/css-style.css
+//wp1/wp-includes/wlwmanifest.xml 9 -
+/robots.txt 54 -
+/Swathy%20Smart%20Cards_files/retina.js 1 https://www.solviersolutions.in/our-profile.html
+/Swathy%20Smart%20Cards_files/modernizr.js 2 https://www.solviersolutions.in/our-profile.html
+//news/wp-includes/wlwmanifest.xml 9 -
+/Swathy%20Smart%20Cards_files/main.js 1 https://www.solviersolutions.in/our-profile.html
+/Swathy%20Smart%20Cards_files/custom.js 2 https://www.solviersolutions.in/our-profile.html
+//wp/wp-includes/wlwmanifest.xml 9 -
+//2019/wp-includes/wlwmanifest.xml 9 -
+/Swathy%20Smart%20Cards_files/jquery_006.js 1 https://www.solviersolutions.in/our-profile.html
+/wp-content/plugins/ubh/up.php 3 -
+/Swathy%20Smart%20Cards_files/revolution_002.js 3 https://www.solviersolutions.in/our-profile.html
+//web/wp-includes/wlwmanifest.xml 9 -
+//blog/wp-includes/wlwmanifest.xml 9 -
+//wordpress/wp-includes/wlwmanifest.xml 9 -
+/css/font-awesome.min.css 24 https://www.solviersolutions.in/css/css-style.css
+/images/images-i1@2x.png 2 https://www.solviersolutions.in/
+/Swathy%20Smart%20Cards_files/jquery.js 1 https://www.solviersolutions.in/our-profile.html
+/info.php 1 -
+//wp2/wp-includes/wlwmanifest.xml 9 -
+/_profiler/phpinfo 1 -
+//cms/wp-includes/wlwmanifest.xml 9 -
+/Swathy%20Smart%20Cards_files/revolution_004.js 1 https://www.solviersolutions.in/our-profile.html
+/uid-based-npr.html 1 -
+/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin 2 -
+//sito/wp-includes/wlwmanifest.xml 9 -
+/.aws/credentials 1 -
+/Swathy%20Smart%20Cards_files/jcarousel.js 2 https://www.solviersolutions.in/our-profile.html
+/Swathy%20Smart%20Cards_files/jquery_002.js 3 https://www.solviersolutions.in/our-profile.html
+/images/images-i3@2x.png 2 https://www.solviersolutions.in/
+//shop/wp-includes/wlwmanifest.xml 9 -
+/images/images-logo@2x.png 4 https://www.solviersolutions.in/
+/phpinfo 1 -
+/pds.html 1 -
+//website/wp-includes/wlwmanifest.xml 9 -
+//site/wp-includes/wlwmanifest.xml 9 -
+/images/swathy.co.in-new@2x.png 2 https://www.solviersolutions.in/
+/images/images-i4@2x.png 2 https://www.solviersolutions.in/
+/Swathy%20Smart%20Cards_files/jquery_003.js 2 https://www.solviersolutions.in/our-profile.html
+/Swathy%20Smart%20Cards_files/wow.js 1 https://www.solviersolutions.in/our-profile.html
+/Swathy%20Smart%20Cards_files/jquery_004.js 1 https://www.solviersolutions.in/our-profile.html
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin 2 -
+/wp-login.php 1 http://www.solviersolutions.nuscma.com/wp-login.php
+/Swathy%20Smart%20Cards_files/bootstrap.js 2 https://www.solviersolutions.in/our-profile.html
+/Swathy%20Smart%20Cards_files/revolution_006.js 2 https://www.solviersolutions.in/our-profile.html
+/images/images-i2@2x.png 2 https://www.solviersolutions.in/
+//wp-includes/wlwmanifest.xml 9 -
+/config.js 1 -
+/css/ionicons.min.css 20 https://www.solviersolutions.in/css/css-style.css
+/Swathy%20Smart%20Cards_files/jquery-2.js 1 https://www.solviersolutions.in/our-profile.html
+/phpinfo.php 1 -
+//2020/wp-includes/wlwmanifest.xml 9 -
+/Swathy%20Smart%20Cards_files/revolution.js 1 https://www.solviersolutions.in/our-profile.html
+/Swathy%20Smart%20Cards_files/revolution_005.js 1 https://www.solviersolutions.in/our-profile.html
+/aws.yml 1 -
+/wp-content/ 1 -
+/secc-project.html 1 -
+//test/wp-includes/wlwmanifest.xml 9 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 60
+103.144.28.107 7 7 172354 20210724143945
+92.118.160.45 4 4 98488 20210731004542
+20.97.186.106 4 4 98488 20210726081610
+23.94.191.242 4 4 98488 20210708200006
+157.49.212.66 2 51 2674724 20210713070532
+208.110.85.68 2 2 13462 20210723175820
+106.198.19.241 2 51 2674724 20210711104227
+120.138.12.198 2 50 2670972 20210718180541
+3.109.17.40 2 2 13462 20210726080805
+45.129.18.185 2 2 0 20210718120240
+150.136.252.166 2 2 49244 20210719034209
+46.45.185.167 2 12 269117 20210716054212
+40.117.134.190 2 2 13462 20210728075938
+54.162.142.110 2 2 13462 20210729175615
+107.150.52.198 2 2 24284 20210709110745
+92.118.160.37 2 2 49244 20210731074912
+142.54.181.59 1 1 6731 20210724093806
+144.86.173.91 1 1 24622 20210730193358
+54.203.73.198 1 2 10483 20210708125223
+34.96.130.29 1 1 24622 20210714052606
+34.86.35.27 1 1 24622 20210709211616
+92.118.160.13 1 1 24622 20210711153743
+54.253.158.170 1 1 6731 20210727175651
+35.178.183.164 1 1 6731 20210712183318
+144.86.173.129 1 1 24622 20210731001440
+15.223.30.116 1 1 6731 20210723003404
+34.77.162.15 1 1 24622 20210709074026
+46.45.185.169 0 9 49613 
+51.158.191.84 1 1 6731 20210729092015
+159.69.219.20 1 1 6731 20210728052957
+13.232.149.123 1 1 6731 20210712143951
+144.86.173.69 1 1 24622 20210721012559
+18.192.178.96 1 1 0 20210709141949
+46.45.185.171 0 8 46512 
+107.150.46.53 1 1 6731 20210703082909
+100.21.218.158 1 2 10483 20210714171530
+107.150.52.194 1 1 6731 20210701061623
+185.151.125.197 1 1 24622 20210726002349
+92.118.160.17 1 1 24622 20210730223317
+35.166.164.223 1 1 0 20210709210205
+223.228.191.222 1 1 6731 20210711130450
+92.118.160.5 1 1 24622 20210730185529
+46.45.185.164 0 7 200925 
+45.129.18.253 1 1 0 20210720032440
+185.14.194.66 1 1 6731 20210716073017
+107.150.48.228 1 1 12135 20210708224232
+34.86.35.5 1 1 24622 20210715193949
+91.76.171.152 1 1 24622 20210702193348
+3.133.121.230 1 1 6731 20210726151102
+3.82.188.75 1 1 6731 20210725091041
+34.77.162.25 1 1 24622 20210716211030
+91.76.235.57 1 1 24622 20210706093207
+144.86.173.151 1 1 24622 20210720093304
+46.45.185.161 0 7 68182 
+178.62.228.200 1 1 24622 20210706102638
+185.107.242.199 1 1 24622 20210710123452
+139.162.6.88 1 1 6731 20210719115357
+46.45.185.190 0 7 2036623 
+51.161.115.53 1 1 18120 20210727193509
+92.118.160.57 1 1 24622 20210712021556
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20210701 1 1 6731 1
+20210702 1 1 24622 1
+20210703 1 1 6731 1
+20210706 2 2 49244 2
+20210708 6 7 121106 3
+20210709 7 7 73528 6
+20210710 1 1 24622 1
+20210711 4 53 2706077 3
+20210712 4 4 62706 4
+20210713 2 51 2674724 1
+20210714 2 3 35105 2
+20210715 1 1 24622 1
+20210716 4 52 2702325 3
+20210717 1 1 24622 1
+20210718 4 52 2695594 3
+20210719 3 3 55975 2
+20210720 3 3 49244 3
+20210721 1 1 24622 1
+20210723 3 3 20193 3
+20210724 8 8 179085 2
+20210725 4 4 62706 3
+20210726 6 6 94059 4
+20210727 2 2 24851 2
+20210728 2 2 13462 2
+20210729 3 3 20193 2
+20210730 3 3 73866 3
+20210731 3 3 73866 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 2
+0s-30s 60
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 72 1184508 58 54
+/fonts/revicons-revicons90c6.woff 4 30144 0 4
+//wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php 3 36419 2 2
+// 2 13462 2 2
+/contact-us.html 1 18120 1 1
+END_SIDER

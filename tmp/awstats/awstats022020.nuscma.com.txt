@@ -1,0 +1,959 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202002 will be lost/reset.
+# Last config file used to build this data file was /home/nuscmy3y/tmp/awstats/awstats.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2007                
+POS_TIME 2693                
+POS_VISITOR 17612               
+POS_DAY 24828               
+POS_DOMAIN 3512                
+POS_LOGIN 4074                
+POS_ROBOT 4229                
+POS_WORMS 4692                
+POS_EMAILSENDER 4823                
+POS_EMAILRECEIVER 4966                
+POS_SESSION 25375               
+POS_SIDER 25582               
+POS_FILETYPES 5101                
+POS_DOWNLOADS 5343                
+POS_OS 5535                
+POS_BROWSER 5763                
+POS_SCREENSIZE 7253                
+POS_UNKNOWNREFERER 7327                
+POS_UNKNOWNREFERERBROWSER 7869                
+POS_ORIGIN 8148                
+POS_SEREFERRALS 8289                
+POS_PAGEREFS 8452                
+POS_SEARCHWORDS 8939                
+POS_KEYWORDS 9091                
+POS_MISC 2356                
+POS_ERRORS 9150                
+POS_CLUSTER 3930                
+POS_SIDER_404 9327                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200301001549 7928 1582561 6269505969427
+FirstTime 20200208104648
+LastTime 20200229101629
+LastUpdate 20200301041200 247 0 230 12 4
+TotalVisits 206                 
+TotalUnique 174                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 185                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 47 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 7 79618 53 63 51905
+1 4 4 53598 132 136 68930
+2 48 152 7251909 43 51 48256
+3 55 141 2819781 68 91 45170
+4 42 106 3572040 73 98 49247
+5 126 262 8203754 252 305 416297
+6 9 11 73909 87 92 35611
+7 14 39 1336434 52 62 15415
+8 64 240 6598398 105 183 117124
+9 31 118 3851830 87 114 59116
+10 33 78 2030122 289 308 109073
+11 88 468 10603087 1625 1639 385660
+12 96 246 1106584 77 109 69891
+13 194 671 11942597 108 140 87227
+14 253 339 2441650 90 143 113457
+15 79 291 5720290 50 82 56173
+16 16 29 232024 59 68 71223
+17 8 25 1179595 59 65 25219
+18 8 10 52012 76 83 40028
+19 7 7 102489 119 158 2244682
+20 1 1 4101 51 52 17705
+21 0 0 0 38 39 33680
+22 7 7 108693 59 61 36975
+23 5 5 48343 258 259 117226
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 24
+in 561 1217 16933606
+us 528 1808 43921206
+cn 25 57 1867159
+ru 17 42 1444041
+it 11 11 195316
+eu 8 25 1113625
+br 6 6 105124
+fr 6 6 91315
+gb 6 6 63227
+nl 4 21 1141927
+de 4 5 153583
+cl 3 3 12303
+my 3 20 1110877
+ir 2 19 1106772
+za 2 2 34864
+ca 1 1 4101
+es 1 1 4101
+id 1 1 17432
+at 1 1 17432
+bg 1 1 17939
+zz 1 1 4105
+ng 1 1 17432
+ua 1 1 17432
+se 1 1 17939
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+baidu 38 2213644 20200209190931 0
+(firefox/)([0-9]\.|[0-1][0]\.) 13 53799 20200210224344 0
+spider 7 228980 20200210054721 0
+no_user_agent 6 106118 20200211034340 0
+DomainSONOCrawler/ 2 8202 20200211150635 0
+link 2 34864 20200211022648 0
+curl 2 35371 20200210165356 0
+bingbot/ 1 4155 20200209203443 0
+Wget/ 1 17432 20200210165357 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+txt 2 128 0 0
+css 787 1679953 0 0
+png 151 8146853 0 0
+js 293 23571115 0 0
+Unknown 669 4639851 0 0
+html 333 2386644 0 0
+php 193 567299 0 0
+svg 790 1658907 0 0
+jpg 39 26762108 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/.well-known/pki-validation/C04732D8BB7EBE266EE60EEF5EC2C7A1.txt 1 0 64
+/.well-known/pki-validation/8E982309557BC23C3E422A374DE95A87.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+macosx 19 2
+linux 89 51
+macosx8 1 1
+macosx11 4 4
+ios_iphone 23 5
+linuxandroid 794 408
+win8.1 70 32
+win7 111 52
+winxp 5 4
+Unknown 61 59
+winlong 1 1
+win10 2079 576
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 70
+firefox58.0 6 6
+netscape 1 1
+chrome79.0.3945.136 430 264
+chrome77.0.3865.120 1 1
+chrome47.0.2526.80 1 1
+chrome52.0.2743.116 10 10
+chrome50.0.2661.102 1 1
+chrome62.0.3202.84 25 5
+firefox73.0 19 19
+Unknown 22 20
+chrome78.0.3904.97 9 9
+chrome79.0.3945.93 198 109
+firefox12.0 1 1
+chrome67.0.3396.79 20 3
+safari10.0 1 1
+firefox66.0 1 1
+msie11.0 8 7
+firefox36.0 4 4
+msie6.0 2 2
+firefox71.0 1 1
+safari13.0.4 1 1
+chrome21.0.1180.89 1 1
+mozilla 36 36
+firefox11.0 1 0
+msie9.0 1 1
+chrome38.0.1025.166 22 5
+safari13.0.1 19 2
+firefox52.0 1 1
+chrome68.0.3440.106 2 2
+chrome38.0.0.0 2 1
+firefox50.0 1 1
+firefox72.0 1738 444
+msie8.0 2 2
+chrome63.0.3239.132 9 9
+chrome72.0.3626.121 113 35
+chrome57.0.2987.132 36 16
+chrome72.0.3626.119 34 6
+chrome65.0.3325.181 7 7
+firefox65.0 9 9
+firefox57.0 25 8
+chrome49.0.2623.105 1 1
+chrome74.0.3729.169 20 3
+chrome58.0.3029.110 1 1
+chrome61.0.3163.98 1 1
+firefox42.0 40 16
+chrome67.0.3396.99 75 24
+chrome51.0.2704.103 5 5
+chrome73.0.3683.86 10 2
+firefox68.0 1 1
+safari9.1.2 3 3
+chrome72.0.3602.2 1 1
+chrome60.0.3112.113 1 1
+chrome75.0.3770.142 3 1
+msie10.0 1 1
+chrome79.0.3945.130 161 53
+chrome78.0.3904.87 19 2
+chrome79.0.3945.88 18 1
+chrome26.0.1410.65 1 1
+safari11.0 2 1
+chrome59.0.3071.115 3 3
+chrome11.0.696.71 2 2
+chrome76.0.2171.71 1 1
+chrome72.0.3626.109 1 0
+chrome40.0.2214.85 19 2
+firefox40.1 1 1
+chrome76.0.3809.132 1 1
+chrome56.0.2924.87 37 6
+chrome79.0.3945.117 1 1
+netscape5.0 4 4
+chrome40.0.2214.89 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+HTTP_Banner_Detection_(https://security.ipip.net) 20200211071116
+WhatsApp/2.20.11_A 20200210051247
+Cpanel-HTTP-Client/1.0 20200210052049
+COMODO_DCV 20200211033717
+Mozilla 20200210102749
+Go-http-client/1.1 20200210085100
+Mozilla/5.0_(compatible;_Nmap_Scripting_Engine;_https://nmap.org/book/nse.html) 20200210145841
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20200210052054
+Mozilla/5.0_zgrab/0.x 20200211072559
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+COMODO_DCV 20200211033717
+Cpanel-HTTP-Client/1.0 20200210052049
+WhatsApp/2.20.11_A 20200210051247
+Go-http-client/1.1 20200210085100
+HTTP_Banner_Detection_(https://security.ipip.net) 20200211071116
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 488 526
+From1 1 1
+From2 4 4
+From3 16 68
+From4 686 2658
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 10
+http://nulinz.com 5 45
+http://trafers.com 3 3
+http://nulinz.com/admins/index 2 3
+http://nulinz.com/login 2 2
+http://nulinz.com/admins/create_students 1 2
+http://nulinz.com/admins/change_pin 1 3
+http://nulinz.com/admins/create_staffs 1 3
+http://nulinz.com/admins/index.php 1 2
+http://nulinz.com/admins/ 0 3
+http://nulinz.com/login.php 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+301 37 8621
+404 722 452612
+302 3184 1064382
+403 112 69918
+206 3 2110
+400 3 452
+409 48 3984
+500 2 152
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 309
+/favicon381f.ico 1 -
+/errors/processor.php 1 -
+/Telerik.Web.UI.WebResource.axd 1 -
+/www/phpMyAdmin/index.php 1 -
+/sql/php-myadmin/index.php 2 -
+/my.php 1 -
+/website/wp-includes/wlwmanifest.xml 6 -
+/pma2015/index.php 1 -
+/phpMyadmin/index.php 2 -
+/db/dbweb/index.php 2 -
+/phpmyadmin1/index.php 3 -
+/1ts.php 1 -
+/demo/wp-includes/wlwmanifest.xml 1 -
+/zz.php 1 -
+/nuscma/index 3 http://nuscma.com/login.php
+/TP/public/index.php 4 -
+/pma/scripts/db___.init.php 1 -
+/yuyang.php 1 -
+/sdf 3 -
+/PMA2015/index.php 1 -
+/99.php 1 -
+/%75%73%65%72%2e%70%68%70 1 554fcae493e564ee0dc75bdf2ebf94caads|a:3:{s:2:\"id\"
+/%75%73%65%72/%72%65%67%69%73%74%65%72 1 -
+/zzz.php 1 -
+/ads.txt 1 -
+/blog/wp-includes/wlwmanifest.xml 10 -
+/tools/phpMyAdmin/index.php 1 -
+/PMA2/index.php 1 -
+/wp-includes/wlwmanifest.xml 9 -
+/phpMyAdmin__/index.php 1 -
+/myadmin/index.php 3 -
+/sqladmin/index.php 1 -
+/wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php 3 -
+/python.php 1 -
+/wpo.php 1 -
+/manager/html 2 -
+/TP/index.php 4 -
+/indea.php 1 -
+/phpMyAdmin123/index.php 1 -
+/Admin52fc0ad8/Login.php 1 -
+/v1/wp-includes/wlwmanifest.xml 1 -
+/PMA2014/index.php 1 -
+/administrator/db/index.php 1 -
+/no1.php 1 -
+/html/public/index.php 3 -
+/t6nv.php 1 -
+/phpMyAdmin_111/index.php 1 -
+/qaq.php 1 -
+/phpmyadmin2018/index.php 1 -
+/doudou.php 1 -
+/muhstik.php 2 -
+/phpMyAdmin4.8.1/index.php 1 -
+/xmlrpc.php 1 -
+/phpMyAdmins/index.php 1 -
+/admin/phpmyadmin/index.php 3 -
+/web/wp-includes/wlwmanifest.xml 6 -
+/dp.php 1 -
+/sql/sql/index.php 2 -
+/help-e.php 1 -
+/wp1/wp-includes/wlwmanifest.xml 5 -
+/db/webadmin/index.php 2 -
+/App/ 1 -
+/home.php 1 -
+/qq.php 1 -
+/sql/phpmy-admin/index.php 2 -
+/MySQLAdmin/index.php 1 -
+/haiyan.php 1 -
+/pma2014/index.php 1 -
+/http%3A%2F%2Fwww%2ENUSCMA%2Ecom%2F 4 -
+/phpmyadmin2017/index.php 1 -
+/ 31 -
+/administrator/phpmyadmin/index.php 1 -
+/phpinfo.php 1 -
+/mysql/web/index.php 2 -
+/mysql/db/index.php 2 -
+/phpmyadmin2014/index.php 1 -
+/phpmyadmin2019/index.php 1 -
+/phpMydmin/index.php 1 -
+/2016/wp-includes/wlwmanifest.xml 1 -
+/db/dbadmin/index.php 2 -
+/wp/wp-includes/wlwmanifest.xml 10 -
+/kk.php 1 -
+/logon.php 1 -
+/up.php 1 -
+/wordpress/wp-includes/wlwmanifest.xml 9 -
+/old/wp-includes/wlwmanifest.xml 1 -
+/administrator/pma/index.php 1 -
+/license.php 1 -
+/new/wp-includes/wlwmanifest.xml 1 -
+/newsite/wp-includes/wlwmanifest.xml 2 -
+/taisui.php 1 -
+/phpmyadmin3333/index.php 1 -
+/1/wp-includes/wlwmanifest.xml 1 -
+/pmamy2/index.php 1 -
+/pma2019/index.php 1 -
+/hhhhhh.php 1 -
+/admins/daily_pfd_report.php 1 -
+/administrator/phpMyAdmin/index.php 1 -
+/izom.php 2 -
+/phpmyadmin2015/index.php 1 -
+/appserv.php 1 -
+/admin/pMA/index.php 2 -
+/muhstik-dpr.php 1 -
+/phpMyAdmln/index.php 1 -
+/phpmy/index.php 2 -
+/phpMyAdmin4.8.2/index.php 1 -
+/solr/ 1 -
+/2017/wp-includes/wlwmanifest.xml 1 -
+/PMA2019/index.php 1 -
+/mysql/index.php 3 -
+/phpMyAdmin._2/index.php 1 -
+/shopdb/index.php 3 -
+/hs.php 1 -
+/sql/phpmyadmin2/index.php 2 -
+/program/index.php 2 -
+/1/index.php 1 -
+/new_license.php 1 -
+/v2/wp-includes/wlwmanifest.xml 1 -
+/phpMyAdmin/scripts/db___.init.php 1 -
+/phpmyadmin2020/index.php 1 -
+/__phpMyAdmin/index.php 1 -
+/phpMyAdmin/phpMyAdmin/index.php 1 -
+/pma2020/index.php 1 -
+/phpmyadmin-old/index.php 1 -
+/TP/html/public/index.php 2 -
+/forum.php 1 -
+/php-my-admin/index.php 1 -
+/sql/sqlweb/index.php 2 -
+/sqlmanager/index.php 2 -
+/uploader.php 1 -
+/cpanrl 1 -
+/test.php 2 -
+/site/wp-includes/wlwmanifest.xml 10 -
+/database/index.php 2 -
+/staging/wp-includes/wlwmanifest.xml 1 -
+/db/phpMyAdmin3/index.php 2 -
+/WWW/phpMyAdmin/index.php 1 -
+/wp2/wp-includes/wlwmanifest.xml 5 -
+/sql/myadmin/index.php 2 -
+/xx.php 1 -
+/db_cts.php 1 -
+/sql/phpMyAdmin/index.php 2 -
+/phpiMyAdmin/index.php 1 -
+/dev/wp-includes/wlwmanifest.xml 2 -
+/PMA2020/index.php 1 -
+/xampp/phpmyadmin/index.php 1 -
+/aaa.php 1 -
+/phpmyAdmin/index.php 2 -
+/elrekt.php 2 -
+/phpMyAdmin1/index.php 1 -
+/sql/sqladmin/index.php 2 -
+/db/db-admin/index.php 2 -
+/mysql/pma/index.php 2 -
+/index.php 1 -
+/ak.php 1 -
+/main/wp-includes/wlwmanifest.xml 1 -
+/public/index.php 2 -
+/phpMyAdmin._/index.php 1 -
+/images/jsspwneed.php 1 -
+/admin/db/index.php 2 -
+/admin/phpMyAdmin/index.php 3 -
+/phpMyAdmin.old/index.php 1 -
+/z.php 1 -
+/admin/web/index.php 2 -
+/shaAdmin/index.php 1 -
+/lang.php 1 -
+/sql/sql-admin/index.php 2 -
+/xw1.php 1 -
+/joomla/ 1 -
+/dbadmin/index.php 3 -
+/phpadmin/index.php 1 -
+/manager/text/list 1 -
+/claroline/phpMyAdmin/index.php 1 -
+/MyAdmin/index.php 3 -
+/typo3/phpmyadmin/index.php 1 -
+/phpmy-admin/index.php 2 -
+/ftmabc.php 1 -
+/phpMyAdminhf/index.php 1 -
+/db/websql/index.php 2 -
+/coonig.php 1 -
+/sql/phpMyAdmin2/index.php 2 -
+/root.php 1 -
+/_query.php 1 -
+/backup/wp-includes/wlwmanifest.xml 1 -
+/mysql-admin/index.php 2 -
+/home/wp-includes/wlwmanifest.xml 2 -
+/pma/index.php 3 -
+/login.cgi 1 -
+/media/wp-includes/wlwmanifest.xml 5 -
+/db/index.php 2 -
+/laravel.php 1 -
+/sql/websql/index.php 2 -
+/mysqladmin/index.php 3 -
+/log.php 1 -
+/wp-config.php 1 -
+/thinkphp/html/public/index.php 4 -
+/phpmyadmin2011/index.php 1 -
+/db/myadmin/index.php 2 -
+/phpMyAdmin4.8.4/index.php 1 -
+/phpmyadmin/index.php 3 -
+/phpmyadmin3/index.php 2 -
+/shop/wp-includes/wlwmanifest.xml 5 -
+/phpMyAdmin-3/index.php 1 -
+/admin/sqladmin/index.php 2 -
+/phpmyadmin2/index.php 2 -
+/phpMyAdmin4/index.php 1 -
+/s.php 1 -
+/admin/mysql2/index.php 1 -
+/wp-admin/install.php 1 -
+/phpMyAdmin-4.4.0/index.php 1 -
+/bbs/index.php 1 -
+/PMA/index.php 2 -
+/sito/wp-includes/wlwmanifest.xml 5 -
+/mysqlmanager/index.php 2 -
+/2015/wp-includes/wlwmanifest.xml 1 -
+/blogs/wp-includes/wlwmanifest.xml 1 -
+/db/phpMyAdmin-3/index.php 2 -
+/shell 1 -
+/test/wp-includes/wlwmanifest.xml 6 -
+/payload.php 1 -
+/phpmyadm1n/index.php 1 -
+/administrator/admin/index.php 1 -
+/java.php 1 -
+/cmv.php 1 -
+/phpMyAdmin2/index.php 1 -
+/phpmyadmin2013/index.php 1 -
+/phpmyadmin4/index.php 2 -
+/db/phpmyadmin3/index.php 2 -
+/cms/wp-includes/wlwmanifest.xml 9 -
+/%73%65%65%79%6F%6E/%68%74%6D%6C%6F%66%66%69%63%65%73%65%72%76%6C%65%74 1 -
+/unprotected/loader.html 15 http://www.nuscma.com/cpanel
+/pma2017/index.php 1 -
+/desktop.ini.php 1 -
+/download/index.php 1 -
+/pmd_online.php 1 -
+/myadmin/scripts/db___.init.php 1 -
+/pma2011/index.php 1 -
+/pmamy/index.php 1 -
+/news/wp-includes/wlwmanifest.xml 6 -
+/images/!.php 1 -
+/lol.php 1 -
+/pma2018/index.php 1 -
+/2phpmyadmin/index.php 2 -
+/mysql/dbadmin/index.php 2 -
+/MyAdmin/scripts/db___.init.php 1 -
+/admin/sysadmin/index.php 2 -
+/db/phpmyadmin/index.php 2 -
+/cmdd.php 1 -
+/store/wp-includes/wlwmanifest.xml 1 -
+/administrator/web/index.php 1 -
+/PMA2017/index.php 1 -
+/knal.php 1 -
+/images/attari.php 1 -
+/2019/wp-includes/wlwmanifest.xml 5 -
+/db/phpMyAdmin/index.php 2 -
+/phpMyAdmin/index.php 2 -
+/phpMyAdmin3/index.php 1 -
+/administrator/PMA/index.php 1 -
+/wp-admin/setup-config.php 1 -
+/mysql/sqlmanager/index.php 3 -
+/PMA2011/index.php 1 -
+/123131/index.php 1 -
+/secure/ContactAdministrators!default.jspa 1 -
+/rxr.php 1 -
+/PMA2018/index.php 1 -
+/phpmyadmin/phpmyadmin/index.php 1 -
+/mysql/admin/index.php 3 -
+/PMA2016/index.php 1 -
+/SQL/index.php 1 -
+/www/wp-includes/wlwmanifest.xml 1 -
+/scripts/setup.php 1 -
+/phpmyadmin0/index.php 1 -
+/admin/index.php 2 -
+/phpMyAdmin333/index.php 1 -
+/administrator/index.php 2 -
+/PMA2013/index.php 1 -
+/phpmyadmin2016/index.php 1 -
+/mysql/mysqlmanager/index.php 2 -
+/phpdm.php 1 -
+/phpMyAdmion/index.php 1 -
+/sql/webdb/index.php 2 -
+/phpmyadmin2012/index.php 1 -
+/assets/images/bg-1.jpeg 149 http://nuscma.com/
+/mysql/pMA/index.php 2 -
+/forums/index.php 1 -
+/pma2012/index.php 1 -
+/robots.txt 6 -
+/plugins/weathermap/editor.php 1 -
+/db/webdb/index.php 2 -
+/mysql_admin/index.php 1 -
+/Drupal.php 1 -
+/admin/PMA/index.php 1 -
+/5678.php 1 -
+/phpma/index.php 1 -
+/pma2013/index.php 1 -
+/webdav/ 1 -
+/pma2016/index.php 1 -
+/php-myadmin/index.php 2 -
+/sql/webadmin/index.php 2 -
+/phppma/index.php 3 -
+/2018/wp-includes/wlwmanifest.xml 6 -
+/PMA2012/index.php 1 -
+/wuwu11.php 1 -
+/sql/phpmanager/index.php 2 -
+/text.php 1 -
+/phpAdmin/index.php 1 -
+/b.php 1 -
+/shell.php 2 -
+/wp-login.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 185
+106.211.229.45 211 563 6338707 20200210133255
+157.46.32.230 203 1007 18984930 20200210140553
+106.211.200.198 121 158 1571500 20200209172900
+106.217.1.243 99 237 2681207 20200211155740
+157.46.54.95 83 100 307940 20200209145851
+136.232.194.162 41 102 3628345 20200211054211
+157.50.87.66 38 166 2761070 20200211153458
+106.217.1.145 37 51 150266 20200210143420
+106.208.143.34 27 62 1111299 20200211100028
+223.186.178.177 16 36 1192707 20200211035147
+216.10.252.82 12 14 896 20200210052048
+106.53.30.222 10 10 160989 20200211051504
+70.32.0.143 9 26 1131057 20200211023200
+66.133.109.36 9 9 783 20200210052054
+52.28.236.88 9 9 783 20200210052054
+77.243.191.20 8 25 1113625 20200211023422
+212.92.123.85 8 25 1113625 20200211023322
+106.208.98.239 8 51 2253025 20200209153925
+52.15.254.228 7 7 609 20200210052054
+69.164.111.198 6 6 104622 20200210055444
+34.222.229.130 6 6 522 20200210052053
+157.51.112.221 6 30 1138470 20200209135718
+134.209.80.37 6 6 24606 20200211073103
+157.51.89.95 6 26 1183798 20200210081547
+84.17.50.200 5 5 88189 20200210080108
+104.192.108.10 0 6 718403 
+157.50.250.193 1 1 13564 20200215121200
+198.108.66.80 1 1 4101 20200211072559
+185.189.113.36 1 1 2671 20200211023456
+45.182.156.3 1 1 17939 20200209140125
+129.232.167.212 1 1 17432 20200211022649
+157.46.55.111 1 4 7890 20200210081705
+109.73.176.209 1 1 17432 20200211020243
+36.99.136.143 1 8 801543 20200210071824
+192.241.235.209 1 1 4155 20200209143449
+101.91.60.109 1 2 297801 20200210050455
+46.182.143.115 1 1 17939 20200209230133
+106.211.205.170 2 2 27140 20200224145953
+3.14.255.131 2 2 174 20200210052053
+34.219.119.74 1 1 4155 20200209162634
+46.4.33.48 1 1 17939 20200209164146
+35.238.222.7 3 3 52296 20200210102147
+93.63.162.100 1 1 17939 20200209140445
+106.211.205.81 3 3 40704 20200223141614
+111.7.100.21 2 6 19090 20200210080203
+158.69.249.181 1 1 4101 20200210203335
+109.70.100.23 1 1 17432 20200211022648
+66.249.82.156 0 1 704266 
+185.172.66.118 1 1 17939 20200209182711
+69.25.58.61 3 20 1111164 20200211022844
+103.53.43.36 3 3 192 20200210052049
+177.84.41.47 1 1 17964 20200209133335
+196.52.43.61 1 1 17432 20200211051101
+72.12.194.94 1 1 17432 20200211044618
+157.50.111.110 1 1 13566 20200214101956
+209.97.134.190 1 1 17437 20200210070158
+103.95.13.83 2 2 34864 20200210113420
+191.96.83.53 1 1 4101 20200211034713
+8.36.123.217 1 1 17432 20200210111212
+106.217.6.17 1 1 13571 20200221140138
+106.217.4.8 1 1 13571 20200220055303
+163.172.70.242 1 1 17432 20200210220710
+73.84.233.134 2 2 8310 20200209235953
+157.50.208.92 1 1 13572 20200217130108
+103.206.100.28 1 1 17432 20200210165932
+106.217.12.209 2 2 27140 20200229100845
+36.99.136.139 0 1 3785 
+157.46.52.70 1 1 13565 20200226133752
+91.237.201.176 1 1 17432 20200211000353
+36.99.136.142 0 1 1454 
+62.102.148.69 1 1 17939 20200210005450
+40.76.35.32 2 2 8202 20200210190604
+80.82.66.250 1 1 17432 20200211105910
+66.249.88.123 1 6 131694 20200227113607
+51.158.191.84 1 1 4155 20200210001335
+157.51.89.23 1 18 1045846 20200210050500
+62.210.10.77 1 1 17432 20200210224930
+103.90.204.118 1 1 17432 20200211144953
+157.50.120.135 2 2 2146 20200211031705
+72.12.194.92 1 1 11713 20200211044629
+62.210.83.78 1 1 4155 20200210013156
+85.14.52.170 1 1 17939 20200209192317
+66.102.7.195 0 3 58942 
+106.211.224.165 4 4 54275 20200226142957
+195.47.249.18 1 2 113604 20200211022944
+96.224.81.160 1 1 4105 20200210060327
+164.52.24.163 1 1 4101 20200210225105
+187.11.39.42 1 1 17432 20200211032843
+157.50.71.138 1 1 1077 20200210145707
+167.160.172.27 2 19 1107063 20200211023122
+191.6.43.97 1 1 17432 20200210114651
+157.51.247.53 1 1 13569 20200215102607
+177.131.51.19 1 1 17432 20200211111853
+169.197.108.42 1 1 4105 20200210062534
+41.219.185.11 1 1 17432 20200210193556
+194.94.127.9 1 1 4101 20200210101047
+157.51.249.43 1 1 13565 20200219095755
+106.217.4.106 1 1 13569 20200217192310
+157.51.252.224 1 1 13566 20200223081115
+36.99.136.140 0 1 89066 
+171.13.14.83 0 1 630 
+36.99.136.138 1 3 9672 20200210071802
+106.211.192.195 1 1 13569 20200216041531
+111.7.100.23 0 2 198569 
+45.79.152.7 1 1 17432 20200210145841
+157.46.98.226 1 1 13565 20200224101907
+157.50.97.134 4 22 1007460 20200211102923
+185.113.128.30 1 1 17432 20200211023028
+178.252.151.246 2 19 1106772 20200210051400
+179.223.110.181 1 1 17432 20200211024732
+177.188.176.160 1 1 17432 20200210135620
+157.50.208.95 1 1 13565 20200216072314
+120.194.198.44 1 1 4101 20200210085100
+171.12.10.105 1 1 0 20200211154501
+111.7.100.22 1 5 12777 20200210080157
+157.51.204.221 1 1 13565 20200222135717
+169.38.85.109 1 1 2671 20200211023457
+139.162.119.197 1 1 17432 20200211071116
+147.147.220.76 2 2 20103 20200211023455
+62.210.5.253 1 1 17432 20200210222507
+66.249.88.125 2 9 973044 20200227113610
+185.220.101.50 1 1 17432 20200211023028
+157.46.54.37 1 1 13565 20200228101306
+217.127.234.235 1 1 4101 20200210141446
+89.240.136.194 1 1 17432 20200211023028
+181.214.182.196 1 1 4101 20200211033436
+39.98.59.118 2 2 8202 20200210134044
+111.93.159.50 3 20 1120403 20200209134755
+67.80.50.71 3 37 2152618 20200210051704
+106.211.193.172 1 1 13565 20200215031533
+70.113.252.69 2 19 1107063 20200211044626
+106.211.193.23 1 1 13564 20200212092347
+157.46.23.43 1 1 13565 20200228052732
+54.165.172.24 1 1 4101 20200210102749
+138.68.60.3 1 1 4101 20200211021912
+66.249.88.121 1 7 89640 20200227113607
+157.46.25.83 1 1 13566 20200226095318
+165.227.163.166 1 1 2671 20200211023455
+104.192.108.9 2 13 388419 20200209174407
+34.228.20.235 2 19 1107063 20200210143158
+170.82.36.10 1 1 17939 20200209231950
+95.249.61.206 4 4 71756 20200209192512
+66.102.7.193 0 5 24876 
+119.28.177.156 1 1 17432 20200211111957
+192.64.4.79 2 2 34874 20200210060704
+171.13.14.60 1 1 4155 20200209163819
+111.7.100.20 0 1 3785 
+101.4.60.63 1 3 113658 20200209163907
+178.206.203.166 1 1 17432 20200210150520
+157.51.236.242 1 1 13565 20200221014918
+66.102.7.197 2 7 917490 20200227113608
+191.96.191.57 1 1 4101 20200211031654
+54.191.113.2 1 1 4155 20200210042014
+195.154.63.222 1 1 17432 20200210221913
+54.82.168.62 0 1 280364 
+157.50.94.102 1 1 13565 20200213105912
+36.81.196.224 1 1 17432 20200211023648
+117.207.97.24 1 1 4105 20200210050353
+157.46.50.120 1 1 13565 20200229101629
+72.12.194.91 2 2 34864 20200211044627
+52.36.97.86 1 1 4155 20200210002244
+178.208.176.63 1 1 4105 20200210062807
+218.5.21.109 1 1 17437 20200210055537
+92.112.168.217 1 1 17432 20200210171619
+103.23.119.41 1 1 17437 20200210045947
+35.230.58.15 2 19 1106768 20200210090932
+103.121.60.68 1 1 17432 20200211054912
+185.220.101.74 2 10 235923 20200210075144
+104.197.39.51 3 3 52296 20200210101956
+157.46.51.7 1 1 13565 20200227135104
+162.247.74.201 1 1 2671 20200211023456
+106.211.193.5 1 1 13570 20200214174031
+157.50.240.243 1 1 13566 20200218094235
+85.159.237.66 2 19 1107063 20200211022445
+106.211.228.88 2 2 27141 20200218114815
+106.211.194.53 4 4 54274 20200227184603
+185.216.140.6 1 1 4155 20200209235646
+103.133.104.41 2 2 34864 20200211001233
+106.211.193.166 1 1 13572 20200213171715
+106.211.232.27 1 1 13570 20200219113210
+36.99.136.141 1 6 103013 20200210071819
+195.154.62.232 2 2 34864 20200210224544
+149.129.145.91 3 20 1110877 20200210050440
+164.68.112.178 1 1 17437 20200210061420
+104.248.85.129 3 3 12315 20200210052352
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20200208 4 4 54273 2
+20200209 266 424 7800696 30
+20200210 618 2025 38087192 76
+20200211 257 722 19973766 53
+20200212 1 1 13564 1
+20200213 2 2 27137 2
+20200214 2 2 27136 2
+20200215 3 3 40698 3
+20200216 2 2 27134 2
+20200217 2 2 27141 2
+20200218 3 3 40707 3
+20200219 2 2 27135 2
+20200220 1 1 13571 1
+20200221 2 2 27136 2
+20200222 1 1 13565 1
+20200223 4 4 54270 3
+20200224 3 3 40705 3
+20200225 3 3 40705 3
+20200226 3 3 40701 3
+20200227 11 43 2967791 7
+20200228 2 2 27130 2
+20200229 3 3 40705 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 6
+1h+ 9
+5mn-15mn 4
+30mn-1h 8
+15mn-30mn 3
+2mn-5mn 6
+0s-30s 170
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 60
+/ 266 2167480 126 100
+/admins/student_listview_list.php 105 281971 0 2
+/login 97 112844 13 18
+/admins/ 66 219164 1 3
+/cpanel 60 814062 46 44
+/assets/images/origami 49 2497966 1 15
+/admins/pending_fees 44 128088 0 0
+/admins/student_listview 40 103821 0 0
+/admins/dailyreports 34 98154 0 2
+/admins/create_students 32 101586 0 0
+/admins/create_staffs 32 106958 0 0
+/admins/purchase 32 86480 0 0
+/admins/index 31 98909 0 0
+/admins/student_fees_profile.php 27 83662 0 0
+/admins/school_profile 24 55740 0 1
+/admins/gl_data 23 60218 0 0
+/admins/create_class 23 64600 0 0
+/admins/report 22 61707 0 1
+/admins/create_bus_root 18 47808 0 1
+/login.php 17 18270 0 0
+/index 17 70057 2 2
+/admins/create_general_ledger 14 36790 0 0
+/admins/index.php 10 31911 1 0
+/admins/gl_report 10 25998 0 0
+/admins/gl_pdf_report.php 8 15096 0 0
+/.well-known/acme-challenge/-4Q-MN2V_J-TDM3Z5GFYBRI_S3GT6TX7 1 64 0 0
+/.well-known/acme-challenge/P6xl5IunE_etiQFT48ILwDSSosBlM3ctRR0VrlveciE 3 261 1 1
+/admins/reminder 7 18007 0 0
+/admins/settings 1 0 0 0
+/.well-known/acme-challenge/LOXQPNZ-VNR1778YI4PDDXGEGU4MQ2KJ 1 64 0 0
+/admins/student_fees_profile 4 12630 0 0
+/admins/daily_pfd_report.php 7 15572 0 0
+/.well-known/acme-challenge/LR0DB2ZXX987-HJKTUFQ93ESI2ZS3_3B 1 64 1 0
+/.well-known/acme-challenge/4RL1_RQC-ZEVOTNC2UR5YL3MR7LTX5XR 1 64 0 1
+/.well-known/acme-challenge/W_SmRwCG9uLvaMH5LqfJ_c1XOjTn-lSN2qAqspZnFU8 4 348 1 2
+/admins/create_students.php 3 9540 0 0
+/.well-known/acme-challenge/MYlKneXRJMp6qTVYLWnAtXI-qlQNsFAlgN4h13z9l1U 4 348 0 4
+/admins/change_pin 6 16165 0 0
+/.well-known/acme-challenge/0FA4-CM-4LJSY1_SCHLH_OUQAOHOCDFX 1 64 0 0
+/.well-known/acme-challenge/OSM7JXNLG3BZU7LQAT-A4W-EMKUSV7GT 1 64 1 0
+/.well-known/acme-challenge/Cih72vJ87Pdn4CX_dLD6EKU4B5csHootDJwrh7p8P8Q 4 348 4 0
+/.well-known/acme-challenge/HVY4E557CA25LHGFPLQPQVAN4XITEIAW 1 64 0 0
+/.well-known/acme-challenge/Z23XMT099IQHPMYJRJJ3FSYA_A5SVAP1 1 64 0 1
+/.well-known/acme-challenge/WSDBS-2X42XOHN7EKWJ2O3XU23Y6Z18A 1 64 1 0
+/.well-known/acme-challenge/BD1HF1K_YQE-_WDYZ_OWO3D5U2I8SQ70 1 64 0 0
+/.well-known/acme-challenge/occwQOgEjMsMwOxgQh2krjOLYX1irZyhE13WJ5DcpWE 3 261 0 0
+/index.php/module/action/param1/${@die(md5(HelloThinkPHP))} 1 17432 0 0
+/.well-known/acme-challenge/vSFHXV26p908jNpYkbtxKCtQxphrfMLaWSPJt6vOh_s 4 348 0 0
+/.well-known/acme-challenge/NTRK562WORL4FL_49ZK9PT3O_PE5N0QK 1 64 0 0
+/.well-known/acme-challenge/XhKBoGXio_Q8ERblgG-WsZgu-zRMJblcy11b38JZ3tE 4 348 4 0
+/index.php 6 91768 2 3
+/.well-known/acme-challenge/DY_7VATX1OQAVE64VHSMWC_S714J1-L6 1 64 0 0
+/.well-known/acme-challenge/fS8NF4gVZXrYVVSM2YOsG8VSFo_JXE6Xk547d9aU2Hc 3 261 0 3
+/admins/pending_fees_report_pdf.php 6 11758 0 0
+/.well-known/acme-challenge/BNJ6Q06GK3XQMLEUPZBZVH1BGT0KZXTY 1 64 0 1
+/.well-known/acme-challenge/YKK2UVIVZVF3S3L0UABO9042LSR7PEB- 1 64 0 0
+/admins/print_recipt.php 4 7751 0 0
+/.well-known/acme-challenge/KIIG42T8WZYPN26I1M8L702_KOVWFELN 1 64 0 0
+/.well-known/acme-challenge/nuzw6XapRn05i5Lzui0yMXnExPzBml1EnI0dw4zx-6k 4 348 0 0
+http://123.125.114.144/ 1 0 1 1
+END_SIDER

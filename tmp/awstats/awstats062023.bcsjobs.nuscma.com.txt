@@ -1,0 +1,1790 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202306 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/awstats.bcsjobs.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2695                
+POS_VISITOR 42865               
+POS_DAY 62618               
+POS_DOMAIN 3633                
+POS_LOGIN 4305                
+POS_ROBOT 4460                
+POS_WORMS 5114                
+POS_EMAILSENDER 5245                
+POS_EMAILRECEIVER 5388                
+POS_SESSION 63490               
+POS_SIDER 63703               
+POS_FILETYPES 5523                
+POS_DOWNLOADS 5819                
+POS_OS 5900                
+POS_BROWSER 6424                
+POS_SCREENSIZE 9077                
+POS_UNKNOWNREFERER 9151                
+POS_UNKNOWNREFERERBROWSER 9967                
+POS_ORIGIN 10442               
+POS_SEREFERRALS 10587               
+POS_PAGEREFS 10778               
+POS_SEARCHWORDS 10926               
+POS_KEYWORDS 11078               
+POS_MISC 2359                
+POS_ERRORS 11137               
+POS_CLUSTER 4161                
+POS_SIDER_404 11318               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230701003539 38 10924 11575870126212
+FirstTime 20230601001834
+LastTime 20230630233116
+LastUpdate 20230701184451 38 0 37 0 0
+TotalVisits 641                 
+TotalUnique 438                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 531                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 140 403 7569780 200 235 11555049
+1 68 297 8883811 487 499 357932
+2 49 49 655277 141 173 447390
+3 36 36 276677 396 420 5974197
+4 54 56 726797 164 287 1943709
+5 42 85 2029925 171 198 280513
+6 47 47 659868 88 99 97961
+7 88 322 22304290 106 144 6146664
+8 96 309 59650533 164 177 5848001
+9 141 401 15824376 117 160 6012384
+10 465 878 37286484 177 291 6067070
+11 434 684 19160493 260 391 1174223
+12 430 805 54702317 204 252 6228250
+13 245 508 26538361 213 289 962445
+14 65 233 5930001 87 119 456870
+15 377 959 25799052 235 455 2077916
+16 218 473 19621725 356 449 12663897
+17 232 482 18734521 216 269 555178
+18 295 666 10561829 316 369 323567
+19 193 589 23037713 162 210 128184
+20 182 486 13065603 241 272 126937
+21 187 549 23099534 158 173 38571
+22 135 184 2137204 184 214 93061
+23 237 1074 20358023 185 566 317140
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 31
+us 2834 7526 215162582
+in 909 1992 64600905
+ru 348 349 978687
+cn 131 274 90071345
+ca 60 187 6727982
+jp 41 41 1421950
+gb 22 22 578548
+bd 22 66 2112073
+eu 17 17 601515
+cz 14 14 496080
+nl 9 9 316710
+au 8 14 326286
+vn 7 7 263522
+de 6 9 191180
+gr 5 5 154098
+se 5 5 61986
+hk 3 3 103227
+be 3 5 35306
+ua 2 4 13112
+nz 2 5 163777
+zz 2 2 13988
+cl 2 2 67573
+fr 2 2 66778
+ro 1 6 119120
+tr 1 1 6538
+it 0 1 7143
+ar 0 2 11303540
+bg 0 1 38050
+iq 0 1 393
+ch 0 2 2193
+il 0 1 927
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+Googlebot/ 445 5434730 20230630182953 0
+bingbot/ 213 3273452 20230630044557 0
+Googlebot\-Image/ 41 1509183 20230630210037 0
+YandexBot/ 26 17046442 20230616132608 0
+bot[\s_+:,\.\;\/\\-] 16 409748 20230626125419 0
+Go\-http\-client/ 9 22613618 20230628124554 0
+no_user_agent 6 231425 20230625075036 0
+YandexImages/ 3 244650 20230616032829 0
+baidu 2 5651770 20230623124031 0
+[\s_+:,\.\;\/\\-]bot 2 56420 20230611010336 0
+Wget/ 2 11303540 20230621001326 0
+CFNetwork 1 11155 20230625231557 0
+Konqueror/ 1 6538 20230604074819 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+woff 110 23697504 0 0
+svg 1000 4782107 0 0
+ttf 3 2218972 0 0
+html 1324 32672856 0 0
+png 1112 98863498 0 0
+gif 7 4129212 0 0
+css 1531 21022603 0 0
+php 2938 12488300 0 0
+js 2449 73051068 0 0
+apk 20 118687170 0 0
+woff2 81 4393824 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/res/bcsjobs.apk 29 12 175204870
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 32
+win98 1 1
+macosx13 1 1
+macosx 32 4
+androidoreo 269 18
+winxp 67 24
+win2000 2 2
+androidnougat 11 11
+androidlollipop 1 1
+macosx14 4 4
+macosx6 4 4
+android10 189 20
+win8.1 2 2
+bsdopenbsd 2 2
+winnt 6 6
+ios_ipad 1 1
+macosx9 2 1
+linuxubuntu 14 13
+macosx11 65 20
+macosx15 1689 918
+unix 659 247
+winvista 2 2
+macosx7 1 0
+Unknown 83 34
+linux 644 97
+androidpie 4 0
+winlong 2 1
+macosx10 1 1
+androidmarshmallow 8 8
+win7 267 208
+android 1 1
+win10 6477 2734
+ios_iphone 70 70
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 120
+chrome79.0.3945.88 1 1
+chrome5.0.375.99 2 2
+chrome11.0.696.71 11 11
+mozilla 67 20
+firefox77.0 1 1
+chrome105.0.0.0 2 2
+chrome100.0.4896.60 4 4
+safari13.0.3 68 68
+chrome80.0.3987.162 1 1
+chrome66.0.3359.181 14 14
+chrome114.0.0.0 1961 999
+chrome74.0.3729.169 8 8
+chrome109.0.0.0 125 10
+chrome32.0.1664.3 1 1
+chrome85.0.4183.121 41 41
+chrome60.0.3112.107 11 11
+chrome100.0.4895.86 68 68
+chrome70.0.3581.88 1 1
+firefox102.0 1 1
+chrome70.0.3538.77 1 1
+msie8.0 1 0
+chrome75.0.2925.88 1 1
+chrome73.0.3707.88 1 1
+chrome102.0.0.0 1 1
+chrome70.0.3538.110 130 12
+chrome87.0.4280.88 167 8
+firefox28.0 9 9
+chrome78.0.3904.87 35 1
+chrome17.0.963.56 1 0
+chrome96.0.4664.110 6 3
+msie7.0 2 1
+chrome108.0.0.0 22 22
+chrome83.0.4103.116 5 0
+safari16.0 1 1
+chrome84.0.4147.105 4 4
+chrome4.0.222.4 56 16
+safari13.0.4 1 1
+chrome81.0.4044.138 8 8
+chrome76.0.3598.88 1 1
+chrome74.0.3581.88 1 1
+chrome68.0.3440.106 229 14
+chrome78.0.3904.108 75 75
+chrome100.0.4896.127 73 73
+chrome37.0.2062.124 1 1
+chrome89.0.4389.114 30 30
+chrome72.0.3801.88 1 1
+chrome110.0.5481.177 90 4
+chrome62.0.3202.94 1 1
+chrome34.0.1847.137 1 0
+chrome80.0.3987.149 3 3
+msie11.0 5 5
+chrome58.0.3029.110 1 0
+firefox65.0 3 3
+chrome73.0.3683.90 1 1
+chrome91.0.4472.167 614 245
+chrome95.0.4638.69 13 13
+chrome75.0.1954.88 1 1
+firefox58.0 2 2
+msie6.0 4 4
+firefox33.0 1 1
+firefox17.0.6 1 0
+chrome112.0.5615.121 88 4
+chrome88.0.4240.193 114 114
+chrome57.0.2987.133 1 1
+chrome36.0.1985.125 1 1
+chrome87.0.4280.141 3 1
+firefox52.0 63 18
+chrome35.0.1916.47 1 0
+chrome83.0.4103.61 30 2
+chrome76.0.2292.88 1 1
+chrome99.0.4859.172 1 1
+chrome70.0.2912.88 1 1
+chrome75.0.3770.100 1 1
+chrome57.0.2987.108 2 0
+firefox72.0 3 3
+chrome106.0.0.0 1 1
+chrome114.0.5735.106 17 16
+safari5.0.4 1 0
+chrome101.0.4951.67 59 59
+chrome71.0.3578.141 2 0
+chrome36.0.1985.67 1 0
+chrome31.0.1650.16 2 1
+firefox40.0 1 1
+chrome5.0.342.9 1 1
+chrome91.0.4472.114 3 3
+chrome66.0.3359.117 2 2
+chrome79.0 3 3
+chrome67.0.3396.99 5 5
+chrome76.0.3809.132 10 10
+chrome100.0.4758.11 64 64
+firefox114.0 3029 929
+chrome63.0.3239.132 2 0
+chrome112.0.0.0 120 7
+chrome83.0.4103.97 38 38
+firefox79.0 4 2
+safari5.0.3 1 0
+Unknown 16 14
+chrome76.0.1847.88 1 1
+safari6.0 1 1
+chrome79.0.3945.79 88 4
+chrome111.0.0.0 200 38
+firefox113.0 2278 1130
+safari16.2 89 9
+chrome16.0.912.36 1 1
+safari5.1.7 1 1
+chrome74.0.3547.88 1 1
+firefox47.0 2 2
+chrome104.0.0.0 3 3
+chrome75.0.2726.88 1 1
+chrome107.0.0.0 29 29
+chrome97.0.4692.71 1 1
+chrome74.0.3729.131 1 1
+chrome28.0.1468.0 1 1
+httrack 1 1
+chrome70.0.3315.88 1 1
+chrome95.0.4638.54 1 1
+firefox108.0 5 5
+safari15.6 1 1
+chrome99.0.4844.84 69 69
+chrome113.0.0.0 121 17
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Mozilla/5.0_(compatible;_ips-agent) 20230628101742
+GoogleOther 20230606232737
+fasthttp 20230602204514
+Mozilla/5.0_Firefox/33.0 20230613055555
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230630063521
+Mozilla/5.0_(compatible;_Dataprovider.com) 20230616070559
+got_(https://github.com/sindresorhus/got) 20230611162614
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230626183606
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230614100140
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+GoogleOther 20230606232737
+got_(https://github.com/sindresorhus/got) 20230611162614
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230630063521
+fasthttp 20230602204514
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1733 1869
+From1 20 20
+From2 9 17
+From3 0 0
+From4 2694 8675
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_bing_com 3 3
+www_google_com 2 2
+baidu 4 12
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+406 1874 422846
+403 17 3174
+404 3458 1228490
+206 2 250224
+500 6 0
+301 4 703
+409 238 19588
+302 259 159413
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 642
+//wp-content/themes/pindol/framework/plugins/revslider/temp/update_extract/TitaniumEx.php 2 www.google.com
+/js/plugins/select2.min.js 2 -
+/wp-includes/wp-class.php 2 www.google.com
+/mt-xmlrpc.cgi 1 -
+//wp-content/verify.php 2 www.google.com
+/admin/assets/libs/node-waves/waves.min.js.map 1 -
+/doc.php 1 www.google.com
+/Backup 1 -
+/admin/crypto-kyc-application.html 1 http://bcsjobs.com/admin/verify_teacher.php
+/humans.txt 5 -
+/Shop 1 -
+/wp-2019.php 2 -
+/admin/image/2023-03-13%2004:15:36-pic_1.png 2 http://bcsjobs.com/admin/view_school.php
+//wp-content/themes/seoplugins/db.php 2 -
+/wp-content/plugins/wordpresss3cll/up.php 1 www.google.com
+//wp-content/index.php 8 www.google.com
+/fatmous7231231/ 1 http://bcsjobs.com/
+/school/assets/css/app.min.css.map 37 -
+/school/image/2023-03-13%2004:15:36-pic_1.png 28 http://bcsjobs.com/school/view_school.php
+//wp-content/y7.php 2 www.google.com
+//wp-content/themes/medicate/script/revslider/temp/update_extract/TitaniumEx.php 2 www.google.com
+//wp-content/plugins/wordpressh3ll/up.php 4 -
+/dashboard/assets/css/style.css.map 13 -
+/wso.php 2 -
+/wp-content/plugins/background-image-cropper/ups.php 2 www.google.com
+//wp-content/plugins/wordpress3cll/TitaniumEx.php 2 www.google.com
+//wp-content/plugins/wpyii2/wpyii2.php 2 www.google.com
+/MT//bdkr.php 1 -
+/wp-content/plugins/ioptimization/IOptimize.php 5 www.google.com
+/.well-known/acme-challenge/Alfa.php 1 www.google.com
+//marijuana.php 2 www.google.com
+//wp-content/king.php 2 www.google.com
+/shell20211028.php 1 www.google.com
+//wp-content/plugins/xichang/x.php 2 www.google.com
+//wp-content/plugins/logosware-suite-uploader/lw-suite-uploader.php 4 www.google.com
+//wp-content/plugins/wordpresssh3ll/TitaniumEx.php 2 www.google.com
+/mt//bdkr.php 2 -
+/fw.php 2 www.google.com
+//wp-content/plugins/wordpress3cll-1/up.php 4 www.google.com
+//wp-content/plugins/social-networking-e-commerce-1/classes/views/social-options/form_cat_add.php 2 www.google.com
+/admin/assets/css/bootstrap.min.css.map 40 -
+//wp-content/plugins/developer-tools/libs/TitaniumEx.php 2 www.google.com
+/wp-admin/includes/logs.php 1 www.google.com
+/up.php 1 www.google.com
+/wp/ 4 -
+/js/vendor/bootstrap.bundle.min.js 1 -
+//wp-content/plugins/wordpressh3ll-1/TitaniumEx.php 2 www.google.com
+//wp-content/f0x.php 2 www.google.com
+//SpamworldSec.php 2 www.google.com
+/wp-includes/wso.php 1 www.google.com
+//wp-admin/css/colors/blue/uploader.php 4 www.google.com
+/alfa.php 1 -
+/manifest.js 1 -
+/css2 265 http://bcsjobs.com/dashboard/assets/css/style.css
+/3index.php 1 www.google.com
+//home.php 2 www.google.com
+/wp-content/plugins/seoplugins/mar.php 2 www.google.com
+/406.php 1 www.google.com
+/wp-includes/wso112233.php 1 www.google.com
+//wp-content/plugins/viral-optins/api/uploader/file-uploader.php 2 www.google.com
+//wp-content/plugins/seoplugins/mar.php 2 www.google.com
+/../school/school_login.php 1 -
+/bak 1 -
+/alfacgiapi/perl.alfa 1 www.google.com
+/readme.html 3 -
+/edit_academic.php 2 -
+/school/assets/css/bootstrap.min.css.map 37 -
+/dashboard/assets/bcs-jobs-logo.png 81 http://bcsjobs.com/dashboard/view_teacher.php
+/MT/mt-xmlrpc.cgi 1 -
+/c.php 1 www.google.com
+//wp-content/themes/RightNow/includes/uploadify/upload_settings_image.php 2 www.google.com
+//wp-content/plugins/formcraft/file-upload/server/php/files/TitaniumEx.php 2 www.google.com
+/admin/adit_exp.php 1 -
+/sitemaps.xml 8 -
+/alfa-rex.php 2 -
+/admin/image/2023-06-04%2010:53:33-1682059905_1-6876886706.pdf.pdf 7 http://bcsjobs.com/admin/edit_academic.php
+/site 1 -
+/adminer.php 1 -
+//wp-admin/home.php 2 www.google.com
+/mt/mt-xmlrpc.cgi 2 -
+/locales.php 1 www.google.com
+//wp-content/plugins/ccx/index.php 4 -
+//wp-content/themes/multimedia1/server/php/files/TitaniumEx.php 2 www.google.com
+//izo.php 2 www.google.com
+/mt/pekok.php 1 www.google.com
+//wp-content/admin_shell.php 2 www.google.com
+//wp-content/shell.php 2 www.google.com
+//wp-content/plugins/wp-checkout/vendors/uploadify/upload.php 2 www.google.com
+//wp-content/uploads/i-dump-uploads/TitaniumEx.php 2 www.google.com
+//wp-content/uploadxx/up.php 2 www.google.com
+//wp-content/plugins/wp-ajax-form-pro/ajax-form-app/uploader/uploads/TitaniumEx.php 2 www.google.com
+/webadmin/about.php 1 www.google.com
+/image/2023-06-14%2010:10:26-srisrvlogo.jpg 7 http://bcsjobs.com/school/view_school.php
+//wp-content/plugins/css-ready-sel/file.php 2 www.google.com
+/school/image/2023-03-30%2002:31:26-Gowtham%20Shivaram%20Resume.pdf 2 http://bcsjobs.com/school/view_teacher.php
+/wp-content/plugins/instabuilder2/cache/up.php 1 www.google.com
+/dashboard/assets/css/vendors/bootstrap.min.css.map 13 -
+/dashboard/teacher_login.php 6 http://bcsjobs.com/dashboard/
+//wp-content/plugins/wordpresss3cll-1/TitaniumEx.php 2 www.google.com
+/dashboard/create_academic.php 3 http://bcsjobs.com/dashboard/dashboard.php
+/wp-content/xl2023.php 1 www.google.com
+/alwso.php 2 -
+/dashboard/login.html 2 http://bcsjobs.com/dashboard/dashboard.php
+/wordpress 3 -
+//wp-content/themes/seoplugins/TitaniumEx.php 2 www.google.com
+//wp-content/plugins/pica-photo-gallery/TitaniumEx.php 2 www.google.com
+//TitaniumEx.php4 2 www.google.com
+//wp-content/themes/seotheme/db.php 4 -
+/wp-plain.php 1 www.google.com
+//wp-content/themes/greyd_suite/inc/TitaniumEx/TitaniumEx.php 2 www.google.com
+/New 1 -
+//wp-content/plugins/wordpresss3cll-2/up.php 4 -
+/WORDPRESS 1 -
+//wp-content/themes/linpreview/db.php 2 -
+//wp-includes/class-index-wordpress.php 2 www.google.com
+//wp-content/themes/synoptic/lib/avatarupload/upload.php 2 www.google.com
+//wp-content/plugins/hellopress/wp_filemanager.php 1 -
+//wp-content/themes/twentyfive/include.php 2 www.google.com
+//wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php 2 www.google.com
+/qvxymxav.php 1 www.google.com
+/wp-includes/atom.php 1 www.google.com
+//wp-content/plugins/inboundio-marketing/admin/partials/csv_uploader.php 2 www.google.com
+//wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 2 www.google.com
+/wp-content/uploads/ac_assets/IndoSec.php 1 www.google.com
+/wp-content/wso112233.php 1 www.google.com
+//wp-content/plugins/wordpresss3cll/data.php 2 www.google.com
+//wp-admin/shapes.php 2 www.google.com
+/backup 2 -
+/repeater.php 4 www.google.com
+//wp-content/plugins/developer-tools/libs/swfupload/upload.php 2 www.google.com
+/assets/js/plugins/swiper-bundle.min.js.map 3 -
+/feed/ 10 -
+/dashboard/assets/js/plugins/scrollup.js 54 http://bcsjobs.com/dashboard/create_address.php
+//wp-content/plugins/cache-wordpress/payment.php 2 www.google.com
+//wp-content/themes/greyd_suite/inc/customizer_ff.php 2 www.google.com
+//wp-content/plugins/asset-manager/upload.php 2 www.google.com
+/admin/image/2023-03-16%2005:33:19-PI%20-%20SELECT%20HOLIDAY%20RESORTS%20PRIVATE%20LIMITED.pdf 2 http://bcsjobs.com/admin/view_teacher.php
+//wp-content/plugins/TitaniumEx.php 2 www.google.com
+//wp-content/plugins/three-column-screen-layout/db.php 2 www.google.com
+//wp-content/files_mf/TitaniumEx.php 2 www.google.com
+//wp-content/plugins/php-event-calendar/server/file-uploader/TitaniumEx.php 4 www.google.com
+//wp-content/plugins/up.php 2 www.google.com
+/taf.php 1 -
+/sells.php 1 -
+//wp-content/plugins/inboundio-marketing/admin/partials/uploaded_csv/TitaniumEx.php 2 www.google.com
+//wp-content/bypass.php 2 www.google.com
+//wp-content/plugins/index.php 2 www.google.com
+//wp-content/themes/elemin/uploads/TitaniumEx.php 2 www.google.com
+/wp-fox.php 2 -
+/bk/ 1 -
+/magento_version 1 -
+//wp-content/themes/saico/framework/_scripts/valums_uploader/php.php 2 www.google.com
+/cgi-bin/mt//bdkr.php 2 -
+//wp-content/plugins/cherry-plugin/admin/import-export/TitaniumEx.php 2 www.google.com
+//wp-content/plugins/linkpreview/db.php 2 www.google.com
+//wp-content/plugins/wp-symposium/js/uploadify/uploadify.php 2 www.google.com
+/2019 1 -
+//wp-content/themes/Ghost/includes/uploadify/upload_Settings2_image.php 2 www.google.com
+/wordpress/ 4 -
+/x.php 1 www.google.com
+/wp-content/wso.php 1 www.google.com
+/xl2023.php 1 www.google.com
+//wp-content/plugins/wordpresss3cll-2/TitaniumEx.php 2 www.google.com
+//123x.php 2 www.google.com
+/config/aws.yml 1 -
+//fw.php 2 www.google.com
+//wso123.php 2 www.google.com
+/Blog 1 -
+/1index.php 1 www.google.com
+/Www 1 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 3 -
+/mtos/mt-xmlrpc.cgi 1 -
+/0iq.php 2 www.google.com
+/wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php 2 www.google.com
+//wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php 2 www.google.com
+//wp-content/uploads/wp-mailinglist/TitaniumEx.php 3 www.google.com
+/admin/assets/libs/bootstrap/js/bootstrap.bundle.min.js.map 1 -
+/school/image/2023-06-04%2005:17:59-3.png 3 http://bcsjobs.com/school/edit_school.php
+//uber_uploader_file.php 2 www.google.com
+/.Wp-back.phP 1 www.google.com
+/wp-commentin.php 1 -
+/shop 1 -
+/_profiler/phpinfo 2 -
+//wp-content/plugins/simple-google-recaptcha/recaptcha.php 2 www.google.com
+//wp-content/themes/pridmag/db.php 4 -
+//wp-content/uploads/levoslideshow/42_uploadfolder/big/TitaniumEx.php 2 www.google.com
+/old-index.php 1 www.google.com
+//wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 2 www.google.com
+//wp-content/themes/pridmag/TitaniumEx.php 2 www.google.com
+/2index.php 1 www.google.com
+/wp-content/plugins/mstore-api/assets/js/mstore-inspireui.js 1 -
+/blog/mt-xmlrpc.cgi 1 -
+//wp-content/666.php 2 www.google.com
+/landing.php 1 -
+/cgi-bin/MT/mt-xmlrpc.cgi 1 -
+/teacher/vender/bootstrap/css/bootstrap.min.css.map 58 -
+//wp-content/plugins/ioptimization/IOptimize.php 6 www.google.com
+/wp-admin/alfa.php 1 www.google.com
+/.well-known/acme-challenge/atomlib.php 1 www.google.com
+//wp-content/shell20211028.php 2 www.google.com
+/wp-includes/ID3/license.txt 7 -
+//wp-content/plugins/gatewayapi/inc/TitaniumEx.php 2 www.google.com
+//wp-content/h76d3.php 2 www.google.com
+//wp-content/plugins/gatewayapi/inc/css_js.php 2 www.google.com
+//wp-content/plugins/wordpresssh3ll-2/up.php 4 -
+//wp-content/themes/RightNow/includes/uploadify/upload_background_image.php 2 www.google.com
+/phpinfo 1 -
+/image/2023-06-04%2005:17:59-3.png 4 http://bcsjobs.com/school/view_school.php
+/BACKUP 1 -
+/alfa-rex.php7 3 -
+/cgi-bin/mt-xmlrpc.cgi 1 -
+//wp-content/themes/dance-studio/core/libs/imperavi/tests/file_upload.php 2 www.google.com
+/old-site 1 -
+//wp-content/plugins/category-page-icons/include/wpdev-flash-uploader.php 1 www.google.com
+//wp-content/themes/ccx/index.php 2 www.google.com
+/data.php 1 www.google.com
+//TitaniumEx.php 6 www.google.com
+/2022 1 -
+/sitemap.xml.gz 8 -
+/school/image/2023-03-13%2003:30:54-voucher.pdf 12 http://bcsjobs.com/school/view_teacher.php
+//wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/single-upload.php 2 www.google.com
+/phpinfo.php 1 -
+/robots.txt 95 -
+//wp-content/themes/beach_apollo/advance/plugins/revslider/temp/update_extract/TitaniumEx.php 2 www.google.com
+/admin/assets/css/icons.min.css.map 7 -
+/dashboard/assets/imgs/page/blog/bg-breadcrumb.png 10 http://bcsjobs.com/dashboard/assets/css/style.css
+/cgi-bin/mt/mt-xmlrpc.cgi 2 -
+/mini.php 2 www.google.com
+/alfa4.php 1 -
+//wp-content/plugins/wp-file-manager/lib/php/1975.php 2 www.google.com
+/image/2023-06-19%2011:07:05-Interview%20questions%202.pdf 12 http://bcsjobs.com/dashboard/view_teacher.php
+//wp-content/uploads/2023/6/TitaniumEx.php 14 www.google.com
+//wp-includes/ID3/license.php 2 www.google.com
+/Site 1 -
+/wp-admin/x.php 3 www.google.com
+/dashboard/assets/imgs/template/icons/arrow-breadcrumb.svg 10 http://bcsjobs.com/dashboard/assets/css/style.css
+/dashboard/assets/js/plugins/isotope.js 54 http://bcsjobs.com/dashboard/create_address.php
+//wp-content/themes/MoneyTheme/uploads/TitaniumEx.php 2 www.google.com
+//wp-content/themes/multimedia1/server/php/ 2 www.google.com
+/wp-content/plugins/ccx/index.php 1 www.google.com
+/Wp 1 -
+//wp-content/plugins/magic-fields/RCCWP_upload_ajax.php 2 www.google.com
+//wp-content/plugins/wp-engine-module/wp-engine.php 2 www.google.com
+/1.php 1 www.google.com
+/dashboard/assets/imgs/page/blog/home.svg 10 http://bcsjobs.com/dashboard/assets/css/style.css
+//wp-content/plugins/disqus-comment-system/disqus.php 2 www.google.com
+//wp-content/plugins/buddypress-media/app/helper/rtUploadAttachment.php 2 www.google.com
+/wp-content/plugins/wp-daft/t62.php 1 www.google.com
+/OLD 1 -
+//wp-content/uploads/typehub/custom/TitaniumEx/.TitaniumEx.php 2 www.google.com
+/wp-content/uploads/wp-logout.php 1 www.google.com
+/wp-content/index.php 2 www.google.com
+/fox.php 2 -
+/local.php 2 -
+//wp-content/plugins/acf-frontend-display/js/blueimp-jQuery-File-Upload-d45deb1/server/php/index.php 2 www.google.com
+/create_academic.php 1 -
+/edit_address.php 1 -
+/wp-content/themes/seotheme/mar.php 2 www.google.com
+/dashboard/mail.php 1 -
+/license.txt 3 -
+/wp-content/plugins/td-cloud-library/assets/css/tdb_wp_admin_taxonomies.css 1 -
+//wp-content/plugins/wordpresss/up.php 2 www.google.com
+/sitemap.txt 8 -
+/wp-content/themes/seotheme/db.php 3 www.google.com
+//b374k.php 2 www.google.com
+//wso.php 2 www.google.com
+/admin/includes/general.js 4 -
+/dashboard/assets/imgs/page/post-job/arrow-down.svg 70 http://bcsjobs.com/dashboard/assets/css/style.css
+/wp-content/plugins/wordpress-three/miin.php 1 www.google.com
+//wp-content/plugins/wpshop/includes/ajax.php 2 www.google.com
+//wp-content/themes/wp-pridmag/init.php 2 www.google.com
+/lock360.php 1 www.google.com
+//wp-content/plugins/wordpressh3ll-2/TitaniumEx.php 2 www.google.com
+/old 2 -
+/admin/email-template-billing.html 4 http://bcsjobs.com/admin/select_profile.php
+/wp-content/themes/ccx/index.php 1 www.google.com
+/install.php 1 -
+/SITE 1 -
+//wp-content/plugins/wordpress-member-private-conversation/doupload.php 2 www.google.com
+//wp-content/themes/purevision/scripts/admin/uploadify/uploadify.php 2 www.google.com
+//wp-content/plugins/wp-copysafe-pdf/lib/uploadify/uploadify.php 2 www.google.com
+//wp-content/themes/Directory/images/tmp/TitaniumEx.php 2 www.google.com
+/admin/image/2023-04-01%2008:11:26-voucher.pdf 4 http://bcsjobs.com/admin/view_teacher.php
+/wp-includes/embed-wp.php 1 www.google.com
+/upload.php 1 www.google.com
+/wp-content/shell20211028.php 1 www.google.com
+//wp-content/uploads/galleryimages/TitaniumEx.php 2 www.google.com
+/apple-touch-icon-precomposed.png 1 -
+//wp-content/themes/kiddo/app/assets/js/uploadify/uploadify.php 2 www.google.com
+/admin/image/2023-05-07%2009:02:36-DocScanner%2027%20Apr%202023%202-49%20pm.pdf 1 http://bcsjobs.com/admin/edit_academic.php
+/blog 1 -
+/school/index.html 4 http://bcsjobs.com/school/school_login.php
+//wp-content/uploads/TitaniumEx.php 8 www.google.com
+//wp-includes/class-wordpress-license.php 2 www.google.com
+/wp-content/plugins/wc-multivendor-membership/assets/css/wcfmvm-style-memberships.css 1 -
+//wp-content/plugins/apikey/TitaniumEx.php 2 www.google.com
+//wp-content/home.php 2 www.google.com
+//uploads/uber_uploader_file.php 2 www.google.com
+/wp-content/fw.php 1 www.google.com
+/wp-22.php 1 www.google.com
+/school/assets/libs/metismenu/metisMenu.min.js.map 10 -
+/admin/image/2023-04-25%2007:41:52-CERTIFIED%20TRUE%20COPY%20OF%20THE%20EXTRACT%20FROM%20THE%20MINUTES%20OF%20THE%20MEETING%20OF%20THE%20BOARD 14 http://bcsjobs.com/admin/edit_academic.php
+/5index.php 1 www.google.com
+/wp-admin/wso.php 1 www.google.com
+/main 2 -
+/images/editor/separator.gif 4 -
+/wp-admin/css/colors/coffee/index.php 1 -
+//wp-content/themes/seotheme/TitaniumEx.php 2 www.google.com
+/css.php 1 www.google.com
+//radio.php 2 www.google.com
+/index.html 2 http://bcsjobs.com/admin
+//wp-content/uploads/assignments/ms-sitemple.php 2 www.google.com
+//assets/plugins/jQuery-File-Upload/server/php/index.php 2 www.google.com
+//spamshell.php 2 www.google.com
+//wp-content/plugins/wordpresss3cll-1/up.php 4 -
+/image/2023-06-10%2006:19:40-345168171_1256217078319224_8331867631462452482_n.jpg 2 http://bcsjobs.com/school/view_school.php
+/bac 1 -
+/aws.yml 1 -
+//wp-includes/wp-system-cloud.php 2 www.google.com
+//wp-content/plugins/background-image-cropper/ups.php 2 www.google.com
+/dashboard/assets/imgs/page/login-register/img-4.svg 20 http://bcsjobs.com/dashboard/teacher_login.php
+/js/header-rollup-554.js 4 -
+/shell.php 3 www.google.com
+/admin/image/ 6 http://bcsjobs.com/admin/view_teacher.php
+/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+//wp-content/uploads/1234.php 2 www.google.com
+//wp-content/x.php 2 www.google.com
+/wp-old 1 -
+//wp-content/plugins/wordpresssh3ll-2/TitaniumEx.php 2 www.google.com
+/wp-content/themes/welfare-charity/www.php 2 -
+/sitemap.xml 9 -
+/indoxploit.php 1 -
+/mtos//bdkr.php 1 -
+/wso112233.php 3 www.google.com
+/admin/image/2023-06-19%2002:05:13-e4.JPG 1 http://bcsjobs.com/admin/view_school.php
+//wp-content/themes/andre/framework/plugins/revslider/temp/update_extract/TitaniumEx.php 2 www.google.com
+/xmlrpc.php 5 -
+/wp 3 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+//wp-content/plugins/core-stab/wso.php 2 www.google.com
+//wp-content/plugins/ioptimization/TitaniumEx.php 2 www.google.com
+//wp-content/themes/cameleon/includes/fileuploader/upload_handler.php 2 www.google.com
+//wp-content/plugins/wp-engine-module/TitaniumEx.php 2 www.google.com
+/school/image/2023-06-04%2010:53:33-1682059905_1-6876886706.pdf.pdf 9 http://bcsjobs.com/school/view_teacher.php
+/blog//bdkr.php 1 -
+//wp-content/plugins/dzs-videogallery/admin/upload/TitaniumEx.php 2 www.google.com
+/public/_ignition/health-check/ 2 -
+//wp-content/plugins/flipbook/php.php 1 www.google.com
+/wp-content/themes/classic/inc/index.php 1 www.google.com
+//wp-content/jssor-slider/jssor-uploads/TitaniumEx.php 2 www.google.com
+/cms/mt-xmlrpc.cgi 1 -
+/WWW 1 -
+/wp-content/themes/sketch/404.php 1 www.google.com
+//wp-includes/home.php 2 www.google.com
+//wp-content/plugins/aryabot/mari.php 2 www.google.com
+/wp-includes/shell20211028.php 1 www.google.com
+//wp-content/plugins/ioptimizations/IOptimizes.php 4 www.google.com
+/cgi/mt-xmlrpc.cgi 1 -
+//wp-content/uploads/markets/avatars/TitaniumEx.php 2 www.google.com
+/bc 2 -
+/wp-content/plugins/instabuilder2/cache/plugins/moon.php 1 www.google.com
+//wp-content/uploads/assets/temp/TitaniumEx.php 2 www.google.com
+/image/ 25 http://bcsjobs.com/teacher/edit_academic.php
+//wp-includes/ID3/getid.php 2 www.google.com
+//wp-includes/class-wp-page-icon.php 2 www.google.com
+/wikindex.php 1 www.google.com
+//vendor/phpunit/phpunit/src/Util/Log/CasperSecurity.php 2 www.google.com
+//wp-content/uploads/wysija/themes/TitaniumEx.php 2 www.google.com
+/wp-content/themes/mero-magazine/ws.php 2 www.google.com
+/wp-admin/wso112233.php 1 www.google.com
+/wp-includes 2 www.google.com
+/blog/wp-class.php 1 -
+//wp-content/plugins/wordpressh3ll-1/up.php 4 -
+/test 1 -
+//wp-content/plugins/wordpress3cll/up.php 4 -
+//wp-shell.php 2 www.google.com
+/assets/css/style.css.map 45 -
+/wp-blog.php 1 www.google.com
+//wp-content/uploads/wp-checkout/uploadify/TitaniumEx.php 2 www.google.com
+/landing/ 1 -
+//wp-content/uploads/uigen_2023/TitaniumEx.php 2 www.google.com
+/cgi-bin/MT//bdkr.php 1 -
+//wp-content/wso.php 2 www.google.com
+//wp-content/plugins/owfsmac/mar.php 2 www.google.com
+//wp-content/plugins/i-dump-iphone-to-wordpress-photo-uploader/uploader.php 2 www.google.com
+//emergency.php 2 www.google.com
+/blog-details.html 12 http://bcsjobs.com
+//wp-content/themes/rarebird/framework/plugins/revslider/temp/update_extract/TitaniumEx.php 2 www.google.com
+//wp-content/plugins/dzs-zoomsounds/TitaniumEx.php 2 www.google.com
+/www 1 -
+//wp-content/themes/fiestaresidences/download.php 2 www.google.com
+/403.php 1 www.google.com
+//wp-content/plugins/Shell20211018.php 2 www.google.com
+//data.php 2 www.google.com
+/dashboard/assets/js/plugins/counterup.js 54 http://bcsjobs.com/dashboard/create_address.php
+//wp-content/plugins/wordpresssh3ll-1/up.php 4 -
+//wp-content/themes/cuckootap/framework/plugins/revslider/temp/update_extract/TitaniumEx.php 2 www.google.com
+//wp-content/plugins/wordpress3cll-2/TitaniumEx.php 2 www.google.com
+/school/image/2023-06-04%2005:14:17-1.png 6 http://bcsjobs.com/school/edit_school.php
+//wp-content/plugins/wpstorecart/php/upload.php 2 www.google.com
+/school/assets/libs/bootstrap/js/bootstrap.bundle.min.js.map 10 -
+/home 1 -
+//0byte.php 2 www.google.com
+/_ignition/health-check/ 2 -
+//.well-known/pki-validation/ssl.php 2 www.google.com
+/create_teacher.php 2 -
+/SHOP 1 -
+/wp-includes/xl2023.php 1 www.google.com
+/security.txt 1 -
+/wp-content/themes/twentyseventeen/page/index.php 1 -
+//wp-content/plugins/omni-secure-files/plupload/examples/uploads/TitaniumEx.php 2 www.google.com
+/wp-content/plugins/anttt/simple.php 1 www.google.com
+/dz.php 1 -
+/wp-content/406.php 1 www.google.com
+/2020 1 -
+//alfa.php 2 www.google.com
+/wp-content/plugins/core-stab/index.php 1 www.google.com
+//wp-content/plugins/ubh/index.php 2 www.google.com
+/radio.php 1 www.google.com
+//wp-includes/class-wp-metadata-lazyloader-ajax.php 2 www.google.com
+/plugins/system/debug/debug.xml 4 -
+/config.js 1 -
+/sitemap_index.xml 7 -
+//wp-content/plugins/wordpress3cll-2/up.php 4 -
+/wp-content/plugins/wp-file-manager/lib/files/TitaniumEx.php 2 www.google.com
+/.vscode/sftp.json 2 -
+//wp-content/uploads/assignments/TitaniumEx.php 2 www.google.com
+/wp-admin/fw.php 1 www.google.com
+//wp-content/verified.php 2 www.google.com
+//wp-content/themes/designplus/framework/plugins/revslider/temp/update_extract/TitaniumEx.php 2 www.google.com
+//wso112233.php 4 www.google.com
+//wp-content/uploads/p3d/TitaniumEx.php 2 www.google.com
+/alfanew.php7 1 -
+/school/assets/css/icons.min.css.map 12 -
+//wp-content/themes/seotheme/mar.php 2 www.google.com
+//wp-includes/SimplePie/IRI-stream.php 2 www.google.com
+//wp-content/plugins/xwp/up.php 2 -
+//wp-content/plugins/pica-photo-gallery/picaPhotosResize.php 2 www.google.com
+//wp-content/plugins/wordpress3cll-1/TitaniumEx.php 2 www.google.com
+/sitio 1 -
+/Old 1 -
+//wp-content/4f93s.php 2 www.google.com
+/bk 2 -
+//wp-content/uploads/wpstorecart/TitaniumEx.php 2 www.google.com
+/admin/assets/libs/pdfmake/build/pdfmake.min.js.map 1 -
+//wp-content/plugins/wordpresssh3ll-1/TitaniumEx.php 2 www.google.com
+/wp-admin/images.php 1 www.google.com
+/edit-form.php 1 www.google.com
+/dashboard/assets/js/plugins/wow.js 55 http://bcsjobs.com/dashboard/create_address.php
+/wp-content/plugins/sid/sidwso.php 1 www.google.com
+/apple-touch-icon.png 1 -
+//wp-content/uploads/user_uploads/TitaniumEx/TitaniumEx.php 2 www.google.com
+//wp-content/plugins/work-the-flow-file-upload/public/assets/jQuery-File-Upload-9.5.0/server/php/files/TitaniumEx.php 2 www.google.com
+/admin/view/javascript/common.js 4 -
+//wp-content/plugins/wordpresss3cll/TitaniumEx.php 2 www.google.com
+//wp-content/wso112233.php 3 www.google.com
+/admin/image/2023-03-31%2008:21:36-social_poster_1.jpeg 32 http://bcsjobs.com/admin/edit_school.php
+//wp-content/uploads/blaze/uploadfolder/big/TitaniumEx.php 2 www.google.com
+/wp/wp-includes/wp-class.php 1 -
+/administrator/help/en-GB/toc.json 2 -
+//wp-content/plugins/dzs-videogallery/admin/upload.php 2 www.google.com
+//wp-content/plugins/formcraft/file-upload/server/php/ 2 www.google.com
+/wp-content/updates.php 6 -
+//wp-content/plugins/zero7.php 2 www.google.com
+/old/ 4 -
+//wp-content/plugins/uploads/ups.php 2 www.google.com
+//wp-content/plugins/omni-secure-files/plupload/examples/upload.php 2 www.google.com
+//wp-admin/TitaniumEx.php 2 www.google.com
+//wp-content/plugins/revslider/includes/external/page/index.php 1 -
+/school/assets/libs/node-waves/waves.min.js.map 10 -
+/OLD/ 1 -
+/.aws/credentials 1 -
+/wp-content/themes/pridmag/db.php 1 www.google.com
+/wp-admin/install.php 3 -
+/wp-admin/406.php 1 www.google.com
+//wp-content/plugins/xwp/TitaniumEx.php 2 www.google.com
+/dashboard/assets/bcs-jobs-tab-logo.png 22 http://bcsjobs.com/dashboard/create_address.php
+//wp-content/plugins/wp-mobile-detector/cache/TitaniumEx.php 2 www.google.com
+//vendor/phpunit/phpunit/src/Util/Files/Flash.php 2 www.google.com
+//wp-content/plugins/seoplugins/db.php 2 www.google.com
+//wp-content/themes/linpreview/TitaniumEx.php 2 www.google.com
+/admin/add_exp.php 1 -
+//wp-content/plugins/wp-file-upload/ROOBOTS.php 2 www.google.com
+/.env.example 1 -
+/sito 1 -
+//wp-content/plugins/wp-mailinglist/vendors/uploadify/upload.php 3 www.google.com
+/demo 1 -
+/wp-admin/xl2023.php 1 www.google.com
+//wp-content/plugins/core-stab/fmanager.php 2 www.google.com
+//wp-includes/ID3/wp-conflg.php 2 www.google.com
+/teacher/teacher_create.php 2 http://bcsjobs.com/contact.php
+//ccx/index.php 4 -
+//wp-content/themes/elemin/themify/themify-ajax.php 2 www.google.com
+/misc/ajax.js 4 -
+/wp.php 1 www.google.com
+//ccx/TitaniumEx.php 4 www.google.com
+/wordpress/wp-class.php 1 -
+//wp-includes/wp-class.php 2 www.google.com
+/school/assets/libs/pdfmake/build/pdfmake.min.js.map 10 -
+/wp-content/plugins/revslider/includes/external/page/index.php 3 -
+//wp-content/plugins/dos2unix/dos2unix.php 2 www.google.com
+/oldsite 1 -
+/wp-admin/setup-config.php 3 -
+/wp-class.php 2 www.google.com
+/wp-includes/pomo/newup.php 1 www.google.com
+/wsoyanzorng.php 1 www.google.com
+//shell20211028.php 2 www.google.com
+//wp-content/plugins/mobile-friendly-app-builder-by-easytouch/server/images.php 2 www.google.com
+//wp-content/plugins/anttt/simple.php 2 www.google.com
+//wp-content/plugins/sid/sidwso.php 2 www.google.com
+/blog-grid.html 7 http://bcsjobs.com
+//wp-includes/fb-images/TitaniumEx.php 1 www.google.com
+//wp-content/uploads/up.php 2 www.google.com
+//wp-content/themes/qualifire/scripts/admin/uploadify/uploadify.php 2 www.google.com
+/gank.php.PhP 1 www.google.com
+//wp-content/plugins/genesis-simple-defaults/uploadFavicon.php 2 www.google.com
+//wp-content/plugins/TOPXOH/wDR.php 2 www.google.com
+/assets/css/vendors/bootstrap.min.css.map 45 -
+/teacher_exp.php 1 -
+/4index.php 1 www.google.com
+//wp-admin/options-general.php 2 www.google.com
+//upspy.php 2 www.google.com
+/rindex.php 1 -
+/wp-content/plugins/w0rdpr3ssnew/wp-login.php 1 www.google.com
+//wp-content/plugins/php-event-calendar/server/file-uploader/ 4 www.google.com
+//wp-content/plugins/wordpressh3ll-2/up.php 4 -
+/wordpress/wp-includes/wp-class.php 1 -
+/admin/.env 1 -
+//wp-content/themes/cubed_v1.2/functions/upload-handler.php 2 www.google.com
+/wp-includes/js/jquery/jquery.js 4 -
+/dashboard/formsubmit.php 11 http://bcsjobs.com/create_academic.php
+/assets/js/plugins/perfect-scrollbar.min.js.map 3 -
+//wp-admin/xl2023.php 1 -
+/404.php 1 www.google.com
+/util/login.aspx 1 -
+/item.php 11 http://bcsjobs.com/admin/item.php
+//wp-admin/admin-ajax.php 36 www.google.com
+/2021 1 -
+/admin/assets/css/app.min.css.map 39 -
+//wp-content/plugins/ioptimizations/TitaniumEx.php 2 www.google.com
+//wp-content/plugins/wordpresssh3ll/up.php 4 -
+//wp-content/plugins/apikey/apikey.php 2 www.google.com
+//wp-content/uploads/settingsimages/TitaniumEx.php 4 www.google.com
+//wp-content/themes/mTheme-Unus/css/css.php 2 www.google.com
+/https://www.facebook.com/profile.php 3 -
+//wp-content/0iq.php 2 www.google.com
+/Test 1 -
+/image/2023-03-16%2005:33:19-PI%20-%20SELECT%20HOLIDAY%20RESORTS%20PRIVATE%20LIMITED.pdf 29 http://bcsjobs.com/dashboard/view_teacher.php
+/dashboard.php 2 -
+/2018 1 -
+//wp-includes/css/buttons.css 1 -
+/new 3 -
+/image/2023-06-26%2002:58:42-Interview%20questions%202.pdf 4 http://bcsjobs.com/dashboard/view_teacher.php
+//wp-content/themes/qualifire/scripts/admin/uploadify/TitaniumEx.php 2 www.google.com
+//wp-content/plugins/wordpressh3ll/TitaniumEx.php 2 www.google.com
+//wp-content/plugins/upspy/index.php 2 www.google.com
+/TEST 1 -
+//shellx.php 2 www.google.com
+/wp-cc.php 1 -
+/wp-includes/widgets/class-wp-widget-index.php 1 www.google.com
+//wp-includes/theme-compat/wp-aespa.php 2 www.google.com
+//wp-content/updates.php 2 www.google.com
+//wp-content/themes/gaukingo/db.php 1 www.google.com
+//wp-content/plugins/mobile-friendly-app-builder-by-easytouch/TitaniumEx.php 2 www.google.com
+//wp-content/plugins/core-stab/casper.php 2 www.google.com
+//wp-content/themes/centum/revslider/temp/update_extract/TitaniumEx.php 2 www.google.com
+/info.php 1 -
+/backup/ 4 -
+//wp-content/themes/konzept/includes/uploadify/upload.php 2 www.google.com
+//wp-content/_input_3_TitaniumEx.php 2 www.google.com
+//Flash.php 2 www.google.com
+//wp-content/uploads/mfw-activity-logger/csv-uploads/TitaniumEx.php 2 www.google.com
+/.well-known/security.txt 1 -
+/manifest.json 2 http://bcsjobs.com/
+/a.php 1 www.google.com
+//xxx.php 2 www.google.com
+/wp-content/xxx/xxx-xxx/xxxx-xx-xx/pages/xxxxxx.php 1 www.google.com
+/dashboard/assets/imgs/page/login-register/img-2.svg 12 http://bcsjobs.com/dashboard/create_address.php
+/WordPress 1 -
+//wp-content/uploads/kaswara/fonts_icon/TitaniumEx/.TitaniumEx.php 2 www.google.com
+/WP 1 -
+//wp-content/uploads/favicon/TitaniumEx.php 2 www.google.com
+//wp-content/plugins/wp-ajax-form-pro/ajax-form-app/uploader/do.upload.php 2 www.google.com
+/wp-includes/ID3/vp.php 1 www.google.com
+/dashboard/otp.php 1 http://bcsjobs.com/otpbutton.php
+//bdkr.php 1 -
+/style.php 4 -
+//wp-content/themes/astra/mar.php 2 www.google.com
+//wp-admin/admin.php 4 www.google.com
+/site/ 1 -
+//wp-content/plugins/vwcleanerplugin/bump.php 2 www.google.com
+/administrator/ 2 -
+//wp-content/plugins/ccx/TitaniumEx.php 2 www.google.com
+/image/2023-06-17%2005:21:25-e1.JPG 2 http://bcsjobs.com/school/view_school.php
+//wp-content/plugins/wordpresss3cll/up.php 4 -
+/ccx/index.php 1 www.google.com
+//execute.php 2 www.google.com
+/vendor/phpunit/phpunit/build.xml 3 -
+//wp-content/uploads/rtMedia/tmp/TitaniumEx.php 2 www.google.com
+//class.php 2 www.google.com
+/cgi//bdkr.php 1 -
+/administrator/language/en-GB/install.xml 2 -
+//autoload_classmap.php 2 www.google.com
+/jobs-list.html 13 http://bcsjobs.com
+/admin/assets/libs/metismenu/metisMenu.min.js.map 1 -
+//wp-content/plugins/social-networking-e-commerce-1/images/uploads/TitaniumEx.php 2 www.google.com
+/wp-includes/pomo/treame.php 1 www.google.com
+/cms//bdkr.php 1 -
+/school/assets/images/profile-img.png 62 http://bcsjobs.com/school/create_school.php
+/ffAA531.php 2 -
+//wp-content/plugins/work-the-flow-file-upload/public/assets/jQuery-File-Upload-9.5.0/server/php 2 www.google.com
+/wp-info.php 1 www.google.com
+//wp-admin/admin-post.php 6 www.google.com
+//wp-includes/css/modules.php 2 www.google.com
+//wp-content/plugins/wp-db-ajax-made/wp-ajax.php 2 www.google.com
+/wp-content/themes/twentyfive/include.php 1 www.google.com
+//wp-content/Fox.php 2 www.google.com
+/ads.txt 36 -
+//wp-content/plugins/logosware-suite-uploader/TitaniumEx.php 4 www.google.com
+//wp-content/plugins/uploads/UP1.php 2 www.google.com
+/atom.xml 7 -
+/assets/js/vendor/bootstrap.bundle.min.js.map 3 -
+/new-index.php 1 www.google.com
+/6index.php 1 www.google.com
+//.tmb/cache/shz.php 2 www.google.com
+/autoload_classmap.php 2 -
+/NEW 1 -
+/site/wp-class.php 1 -
+//wp-content/plugins/instabuilder2/cache/up.php 2 www.google.com
+/admin/index.html 1 http://bcsjobs.com/admin/
+//DKIZ.php 2 www.google.com
+/wp-admin/shell20211028.php 1 www.google.com
+/admin/image/2023-03-30%2002:31:26-Gowtham%20Shivaram%20Resume.pdf 2 http://bcsjobs.com/admin/view_teacher.php
+/css 695 http://bcsjobs.com/
+/cgi-bin//bdkr.php 1 -
+/BLOG 1 -
+//wp-content/plugins/wp-mobile-detector/resize.php 2 www.google.com
+//wp-content/TitaniumEx.php 7 www.google.com
+/Wordpress 1 -
+/sftp-config.json 2 -
+/school/image/2023-03-31%2006:26:49-Gowtham%20Shivaram%20Resume.pdf 1 http://bcsjobs.com/school/view_teacher.php
+//wp-content/plugins/upload/up.php 3 www.google.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 531
+157.51.177.158 601 1051 33737410 20230603134553
+157.49.239.15 320 840 11984569 20230619171657
+5.188.62.26 243 243 452871 20230625173615
+157.51.166.104 243 659 26970408 20230602192123
+157.49.81.89 225 1015 13731355 20230617002512
+106.197.79.193 182 368 2839835 20230620101114
+106.195.39.29 170 320 11318302 20230619223545
+157.46.113.221 156 207 3413877 20230604110855
+106.198.17.79 121 125 506665 20230616184408
+157.46.73.46 120 225 3981183 20230614182745
+157.51.199.87 109 237 2658594 20230626104244
+157.51.197.29 86 193 4197239 20230603210720
+106.197.127.202 76 194 12815697 20230611184022
+106.208.58.92 71 72 294176 20230619211419
+106.198.26.91 68 79 1935413 20230617113702
+157.49.234.81 64 193 6548086 20230615113143
+157.46.69.209 64 72 1681018 20230616122433
+157.49.233.240 63 127 721302 20230614185418
+157.51.199.172 62 221 6204369 20230626083747
+5.188.62.76 51 51 93109 20230616074936
+157.46.74.122 48 65 882729 20230616183546
+106.197.79.219 41 126 4908953 20230625113409
+157.46.70.136 37 90 6168706 20230615101652
+157.49.156.179 35 54 1931946 20230611143238
+110.224.90.219 30 111 2858681 20230625183623
+14.238.239.137 1 1 6068 20230601064213
+190.92.238.138 0 1 5651770 
+46.228.199.158 1 1 6538 20230603141900
+35.171.144.152 2 2 86568 20230630210453
+134.122.97.159 1 1 7473 20230628015329
+223.240.99.104 2 2 12606 20230607120627
+192.9.134.237 3 3 19614 20230607053402
+192.175.111.239 3 3 110436 20230624144029
+35.236.9.60 3 3 103227 20230608103302
+157.51.188.78 1 8 240995 20230603195407
+155.248.199.243 10 10 65994 20230612033559
+51.79.27.119 5 5 33586 20230612014951
+106.197.111.217 17 88 1590652 20230620204541
+144.255.19.202 0 1 0 
+51.255.62.9 1 1 33389 20230611101130
+193.32.87.47 1 1 34409 20230608212451
+209.141.49.169 0 1 3223 
+157.51.150.92 20 22 124617 20230613110811
+152.32.251.131 1 1 7005 20230630073431
+128.90.155.127 2 2 13987 20230626175738
+75.119.150.252 1 1 0 20230622021626
+161.35.31.20 1 1 4228 20230623203701
+3.74.226.76 1 1 6456 20230612165458
+216.137.184.252 3 3 105263 20230628090713
+106.195.46.51 0 1 0 
+34.228.6.214 1 1 6983 20230624135159
+137.184.189.88 1 1 1782 20230630081617
+209.126.2.170 3 3 98856 20230601020052
+63.141.37.203 0 1 769 
+70.38.10.158 1 1 35005 20230618072946
+63.141.37.167 0 1 81550 
+149.56.150.232 8 8 164692 20230616070538
+5.133.192.189 1 1 6538 20230607171914
+167.71.10.53 1 1 2380 20230623143755
+157.51.199.206 0 1 39226 
+45.133.235.149 3 3 83647 20230622113452
+143.110.166.84 2 2 11719 20230630092945
+123.6.49.42 0 1 2825885 
+14.116.157.23 3 3 19870 20230616083219
+135.148.195.10 1 2 17857 20230617001057
+198.235.24.113 1 1 43284 20230628110848
+144.255.18.112 0 1 0 
+92.43.84.244 1 1 6538 20230602200336
+167.99.124.126 1 1 7006 20230626014035
+52.40.234.38 1 1 6538 20230602234115
+106.195.37.69 1 2 6981 20230621081800
+135.181.78.101 1 1 6478 20230611162614
+209.141.48.154 1 2 9757 20230606092421
+45.149.149.64 0 1 45313 
+156.146.35.171 3 3 127602 20230624205257
+103.30.12.193 1 1 0 20230602200347
+158.101.13.254 2 2 68818 20230610130045
+87.236.176.29 0 1 11155 
+138.197.110.89 1 1 6707 20230616012950
+110.239.211.71 0 1 181850 
+93.115.12.66 1 1 2450 20230602200357
+157.51.197.57 30 188 1897367 20230625190617
+157.51.195.207 17 151 9985966 20230616172648
+34.218.224.224 1 1 7004 20230629005836
+106.211.230.67 18 55 5343250 20230611122848
+188.241.56.37 0 1 69372 
+114.107.225.150 1 1 6707 20230615170316
+42.236.10.78 0 17 6571260 
+185.54.229.46 5 5 167465 20230613011816
+54.201.67.19 1 1 6981 20230619230054
+3.80.81.22 1 1 6458 20230613195443
+178.208.160.77 1 1 0 20230602123809
+27.115.124.6 1 26 542901 20230620235758
+157.51.48.60 7 7 27697 20230613104256
+180.211.186.22 20 20 49516 20230629153417
+70.38.10.156 5 5 196420 20230623021716
+180.163.220.68 1 2 46244 20230628083215
+128.90.165.37 2 2 65904 20230602045658
+157.51.169.73 27 39 973431 20230602214450
+35.92.35.99 1 1 6981 20230619230116
+34.222.120.156 1 1 6983 20230623233113
+35.89.93.121 1 1 6704 20230619010603
+137.184.85.77 1 1 6983 20230622153409
+87.236.176.32 1 1 6458 20230614100139
+35.86.168.3 1 1 6983 20230623233035
+123.6.49.17 0 1 2825885 
+52.34.217.85 1 1 6538 20230603231839
+106.3.146.198 1 2 17693 20230607114424
+199.244.88.231 1 1 6538 20230606161326
+202.133.51.68 1 1 187 20230617110850
+54.160.230.89 1 1 6704 20230619100234
+164.92.124.235 1 1 1782 20230623075237
+113.108.9.38 5 5 32777 20230615043537
+42.83.147.56 2 2 13542 20230629070956
+195.93.252.223 1 1 35005 20230618213426
+140.246.164.95 4 4 25990 20230614042912
+36.110.233.45 0 1 5651770 
+206.189.158.222 5 5 214916 20230629071643
+86.106.177.22 0 1 39189 
+117.160.250.132 3 3 103761 20230620011346
+137.184.33.13 1 1 4714 20230630022028
+167.248.133.186 1 2 18159 20230626183605
+20.211.122.71 4 4 137636 20230604045639
+54.146.255.247 1 1 6538 20230605222758
+94.176.133.82 0 1 5445 
+93.180.205.133 0 1 3219 
+167.248.133.187 1 2 18138 20230623104451
+35.208.11.114 1 1 7005 20230630205648
+59.36.163.204 9 9 59008 20230629203901
+45.66.179.150 1 1 0 20230602200348
+159.65.17.148 2 2 68818 20230608084424
+70.38.27.248 0 16 534915 
+139.28.122.0 0 3 72327 
+147.182.235.93 1 1 6981 20230622002920
+43.156.253.43 4 4 138828 20230619183815
+121.91.82.36 1 1 6538 20230602200357
+182.48.84.242 2 45 1567396 20230614140650
+66.220.149.15 0 3 496932 
+130.255.166.90 1 1 6981 20230620151255
+34.94.174.5 1 1 6538 20230606031018
+180.163.220.126 0 1 11155 
+106.3.146.203 1 2 45564 20230610135547
+5.199.233.151 1 1 7004 20230627021325
+138.199.22.226 10 10 345926 20230614215430
+110.239.208.138 0 1 780 
+207.244.98.95 3 3 103227 20230602190250
+209.141.36.231 0 1 69372 
+110.224.86.170 15 17 53283 20230626000416
+43.128.76.55 2 2 65904 20230601153105
+170.64.167.16 1 1 6704 20230618024100
+121.91.81.39 1 1 1806 20230602200357
+106.195.44.45 25 60 731179 20230621224328
+14.116.152.84 4 4 25848 20230616201912
+165.22.50.162 2 2 68818 20230604043807
+47.92.106.14 1 1 6538 20230608124618
+89.187.163.203 3 3 105015 20230618170509
+183.136.225.44 2 4 98895 20230626153112
+34.221.186.32 1 1 6981 20230621214532
+124.220.24.137 2 2 13414 20230614192800
+54.89.114.202 1 1 6456 20230613070136
+14.116.150.68 4 4 25848 20230617202155
+165.232.41.30 1 1 6458 20230614005722
+89.187.163.135 3 3 100479 20230613042533
+198.235.24.129 1 1 42534 20230623015714
+170.64.150.55 1 1 35021 20230615012730
+34.217.61.73 1 1 6983 20230624222918
+188.190.105.97 0 1 2889 
+92.255.64.21 0 1 579 
+23.111.252.34 6 6 203394 20230611012727
+182.43.148.98 1 1 6538 20230610042049
+94.176.133.194 0 1 542 
+157.49.65.251 8 54 3173176 20230611122254
+139.59.177.178 1 1 7004 20230626134628
+38.97.116.244 1 1 6538 20230602194219
+135.148.195.8 0 2 92705 
+35.160.212.99 1 1 6456 20230612231127
+180.163.220.67 0 3 5652474 
+54.189.166.195 1 1 7000 20230625214517
+20.219.129.8 2 2 70042 20230616134421
+134.209.17.228 2 2 68818 20230609082627
+113.142.141.105 3 3 19477 20230617021917
+23.128.248.21 1 1 6984 20230625120151
+27.115.124.45 0 14 6429958 
+104.160.17.25 1 1 6538 20230604210105
+54.144.25.149 1 1 6983 20230624135448
+205.185.122.184 1 3 21683 20230601043038
+20.120.35.81 1 1 34409 20230609141211
+139.162.5.175 5 5 190083 20230620113857
+156.146.35.177 2 2 70010 20230619115815
+209.141.41.193 0 1 11155 
+180.149.61.69 3 30 2446893 20230619212325
+70.38.10.151 1 1 35005 20230618072935
+209.141.55.120 0 2 18399 
+109.107.174.123 1 1 34409 20230606062110
+35.89.52.97 1 1 6983 20230624222935
+209.99.179.65 0 1 9211 
+207.244.92.202 2 2 70010 20230617183936
+184.94.240.88 3 3 80669 20230604183351
+137.184.93.100 1 1 7004 20230627031812
+138.199.22.235 2 2 85068 20230624014338
+205.210.31.79 1 1 42534 20230620015613
+110.239.215.205 1 1 0 20230602200346
+117.209.130.48 2 45 1557205 20230615153525
+135.148.195.11 1 2 17859 20230616235134
+192.3.166.60 1 1 34409 20230603230403
+104.192.108.10 1 1 6981 20230621001247
+198.235.24.244 1 1 33493 20230613085048
+54.202.131.43 1 1 6456 20230612231056
+161.35.38.229 1 1 3785 20230622182558
+34.78.60.219 18 63 12124240 20230619134458
+87.236.176.222 1 1 6538 20230603173853
+34.217.178.56 1 1 6981 20230621215321
+117.253.85.212 2 47 1569423 20230622160303
+43.156.17.113 1 1 43284 20230630051237
+121.91.81.245 0 1 12856 
+110.239.214.38 0 1 39060 
+14.29.140.161 1 1 6983 20230624235852
+70.38.10.153 1 1 34409 20230602195350
+65.154.226.166 2 44 1556284 20230602193044
+36.40.72.66 3 3 19614 20230604201512
+173.201.186.145 2 2 85068 20230621132823
+178.254.29.124 1 1 6981 20230621034658
+128.199.141.252 1 1 33407 20230612075532
+208.80.194.42 2 2 69414 20230618010605
+87.236.176.33 0 1 11155 
+52.12.156.216 1 1 6068 20230601002231
+54.245.54.69 2 45 1556529 20230602012924
+106.195.32.94 0 1 0 
+14.29.216.170 1 1 6707 20230616072721
+47.29.163.126 2 42 1533458 20230628010436
+64.15.129.119 0 8 693369 
+104.167.221.206 1 1 6538 20230608094344
+107.189.8.181 1 1 6538 20230609212720
+157.46.87.209 10 87 1494782 20230619101859
+162.142.125.12 2 3 24231 20230610044126
+198.235.24.116 1 1 43284 20230628001338
+106.195.33.69 2 4 1531290 20230621081915
+70.38.10.149 4 4 146985 20230621154843
+64.15.129.106 2 9 204401 20230626181619
+72.13.62.25 3 3 21481 20230628101742
+185.156.46.108 2 2 68818 20230610180656
+104.133.108.82 2 45 1567439 20230606232736
+124.221.186.82 2 2 14008 20230629011648
+64.15.129.124 0 16 400821 
+20.150.148.23 3 3 103227 20230604150658
+14.116.184.240 4 4 26221 20230615204247
+192.175.111.228 3 12 265254 20230619221557
+35.90.78.129 1 1 7005 20230629221438
+167.99.145.132 1 1 6983 20230624020557
+15.235.202.254 3 3 103227 20230608162108
+121.91.87.135 1 1 59376 20230602200344
+117.33.227.207 2 2 13240 20230617082143
+185.27.99.137 1 1 6458 20230614024602
+123.60.146.214 13 13 85423 20230629222259
+3.139.70.215 2 45 1567439 20230604105522
+36.110.211.2 0 1 5651770 
+70.38.10.154 3 3 112576 20230623021730
+162.240.105.245 1 1 6707 20230616030502
+157.51.193.94 12 46 1579569 20230605145159
+198.235.24.121 1 1 43284 20230627042037
+54.82.236.13 1 1 6456 20230612180301
+34.212.50.74 1 1 7004 20230629005811
+123.6.49.4 0 1 2825885 
+70.38.27.252 0 7 640898 
+42.83.147.54 1 1 6981 20230619230117
+123.6.49.41 0 1 2825885 
+66.220.149.8 1 3 85304 20230628055420
+15.235.50.228 1 1 24303 20230612173742
+223.240.101.111 2 2 12858 20230614122551
+3.237.255.25 1 1 6538 20230607112002
+165.22.235.93 1 1 6438 20230612005110
+157.46.100.198 0 13 45431 
+123.6.49.38 0 1 2825885 
+152.39.205.95 0 1 3839 
+207.244.110.12 3 3 100479 20230614082429
+180.163.220.3 0 1 81550 
+185.37.2.127 0 1 779 
+34.94.212.30 3 3 105015 20230618172955
+72.55.136.199 1 1 35021 20230616154422
+144.24.51.157 2 2 68818 20230608113637
+121.4.166.245 4 4 28016 20230628233711
+54.197.110.185 1 1 7006 20230626060813
+135.148.195.2 0 3 244650 
+113.125.51.198 2 2 13242 20230617141243
+157.51.195.16 1 4 117541 20230626080806
+159.89.119.53 1 1 6538 20230609000247
+47.92.107.171 1 2 17693 20230602204502
+135.148.195.4 1 1 6702 20230617013024
+20.10.174.24 1 1 6068 20230602141730
+185.66.138.239 0 1 2122 
+129.226.220.254 27 27 959792 20230623173142
+217.9.19.37 1 1 0 20230602200353
+134.122.44.126 1 1 1795 20230622122641
+185.180.143.148 1 1 6981 20230621083009
+52.26.89.14 1 1 6707 20230615215531
+205.185.116.25 0 1 927 
+70.38.10.157 3 3 119477 20230624144041
+34.216.134.102 1 1 6538 20230602234042
+34.222.119.20 1 1 7005 20230630233048
+35.92.84.4 1 1 7000 20230625214532
+52.25.244.122 1 1 6704 20230619003251
+192.175.111.229 0 5 188714 
+159.203.79.198 1 1 7004 20230628043535
+157.49.191.153 10 17 7242882 20230603122451
+43.156.9.190 3 3 103227 20230608182413
+3.91.20.198 1 1 6068 20230601201227
+49.44.76.231 1 1 187 20230614154238
+157.51.34.133 8 9 20967 20230613103616
+216.19.202.181 1 1 0 20230602200347
+15.204.182.106 3 3 20885 20230616081153
+157.51.34.66 4 5 13721 20230613104854
+172.190.3.21 4 4 27854 20230613003100
+68.183.188.245 1 1 6538 20230606010339
+185.240.255.135 1 1 0 20230602190655
+206.204.63.185 0 1 2139 
+34.221.164.162 1 1 32952 20230601014430
+156.146.35.163 6 6 206454 20230609050150
+185.54.229.10 9 9 309681 20230609223116
+157.51.73.241 9 81 4016963 20230620212001
+34.219.163.215 1 1 6704 20230619003159
+205.210.31.138 1 1 43284 20230628141524
+206.189.123.243 1 1 6981 20230622101749
+66.220.149.18 0 10 242960 
+205.185.116.89 0 1 31481 
+94.228.117.141 1 1 0 20230602111646
+43.134.234.203 8 8 272358 20230610000056
+68.183.39.118 2 2 68818 20230606210030
+113.125.140.19 2 2 13163 20230616135724
+192.175.111.241 1 1 35005 20230618073032
+4.194.223.186 3 3 105063 20230616160556
+157.51.60.129 2 9 664551 20230616143536
+66.220.149.5 1 19 568402 20230628055424
+139.59.162.226 1 1 6981 20230620025120
+185.200.117.222 3 3 100167 20230611004341
+23.128.248.10 1 1 7004 20230628032204
+205.237.94.64 0 1 4460 
+188.166.184.253 3 3 120089 20230625123541
+40.117.185.219 7 7 50873 20230626232337
+207.244.126.195 3 3 103227 20230606050929
+65.154.226.169 2 44 1556284 20230602193041
+192.175.111.233 2 2 77555 20230619221605
+64.15.129.102 3 13 238913 20230626181621
+213.188.81.174 0 1 393 
+45.154.194.203 1 1 0 20230602200333
+223.187.116.173 1 2 6707 20230615084945
+198.235.24.153 1 1 42534 20230623063405
+174.138.50.190 1 1 3791 20230627213631
+66.249.70.201 1 1 6538 20230606232736
+185.200.117.216 3 3 103227 20230609192618
+194.124.248.50 0 1 1414 
+18.236.179.157 1 1 6068 20230602012908
+42.236.10.84 2 26 582108 20230625104217
+49.44.82.232 1 1 187 20230615025924
+161.35.132.79 1 1 2404 20230630155652
+49.44.76.6 1 1 187 20230619195819
+5.188.62.21 30 30 54770 20230614122801
+198.235.24.55 1 1 35005 20230617114005
+206.204.51.99 0 1 1944 
+209.141.51.222 0 1 39060 
+157.49.73.194 10 24 946046 20230616182758
+168.151.96.219 1 1 6820 20230602200357
+121.91.85.20 0 1 7244 
+52.40.210.218 1 1 6983 20230625011801
+157.49.90.236 12 35 324153 20230616211233
+138.199.60.183 4 4 137028 20230615074904
+35.89.167.165 1 1 7004 20230629024908
+39.98.172.19 1 2 17693 20230602204305
+209.141.33.65 0 1 5445 
+180.163.220.5 0 2 5652349 
+169.150.218.38 2 2 13284 20230602183509
+54.91.62.145 1 1 6068 20230601115330
+35.236.85.154 3 3 103227 20230607200951
+34.213.238.22 1 1 6538 20230610013822
+172.104.99.190 9 9 309681 20230608162330
+223.247.179.42 2 2 13142 20230618021617
+66.220.149.119 0 10 174358 
+34.211.29.205 1 1 7005 20230630233116
+54.212.231.219 1 1 6981 20230620005412
+35.221.143.234 2 2 0 20230611171919
+34.222.200.138 2 45 1557488 20230625011807
+190.92.238.111 0 1 5651770 
+35.90.99.17 1 1 7004 20230626225232
+208.80.194.41 2 2 76943 20230625040346
+104.192.108.9 0 34 1451506 
+20.55.73.205 6 6 259704 20230629001543
+157.49.205.96 0 2 39557 
+181.214.173.55 2 2 67573 20230627033015
+54.88.179.33 2 2 86568 20230630210454
+137.184.154.44 1 1 7005 20230630014934
+14.116.185.229 2 2 13242 20230616183806
+36.40.66.38 1 1 6538 20230605201525
+110.224.84.228 7 38 31252 20230626090054
+216.194.82.39 0 1 61314 
+157.51.185.188 4 75 1711335 20230602133834
+51.255.62.7 1 1 33389 20230611101130
+176.193.117.33 1 1 34409 20230606031118
+5.181.235.78 3 3 98856 20230602061643
+135.148.195.15 1 1 6702 20230617103359
+106.195.40.103 4 50 3189351 20230609201231
+34.212.252.107 1 1 7004 20230627000932
+14.29.231.137 1 1 6458 20230613180950
+89.187.163.198 3 3 100479 20230612102625
+54.146.204.128 1 1 6068 20230601144721
+8.36.86.55 1 1 33493 20230613055555
+128.90.154.39 2 2 68818 20230604190053
+198.235.24.126 1 1 42534 20230624004036
+45.66.178.68 1 1 0 20230602200347
+54.187.114.98 1 1 7004 20230626225330
+121.91.85.200 0 1 992 
+206.204.34.54 0 1 68927 
+5.188.62.140 9 9 16431 20230626234121
+223.187.120.134 19 22 68525 20230612095032
+180.163.220.66 0 5 6006103 
+14.29.206.197 1 1 7285 20230602181251
+18.222.131.69 2 45 1567439 20230609231603
+206.189.37.83 3 3 127602 20230620065223
+108.136.51.51 2 2 85068 20230621180933
+205.210.31.80 1 1 43284 20230630063521
+54.213.176.7 1 1 6538 20230603231912
+157.51.63.128 1 2 45682 20230613103135
+43.134.240.165 3 3 103227 20230608203950
+43.134.240.128 3 3 101069 20230614204215
+157.51.192.196 21 95 1988499 20230622195904
+193.42.58.104 0 1 7143 
+35.90.149.64 2 45 1556529 20230601002238
+49.44.86.231 3 29 2444218 20230619131850
+34.222.226.150 1 1 6400 20230611003413
+35.88.0.209 2 45 1557209 20230619010609
+149.56.160.234 2 43 1555076 20230616070558
+18.237.185.118 1 1 7000 20230625214654
+35.90.163.6 1 1 6981 20230620231256
+192.36.70.176 1 1 7004 20230629090100
+194.41.123.111 1 1 0 20230602200358
+135.148.195.3 0 1 11155 
+167.94.138.126 1 2 18138 20230624154322
+45.66.176.47 0 2 159459 
+42.236.10.93 0 24 6309088 
+205.169.39.199 3 59 1779627 20230615210643
+157.51.193.210 0 1 39240 
+43.134.5.232 2 2 68818 20230610034718
+161.129.172.229 0 1 747 
+157.49.134.146 7 49 1533908 20230617072212
+157.46.105.100 1 7 32692 20230616233554
+49.44.82.11 1 1 187 20230617120645
+139.59.125.19 1 1 0 20230622094012
+209.141.32.227 0 1 12856 
+89.187.163.142 5 5 190107 20230620084122
+34.213.243.164 1 1 42534 20230624065529
+199.244.88.223 1 1 6538 20230606004137
+123.6.49.14 0 1 2825885 
+35.91.192.224 1 1 6707 20230615215600
+49.44.87.100 3 30 2446880 20230619095401
+185.220.100.243 1 1 6438 20230612070455
+180.149.5.188 0 1 495161 
+205.185.127.30 1 16 227752 20230629014115
+178.128.84.155 1 1 6983 20230624002701
+194.26.192.98 1 1 6538 20230605180959
+91.92.22.125 0 1 38050 
+34.220.58.154 1 1 7005 20230629221409
+157.46.103.127 2 45 6068 20230602092128
+180.163.220.110 0 1 5651770 
+199.195.248.172 2 2 49992 20230622113443
+72.55.136.156 1 9 150696 20230618073015
+64.15.129.118 2 2 77539 20230619221559
+35.90.17.96 1 1 7004 20230626225158
+35.91.24.23 1 1 7004 20230628010524
+34.220.102.253 1 1 6538 20230608231420
+116.108.41.161 6 6 257454 20230626194044
+156.146.35.176 3 3 127602 20230620173857
+138.199.39.148 1 1 33493 20230613041604
+165.22.197.181 1 1 7468 20230622143607
+157.49.254.234 0 4 52158 
+43.156.51.210 13 13 455225 20230617112006
+2.57.76.198 0 1 927 
+223.247.178.167 5 5 32178 20230614170824
+66.249.71.195 1 1 6538 20230606232737
+70.38.10.150 4 4 133806 20230613141741
+27.115.124.118 0 2 11303540 
+209.141.36.112 0 1 9211 
+42.83.147.55 3 3 19530 20230628024146
+106.211.223.153 5 8 19872 20230616113821
+34.221.105.52 2 45 1556999 20230608013227
+43.134.21.197 2 2 70010 20230619052321
+35.166.240.25 1 1 6981 20230621214611
+205.169.39.216 3 59 1780182 20230621093132
+147.182.199.143 1 1 7004 20230628003150
+209.141.34.187 1 1 7004 20230629014113
+157.51.188.236 1 2 6458 20230613174645
+54.188.143.226 1 1 6400 20230611003333
+34.209.66.72 1 1 7004 20230626225353
+178.128.109.132 2 2 78297 20230627063340
+185.180.143.74 1 1 6478 20230611170301
+35.215.84.249 1 1 6538 20230610011320
+113.142.131.55 1 1 6538 20230605120655
+35.92.19.77 1 1 7000 20230625214623
+103.62.48.228 3 3 103227 20230607225046
+65.154.226.167 1 1 7004 20230629153103
+106.197.127.222 7 7 25464 20230625114650
+49.44.78.9 3 30 2446880 20230619094155
+35.88.172.103 1 1 6538 20230608013216
+27.115.124.38 1 7 5888167 20230620235756
+152.39.201.248 0 1 5358 
+157.51.199.190 1 9 281836 20230603222543
+14.29.200.97 1 1 6981 20230622111937
+18.197.150.83 1 1 6820 20230604084535
+120.221.106.43 20 20 38689 20230613095800
+137.184.189.110 0 1 5651770 
+20.25.65.158 1 1 6068 20230602093121
+35.161.2.195 1 1 6704 20230619003331
+209.141.35.128 0 1 25035 
+192.175.111.252 1 1 42534 20230619221607
+192.175.111.254 3 3 112102 20230626181756
+110.239.220.175 1 1 1799 20230602200357
+34.219.14.111 1 1 6704 20230619003107
+152.39.202.81 0 1 25035 
+62.141.44.236 1 1 6478 20230611160824
+182.79.221.201 1 1 187 20230614155213
+192.175.111.253 1 1 43284 20230626181737
+23.105.169.159 2 2 70026 20230616205828
+42.236.10.75 1 8 110346 20230623070301
+45.66.179.61 0 1 4318 
+168.151.119.98 1 1 4277 20230602200357
+205.185.118.120 1 2 7117 20230606092420
+14.29.182.82 1 1 6983 20230623201231
+18.234.209.40 1 1 6704 20230619094946
+157.46.100.72 0 7 160394 
+209.145.61.248 1 1 32952 20230602025533
+106.195.35.41 2 19 1483796 20230610204821
+52.38.59.165 1 1 6538 20230603231932
+18.236.176.85 1 1 7006 20230626010300
+157.49.243.48 3 49 2259119 20230606210210
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20230601 25 69 2029856 19
+20230602 333 1044 36531292 50
+20230603 714 1294 45976813 18
+20230604 185 322 7191607 19
+20230605 25 59 1831789 12
+20230606 33 137 4683143 22
+20230607 32 33 805662 17
+20230608 39 82 2551704 23
+20230609 29 118 5297358 15
+20230610 47 141 6793521 18
+20230611 137 283 18959840 24
+20230612 43 46 405282 16
+20230613 85 91 786294 22
+20230614 240 453 6759044 22
+20230615 132 414 16646196 21
+20230616 530 1418 28071638 35
+20230617 153 397 7572644 15
+20230618 16 16 503478 12
+20230619 810 1942 52081468 38
+20230620 47 234 7771641 15
+20230621 43 177 39708848 14
+20230622 145 265 9581477 19
+20230623 73 120 24700420 34
+20230624 65 66 624031 31
+20230625 169 568 40716381 30
+20230626 217 584 11037777 24
+20230627 9 9 183658 8
+20230628 27 125 37952401 17
+20230629 38 53 548297 16
+20230630 15 15 310634 15
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 541
+15mn-30mn 10
+30s-2mn 32
+30mn-1h 12
+5mn-15mn 13
+1h+ 17
+2mn-5mn 16
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 131
+/ 750 14808879 514 444
+/admin/ 398 736313 59 60
+/dashboard/dashboard.php 168 433115 1 4
+/school/dashboard.php 153 845821 1 5
+/school/school_login.php 143 260490 11 10
+/admin/item.php 128 621923 0 0
+/index.php 96 687098 7 13
+/admin/view_post.php 95 650964 0 2
+/school/post.php 95 567360 1 3
+/teacher_login.php 84 316612 2 3
+/school/schedule_list.php 84 305680 0 0
+/create_qualification.php 82 477812 1 1
+/dashboard/view_teacher.php 80 349543 0 1
+/create_teacher.php 77 360896 2 3
+/assets/fonts/uicons/uicons-regular-rounded.woff2 73 3918816 5 28
+/admin/new_job.php 68 300726 0 2
+/admin/dashboard.php 61 419448 0 1
+/dashboard/create_academic.php 60 301022 0 0
+/grade.php 58 264268 4 5
+/school/post_profile.php 50 176511 0 1
+/school/subscribe.php 48 137229 0 1
+/admin/select_profile.php 48 217356 0 0
+/admin/view_teacher.php 46 310202 0 0
+/dashboard/edit_teacher.php 45 120367 0 1
+/school/view_school.php 44 161404 0 0
+/admin/edit_academic.php 15 83972 0 0
+/admin/edit_item.php 26 100680 0 0
+/admin/new_school.php 34 160981 0 0
+/school/ 4 512 1 0
+/school/mail_verify.php 10 1870 6 6
+/admin/mail_engaged.php 8 49934 0 2
+/teacher/create_address.php 1 1896 0 0
+/school/assets/fonts/boxicons.html 16 968554 0 0
+/admin/assets/fonts/materialdesignicons-webfonte910.woff 20 8217576 0 1
+/teacher/otpbutton.php 4 4548 0 0
+/school/mail.php 35 71803 1 3
+/teacher/view_teacher.php 11 54588 0 1
+/teacher/mail_verify.php 1 0 0 0
+/admin/assets/fonts/materialdesignicons-webfonte910.html 20 4767245 0 0
+/school/otp.php 11 15098 0 0
+/dashboard/edit_exp.php 8 19670 0 0
+/admin/edit_consult.php 9 36073 0 0
+/./about.php/ 1 7471 1 1
+/admin/edit_address.php 20 81507 0 0
+/school/formsubmit.php 6 1091 0 0
+// 2 12876 0 0
+/teacher/edit_qualify.php 1 2965 0 0
+/teacher_create.php 31 152793 0 0
+/admin/payment.php 11 46212 0 0
+/school/assets/fonts/materialdesignicons-webfonte910.ttf 1 1004940 0 0
+/dashboard/create_qualification.php 12 54114 0 1
+/school/assets/fonts/materialdesignicons-webfonte910.html 15 3470999 0 0
+/dashboard/ 4 519 0 0
+/teacher/mail.php 2 2428 0 0
+/teacher/create_teacher.php 8 17496 0 0
+/admin/assets/fonts/fa-solid-900.html 44 3245892 0 0
+/admin/edit_qualify.php 10 46389 0 0
+/teacher/create_exp.php 1 2756 0 1
+/mail.php 3 3653 0 0
+/././about.php 1 23130 0 1
+/admin/verify_school.php 20 90258 0 0
+/dashboard/mail.php 1 1231 0 0
+/school/enganement_list.php 2 7484 0 0
+/school/mail_interview.php 2 3870 0 0
+/teacher/ 2 258 0 0
+/teacher/create_qualification.php 2 6494 1 0
+/school/edit_school.php 18 77828 0 0
+/admin/consult_amount.php 26 128440 0 0
+/dashboard/teacher_login.php 32 76793 1 1
+/admin/edit_exp.php 15 62138 0 0
+/school/edit_address.php 6 19043 0 0
+/create_academic.php 31 101311 1 2
+/admin/verify_teacher.php 28 125417 0 0
+/school/reject.php 3 9651 0 0
+/dashboard/create_exp.php 26 83907 0 0
+/teacher/formsubmit.php 1 0 0 0
+/school/assets/fonts/fa-solid-900.html 25 1741662 0 0
+/contact.php 28 154919 1 2
+/school/create_school.php 35 82792 4 5
+/admin/edit_teacher.php 8 39284 0 0
+//index.php 4 25752 2 0
+/school/mailSend.php 13 624 0 0
+/admin/engagement.php 12 52830 0 0
+/admin/view_school.php 35 177156 0 0
+/teacher/edit_teacher.php 4 10836 0 0
+/teacher/otp.php 6 6765 0 0
+/./about.php 1 23130 0 0
+/admin/assets/fonts/boxicons.woff 24 4392528 0 0
+/school/assets/fonts/boxicons.ttf 1 209092 0 0
+/school/assets/fonts/fa-solid-900.woff 14 1136300 0 0
+/admin/assets/fonts/fa-solid-900.woff 22 1962700 0 0
+/admin/grade.php 15 58543 0 0
+/about.php 41 354969 9 13
+/teacher/edit_academic.php 4 13324 0 1
+/pricing.php 1 4818 0 0
+/create_exp.php 21 105078 0 2
+/dashboard/edit_qualify.php 10 30405 0 0
+/dashboard/formsubmit.php 5 141 0 0
+/teacher/create_academic.php 1 2957 0 0
+/school/openmoney/index.php 18 18821 0 0
+/otpbutton.php 22 27556 0 0
+/admin/index.php 10 18245 0 0
+/admin/review.php 12 50977 0 0
+/admin/edit_school.php 14 72640 0 1
+/school/mail_reject.php 2 7664 0 1
+/school/assets/fonts/boxicons.woff 15 2510016 0 0
+/otp.php 27 31815 0 0
+/school/otpbutton.php 8 11236 0 0
+/school/mail_select.php 6 22086 0 0
+/teacher/dashboard.php 12 27745 0 0
+/create_address.php 9 40882 1 0
+/admin/create_user.php 35 141746 1 1
+/dashboard/create_address.php 26 103971 0 0
+/job.php 1 19589 0 0
+/school/recruit_payment.php 23 73111 0 0
+/admin/mail_jobverify.php 9 32463 0 0
+/school/openmoney/response.php 11 7447 0 0
+/admin/new_teacher.php 12 61895 0 0
+/index.php/school/ 1 6538 0 0
+/dashboard/edit_address.php 12 34186 0 0
+/teacher/teacher_login.php 19 31056 2 0
+/school/schedule.php 19 59474 0 0
+/school/school_profile.php 21 71125 0 0
+/dashboard/assets/fonts/uicons/uicons-regular-rounded.woff2 8 475008 0 1
+/school/assets/fonts/materialdesignicons-webfonte910.woff 15 5478384 0 3
+/dashboard/edit_academic.php 18 70572 0 0
+/school/view_teacher.php 26 111911 1 0
+/admin/assets/fonts/materialdesignicons-webfonte910.ttf 1 1004940 0 0
+/admin/interview.php 15 65501 0 0
+//about.php 2 14904 0 2
+/admin/assets/fonts/boxicons.html 42 2905138 0 1
+END_SIDER

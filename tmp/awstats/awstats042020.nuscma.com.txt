@@ -1,0 +1,443 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202004 will be lost/reset.
+# Last config file used to build this data file was /home/nuscmy3y/tmp/awstats/awstats.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2007                
+POS_TIME 2677                
+POS_VISITOR 9508                
+POS_DAY 12108               
+POS_DOMAIN 3449                
+POS_LOGIN 3732                
+POS_ROBOT 3887                
+POS_WORMS 4058                
+POS_EMAILSENDER 4189                
+POS_EMAILRECEIVER 4332                
+POS_SESSION 12801               
+POS_SIDER 12991               
+POS_FILETYPES 4467                
+POS_DOWNLOADS 4638                
+POS_OS 4686                
+POS_BROWSER 4802                
+POS_SCREENSIZE 5004                
+POS_UNKNOWNREFERER 5078                
+POS_UNKNOWNREFERERBROWSER 5276                
+POS_ORIGIN 5432                
+POS_SEREFERRALS 5567                
+POS_PAGEREFS 5711                
+POS_SEARCHWORDS 5859                
+POS_KEYWORDS 6011                
+POS_MISC 2340                
+POS_ERRORS 6070                
+POS_CLUSTER 3588                
+POS_SIDER_404 6241                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200501005607 109 19230 11101446436059
+FirstTime 0
+LastTime 20200430031758
+LastUpdate 20200501051707 109 0 104 4 0
+TotalVisits 73                  
+TotalUnique 64                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 64                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 61 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1149 1225 290944
+1 1 1 13565 146 152 37872
+2 2 2 27131 92 123 32967
+3 11 11 149114 122 124 30621
+4 11 11 149114 370 382 109406
+5 5 5 67757 113 115 26820
+6 1 1 13565 77 82 21361
+7 3 3 40697 444 464 158095
+8 9 9 104092 121 133 53541
+9 5 5 74101 660 670 158494
+10 5 5 74102 1072 1078 246994
+11 13 42 727145 117 131 33105
+12 8 8 108451 88 98 23788
+13 11 11 149213 1074 1094 247507
+14 10 10 135553 69 82 18462
+15 3 3 40699 702 714 203650
+16 1 1 13566 112 131 32852
+17 1 1 13566 73 79 21008
+18 2 2 27096 65 68 16294
+19 1 1 13567 100 105 28717
+20 1 1 13565 1356 1368 359673
+21 0 0 0 510 519 127862
+22 0 0 0 175 182 45067
+23 0 0 0 125 126 32539
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 51 51 681492
+in 48 77 1201763
+cn 2 2 25434
+gb 2 2 25434
+ua 1 1 21536
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+no_user_agent 1 21536 20200409082457 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 6 13524 0 0
+js 2 219006 0 0
+Unknown 97 1319041 0 0
+png 3 192152 0 0
+svg 18 112097 0 0
+html 7 99839 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+Unknown 3 3
+win10 124 95
+linuxandroid 5 5
+win7 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+chrome80.0.3987.149 1 1
+chrome51.0.2704.103 1 1
+netscape5.0 2 2
+chrome81.0.4044.111 4 4
+firefox57.0 4 4
+Unknown 1 1
+firefox75.0 96 67
+firefox74.0 24 24
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+masscan/1.0_(https://github.com/robertdavidgraham/masscan) 20200409103953
+Mozilla/5.0_zgrab/0.x 20200409084943
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+masscan/1.0_(https://github.com/robertdavidgraham/masscan) 20200409103953
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 101 101
+From1 0 0
+From2 0 0
+From3 0 0
+From4 3 32
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+404 251 126998
+409 57 4731
+302 7777 1869943
+400 14 452
+500 1 464
+406 872 197259
+403 210 121968
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 89
+/admin/sql/scripts/setup.php 1 -
+/phpmyadmin5/scripts/setup.php 1 -
+/pma2007/scripts/setup.php 1 -
+/admin/db/scripts/setup.php 1 -
+/sqladm/scripts/setup.php 1 -
+/_PHPMYADMIN/scripts/setup.php 1 -
+/phpmyadmin2018/scripts/setup.php 1 -
+/phpMyAdmin-2.10.0.0/scripts/setup.php 1 -
+/phpmyadmin2015/scripts/setup.php 1 -
+/my/scripts/setup.php 1 -
+/phpMyAdmin-3/scripts/setup.php 1 -
+/mysql/admin/scripts/setup.php 1 -
+/db/myadmin/scripts/setup.php 1 -
+/phpadmin/scripts/setup.php 1 -
+/sqladmin/scripts/setup.php 1 -
+/pma2017/scripts/setup.php 1 -
+/PMA2018/scripts/setup.php 1 -
+/web/phpmyadmin/scripts/setup.php 1 -
+/phpmyadmin2011/scripts/setup.php 1 -
+/sql/php-myadmin/scripts/setup.php 1 -
+/dbadmin/scripts/setup.php 1 -
+/robots.txt 2 -
+/phpmy/scripts/setup.php 3 -
+/db/dbadmin/scripts/setup.php 1 -
+/PMA2016/scripts/setup.php 1 -
+/phpMyAdmin-2.11.11/scripts/setup.php 1 -
+/admin/pMA/scripts/setup.php 1 -
+/phpmyadmin2012/scripts/setup.php 1 -
+/phpmy-admin/scripts/setup.php 1 -
+/images/stories/cmd.php 4 -
+/images/stories/filemga.php 2 -
+/mysqladmin/scripts/setup.php 1 -
+/phpmyadmin1/scripts/setup.php 1 -
+/admin/mysql/scripts/setup.php 1 -
+/db/phpmyadmin/scripts/setup.php 1 -
+/admin/phpMyadmin/scripts/setup.php 1 -
+/pma2006/scripts/setup.php 1 -
+/phpmyadmin2/scripts/setup.php 1 -
+/sql/sql/scripts/setup.php 1 -
+/SQL/scripts/setup.php 1 -
+/phpmyadmin7/scripts/setup.php 1 -
+/sql/phpMyAdmin2/scripts/setup.php 1 -
+/db/phpMyAdmin-3/scripts/setup.php 1 -
+/PMA2011/scripts/setup.php 1 -
+/admin/sqladmin/scripts/setup.php 1 -
+/sql/sqladmin/scripts/setup.php 1 -
+/phpmyadmin2014/scripts/setup.php 1 -
+/sql/phpMyAdmin/scripts/setup.php 1 -
+/pma2008/scripts/setup.php 1 -
+/PMA2013/scripts/setup.php 1 -
+/phpMyAdmin-2.5.5/scripts/setup.php 1 -
+/php-my-admin/scripts/setup.php 1 -
+/xampp/phpmyadmin/scripts/setup.php 1 -
+/cgi-bin/mainfunction.cgi 2 -
+/db/scripts/setup.php 1 -
+/mysql-admin/scripts/setup.php 1 -
+/phpMyAdmin-2.10.0/scripts/setup.php 1 -
+/phpMyAdmi/scripts/setup.php 1 -
+/cgi-sys/403.html 121 -
+/PMA2012/scripts/setup.php 1 -
+/horde/imp/test.php 2 -
+/dbgeng.dll 1 -
+/sql/myadmin/scripts/setup.php 1 -
+/PMA2015/scripts/setup.php 1 -
+/mysql/scripts/setup.php 1 -
+/solr/ 1 -
+/phpmyadmin4/scripts/setup.php 1 -
+/phpMyAdmin-2/scripts/setup.php 1 -
+/phpmyadmin2013/scripts/setup.php 1 -
+/PMA/scripts/setup.php 3 -
+/phpMyAdmin/scripts/setup.php 7 -
+/blog/phpmyadmin/scripts/setup.php 1 -
+/phpmyadmin3/scripts/setup.php 1 -
+/db/phpmyadmin3/scripts/setup.php 1 -
+/phpmyadmin6/scripts/setup.php 1 -
+/admin/scripts/setup.php 1 -
+/phpmyadmin2017/scripts/setup.php 1 -
+/php-myadmin/scripts/setup.php 1 -
+/pma2014/scripts/setup.php 1 -
+/sql/sql-admin/scripts/setup.php 1 -
+/pma/scripts/setup.php 9 -
+/mysql/pMA/scripts/setup.php 1 -
+/myadmin/scripts/setup.php 7 -
+/php/phpmyadmin/scripts/setup.php 1 -
+/phpmyadmin/scripts/setup.php 8 -
+/MyAdmin/scripts/setup.php 5 -
+/sql/phpmy-admin/scripts/setup.php 1 -
+/mysql/db/scripts/setup.php 1 -
+/errors/processor.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 64
+106.211.226.222 6 6 81294 20200422114202
+106.211.237.1 6 6 81389 20200413125728
+223.182.210.93 5 34 618755 20200409112320
+106.211.202.155 3 3 40696 20200409074546
+106.211.236.178 3 3 40701 20200412132605
+106.211.226.22 2 2 27096 20200424110056
+106.217.17.158 2 2 27130 20200401144409
+106.211.239.211 2 2 27096 20200426122704
+157.46.112.103 2 2 27096 20200429043518
+157.46.85.43 2 2 27094 20200430031758
+157.46.104.26 2 2 27096 20200426050401
+106.211.203.203 2 2 27131 20200406120206
+106.211.237.150 2 2 27135 20200411144951
+157.46.78.126 2 2 27096 20200428053448
+193.34.236.43 2 2 25434 20200409092255
+157.51.96.4 2 2 27096 20200424045125
+47.100.214.38 2 2 25434 20200409100419
+157.51.112.203 2 2 27098 20200422030055
+106.211.203.159 2 2 27130 20200405083917
+106.211.238.1 2 2 27094 20200427124653
+157.46.95.34 2 2 27096 20200425044808
+157.51.82.121 2 2 27094 20200422140711
+106.211.240.95 2 2 27096 20200429183738
+106.211.237.196 2 2 27131 20200420125919
+106.211.226.176 2 2 27098 20200422142342
+157.50.32.115 1 1 13566 20200409023627
+157.50.214.133 1 1 13565 20200405075555
+91.193.172.56 1 1 21536 20200409093517
+157.46.127.150 1 1 13565 20200414042611
+157.50.25.236 1 1 13564 20200403031903
+157.50.16.112 1 1 13565 20200406093012
+157.50.200.237 1 1 13567 20200403104635
+157.46.117.135 1 1 13565 20200416024414
+157.50.64.55 1 1 13565 20200418060127
+106.211.203.37 1 1 13565 20200404133252
+157.50.252.191 1 1 13566 20200404153841
+157.50.9.123 1 1 13565 20200408080257
+157.51.112.56 1 1 13565 20200419132809
+157.50.44.161 1 1 13566 20200410132650
+157.50.58.147 1 1 13565 20200406130911
+157.50.24.204 1 1 13566 20200407040844
+157.51.126.162 1 1 13566 20200401163320
+139.99.141.237 1 1 21536 20200409103953
+157.50.232.121 1 1 13566 20200411150437
+157.51.72.86 1 1 13565 20200401133619
+162.243.130.183 1 1 4565 20200409084943
+106.211.193.75 1 1 13565 20200403102839
+157.46.127.232 1 1 13567 20200414141226
+157.51.249.100 1 1 13564 20200417135611
+157.51.196.9 1 1 13565 20200418035247
+157.51.167.226 1 1 13566 20200417092649
+106.211.243.36 1 1 13567 20200415193324
+157.51.99.206 1 1 13566 20200421035958
+157.51.155.8 1 1 13565 20200413051329
+157.46.74.80 1 1 13564 20200413132856
+157.50.3.142 1 1 13565 20200411042540
+157.50.255.195 1 1 13566 20200402034934
+157.46.79.153 1 1 13566 20200401080253
+157.51.113.100 2 2 27096 20200423034427
+106.211.238.176 2 2 27094 20200425142449
+157.46.83.76 1 1 13566 20200415041959
+171.67.70.85 1 1 4565 20200409081528
+157.51.229.160 1 1 13567 20200401150724
+157.50.13.95 1 1 13565 20200406083639
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20200401 6 6 81394 5
+20200402 1 1 13566 1
+20200403 3 3 40696 3
+20200404 2 2 27131 2
+20200405 4 4 54261 3
+20200406 4 4 54260 4
+20200407 1 1 13566 1
+20200408 2 2 27129 2
+20200409 16 45 762523 9
+20200410 1 1 13566 1
+20200411 4 4 54266 4
+20200412 4 4 54266 3
+20200413 7 7 94953 6
+20200414 2 2 27132 2
+20200415 2 2 27133 2
+20200416 1 1 13565 1
+20200417 2 2 27130 2
+20200418 2 2 27130 2
+20200419 2 2 27130 2
+20200420 1 1 13566 1
+20200421 1 1 13566 1
+20200422 12 12 162584 4
+20200423 2 2 27096 1
+20200424 4 4 54192 2
+20200425 4 4 54190 2
+20200426 4 4 54192 2
+20200427 2 2 27094 1
+20200428 2 2 27096 1
+20200429 4 4 54192 2
+20200430 2 2 27094 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+2mn-5mn 1
+5mn-15mn 1
+0s-30s 67
+30s-2mn 2
+15mn-30mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/cpanel 92 1247399 66 67
+/ 7 99839 7 4
+/login 4 10716 0 2
+/assets/images/origami 1 60926 0 0
+END_SIDER

@@ -1,0 +1,937 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202106 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/awstats.studyhacks.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2701                
+POS_VISITOR 22710               
+POS_DAY 27988               
+POS_DOMAIN 3523                
+POS_LOGIN 3936                
+POS_ROBOT 4091                
+POS_WORMS 4879                
+POS_EMAILSENDER 5010                
+POS_EMAILRECEIVER 5153                
+POS_SESSION 28749               
+POS_SIDER 28917               
+POS_FILETYPES 5288                
+POS_DOWNLOADS 5563                
+POS_OS 6174                
+POS_BROWSER 6456                
+POS_SCREENSIZE 8038                
+POS_UNKNOWNREFERER 8112                
+POS_UNKNOWNREFERERBROWSER 8865                
+POS_ORIGIN 9403                
+POS_SEREFERRALS 9542                
+POS_PAGEREFS 9736                
+POS_SEARCHWORDS 9913                
+POS_KEYWORDS 10084               
+POS_MISC 2365                
+POS_ERRORS 10162               
+POS_CLUSTER 3792                
+POS_SIDER_404 10313               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210701004305 280 72491 11386659464103
+FirstTime 20210601153439
+LastTime 20210630213552
+LastUpdate 20210701191153 280 0 279 0 0
+TotalVisits 137                 
+TotalUnique 116                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 141                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 56 4312047 25 76 752868
+1 4 24 1852021 7 20 191137
+2 10 11 347854 43 70 1043225
+3 19 59 4312677 23 36 372453
+4 23 103 5545539 26 70 2763874
+5 7 43 3762339 23 74 138529
+6 4 7 202172 29 50 319192
+7 5 8 306325 25 58 519354
+8 13 50 3759234 25 73 2337344
+9 5 30 2293438 42 74 1407644
+10 18 35 2490889 78 115 923042
+11 21 141 8764983 37 59 603534
+12 13 28 918630 35 63 493400
+13 11 34 1947408 18 32 70928
+14 20 75 5443700 306 350 3949373
+15 10 44 2213557 47 96 4922829
+16 7 32 710979 24 58 636495
+17 8 8 269318 57 143 2390166
+18 5 6 105387 29 77 4677305
+19 2 8 658738 13 51 2145590
+20 6 9 597855 86 117 4796183
+21 10 10 125060 132 290 915631
+22 2 2 58866 72 95 2079508
+23 7 8 260029 28 74 2293033
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+us 108 328 14838123
+cn 68 357 26651058
+ru 30 30 1081957
+gb 10 27 2122843
+in 5 36 2492365
+se 4 4 50024
+gr 4 4 185440
+fr 3 3 139080
+jp 1 19 1809611
+de 1 2 12506
+ca 1 19 1809611
+ro 1 1 46360
+id 1 1 12506
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+bingbot/ 325 8925363 20210630190132 0
+bot[\s_+:,\.\;\/\\-] 306 3561935 20210621143121 0
+Googlebot/ 171 7577494 20210630225734 0
+baidu 142 14362436 20210630195901 0
+bingpreview 63 2547655 20210628172007 0
+crawl 19 1148815 20210626091102 0
+Baiduspider/ 18 413291 20210630195855 0
+Googlebot\-Image/ 10 551708 20210610104245 0
+DuckDuckGo\-Favicons\-Bot/ 10 125060 20210629025710 0
+YisouSpider 10 66980 20210629021116 0
+YandexBot/ 8 100048 20210626135233 0
+spider 6 75036 20210622203524 0
+Apache\-HttpClient/ 3 37518 20210630205453 0
+no_user_agent 1 46360 20210602111803 0
+oBot/ 1 12506 20210626103936 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 12506 20210629101448 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+js 148 6485269 0 0
+svg 74 502126 0 0
+php 31 675286 0 0
+gif 44 1072178 0 0
+pdf 2 993690 0 0
+woff2 10 408728 0 0
+css 117 754419 0 0
+webp 6 915444 0 0
+png 67 22602598 0 0
+html 190 4025246 0 0
+jpg 142 12816500 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/journal/journal-papers/ANALYSING%20HEAT%20TRANSFER%20RATE%20BY%20OPTIMIZING%20TRAPEZOIDAL%20FIN%20GEOMETRY%20AND%20MATERIAL(1).pdf 3 1 1406500
+/journal/journal-papers/Optimization,%20style%20and%20Analysis%20of%20Axial%20Flow%20mechanical%20device%20in%20reaction-propulsion%20engine.pdf 3 0 1559448
+/journal/journal-papers/Study%20on%20cold-formed%20steel%20castellated%20beam%20with%20diamond%20shaped%20web%20opening.pdf 1 0 2546320
+/journal/journal-papers/DESIGN%20AND%20FABRICATION%20OF%20BALANCING%20VEHICLE%20BY%20USING%20ROCKER%20BOGIE%20.pdf 1 0 356874
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+Unknown 34 17
+winlong 4 4
+macosx 38 4
+winxp 26 26
+win8 3 3
+macosx8 1 1
+macosx12 4 2
+macosx10 2 2
+linuxandroid 191 35
+winvista 2 2
+macosx9 15 15
+win8.1 5 5
+win10 349 76
+unix 1 1
+linux 48 24
+ios_iphone 21 3
+win7 88 17
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 73
+chrome84.0.4147.135 1 1
+firefox43.0 7 1
+chrome36.0.1944.0 4 4
+firefox89.0 76 13
+msie6.0 20 20
+chrome80.0.3987 1 1
+android 86 12
+chrome27.0.1453.93 2 2
+chrome91.0.4472.106 28 10
+chrome88.0.4240.193 14 14
+firefox78.0 2 1
+chrome91.0.4472.101 23 3
+msie9.0 53 4
+chrome70.0.3538.77 1 1
+chrome87.0.4280.141 14 1
+chrome84.0.4147.105 1 1
+chrome72.0.3626.119 42 6
+chrome56.0.2924.87 1 1
+chrome41.0.2224.3 2 2
+chrome59.0.3071.115 3 1
+chrome45.0.2454.94 1 1
+chrome91.0.4472.88 15 2
+chrome85.0.4183.121 1 1
+firefox59.0 2 2
+chrome88.0.4324.93 26 8
+chrome71.0.3578.99 19 1
+chrome91.0.4472.114 61 4
+chrome34.0.1847.116 4 4
+firefox68.0 2 2
+chrome78.0.3904.108 24 4
+mozilla 22 4
+chrome26.0.1410.65 1 1
+chrome28.0.1464.0 2 2
+chrome48.0.3472.90 1 1
+chrome68.0.3440.84 1 1
+chrome31.0.1650.16 2 2
+chrome90.0.4430.212 19 1
+chrome32.0.1664.3 2 2
+chrome29.0.1547.62 2 2
+chrome55.0.2883.95 2 0
+chrome86.0.4240.198 18 1
+safari9.0 1 1
+chrome63.0.3239.132 6 6
+chrome49.0.2623.112 20 5
+firefox82.0 6 3
+msie11.0 2 1
+chrome49.0.2623.75 36 17
+edge13 3 1
+chrome74.0.3729.131 2 2
+chrome41.0.2225.0 2 2
+firefox21.0 3 1
+firefox88.0 20 2
+chrome35.0.1916.47 2 2
+firefox61.0 1 1
+chrome83.0.4103.61 2 1
+chrome51.0.2704.64 1 1
+safari14.0 19 1
+safari12.0 1 1
+firefox57.0 2 2
+chrome73.0.3683.90 2 2
+chrome60.0.3112.90 5 5
+chrome35.0.2309.372 2 2
+chrome79.0.3945.88 1 1
+chrome78.0.3904.62 4 4
+firefox79.0 1 1
+firefox90.0 19 1
+chrome36.0.1985.125 7 7
+chrome91.0.4472.77 20 2
+chrome71.0.3578.98 2 2
+chrome65.0.3325.109 1 1
+Unknown 11 11
+chrome74.0.3694.0 18 1
+firefox15.0.1 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_Dataprovider.com) 20210629100943
+My_User_Agent_1.0 20210623030234
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko)_Chrome/74.0.3729.131_Safari/537.36 20210604102831
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210627145239
+Mozilla/5.0_(compatible;_ips-agent) 20210614042743
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210625045225
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210625045225
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210627145239
+My_User_Agent_1.0 20210623030234
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 175 244
+From1 3 3
+From2 13 13
+From3 1 1
+From4 45 571
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+youtube 1 1
+bing 1 1
+baidu 9 9
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://www.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+osres 2
+magic853 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+osres 2
+magic853 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+206 10 794949
+403 3 1074
+409 12 996
+301 4 948
+404 791 322103
+406 256 57856
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 369
+/kindeditor-min.js 1 -
+/plugin.php 1 -
+/tpl/login/user/images/login_bg_1.jpg 1 -
+/wp1/wp-includes/wlwmanifest.xml 6 -
+/aeronautics/aeronautics.php 3 -
+/images/logo_88x31.gif 1 -
+/vendor/phpunit/phpunit/src/Util/ 1 -
+/business/images/index-gg1.jpg 1 -
+/API/DW/Dwplugin/SystemLabel/SiteConfig.htm 1 -
+/tools/rss.aspx 1 -
+/courses/studyhacks.css 1 -
+/static/images/logo/webserver_small.gif 1 -
+/wp-config.php_Old 1 https://www.google.com/search
+/feed.asp 1 -
+/install 1 -
+/system/language/zh-cn.xml 1 -
+/img/pic/login/top-left.jpg 1 -
+/Admin/Common/HelpLinks.xml 1 -
+/site/ 2 -
+/createEvents.php 1 -
+/admin/index.php 1 -
+/plus/download.php 1 -
+/new/ 2 -
+/vendor/jquery/jquery.min.js 3 -
+/install/ 2 -
+/addons/theme/stv1/_static/ts2/layout.css 1 -
+/plugins/filemanager/filemanager/js 1 -
+/v1/ 2 -
+//type.php 1 http://studyhacks.in//type.php
+/static/hgicon.png 1 -
+/nobody/mobile.htm 1 -
+/temp/ 2 -
+/deptWebsiteAction.do 1 -
+/inc/playerKinds.xml 1 -
+/common/common.js 1 -
+/archiver 1 -
+/main/ 2 -
+/extman/default/images/logo.gif 1 -
+/fckeditor.js 1 -
+/skin/frontend/default/modern/css/styles.css 1 -
+/wp-cron.php 1 -
+/FCK/fckeditor.js 1 -
+/templates/jsn_glass_pro/ext/hikashop/jsn_ext_hikashop.css 1 -
+/ckfinder/core/connector/php/connector.php 1 -
+/media/wp-includes/wlwmanifest.xml 1 -
+/e/data/js/ajax.js 1 -
+/API/DW/Dwplugin/TemplateManage/login_site.htm 1 -
+/inc/Templates/rss.xslt 1 -
+/template/home.htm 1 -
+/css/Media/aerodynamic.jpg 1 -
+/app/login.jsp 1 -
+/wp2/wp-includes/wlwmanifest.xml 6 -
+/data/admin/ver.txt 1 -
+/public/js/ipb.js 1 -
+/demo/ 2 -
+/docs.css 1 -
+/ads.txt 6 -
+/themes/graphics/horde-power1.png 1 -
+/phpmyadmin/docs.css 1 -
+/2020/wp-includes/wlwmanifest.xml 5 -
+/whir_system/module/security/login.aspx 1 -
+/Template/Default/Skin/user/images/login_back.jpg 1 -
+/docs/DOCUMENTATION.txt 1 -
+/admin/start/index.php 1 -
+/images/branding/logo.gif 1 -
+/examples/readonly.html 1 -
+/images/zh-CN/logo.ico 1 -
+/vendor/ 1 -
+/include/install_ocx.aspx 1 -
+/bencandy.php 1 -
+/themes/default/default.css 1 -
+/home/ 2 -
+/style/default/hdwiki.css 1 -
+/css/Media/wind_tunnle_testing.jpg 1 -
+/2018/ 2 -
+/app/js/source/wcmlib/WCMConstants.js 1 -
+//user.php 2 45ea207d7a2b68c49582d2d22adf953aads|a:2:{s:3:\"num\"
+/bk/ 2 -
+/was/main.html 1 -
+/examples/file-manager.html 1 -
+/include/dialog/config.php 1 -
+/tmp/ 2 -
+/max-templates/classic/styles/app.css 1 -
+/help/user/index.html 1 -
+/script/login.js 1 -
+/phpmyadmin/ 1 -
+/archiver/ 1 -
+/template/1/bluewise/_files/jspxcms.css 1 -
+//c.php 1 http://studyhacks.in//c.php
+/shop/wp-includes/wlwmanifest.xml 6 -
+//plus/myjs.php 1 http://studyhacks.in//plus/myjs.php
+/vendor/bootstrap/js/bootstrap.bundle.min.js 1 -
+/wp/wp-includes/wlwmanifest.xml 9 -
+/dialog/dialog.js 1 -
+/wp-content 1 -
+/advfile/ad12.js 1 -
+//plus/mytag_js.php 8 http://studyhacks.in//plus/mytag_js.php
+/journal/apple-touch-icon.png 1 http://studyhacks.in/journal/current-issue.php
+/CuteSoft_Client/CuteEditor/Images/log.gif 1 -
+/forums/list.page 1 -
+/images/logo-white.png 1 -
+/list.php 1 -
+/laravel/vendor/phpunit/phpunit/src/Util/PHP/x3.php 2 -
+//include/dialog/select_images_post.php 1 http://studyhacks.in//include/dialog/select_images_post.php
+/news/wp-includes/wlwmanifest.xml 6 -
+/ymail/images/index_r1_c4.jpg 1 -
+/admin/template/article_more/config.htm 1 -
+/admin/login.php 1 -
+/courses/vendor/bootstrap/js/bootstrap.bundle.min.js 1 -
+/system/Login.aspx 1 -
+/License.txt 1 -
+/css/Media/dye_contanier_laminar_flow.jpg 1 -
+/test/ 2 -
+/events.php 13 -
+/2019/wp-includes/wlwmanifest.xml 6 -
+//data/cache/t.php 1 http://studyhacks.in//data/cache/t.php
+/common/help/images/helplogo_zh.gif 1 -
+/datacenter/downloadApp/showDownload.do 1 -
+/tpl/user/tpl1/css/skins/blue.css 1 -
+/js/ckfinder/core/connector/php/connector.php 1 -
+/README.txt 1 -
+/cgi/index.cgi 1 -
+/register.php 4 -
+/e/master/login.aspx 1 -
+/blog/ 3 -
+/data/images/wap_logo.gif 1 -
+/changelog.txt 1 -
+/addons/theme/stv2/_static/ts2/layout.css 1 -
+/whir_system/login.aspx 1 -
+/console/js/CTRSRequestParam.js 1 -
+/imagesschool/style1/flash2.jpg 1 -
+/ids/admin/login.jsp 1 -
+/Public/Admin/Images/login_main_bg.jpg 1 -
+/admin.php 2 -
+//utility/convert/index.php 1 http://studyhacks.in//utility/convert/index.php
+/sitemap.xml 1 -
+/member/space/company/info.txt 1 -
+/vendor/phpunit/phpunit/LICENSE 2 -
+/plug/publish 1 -
+/robots.txt 146 -
+/console/auth/reg_newuser.jsp 1 -
+/journal/journal-papers/SCIMITAR%20SHAPED%20COMPRESSOR%E2%80%99S%20STRUCTURAL%20AND%20MODELLING%20ANALYSIS%20IN%20COMPUTATIONAL%20FORM.pdf 4 -
+/js/ajax_x.js 1 -
+/script/valid_formdata.js 1 -
+/adminsoft/templates/images/login_bg_top.jpg 1 -
+/eams/static/scripts/grade/course/input.js 1 -
+/admin/SouthidcEditor/Dialog/dialog.js 1 -
+/plus/sitemap.html 1 -
+/API/DW/Dwplugin/TemplateManage/save_template.htm 1 -
+/examples/index.html 1 -
+/app/images/login/toplogo.gif 1 -
+/was/help.jsp 1 -
+/Error.aspx 1 -
+/old-site/ 2 -
+/include/dedeajax2.js 1 -
+/lang/en.js 1 -
+/journal/journal-papers/FLIGHT%20DATAS%20RECORDING%20USING%20ADVANCED%20SATELLITE%20COMMUNICATION%20BY%20ELIMINATEING%20THE%20SEARCH%20OF%20BLACK%20BOX.pdf 1 -
+/CuteSoft_Client/CuteEditor/Help/default.htm 1 -
+/Include/EcsServerApi.js 1 -
+/assets/vendor/jquery.filer/examples/default/php/form_upload.php 3 -
+/siteserver/login.aspx 1 -
+/projects.php 11 -
+/extern.php 1 -
+/site/wp-includes/wlwmanifest.xml 9 -
+/forum/ 1 -
+/includes/general.js 1 -
+/cms/ 2 -
+/web/wp-includes/wlwmanifest.xml 6 -
+/2018/wp-includes/wlwmanifest.xml 1 -
+/wp-config.phporiginal 1 https://www.google.com/search
+/jorunalPublicaiton.php 1 -
+/css/Media/aircraft_vibrations.gif 2 -
+/help/ch_gb/images/help-title.gif 1 -
+/index.html 3 -
+/admin/admin_login.php 1 -
+/images/login/eyoumail.gif 1 -
+/wp-config-backup.txt 1 https://www.google.com/search
+/wp-includes/wlwmanifest.xml 9 -
+/Prompt/images/P_Wrong.gif 1 -
+/aeronautics/aircraft_propulsion.php 1 -
+/index.php1 1 -
+/aeronautics/jetPropulsion.php 4 -
+//nuan.php 1 http://studyhacks.in//nuan.php
+/ks_inc/ajax.js 1 -
+/ckeditor/ckfinder/ckfinder.html 1 -
+/Site/Pages/WebResources.ashx/PoweredByKodakImage 1 -
+/test_404_page/ 1 -
+/ckfinder/ckfinder.html 1 -
+/archive/archive.css 1 -
+/assets/vendor/jquery.filer/uploads/bower.php 2 -
+/m 1 -
+/FCK/editor/js/fckeditorcode_ie.js 1 -
+/help/en/h_authenticate.html 1 -
+/journal/journal-papers/SCIMITAR%20SHAPED%20COMPRESSOR%C3%A2%E2%82%AC%E2%84%A2S%20STRUCTURAL%20AND%20MODELLING%20ANALYSIS%20IN%20COMPUTATIONAL%20FORM%20.pdf 1 -
+/fckeditor/license.txt 1 -
+/old-wp/ 2 -
+/system/skins/default/system.login.htm 1 -
+/admin/login.asp 1 -
+/wp/ 2 -
+/courses/vendor/bootstrap/css/bootstrap.min.css 1 -
+/licence.txt 1 -
+/API/DW/Dwplugin/TemplateManage/manage_site.htm 1 -
+//plus/comments_frame.php 1 http://studyhacks.in//plus/comments_frame.php
+/js/common.js 1 http://www.studyhacks.in/js/common.js
+/jcms/index.jsp 1 -
+/web2/login_template/1.files/Logo1.jpg 1 -
+/API/DW/Dwplugin/ThirdPartyTags/SiteFactory.xml 1 -
+/jcms/index_jcms.jsp 1 -
+/xmlrpc.php 1 -
+/uc_server/control/admin/db.php 1 -
+//uploadfile/member/0/0x0.php 1 http://studyhacks.in//uploadfile/member/0/0x0.php
+/images/Default_bg_002.gif 1 -
+/admin/SouthidcEditor/ewebeditor.asp 1 -
+/wp-config.good 1 https://www.google.com/search
+/plugins/anchor/anchor.js 1 -
+/weblog/ 1 -
+/admin/js/IdSUtil.js 1 -
+/journal/privacy-policy.php 1 -
+/rss.aspx 1 -
+/Images/login/lefttu.jpg 1 -
+/console/js/CWCMDialogHead.js 1 -
+/UserCenter/css/admin/bgimg/admin_all_bg.png 1 -
+/forum.php 1 -
+/courses/css/modern-business.css 1 -
+/admin/login.aspx 1 -
+//libsoft.php 2 http://studyhacks.in//libsoft.php
+/cms/wp-includes/wlwmanifest.xml 9 -
+/courses/index.php 7 -
+/wcm/ 1 -
+/api/api_user.xml 1 -
+/backup/ 2 -
+/wp-login.php 3 -
+/docs/ 1 -
+/wp2/ 2 -
+/test/wp-includes/wlwmanifest.xml 6 -
+/default/images/logo.gif 1 -
+/public/about.html 1 -
+/2019/ 2 -
+/wp-config-good 1 https://www.google.com/search
+/readme.html 1 -
+/images/2_11.gif 1 -
+/maintlogin.jsp 1 -
+/Scripts/jquery/maticsoft.jquery.min.js 1 -
+/images/login/logo.gif 1 -
+/app/images/login/logo.png 1 -
+/coremail/common/help/images/helplogo.gif 1 -
+/wp-config.php 1 https://www.google.com/search
+/wp-config.php_original 1 https://www.google.com/search
+/journal/publishJournal.php 3 -
+/auth/login 1 -
+/siteserver/upgrade/default.aspx 1 -
+/webbuilder/script/locale/wb-lang-zh_CN.js 1 -
+/media/com_hikashop/js/hikashop.js 1 -
+//plus/ad_js.php 3 http://studyhacks.in//plus/ad_js.php
+/old/ 2 -
+/editor/fckeditor.js 1 -
+/journal/journal-papers/COMPUTATIONAL%20STUDY%20ON%20THRUST%20VECTOR%20CONTROL%20USING%20SUPERSONIC%20SECONDARY%20FLOW%20INJECTION.pdf 3 -
+/data/admin/allowurl.txt 1 -
+/Ntalker/lawfirm.aspx 1 -
+/User/Login.aspx 1 -
+/admin/ 1 -
+/js/buttons.js 1 -
+/2020/ 2 -
+/ids/admin/userhome/forgetPwd.jsp 1 -
+/fckeditor/fckconfig.js 1 -
+/css/Media/aircraft_avionics.png 36 -
+/wp-content/ 1 -
+/Search.html 1 -
+//plus/download.php 4 http://studyhacks.in//plus/download.php
+/apps/admin/_static/image/login_box_bg.png 1 -
+/wordpress/wp-includes/wlwmanifest.xml 9 -
+/pub/skins/pmwiki/pmwiki.css 1 -
+/FCKeditor/editor/filemanager/connectors/test.html 1 -
+/ycportal/js/wbTextBox/showimg.jsp 1 -
+/profile.php 11 -
+/Admin/Images/LoginImages/admin_text.gif 1 -
+/console/include/not_login.htm 1 -
+/aeronautics/aerodynamics.php 3 -
+/next/img/logo.gif 1 -
+/rss.php 1 -
+/system/Update.aspx 1 -
+/authors.php 7 -
+/admin/SouthidcEditor/ButtonImage/standard/componentmenu.gif 1 -
+/index.cgi 1 -
+/coremail/common/help/images/helplogo_zh.gif 1 -
+/fckeditor/editor/js/fckeditorcode_ie.js 1 -
+/wp1/ 2 -
+/Admin/Images/LoginImages/admin_top.gif 1 -
+/app/Tpl/fanwe_1/js/DD_belatedPNG_0.0.8a-min.js 1 -
+/issmall/ 1 -
+/images/hwem.css 1 -
+/default/css/em_css.css 1 -
+/clientscript/vbulletin_ajax_htmlloader.js 1 -
+/Images/login/biaoti.jpg 1 -
+/doku.php 1 -
+/license.txt 1 -
+/blog/wp-includes/wlwmanifest.xml 9 -
+/pub/guiedit/guiedit.js 1 -
+/images/default/post_bt.gif 1 -
+/plus/heightsearch.php 1 -
+/phpmyadmin/themes/original/img/logo_right.png 1 -
+/dev/ 2 -
+/bak/ 2 -
+/history.txt 1 -
+/css/Media/Laminar-turbulent-flow.jpg 6 -
+/helpnew/faq/faq_simple_zh_CN.jsp 1 -
+//plus/erraddsave.php 2 http://studyhacks.in//plus/erraddsave.php
+/journal/journal-papers/Optimization,%20Design%20and%20Analysis%20of%20Axial%20Flow%20Compressor%20in%20Jet%20Engine.pdf 7 -
+/wordpress/ 2 -
+/bbs/ 1 -
+/back/scripts/jspxcms_choose.js 1 -
+/new-site/ 2 -
+/web/ 2 -
+/digg.php 1 -
+/images/login/icon-up.gif 1 -
+/custom/SkinTemplate/skin/public/images/sys-logo-1caitong-180.jpg 1 -
+/CuteSoft_Client/CuteEditor/Style/IE.css 1 -
+/_wpeprivate/config.json 1 https://www.google.com/search
+/admin/editor/ 1 -
+/courses/vendor/jquery/jquery.min.js 1 -
+/Images/login/mainlogo.gif 1 -
+/wp-config.php_new 1 https://www.google.com/search
+/ckeditor/ckeditor.js 1 -
+/login/Jeecms.do 1 -
+/base/login/login.php 1 -
+/css/Media/dye_flemant_flow.jpg 4 -
+/Install/logo.gif 1 -
+/admin/inc/xml.xslt 1 -
+/fckeditor/fckeditor.js 1 -
+/logo/logo_jw.png 1 -
+/Admin/Login.aspx 1 -
+/customdir/images/english_logo.jpg 1 -
+/wp-config.php_bak 2 https://www.google.com/search
+/app/home/skins/default/style.css 1 -
+/sito/wp-includes/wlwmanifest.xml 6 -
+/images/logo_product-cml.png 1 -
+/images/login9/login_33.jpg 1 -
+/admin 2 -
+/Editor.js 1 -
+/inc/rsd.php 1 -
+/ckfinder/install.txt 1 -
+/master/login.aspx 1 -
+/website/wp-includes/wlwmanifest.xml 6 -
+/aeronautics/reynold_number.php 3 -
+/assets/images/studyhacks_logo_nulinz_logo_nuscma_logo.svg 1 -
+/common/help/images/helplogo.gif 1 -
+/plus/rssmap.html 1 -
+/editor/js/fckeditorcode_ie.js 1 -
+/Wq_StranJF.js 1 -
+/asset-manifest.json 1 http://studyhacks.in/
+//plus/90sec.php 1 http://studyhacks.in//plus/90sec.php
+/stylesheet.css 1 -
+/CHANGELOG.txt 1 -
+/kindeditor.js 1 -
+/images/login_Name.jpg 1 -
+/Site/SystemThemes/7917A0869761B5458281E407AE0090F5/Images/ISBanner58px.jpg 1 -
+/fckeditor/editor/dtd/fck_dtd_test.html 1 -
+/ckeditor/ckfinder/install.txt 1 -
+/intenship.php 3 -
+/themes/default/graphics/horde-power1.png 1 -
+/humans.txt 2 -
+/Help 1 -
+/CuteSoft_Client/CuteEditor/ImageEditor/listfiles.aspx 1 -
+/v2/ 2 -
+//plus/laobiao.php 1 http://studyhacks.in//plus/laobiao.php
+/new_gb/help/images/usage/3.3.gif 1 -
+/404.jpg 1 -
+/asp.net/README.txt 1 -
+/was5/web/index.jsp 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 141
+157.49.79.37 12 57 1743165 20210623044800
+220.181.77.162 10 84 4840829 20210630114814
+120.85.135.20 10 28 1922165 20210622035707
+183.198.238.203 8 26 1897153 20210622080135
+106.55.150.83 7 7 87542 20210630211912
+149.56.150.77 6 6 241472 20210629100918
+64.233.172.182 6 9 82374 20210629135429
+92.38.172.12 5 5 231800 20210609104428
+5.188.211.22 4 4 152180 20210625145758
+159.65.24.22 4 4 42906 20210612133103
+23.100.232.233 4 35 820043 20210629164546
+5.188.211.10 4 4 135550 20210629034521
+104.197.165.66 4 4 50024 20210629204420
+5.188.211.72 4 4 152180 20210620235525
+35.181.87.238 4 4 50024 20210613201029
+157.51.163.87 3 23 1839515 20210625142938
+5.188.211.35 3 3 81469 20210626124221
+64.233.172.184 3 9 52194 20210628141122
+46.105.45.118 3 3 139080 20210627022304
+72.13.46.2 3 3 32847 20210614042743
+5.62.58.233 3 3 139080 20210609122309
+74.125.212.26 3 3 37518 20210617121250
+54.203.73.198 3 6 44856 20210617154942
+5.62.34.21 3 3 139080 20210606175151
+185.210.219.101 3 3 139080 20210606101814
+207.46.13.127 0 1 10071 
+42.192.17.155 1 1 12506 20210614003702
+223.72.73.141 1 19 1809611 20210607035128
+152.57.143.131 1 14 618153 20210618002104
+120.52.152.20 1 6 644302 20210603194405
+144.76.156.232 1 2 12506 20210610110810
+106.75.85.103 2 2 92720 20210620140033
+216.145.5.42 1 1 12506 20210602213947
+111.7.100.26 0 3 534105 
+154.30.136.53 1 1 12506 20210623030234
+180.163.220.68 0 1 2446 
+64.233.172.171 1 2 14952 20210603134607
+34.228.221.71 1 1 12506 20210605174217
+93.158.91.196 1 1 12506 20210624135623
+180.163.220.4 0 1 2446 
+157.55.39.6 0 2 6560 
+18.221.206.247 2 2 25012 20210616085211
+36.110.199.26 0 1 3288 
+34.86.35.23 1 1 46360 20210608041545
+52.15.212.3 2 2 25012 20210618134149
+51.77.128.212 1 18 1807165 20210629100941
+92.118.160.57 1 1 46360 20210613173628
+70.35.204.126 2 2 92720 20210612022216
+116.202.217.87 1 1 39589 20210623002937
+173.211.76.249 1 1 12506 20210617115925
+34.77.162.25 2 2 92720 20210619053030
+54.186.221.1 1 18 1807165 20210602050506
+120.84.12.199 1 18 1807165 20210607143647
+115.148.155.16 1 2 13063 20210630205920
+120.92.72.88 1 2 16960 20210628061933
+36.110.199.38 0 2 16243 
+5.188.211.16 2 2 76090 20210626144744
+42.193.8.97 1 1 12506 20210614122854
+49.4.43.16 1 19 1809611 20210622080045
+173.82.18.200 1 1 12506 20210602120858
+58.60.1.54 2 24 2137702 20210629092419
+103.99.217.48 2 15 630659 20210613121609
+93.158.91.189 1 1 12506 20210611052035
+192.71.10.105 1 1 12506 20210627174019
+18.197.125.181 2 2 25012 20210620055225
+66.181.161.93 1 19 1809611 20210606051700
+157.55.39.138 0 1 3356 
+64.233.172.177 0 3 7338 
+72.252.105.251 1 19 1809611 20210615000823
+36.110.199.163 0 2 111041 
+52.60.209.36 2 2 25012 20210601182342
+157.55.39.156 0 3 136468 
+106.211.255.174 2 20 1822117 20210601153524
+111.7.100.27 1 8 219209 20210627110330
+40.77.167.39 0 1 110484 
+157.46.89.141 1 19 1809611 20210622132416
+123.183.224.29 1 1 12506 20210625224941
+64.79.109.221 1 1 12506 20210628084327
+120.92.72.185 0 1 4454 
+54.93.226.117 0 1 519816 
+51.89.230.56 1 1 12506 20210615124049
+36.110.199.23 1 2 16960 20210622152857
+18.136.72.135 2 2 25012 20210609152358
+157.55.39.187 0 2 23989 
+74.125.212.24 0 3 7338 
+34.96.130.17 1 1 46360 20210625045225
+162.55.214.24 1 1 12506 20210626145846
+120.92.72.50 1 2 122990 20210619143154
+157.55.39.38 0 1 2623 
+20.52.152.164 2 2 92720 20210616072802
+111.7.100.24 1 8 467730 20210627110335
+92.118.160.9 1 1 46360 20210627145239
+36.37.124.100 1 1 12506 20210615011824
+34.86.35.31 1 1 46360 20210615063125
+36.99.136.130 1 6 879235 20210622042913
+212.193.0.160 1 1 12506 20210612191952
+157.55.39.78 0 1 9387 
+47.29.50.137 1 19 1809611 20210629040839
+64.233.172.186 2 5 32350 20210630125618
+123.58.210.47 1 1 12506 20210629182714
+13.228.104.57 2 2 25012 20210607044102
+157.55.39.143 0 2 19839 
+167.99.48.249 1 1 12506 20210617035019
+34.235.117.231 1 1 12506 20210615215210
+34.96.130.32 1 1 46360 20210622053717
+1.14.17.89 1 1 12506 20210614115600
+116.80.41.171 1 19 1809611 20210609004741
+77.74.177.113 2 2 25012 20210619024708
+113.206.199.215 1 1 12506 20210630213552
+123.58.210.246 1 1 12506 20210624091540
+84.247.48.53 1 1 46360 20210601221202
+117.147.37.42 1 18 1807165 20210619111516
+52.65.15.196 2 2 25012 20210620164018
+106.75.26.68 1 6 644302 20210620140019
+5.188.211.13 2 2 76090 20210625021435
+209.161.96.120 1 1 12506 20210607091712
+123.183.224.166 1 1 10071 20210626004408
+192.71.38.71 1 1 12506 20210603170435
+54.250.87.247 2 2 25012 20210618064834
+120.92.72.72 0 1 110484 
+117.131.117.99 1 19 1809611 20210624013832
+157.55.39.13 0 1 4454 
+36.99.136.132 1 6 127015 20210622042910
+36.99.136.135 0 5 490793 
+20.64.168.7 2 2 92720 20210601235011
+210.22.245.219 1 4 358654 20210622035658
+64.233.172.174 2 2 25012 20210612144248
+35.162.155.15 1 1 12506 20210625230625
+40.77.167.56 0 1 10071 
+106.75.85.117 1 6 644302 20210620140019
+120.92.72.197 1 2 16960 20210602070443
+92.118.160.41 2 2 92720 20210619100934
+35.181.112.20 2 2 25012 20210612152906
+111.7.100.25 1 3 627065 20210627110208
+212.139.247.138 2 2 25012 20210604102831
+157.55.39.180 0 2 58920 
+120.92.72.96 0 1 110484 
+216.145.14.142 1 1 12506 20210623002855
+121.5.145.96 1 1 12506 20210614092319
+36.99.136.134 1 3 335134 20210622042926
+54.91.96.144 1 1 12506 20210615163338
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20210601 8 27 2001161 5
+20210602 4 24 1961551 4
+20210603 3 10 676214 3
+20210604 3 5 116852 2
+20210605 2 11 220139 2
+20210606 8 27 2102723 4
+20210607 6 43 3671692 5
+20210608 1 1 46360 1
+20210609 12 31 2220455 5
+20210610 1 2 12506 1
+20210611 4 5 52470 3
+20210612 11 12 234456 6
+20210613 5 18 702031 3
+20210614 7 9 101476 5
+20210615 6 24 1905995 6
+20210616 4 6 137874 2
+20210617 4 6 54916 4
+20210618 6 27 1349527 4
+20210619 7 28 2069739 7
+20210620 13 24 1598480 8
+20210621 3 4 91042 2
+20210622 26 124 9823263 10
+20210623 15 59 1815327 4
+20210624 4 23 1849575 4
+20210625 11 34 2082911 7
+20210626 8 10 305572 5
+20210627 9 29 2061007 7
+20210628 3 7 157348 3
+20210629 23 105 6867491 10
+20210630 20 96 4968892 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+0s-30s 130
+2mn-5mn 1
+30s-2mn 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 19
+/ 186 3984962 129 123
+/event-view.php 12 315348 1 6
+/index.php 6 108890 1 1
+/journal/ 4 40284 4 1
+/reynolds-number.php 4 101812 1 2
+/journal/news/Green-hydrogen-scaled.webp 3 504630 0 0
+/journal/news/nasa_ingenuity_helicopter.webp 3 410814 0 1
+/journal/fonts/fontawesome-webfont3e6e.woff2 2 154320 0 0
+/journal/fonts/webfonts/fa-solid-900.woff2 2 77568 0 1
+/journal/fonts/Linearicons-Free54e9.woff2 2 43560 0 0
+/journal/call-for-paper.php 2 24913 0 0
+/journal/fonts/webfonts/fa-regular-400.woff2 2 24440 0 0
+/journal/fonts/webfonts/fa-brands-400.woff2 2 108840 0 0
+/category.php 2 43132 0 1
+/journal/join-board.php 1 4878 0 0
+/journal/onlinesubmit.php 1 26960 0 1
+/journal/current-issue.php 1 7516 0 0
+/journal/editorial-board.php 1 6846 0 0
+/journal/index.php 1 34991 1 0
+END_SIDER

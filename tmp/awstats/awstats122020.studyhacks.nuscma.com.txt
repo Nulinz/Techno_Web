@@ -1,0 +1,382 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202012 will be lost/reset.
+# Last config file used to build this data file was /home/nuscmy3y/tmp/awstats/awstats.studyhacks.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2693                
+POS_VISITOR 8579                
+POS_DAY 9786                
+POS_DOMAIN 3396                
+POS_LOGIN 3669                
+POS_ROBOT 3824                
+POS_WORMS 4292                
+POS_EMAILSENDER 4423                
+POS_EMAILRECEIVER 4566                
+POS_SESSION 10003               
+POS_SIDER 10183               
+POS_FILETYPES 4701                
+POS_DOWNLOADS 4950                
+POS_OS 5288                
+POS_BROWSER 5433                
+POS_SCREENSIZE 5768                
+POS_UNKNOWNREFERER 5842                
+POS_UNKNOWNREFERERBROWSER 6160                
+POS_ORIGIN 6370                
+POS_SEREFERRALS 6505                
+POS_PAGEREFS 6687                
+POS_SEARCHWORDS 6835                
+POS_KEYWORDS 7003                
+POS_MISC 2356                
+POS_ERRORS 7078                
+POS_CLUSTER 3525                
+POS_SIDER_404 7225                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210101010710 5 753 11476633672478
+FirstTime 20201201040656
+LastTime 20201228182158
+LastUpdate 20210101190843 5 0 4 0 0
+TotalVisits 29                  
+TotalUnique 25                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 31                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 38 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 12 252028 26 44 13672
+1 0 1 2446 16 46 2898937
+2 1 6 126014 27 47 14623
+3 0 0 0 17 26 21562
+4 9 36 5180473 31 49 23276
+5 0 0 0 32 44 9751
+6 3 22 3052657 30 51 32436
+7 3 23 1951431 26 53 43004
+8 0 1 2446 17 41 568639
+9 0 0 0 33 55 1791211
+10 0 0 0 32 42 17159
+11 1 1 4153 21 25 18922
+12 7 26 3093876 14 25 14367
+13 12 33 507963 77 99 43237
+14 2 16 575822 32 42 21083
+15 1 1 13580 98 131 124816
+16 0 0 0 27 41 266216
+17 0 0 0 31 40 9497
+18 56 60 116544 49 63 29540
+19 0 0 0 19 32 16015
+20 0 0 0 23 36 11858
+21 0 0 0 17 29 195315
+22 2 2 8306 19 40 88276
+23 0 0 0 32 63 14889
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+us 85 182 11363145
+in 11 48 3357111
+cn 2 9 163330
+se 1 1 4153
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+bingbot/ 33 586804 20201204133922 0
+baidu 24 3393186 20201203015607 0
+Googlebot/ 22 1764347 20201204135015 0
+bingpreview 4 256042 20201202160635 0
+bot[\s_+:,\.\;\/\\-] 2 24436 20201204072942 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 4153 20201202075738 0
+Baiduspider/ 1 1670 20201203154836 0
+DuckDuckGo\-Favicons\-Bot/ 1 4153 20201203190210 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+svg 25 188266 0 0
+php 21 121476 0 0
+js 24 850884 0 0
+Unknown 57 31691 0 0
+css 31 462457 0 0
+gif 7 992025 0 0
+jpeg 1 110743 0 0
+jpg 33 8749463 0 0
+html 21 126848 0 0
+png 20 3253886 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/journal/journal-papers/SCIMITAR%20SHAPED%20COMPRESSOR%E2%80%99S%20STRUCTURAL%20AND%20MODELLING%20ANALYSIS%20IN%20COMPUTATIONAL%20FORM.pdf 1 0 808952
+/journal/journal-papers/ANALYSING%20HEAT%20TRANSFER%20RATE%20BY%20OPTIMIZING%20TRAPEZOIDAL%20FIN%20GEOMETRY%20AND%20MATERIAL.pdf 1 0 753383
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win10 126 28
+win7 14 3
+winlong 18 3
+win8.1 11 6
+Unknown 57 57
+linuxandroid 14 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 15
+firefox85.0 1 1
+chrome85.0.4183.127 14 2
+chrome78.0.3904.108 5 3
+firefox48.0 1 1
+mozilla 44 44
+chrome83.0.4103.61 3 1
+chrome87.0.4280.66 10 1
+firefox43.0 5 1
+chrome87.0.4280.88 11 6
+firefox84.0 17 3
+msie9.0 24 4
+chrome79.0.3945.79 13 1
+Unknown 13 13
+firefox81.0 1 0
+firefox83.0 78 18
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Go-http-client/1.1 20201203221334
+Cpanel-HTTP-Client/1.0 20201228182145
+Grammarly/1.0_(http://www.grammarly.com) 20201202112651
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20201228182158
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Cpanel-HTTP-Client/1.0 20201228182145
+Go-http-client/1.1 20201203221334
+Grammarly/1.0_(http://www.grammarly.com) 20201202112651
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 83 85
+From1 0 0
+From2 4 5
+From3 0 0
+From4 12 150
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+bing 0 1
+www_google_com 3 3
+baidu 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+themselves6n9 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+themselves6n9 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+409 4 332
+302 876 196566
+301 2 474
+406 91 20566
+403 3 402
+404 48 26764
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 26
+/courses/aeronautics/aeronautics.php 2 http://www.studyhacks.in/courses/index.php
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/blog/wp-includes/wlwmanifest.xml 1 -
+/courses/vendor/bootstrap/css/bootstrap.min.css 1 http://www.studyhacks.in/courses/index.php
+/2018/wp-includes/wlwmanifest.xml 1 -
+/ads.txt 1 -
+/courses/css/modern-business.css 1 http://www.studyhacks.in/courses/index.php
+/media/wp-includes/wlwmanifest.xml 1 -
+//wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 2 -
+/2019/wp-includes/wlwmanifest.xml 1 -
+/sito/wp-includes/wlwmanifest.xml 1 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/humans.txt 1 -
+/shop/wp-includes/wlwmanifest.xml 1 -
+/journals 1 -
+/wp1/wp-includes/wlwmanifest.xml 1 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+/wp/wp-includes/wlwmanifest.xml 1 -
+/web/wp-includes/wlwmanifest.xml 1 -
+/wp2/wp-includes/wlwmanifest.xml 1 -
+/website/wp-includes/wlwmanifest.xml 1 -
+/index.html 1 -
+/test/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/wlwmanifest.xml 1 -
+/robots.txt 21 -
+/news/wp-includes/wlwmanifest.xml 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 31
+216.10.252.159 35 35 2792 20201228182157
+157.51.140.194 8 32 5148700 20201201040928
+106.211.255.158 8 30 2980311 20201203123636
+157.51.85.106 6 11 197574 20201204122235
+66.133.109.36 5 5 435 20201228182158
+52.28.236.88 4 4 348 20201228182157
+23.100.232.233 4 24 504056 20201204023237
+34.209.232.166 4 4 348 20201228182158
+3.128.26.105 4 4 348 20201228182157
+45.33.10.143 3 3 36654 20201204133750
+157.46.118.8 2 16 575822 20201203145238
+106.211.255.163 2 14 345027 20201204134204
+205.169.39.210 2 16 2926643 20201203062625
+18.196.96.172 1 1 87 20201228182155
+36.110.199.159 1 2 40791 20201201180929
+157.49.247.221 1 10 442546 20201201073429
+106.211.255.160 1 4 31773 20201202040606
+157.51.115.16 1 1 13580 20201223151354
+157.46.65.219 1 12 1495306 20201201071557
+34.200.185.125 1 1 4153 20201202112651
+3.22.70.135 1 1 87 20201228182155
+192.71.225.127 1 1 4153 20201203221334
+34.211.6.84 1 1 87 20201228182155
+157.46.100.247 1 1 13579 20201218070001
+39.104.207.247 1 1 4153 20201201221153
+36.110.199.32 0 1 39070 
+219.230.70.15 0 1 42273 
+27.115.124.6 0 1 2446 
+180.163.220.67 0 1 2446 
+36.110.199.142 0 1 31837 
+36.110.199.24 0 1 314 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20201201 12 60 7202717 5
+20201202 10 28 290668 4
+20201203 8 61 6657394 6
+20201204 12 34 705269 4
+20201218 1 1 13579 1
+20201223 1 1 13580 1
+20201228 55 55 4532 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+2mn-5mn 2
+15mn-30mn 1
+0s-30s 25
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 34
+/ 17 94796 14 11
+/journal/index.php 9 72117 2 3
+/.well-known/acme-challenge/9VAAvn_dp4LTkkTTEI3ACyeiWQZXWFXcgPtvic-46H4 4 348 0 0
+/.well-known/acme-challenge/y4SxksuM45OTBwYkWIxnEjlXjvrfzDoQsre03I7YB78 4 348 4 0
+/.well-known/acme-challenge/BaBHiBuZyrFj-yF6nQHC1Fl5tt0eNIwJFKwzUOVUIkM 4 348 0 0
+/.well-known/acme-challenge/ixsZoTrWo8wIQRBYlh3FohjiN-naFN0Re-ZaJxgL1CQ 4 348 0 0
+/.well-known/acme-challenge/Y8GJuGQBnekOj1YlXf6v19QqHGqAY-iiVqzLdaD0g5k 4 348 0 0
+/.well-known/acme-challenge/cPI-ANciKcdAKElXMHsmfGr0pW1yDa5VwM5-MlRr1fs 4 348 3 3
+/.well-known/acme-challenge/CA2RKBWalGuCppugFpwFMiUIyrbbdWSzhv3YTPlCCyE 4 348 0 0
+/.well-known/acme-challenge/XIv4G4eEmY9_HrE-vqg607XbaOpqYWkNPSOuhT4pRzQ 4 348 0 0
+/.well-known/acme-challenge/TNH3IeDVo0KTEBe1xcrLiXLFyuHslh12yjpKinP_O9M 4 348 0 4
+/journal/ 4 32052 1 2
+/.well-known/acme-challenge/sJChVP1zp6QePtmN1wT8eU0RyfRhfzaHKGViY-Bzeqc 4 348 0 0
+/.well-known/acme-challenge/9Xc6whhNLYzZmPe7o2ABT65dfOlIT2axNiMd83Dulao 4 348 0 1
+/courses/index.php 3 10959 0 0
+/index.php 2 8306 1 1
+/aeronautics/aeronautics.php 2 5304 1 2
+/cpanel 2 27159 2 2
+/journal/author-guidelines.php 1 6634 0 0
+/.well-known/acme-challenge/NQCKXZSBENZCOXF96X2JSWMN5QDB-FXG 1 64 0 0
+/intenship.php 1 2225 0 0
+/.well-known/acme-challenge/WR5FHDQP51_3_90J1_IU7Z_SY2ZDFRF9 1 64 0 0
+/.well-known/acme-challenge/P_VER_7ETXWH8EE0NYWGX7EGF2-2TCP7 1 64 0 0
+/.well-known/acme-challenge/5FFHUBNBP6XZN_ZYVYXYF5FKGOSCPY9I 1 64 0 0
+/.well-known/acme-challenge/W5YDVT65P2CQ0Z0Y5MBEJ189JKVZJ3XV 1 64 0 0
+/.well-known/acme-challenge/P-H5I7R02VP3425RCSG3H2UBWJ5JCWLZ 1 64 0 0
+/.well-known/acme-challenge/800OSVMEIOC6BD1C4ZNZIBTM91FDF44- 1 64 0 0
+/events.php 1 2645 0 0
+/.well-known/acme-challenge/UG0Y5VC8H_0KUTT_JDJA0RSY0XOG0W01 1 64 0 0
+/journal/editorialBoard.php 1 6781 0 0
+/journal/publication-charge.php 1 6505 0 0
+/.well-known/acme-challenge/TMPMGMYDF0ZHZZURGORYAJ9P6ULZN4HR 1 64 0 0
+/.well-known/acme-challenge/S19L0N7622BKIXGGF2TFLTXEB9CDISCA 1 64 0 0
+/.well-known/acme-challenge/GCTA4ZHGIGLC5ABGY_P-4HE00P1WX61K 1 64 1 0
+END_SIDER

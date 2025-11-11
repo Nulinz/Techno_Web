@@ -1,0 +1,589 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202111 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2687                
+POS_VISITOR 10904               
+POS_DAY 16223               
+POS_DOMAIN 3483                
+POS_LOGIN 3851                
+POS_ROBOT 4006                
+POS_WORMS 4663                
+POS_EMAILSENDER 4794                
+POS_EMAILRECEIVER 4937                
+POS_SESSION 16944               
+POS_SIDER 17145               
+POS_FILETYPES 5072                
+POS_DOWNLOADS 5290                
+POS_OS 5434                
+POS_BROWSER 5618                
+POS_SCREENSIZE 6331                
+POS_UNKNOWNREFERER 6405                
+POS_UNKNOWNREFERERBROWSER 7047                
+POS_ORIGIN 7598                
+POS_SEREFERRALS 7738                
+POS_PAGEREFS 7925                
+POS_SEARCHWORDS 8101                
+POS_KEYWORDS 8275                
+POS_MISC 2351                
+POS_ERRORS 8358                
+POS_CLUSTER 3707                
+POS_SIDER_404 8498                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20211201024326 8 1246 11729668851831
+FirstTime 20211101031300
+LastTime 20211130164731
+LastUpdate 20211201185405 8 0 7 0 0
+TotalVisits 146                 
+TotalUnique 130                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 138                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 12 531494 33 105 1797304
+1 10 10 30886 19 31 169993
+2 6 6 88618 27 35 116507
+3 92 92 819586 34 98 317164
+4 8 8 196434 52 124 1205782
+5 39 115 1896593 27 80 913979
+6 99 192 4538972 38 50 143845
+7 19 21 1385835 95 114 308990
+8 47 47 384206 54 117 962917
+9 6 40 845974 21 30 112036
+10 6 7 126214 31 70 388127
+11 3 35 780270 38 48 145682
+12 4 7 48360 42 116 1805409
+13 16 20 524796 20 44 193493
+14 7 7 142526 36 52 336848
+15 10 10 69420 22 42 70821
+16 8 8 243400 39 70 365007
+17 4 4 74734 19 35 163697
+18 1 2 83411 69 113 846378
+19 3 3 67792 27 41 115613
+20 24 60 60504934 36 83 522373
+21 61 69 529156 44 66 146187
+22 4 6 407348 24 37 122057
+23 4 6 126592 32 82 968828
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+us 270 354 65491137
+in 165 368 7249570
+gr 24 24 730200
+ca 10 10 30886
+cn 8 16 543724
+tr 4 4 27768
+de 3 3 13884
+il 2 2 13884
+jp 2 4 346498
+se 1 1 0
+gb 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+Googlebot/ 317 3014095 20211130160240 0
+bingbot/ 262 1988413 20211130234601 0
+baidu 229 5382290 20211125040021 0
+YandexBot/ 36 344556 20211130113102 0
+Googlebot\-Image/ 20 309708 20211130081511 0
+no_user_agent 16 486800 20211130002250 0
+Dalvik/ 16 9328 20211128184110 0
+(firefox/)([0-9]\.|[0-1][0]\.) 6 182550 20211122183143 0
+bot[\s_+:,\.\;\/\\-] 6 182550 20211130052904 0
+nutch 4 27768 20211119204959 0
+Baiduspider/ 2 13884 20211118052113 0
+Applebot/ 2 13884 20211121130927 0
+[\s_+:,\.\;\/\\-]bot 2 13884 20211124122902 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+mp4 1 59482632 0 0
+js 22 2334148 0 0
+svg 177 1718832 0 0
+png 46 5361569 0 0
+css 51 188250 0 0
+php 191 887150 0 0
+html 297 4447832 0 0
+Unknown 2 27138 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/assets/videos/How%20to%20Make%20RC%20Airplane%20at%20Home%20-%20Very%20Simple.mp4 1 0 59482632
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+win7 12 8
+macosx 46 41
+macosx10 2 2
+unix 4 4
+linuxandroid 12 10
+win10 478 199
+macosx11 52 48
+linux 91 91
+Unknown 90 87
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 31
+safari11.1 11 11
+Unknown 86 83
+chrome96.0.4664.45 34 2
+chrome58.0.3029.110 2 2
+chrome45.0.2454.85 2 2
+chrome95.0.4638.69 265 139
+chrome89.0.4389.90 1 1
+chrome77.0.3865.90 10 10
+chrome54.0 12 8
+chrome79.0.3945.130 54 18
+chrome68.0.3440.106 2 2
+chrome83.0.4103.97 83 83
+chrome70.0.3538.80 4 4
+firefox84.0 2 2
+firefox95.0 2 2
+chrome51.0.2704.64 2 2
+chrome90.0.4430.218 2 2
+chrome87.0.4280.88 12 8
+firefox93.0 109 30
+chrome91.0.4472.114 6 6
+chrome94.0.4606.85 4 2
+chrome78.0.3904.108 3 0
+mozilla 4 4
+firefox52.0 52 48
+chrome42.0.2311.90 4 4
+chrome49.0.2623.112 8 4
+safari14.1.1 1 1
+chrome92.0.4515.131 2 2
+android 2 2
+chrome66.0.3359.139 2 2
+chrome81.0.4044.129 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20211117145200
+lua-resty-http/0.10_(Lua)_ngx_lua/10019 20211122080711
+Go-http-client/1.1 20211112230546
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20211128214220
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20211130164731
+Python/3.8_aiohttp/3.8.0 20211121210350
+Python/3.7_aiohttp/3.7.4.post0 20211109144733
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Go-http-client/1.1 20211112230546
+lua-resty-http/0.10_(Lua)_ngx_lua/10019 20211122080711
+Python/3.7_aiohttp/3.7.4.post0 20211109144733
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20211128214220
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20211130164731
+Python/3.8_aiohttp/3.8.0 20211121210350
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 299 317
+From1 0 0
+From2 22 23
+From3 0 2
+From4 169 445
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com_hk 4 4
+www_google_com 18 19
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://mail.nuscma.com 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+inurl+%2fstafflogin 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+%2fstafflogin 2
+inurl 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 19 54450
+406 131 29606
+404 510 181244
+301 16 3778
+409 3 249
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 65
+/assets/css/custom.css 1 https://nuscma.com/packages.php
+/assets/css/media-queries.css 1 https://nuscma.com/packages.php
+/terms.html 2 -
+/___proxy_subdomain_cpcalendars/robots.txt 4 -
+/___proxy_subdomain_cpcalendars/cgi-sys/404.html 1 -
+/l 2 -
+/api/.git/index 2 -
+/___proxy_subdomain_cpanel/.git/config 1 -
+/.env.prod.local 2 -
+/.env_sample 2 -
+/___proxy_subdomain_cpcontacts/ 6 -
+/js../.git/index 2 -
+/___proxy_subdomain_webmail/cgi-sys/404.html 1 -
+/static../.git/index 2 -
+/images../.git/index 2 -
+/admins/login.php 4 -
+/assets/css/reset.css 1 https://nuscma.com/packages.php
+/admins/class/settings 4 https://nuscma.com/admins/class/createClass.php
+/course-playlist.html 4 -
+/img../.git/index 2 -
+/.env.local 2 -
+/login 4 -
+/.env.dev.local 2 -
+/___proxy_subdomain_cpanel/ 2 -
+/.env.live 2 -
+/.env.production.local 2 -
+/restapi.php 14 -
+/robots.txt 244 -
+/index 2 -
+/css../.git/index 2 -
+/.git/index 2 -
+/content../.git/index 2 -
+/assets/images/python-icon.jpg 1 https://nuscma.com/aeromodellingBasic.php
+/___proxy_subdomain_webdisk/robots.txt 4 -
+/app.js 1 -
+/sitecore/shell/ClientBin/Reporting/Report.ashx 2 -
+/.env.save 2 -
+/ 32 -
+/assets../.git/index 2 -
+/beta-2.1/ViewNotice.php 4 -
+/.env_1 2 -
+/lib../.git/index 2 -
+/unprotected/loader.html 23 http://nuscma.com/
+/.git/config 11 -
+/privacy.html 10 https://nuscma.com/index.php
+/___proxy_subdomain_cpanel/cgi-sys/404.html 1 -
+/events../.git/index 2 -
+/requestReset 2 -
+/___proxy_subdomain_webmail/ 2 -
+/___proxy_subdomain_webmail/.git/config 1 -
+/.vscode/sftp.json 1 -
+/___proxy_subdomain_webdisk/.git/config 1 -
+/___proxy_subdomain_cpcalendars/ 5 -
+/amxxa.com 2 -
+/.env.stage 2 -
+/___proxy_subdomain_cpcontacts/cgi-sys/404.html 1 -
+/media../.git/index 2 -
+/___proxy_subdomain_webdisk/cgi-sys/404.html 1 -
+/sitemap.xml 6 -
+/.env.development.local 2 -
+/admins/class/settings/ 2 https://nuscma.com/admins/class/createClass.php
+/___proxy_subdomain_cpcontacts/robots.txt 4 -
+/___proxy_subdomain_webdisk/ 14 -
+/___proxy_subdomain_cpanel/unprotected/loader.html 23 http://nuscma.com/
+/assets/js/jquery-3.4.1.js 14 http://nuscma.com/packages.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 138
+106.211.255.148 135 228 4612001 20211110085858
+35.187.108.19 51 55 186910 20211121210350
+173.211.35.28 18 54 60322384 20211105202524
+106.211.255.172 17 54 729562 20211108053323
+192.99.18.136 10 10 30886 20211122014647
+157.49.209.104 10 49 1837713 20211104072937
+35.176.66.178 7 7 212975 20211122080712
+92.118.160.37 6 6 182550 20211122134113
+92.118.160.17 6 6 182550 20211128165315
+185.83.147.245 4 4 27768 20211126025357
+3.17.161.28 4 4 27768 20211116155705
+34.96.130.31 4 4 121700 20211109143544
+35.178.228.46 4 4 121700 20211122080436
+92.118.160.9 4 4 121700 20211126230634
+34.86.35.25 4 4 121700 20211130133700
+209.141.54.28 4 4 27768 20211120133124
+92.118.160.61 4 4 121700 20211128214220
+3.249.221.244 3 3 91275 20211122075915
+106.211.255.181 3 6 16310 20211109101852
+54.184.195.141 3 3 20826 20211109033139
+34.244.72.216 3 3 91275 20211122075859
+34.246.178.113 3 3 91275 20211122080711
+52.51.11.198 2 2 60850 20211122075540
+103.114.158.1 2 5 237298 20211119212936
+167.94.138.41 2 2 13884 20211117145200
+34.222.119.37 1 1 6942 20211104032215
+54.244.59.136 1 1 6942 20211118035339
+54.188.191.117 1 1 6942 20211126031957
+54.165.184.8 1 1 0 20211112061855
+34.209.90.95 1 1 6942 20211125032908
+159.65.171.203 1 1 6942 20211109144733
+34.250.196.158 2 2 60850 20211122075601
+34.216.217.49 1 1 6942 20211127032535
+34.221.226.89 2 2 13884 20211120031605
+2.57.122.18 2 2 13884 20211114151718
+54.185.215.52 2 2 13884 20211107030939
+111.93.159.50 2 34 773328 20211120113155
+124.126.78.140 2 2 60850 20211114160342
+54.186.39.155 2 2 13884 20211122031432
+204.12.207.163 2 2 13884 20211106155018
+205.185.116.89 0 1 2446 
+18.236.175.142 2 2 13884 20211121031851
+54.214.190.8 1 1 6942 20211103032112
+42.236.10.114 0 1 2446 
+34.86.35.14 2 2 60850 20211104204243
+18.224.190.27 1 1 6942 20211119080017
+34.216.33.89 1 1 6942 20211116031154
+54.70.34.178 2 2 13884 20211128033542
+54.175.219.127 2 2 60850 20211120035451
+103.14.35.145 2 4 346498 20211112003803
+54.212.107.187 1 1 6942 20211114030824
+34.77.162.17 2 2 60850 20211112040349
+34.219.158.179 2 2 13884 20211119034606
+54.218.132.27 2 2 13884 20211101031300
+34.96.130.3 2 2 60850 20211126105720
+34.216.32.35 1 1 6942 20211109033214
+119.82.86.243 2 34 773328 20211118090820
+34.221.20.102 2 2 13884 20211126031915
+34.222.218.69 2 2 13884 20211123031403
+209.141.41.193 2 2 13884 20211120133121
+49.36.101.123 0 1 76469 
+54.188.196.125 1 1 6942 20211128033621
+34.96.130.13 2 2 60850 20211124060015
+54.149.195.193 2 2 13884 20211110030433
+34.219.22.155 2 2 13884 20211113034353
+34.211.36.132 2 2 13884 20211116031111
+34.222.6.106 1 1 6942 20211119034637
+34.86.35.11 2 2 60850 20211120054326
+27.115.124.36 0 1 2446 
+34.86.35.30 2 2 60850 20211116192025
+34.214.31.47 1 1 6942 20211101031543
+18.237.74.3 1 1 6942 20211102032534
+34.211.113.35 1 1 6942 20211115032918
+34.220.141.81 2 2 13884 20211117033352
+35.86.124.54 2 2 13884 20211114030745
+54.202.208.115 2 2 13884 20211111033841
+52.10.171.46 2 2 13884 20211115032644
+54.245.62.68 1 1 6942 20211109033146
+205.185.122.184 2 2 13884 20211120132502
+34.212.82.70 1 1 6942 20211130030350
+34.77.162.5 2 2 60850 20211113041202
+52.26.13.184 1 1 6942 20211108033633
+69.197.185.43 2 2 13884 20211122075409
+34.96.130.27 2 2 60850 20211123133656
+118.193.32.180 2 4 346498 20211111225138
+35.165.197.240 2 2 13884 20211103032047
+3.134.90.80 1 1 6942 20211113114055
+54.245.39.86 2 2 13884 20211125032837
+54.245.182.66 1 1 6942 20211111033907
+27.115.124.106 0 1 2446 
+205.185.116.25 2 4 126814 20211119213154
+34.96.130.26 2 2 60850 20211130164731
+69.197.185.46 2 2 13884 20211114044838
+3.95.164.12 2 2 13884 20211119063654
+27.115.124.70 0 1 2446 
+34.77.162.25 2 2 60850 20211102080145
+85.214.113.75 1 1 0 20211123035355
+54.189.185.66 2 2 13884 20211130030321
+18.237.184.109 1 1 6942 20211110030606
+27.115.124.109 0 1 2446 
+34.213.246.62 1 1 6942 20211123031428
+54.186.134.139 1 1 6942 20211113034407
+52.38.254.6 2 2 13884 20211124034542
+106.211.255.179 2 4 4136 20211128052918
+209.141.51.222 2 3 124368 20211120132505
+137.226.113.44 2 2 13884 20211104123740
+54.244.62.139 1 1 6942 20211103032253
+34.86.35.3 2 2 60850 20211113034513
+54.190.8.6 2 2 13884 20211108033551
+54.186.243.213 2 2 13884 20211102032517
+34.212.20.127 2 2 13884 20211106034702
+92.118.160.57 2 2 60850 20211113063956
+106.211.255.175 2 2 27138 20211117122013
+34.86.35.18 2 2 60850 20211103031838
+92.118.160.41 2 2 60850 20211107035738
+83.145.36.70 1 1 0 20211130101412
+128.199.127.143 1 1 0 20211125004624
+35.162.129.132 2 2 13884 20211127031847
+34.77.162.12 2 2 60850 20211109004521
+54.213.161.163 1 1 6942 20211117033411
+54.191.10.183 1 1 6942 20211120031620
+54.202.126.208 2 2 13884 20211104032136
+61.135.15.162 2 2 60850 20211106000321
+18.236.123.72 2 2 13884 20211105032935
+34.209.64.82 2 2 13884 20211118035300
+104.144.64.165 2 2 13884 20211127190858
+34.96.130.20 2 2 60850 20211119164302
+124.126.78.173 2 2 60850 20211113091136
+34.86.35.10 2 2 60850 20211102131823
+20.92.75.186 2 2 13884 20211115071345
+18.237.133.94 1 1 6942 20211124034608
+209.141.36.112 2 3 16330 20211119212933
+34.222.167.168 1 1 6942 20211106034714
+104.144.159.57 2 2 13884 20211114154321
+167.248.133.116 2 2 13884 20211105172342
+34.96.130.9 2 2 60850 20211104203627
+27.115.124.37 0 1 2446 
+34.77.162.15 2 2 60850 20211109103722
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20211101 3 3 20826 2
+20211102 7 7 142526 4
+20211103 6 6 88618 4
+20211104 30 69 2328798 12
+20211105 22 58 60350152 3
+20211106 7 7 95560 4
+20211107 4 4 74734 2
+20211108 24 61 872088 5
+20211109 15 20 245404 9
+20211110 138 231 4632827 4
+20211111 5 7 367324 3
+20211112 5 8 409794 3
+20211113 16 16 392868 9
+20211114 11 12 125774 6
+20211115 5 5 34710 3
+20211116 9 9 109444 4
+20211117 7 7 61848 4
+20211118 5 38 796600 3
+20211119 16 20 383898 9
+20211120 19 55 1258100 10
+20211121 53 57 200794 2
+20211122 33 34 639175 12
+20211123 6 6 81676 4
+20211124 5 5 81676 3
+20211125 4 5 97295 3
+20211126 11 11 170294 5
+20211127 7 7 95560 4
+20211128 9 11 146662 5
+20211130 8 8 142526 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+2mn-5mn 3
+30s-2mn 1
+15mn-30mn 2
+30mn-1h 1
+5mn-15mn 4
+0s-30s 135
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 37
+/ 263 4193244 141 136
+/login.php 27 55836 3 4
+/admins/ 20 156508 0 0
+/validationAjax.php 12 12 0 0
+/admins/class/createClass.php 12 68336 0 0
+/admins/settings/ 10 98080 0 0
+/staffLogin.php 10 25860 1 1
+/parentsLogin.php 8 18888 0 0
+/admins/index.php 8 62624 0 0
+/admins/examination/createExamination.php 8 44624 0 0
+/franchise.php 8 12632 0 0
+/admins/students/studentProfile.php 8 78396 0 0
+/admins/syllabus/createSyllabus.php 8 46568 0 0
+/admins/staffs/staffProfile.php 6 51956 0 2
+/aeromodellingBasic.php 6 22716 0 0
+/Terms&Policy.php 6 59970 0 0
+/admins/syllabus/viewChapter.php 6 30996 0 0
+/packages.php 6 7536 0 1
+/index.php 6 41652 0 0
+/requestReset.php 6 9078 0 0
+/admins/syllabus/viewSyllabus.php 6 31872 0 0
+/about-us.php 6 14958 0 0
+/admins/staffs/viewStaffs.php 4 22708 0 0
+/beta-2.1/frame-work-1.html 4 0 0 0
+/admins/students/viewStudents.php 2 54372 0 0
+/admins/syllabus/index.php 2 11034 0 0
+/admins/students/createStudent.php 2 18468 0 0
+/admins/library/addNewbooks.php 2 11392 0 0
+/admins/transport/addBus.php 2 11310 0 0
+/admins/class/classProfile.php 2 12684 0 1
+/admins/class/viewClass.php 2 10588 0 0
+/cpanel 2 27138 1 1
+/admins/hostel/addRoom.php 2 10788 0 0
+/admins/syllabus/get_district.php 2 160 0 0
+/admins/accounts/purchaseOrder.php 2 10306 0 0
+/admins/accounts/placeOrder.php 2 11370 0 0
+/admins/staffs/createStaff.php 2 17460 0 0
+END_SIDER

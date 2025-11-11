@@ -1,0 +1,1298 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202004 will be lost/reset.
+# Last config file used to build this data file was /home/nuscmy3y/tmp/awstats/ssl/awstats.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2693                
+POS_VISITOR 38323               
+POS_DAY 46869               
+POS_DOMAIN 3633                
+POS_LOGIN 4023                
+POS_ROBOT 4178                
+POS_WORMS 4787                
+POS_EMAILSENDER 4918                
+POS_EMAILRECEIVER 5061                
+POS_SESSION 47768               
+POS_SIDER 47981               
+POS_FILETYPES 5196                
+POS_DOWNLOADS 5435                
+POS_OS 5483                
+POS_BROWSER 5713                
+POS_SCREENSIZE 6604                
+POS_UNKNOWNREFERER 6678                
+POS_UNKNOWNREFERERBROWSER 7251                
+POS_ORIGIN 7532                
+POS_SEREFERRALS 7675                
+POS_PAGEREFS 7838                
+POS_SEARCHWORDS 8052                
+POS_KEYWORDS 8204                
+POS_MISC 2357                
+POS_ERRORS 8263                
+POS_CLUSTER 3879                
+POS_SIDER_404 8429                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200501002646 341 92129 12355371686032
+FirstTime 20200401020112
+LastTime 20200430181336
+LastUpdate 20200501051707 341 0 340 0 0
+TotalVisits 268                 
+TotalUnique 197                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 206                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 1 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 25 25 129302 99 192 580643
+1 34 97 1143763 22 34 69556
+2 286 617 6932202 48 146 722965
+3 534 1498 15273612 133 194 666907
+4 999 2276 22480688 88 216 528072
+5 1393 2817 15502599 138 393 809132
+6 957 2111 14552788 128 396 910269
+7 545 1855 9535235 161 340 1027721
+8 710 1630 8851693 65 203 517041
+9 133 445 6529054 73 133 420439
+10 253 796 14337346 43 102 340078
+11 418 1507 19796010 119 353 903372
+12 983 2058 20472573 156 557 1687939
+13 1701 3950 32230030 187 711 1491518
+14 910 2285 28233134 157 417 1046586
+15 478 1456 13718519 251 465 1244763
+16 303 1185 10714570 43 110 1044766
+17 227 1110 10960785 54 157 1061960
+18 177 438 4368996 76 160 391680
+19 166 594 5199879 55 137 378988
+20 514 1085 10200803 117 323 979367
+21 307 761 5338498 78 202 565130
+22 114 316 2370616 60 162 403405
+23 4 4 13539 18 35 80512
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+us 6562 18903 181416602
+in 5568 11947 96712855
+gb 10 35 522267
+de 8 8 17948
+ca 7 7 93023
+se 5 5 22669
+ru 3 3 13539
+ua 3 3 13593
+it 2 2 43072
+cn 1 1 4565
+tr 1 1 4565
+rs 1 1 21536
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+Googlebot/ 325 2506601 20200430231542 0
+msnbot/ 70 1026829 20200419073748 0
+bot[\s_+:,\.\;\/\\-] 54 1160921 20200430182251 0
+bingpreview 41 1265526 20200422170516 0
+YandexBot/ 35 136193 20200430050019 0
+bingbot/ 30 104714 20200426154849 0
+Googlebot\-Image/ 6 0 20200402050637 0
+[\s_+:,\.\;\/\\-]bot 4 18104 20200427073854 0
+no_user_agent 3 64390 20200428134932 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 42854 20200427091414 0
+curl 2 26101 20200417041321 0
+Wget/ 1 0 20200414180054 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+php 7593 19271240 0 0
+svg 6703 31982101 0 0
+html 1362 6498595 0 0
+css 7882 17465602 0 0
+js 2732 122697104 0 0
+png 1428 61346952 0 0
+shtml 8 6560 0 0
+Unknown 3208 19618080 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+ios_ipad 1 1
+linuxandroid 2175 983
+macosx8 2 2
+win8.1 133 60
+macosx11 11 9
+win7 19 13
+linux 167 64
+macosx9 1 1
+winxp 5 3
+win10 28352 11010
+macosx 2 2
+Unknown 48 23
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 39
+chrome67.0.3396.87 239 34
+firefox54.0 1 1
+chrome80.0.3987.122 1 1
+firefox28.0 34 34
+chrome78.0.3904.108 2 2
+chrome73.0.3683.90 2 2
+Unknown 12 12
+chrome41.0.2227.0 1 1
+firefox32.0 1 1
+mozilla 38 13
+msie9.0 6 0
+chrome80.0.3987.119 80 5
+chrome81.0.4044.111 59 9
+firefox75.0 20307 7727
+chrome72.0.3626.121 98 46
+chrome73.0.3683.86 128 57
+opera54.0.2952.54 1 1
+chrome80.0.3987.149 1136 786
+firefox57.0 2 2
+chrome81.0.4044.113 99 73
+chrome40.0.2214.85 4 4
+firefox11.0 2 0
+chrome65.0.3325.181 2 2
+chrome40.0.2214.115 4 2
+chrome41.0.2228.0 2 2
+msie6.0 3 3
+chrome26.0.1410.65 2 2
+chrome57.0.2987.132 48 24
+firefox52.0 10 8
+chrome45.0.2454.94 1 1
+chrome76.0.3809.132 1 1
+chrome49.0.2623.75 10 10
+chrome80.0.3987.163 221 112
+chrome51.0.2704.84 1 1
+firefox55.0 1 1
+chrome80.0.3987.132 950 341
+firefox74.0 7405 2848
+chrome40.0.2214.93 1 1
+safari7.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+https://gdnplus.com:Gather_Analyze_Provide. 20200407083700
+Mozilla/5.0_(compatible;_Dataprovider.com) 20200409062742
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20200426232118
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20200426162346
+Python/3.8_aiohttp/3.6.2 20200401030058
+Go_http_package 20200407222032
+Go-http-client/1.1 20200429022456
+WhatsApp/2.19.360_A 20200408151741
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+https://gdnplus.com:Gather_Analyze_Provide. 20200407083700
+Go_http_package 20200407222032
+Python/3.8_aiohttp/3.6.2 20200401030058
+Go-http-client/1.1 20200429022456
+WhatsApp/2.19.360_A 20200408151741
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 3196 3208
+From1 5 5
+From2 4 4
+From3 4 4
+From4 8962 27695
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://216.10.252.82:80 2 2
+https://www.virus-schutzmasken.de 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+403 1 445
+301 263 69798
+409 24 1992
+404 3139 8007168
+500 39 928
+406 2 452
+302 595 3439329
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 429
+/Beta/admins/studentsAcademicProfile 1 -
+//wp1/wp-includes/wlwmanifest.xml 3 -
+/temp/ 2 -
+//site/wp-includes/wlwmanifest.xml 3 -
+/Beat/admins/assets/css/media-queries.css 1 https://nuscma.com/Beat/admins/
+/Beta-1.0 2 -
+/beta-0.1 2 -
+/+/ 2 -
+/Beta-0.1/admins/attendence/school_profile 2 https://nuscma.com/Beta-0.1/admins/attendence/
+/Beta-0.1.1/admins/class/create_class 6 https://nuscma.com/Beta-0.1.1/admins/students/viewStudents.php
+/administrator/index.php 4 https://nuscma.com/administrator/
+/Beta-0.2/assets/css/media-queries.css 1 https://nuscma.com/Beta-0.2/index
+/admin.php 10 -
+/sito/wp-includes/wlwmanifest.xml 2 -
+/treethirty.com/index 1 -
+/Beta-0.1/admins/staffs/assets/js/jquery-3.4.1.js 8 https://nuscma.com/Beta-0.1/admins/staffs/school_profile
+/Beta-0.1/admins/students/assets/js/jquery-3.4.1.js 4 https://www.nuscma.com/Beta-0.1/admins/students/viewStudents
+/admins/school_p/assets/css/reset.css 3 https://nuscma.com/admins/school_p/index
+/Beta-0.1/staffs/assets/css/media-queries.css 4 https://nuscma.com/Beta-0.1/staffs/create_staffs.php
+/beta/assets/css/custom.css 3 https://nuscma.com/beta/login
+/___proxy_subdomain_webmail/ 2 -
+/unprotected/loader.html 5 https://nuscma.com/cpanel
+/Beta-0.1/admins/accounts/exam/assets/css/media-queries.css 9 https://nuscma.com/Beta-0.1/admins/accounts/exam/listExam
+/Beta-0.1/admins/accounts/assets/js/jquery-3.4.1.js 24 https://www.nuscma.com/Beta-0.1/admins/accounts/purchase
+/Beta-0.1/admins/accounts/accounts/pending_fees 1 https://nuscma.com/Beta-0.1/admins/accounts/report
+/Beta/admins/ 2 -
+/admin/includes/general.js 16 -
+/Beta-0.1/admins/accounts/school_profile.php 2 -
+/Beta-0.1/adims/assets/css/custom.css 1 https://nuscma.com/Beta-0.1/adims/index
+/Beta-0.1/admins/staffs/assets/css/reset.css 8 https://nuscma.com/Beta-0.1/admins/staffs/school_profile
+//wp2/wp-includes/wlwmanifest.xml 3 -
+/Beta-0.1.1/admins/staff/assets/css/media-queries.css 14 https://nuscma.com/Beta-0.1.1/admins/staff/create_staffs.php
+/admins/staffs/assets/js/jquery-3.4.1.js 2 https://www.nuscma.com/admins/staffs/listViewStaffs.php
+/Beta-0.1/admins/accounts/accounts/create_general_ledger 1 https://nuscma.com/Beta-0.1/admins/accounts/report
+/Beta-0.1/admins/accounts/more/createNotice 2 https://nuscma.com/Beta-0.1/admins/accounts/create_general_ledger
+/Beta-0.1/admins/class/view_class 6 https://www.nuscma.com/Beta-0.1/admins/exam/listExam.php
+/Beta-0.1/admins/students/assets/css/media-queries.css 4 https://www.nuscma.com/Beta-0.1/admins/students/viewStudents
+/Beta-0.1/admins/accounts/exam/listExam 5 https://nuscma.com/Beta-0.1/admins/accounts/student_fees_profile.php
+/Beta-0.1/admins/attendence/attendence 1 https://nuscma.com/Beta-0.1/admins/attendence/
+//blog/wp-includes/wlwmanifest.xml 3 -
+/wp-includes/js/jquery/jquery.js 16 -
+/Beta-0.1/admins/accounts/purchase 2 https://www.nuscma.com/Beta-0.1/admins/
+/Beta-0.1.1/admins/attendence/assets/css/reset.css 6 https://www.nuscma.com/Beta-0.1.1/admins/attendence/index
+//media/wp-includes/wlwmanifest.xml 3 -
+/Beta-0.1/admins/library/library/assets/css/custom.css 2 https://nuscma.com/Beta-0.1/admins/library/library/categoriesBook
+/Beta/admins/assets/icons/box2.svg 22 https://nuscma.com/Beta/admins/multistep-form.php
+/admins/school_p/ 1 -
+/Beta-0.1/admins/class/assets/css/reset.css 18 https://www.nuscma.com/Beta-0.1/admins/class/class_profile
+/index 36 -
+/Beta.0-1/assets/css/custom.css 2 https://www.nuscma.com/Beta.0-1/login
+/login/assets/js/jquery-3.4.1.js 2 -
+/Beta/admins/assets/icons/credit-card.svg 15 https://nuscma.com/Beta/admins/
+/Beta-0.1.1/admins/export.php 14 https://www.nuscma.com/Beta-0.1.1/admins/school_profile.php
+/Beta-0.1/admins/library/assets/css/reset.css 2 https://nuscma.com/Beta-0.1/admins/library/bookListbystatus
+/js/header-rollup-554.js 16 -
+/Beta-0.1/admins/index 18 https://nuscma.com/Beta-0.1/admins/logout
+/Beta-0.1/admins/accounts/hostel/createRoomType 1 https://nuscma.com/Beta-0.1/admins/accounts/student_listview
+/___proxy_subdomain_webdisk/ 1 -
+/sitemap.xml 1 -
+/beta/assets/css/media-queries.css 3 https://nuscma.com/beta/login
+/wordpress/ 2 -
+/nuscma 2 -
+/Beta-0.2/index 1 -
+/admins/hostel/assets/css/media-queries.css 1 https://nuscma.com/admins/hostel/categoriesBook
+/Beta/admins/assets/css/reset.css 14 https://nuscma.com/Beta/admins/post
+/Beta/studentAcademicProfile 1 -
+/Beta-0.1/admins/create_student 1 -
+/admins/Beta-0.1.1/assets/css/custom.css 2 https://www.nuscma.com/admins/Beta-0.1.1/school_profile.php
+/Beta-0.1/admins/accounts/accounts/assets/css/media-queries.css 6 https://nuscma.com/Beta-0.1/admins/accounts/accounts/gl_report
+/Beta-0.1/admins/transport/assets/js/jquery-3.4.1.js 4 https://nuscma.com/Beta-0.1/admins/transport/create_bus_root
+/___proxy_subdomain_cpanel/unprotected/loader.html 5 https://nuscma.com/cpanel
+/Beta-0.1/admins/accounts/library/assets/css/media-queries.css 1 https://nuscma.com/Beta-0.1/admins/accounts/library/index
+/Beta/admins/assets/css/media-queries.css 14 https://nuscma.com/Beta/admins/post
+/Beta/admins/assets/icons/layers.svg 15 https://nuscma.com/Beta/admins/
+/gateway.php 2 -
+/Beta-0.1/admins/transport/assets/css/reset.css 4 https://nuscma.com/Beta-0.1/admins/transport/create_bus_root
+/Beta-0.1/adims/index 1 -
+/Beta-0.1/admins/exam/exam/assets/css/media-queries.css 2 https://nuscma.com/Beta-0.1/admins/exam/exam/listExam.php
+/old/ 2 -
+/Beta-0.1/admins/export.php 4 https://nuscma.com/Beta-0.1/admins/school_profile
+/main/ 2 -
+/Beta/admins/studentAcedemicProfile 1 -
+/Beta-0.1/admins/accounts/hostel/assets/css/custom.css 3 https://nuscma.com/Beta-0.1/admins/accounts/hostel/createRoomType
+/Beta-0.1/admins/attendence/assets/js/jquery-3.4.1.js 9 https://nuscma.com/Beta-0.1/admins/attendence/attendence
+/Beta-0.1/admins/transport/addBus.php 2 https://nuscma.com/Beta-0.1/admins/index.php
+/Beta-0.1/admins/school_profile 4 https://nuscma.com/Beta-0.1/admins/index.php
+/beta 2 -
+/css/style.css 3 https://nuscma.com/login
+/Beta-0.1.1/admins/class/assets/css/custom.css 18 https://nuscma.com/Beta-0.1.1/admins/class/view_class
+/Beta-0.2/assets/css/reset.css 1 https://nuscma.com/Beta-0.2/index
+/administrator/help/en-GB/toc.json 12 -
+/Beta-0.1.1/admins/attendence/i 2 -
+/login 74 https://nuscma.com/index
+/staffs/assets/css/custom.css 5 https://nuscma.com/staffs/login
+/Beta-0.1/admins/accounts/class/create_class 1 https://nuscma.com/Beta-0.1/admins/accounts/purchase
+//wp/wp-includes/wlwmanifest.xml 3 -
+/Beta-0.1/admins/accounts/assets/css/custom.css 24 https://www.nuscma.com/Beta-0.1/admins/accounts/purchase
+/demo/ 2 -
+/Beta/admins/assets/icons/reading.svg 96 https://nuscma.com/Beta/admins/studentAcademicProfile
+/Beta-1.1/assets/js/jquery-3.4.1.js 2 https://nuscma.com/Beta-1.1/
+/Beta-0.1.1/admins/staff/assets/js/jquery-3.4.1.js 14 https://nuscma.com/Beta-0.1.1/admins/staff/create_staffs.php
+/Betaadmins/assets/js/jquery-3.4.1.js 1 https://nuscma.com/Betaadmins/index
+/wp/ 2 -
+/Beta-0.1.1/admins/class/assets/js/jquery-3.4.1.js 18 https://nuscma.com/Beta-0.1.1/admins/class/view_class
+/Beta/assets/css/custom.css 5 https://nuscma.com/Beta/index
+/Beta-0.1/admins/more/assets/css/media-queries.css 2 https://nuscma.com/Beta-0.1/admins/more/reminder
+/wp2/ 2 -
+/Beta-0.1/adims/assets/css/reset.css 1 https://nuscma.com/Beta-0.1/adims/index
+/Beta-0.1/admins/accounts/assets/css/media-queries.css 24 https://www.nuscma.com/Beta-0.1/admins/accounts/purchase
+/Beta-0.1.1/admins/attendence/assets/css/custom.css 6 https://www.nuscma.com/Beta-0.1.1/admins/attendence/index
+/Beta-0.1/admins/library/assets/css/media-queries.css 2 https://nuscma.com/Beta-0.1/admins/library/bookListbystatus
+/Beta-0.1.1/admins/students/assets/js/jquery-3.4.1.js 2 https://nuscma.com/Beta-0.1.1/admins/students/student_listview_list.php
+/Beta-0.1/admins/exam/exam/assets/js/jquery-3.4.1.js 2 https://nuscma.com/Beta-0.1/admins/exam/exam/listExam.php
+/Beta-0.1.1/admins/accounts/assets/css/custom.css 10 https://www.nuscma.com/Beta-0.1.1/admins/accounts/student_fees_profile
+/admins/hostel/assets/css/custom.css 1 https://nuscma.com/admins/hostel/categoriesBook
+/admins/indez 1 -
+/Beta/admins/tabledata.php 3 https://nuscma.com/Beta/admins/viewStudents
+/login.php 2 -
+/v1/ 2 -
+/Beta-0.1.1/admins/listViewStaffs.php 6 https://nuscma.com/Beta-0.1.1/admins/students/create_students.php
+/Beta-0.1/admins/create_students 2 -
+/Beta-0.1.1./assets/css/reset.css 4 https://www.nuscma.com/Beta-0.1.1./
+/Beta/admins/export.php. 7 https://nuscma.com/Beta/admins/school_profile
+/Beta-0.1.1/admins/attendence/assets/css/media-queries.css 6 https://www.nuscma.com/Beta-0.1.1/admins/attendence/index
+/Beta-0.1/admins/accounts/create_general_ledger 2 https://nuscma.com/Beta-0.1/admins/
+/Beta-0.1.1/admins/assets/css/custom.css 24 https://www.nuscma.com/Beta-0.1.1/admins/export.php
+/Beta-0.1/admins/accounts/hostel/assets/css/media-queries.css 3 https://nuscma.com/Beta-0.1/admins/accounts/hostel/createRoomType
+/Beta-0.1/admins/l 2 -
+/Beta-0.1.1/assets/images/origami 40 https://www.nuscma.com/Beta-0.1.1/
+/Beta-0.1/admins/accounts/class/assets/css/media-queries.css 1 https://nuscma.com/Beta-0.1/admins/accounts/class/create_class
+/Beta.0-1/assets/css/reset.css 2 https://www.nuscma.com/Beta.0-1/login
+/Beta-0.1/admins/students/viewStudents 4 https://www.nuscma.com/Beta-0.1/admins/
+/misc/ajax.js 16 -
+/Beta-0.1.1./assets/js/jquery-3.4.1.js 4 https://www.nuscma.com/Beta-0.1.1./
+/test/wp-includes/wlwmanifest.xml 2 -
+/admins/Beta-0.1.1/assets/css/reset.css 2 https://www.nuscma.com/admins/Beta-0.1.1/school_profile.php
+/humans.txt 5 http://nuscma.com/humans.txt
+/Beta/ 4 -
+/Beta-0.1/admins/staffs/staffs/assets/css/reset.css 2 https://nuscma.com/Beta-0.1/admins/staffs/staffs/create_staffs.php
+/Beta-0.1/admins/staffs/assets/css/custom.css 8 https://nuscma.com/Beta-0.1/admins/staffs/school_profile
+/Beta/admins/assets/css/custom.css 14 https://nuscma.com/Beta/admins/post
+//shop/wp-includes/wlwmanifest.xml 3 -
+/shop/wp-includes/wlwmanifest.xml 2 -
+/new/ 2 -
+/Betaadmins/assets/css/reset.css 1 https://nuscma.com/Betaadmins/index
+/Beta-0.1/admins/accounts/accounts/createScholarship 1 https://nuscma.com/Beta-0.1/admins/accounts/report
+/students/create_students.php 2 https://nuscma.com/Beta-0.1/admins/
+/Beta-0.1.1/admins/exam/assets/css/media-queries.css 4 https://www.nuscma.com/Beta-0.1.1/admins/exam/listExam
+/admins/staffs/assets/css/reset.css 2 https://www.nuscma.com/admins/staffs/listViewStaffs.php
+/admins/hostel/assets/css/reset.css 1 https://nuscma.com/admins/hostel/categoriesBook
+/terms.html 12 -
+/sito/ 2 -
+/Beta-0.1/admins/accounts/accounts/assets/js/jquery-3.4.1.js 6 https://nuscma.com/Beta-0.1/admins/accounts/accounts/gl_report
+/home/ 2 -
+/admins/school_p/assets/js/jquery-3.4.1.js 3 https://nuscma.com/admins/school_p/index
+/Beta-0.1.1/admins/students/assets/css/reset.css 2 https://nuscma.com/Beta-0.1.1/admins/students/student_listview_list.php
+/Beta-0.1.1/admins/students/student_listview_list.php 2 https://nuscma.com/Beta-0.1.1/admins/students/viewStudents.php
+/beta/assets/js/jquery-3.4.1.js 3 https://nuscma.com/beta/login
+/Beta-0.1/admins/accounts/library/assets/js/jquery-3.4.1.js 1 https://nuscma.com/Beta-0.1/admins/accounts/library/index
+/Beta-1.1/assets/css/custom.css 2 https://nuscma.com/Beta-1.1/
+/Beta-0.1/gateway 2 -
+/Beta-0.1/admins/accounts/accounts/assets/css/reset.css 6 https://nuscma.com/Beta-0.1/admins/accounts/accounts/gl_report
+/.env 2 -
+/Beta-0.1/assets/css/custom.css 16 https://nuscma.com/Beta-0.1/
+/tmp/ 2 -
+/406.shtml 12 -
+/bak/ 2 -
+/Beta.0-1/assets/css/media-queries.css 2 https://www.nuscma.com/Beta.0-1/login
+/blog/ 2 -
+/Beta/admins/multistep-form.html 1 -
+/passwordLinkSend.php 2 -
+/Beta-0.1/admins/staffs/staffs/create_staffs.php 2 https://nuscma.com/Beta-0.1/admins/staffs/create_staffs.php
+/Beta-0.1.1./ 2 -
+/Beat/admins/assets/css/reset.css 1 https://nuscma.com/Beat/admins/
+/Beta-0.1/admins/library/library/assets/css/reset.css 2 https://nuscma.com/Beta-0.1/admins/library/library/categoriesBook
+/students/assets/js/jquery-3.4.1.js 2 https://nuscma.com/students/create_students.php
+/2020/ 2 -
+/Beta/assets/css/media-queries.css 5 https://nuscma.com/Beta/index
+/admins/staffs/assets/css/media-queries.css 2 https://www.nuscma.com/admins/staffs/listViewStaffs.php
+/Beta-0.1/admins/accounts/more/assets/css/media-queries.css 8 https://nuscma.com/Beta-0.1/admins/accounts/more/changePin
+/staffs/assets/css/reset.css 5 https://nuscma.com/staffs/login
+/Beta/index 1 https://nuscma.com/Beta/
+/Beta-0.1.1/admins/accounts/student_fees_profile 4 -
+/wordpress/wp-admin/install.php 1 -
+/Beta-0.1/admins/exam/index 2 https://nuscma.com/Beta-0.1/admins/index.php
+/old-site/ 2 -
+/Beta-0.1.1/index 28 https://www.nuscma.com/Beta-0.1.1/admins/staffs/staffsProfile.php
+//sito/wp-includes/wlwmanifest.xml 3 -
+/Beta-0.1.1/admins/staff/assets/css/custom.css 14 https://nuscma.com/Beta-0.1.1/admins/staff/create_staffs.php
+/staff/assets/css/custom.css 1 https://nuscma.com/staff/login
+/wp2/wp-includes/wlwmanifest.xml 2 -
+/Beta.0-1/login 2 -
+/Beta-0.1/admins/accounts/library/index 1 https://nuscma.com/Beta-0.1/admins/accounts/student_listview
+/Beta-0.1.1/admins/accounts/assets/css/reset.css 10 https://www.nuscma.com/Beta-0.1.1/admins/accounts/student_fees_profile
+/Beta-0.1.1/admins/staff/listViewStaffs.php 8 https://nuscma.com/Beta-0.1.1/admins/students/create_students.php
+/Beta-0.1.1/login 4 https://www.nuscma.com/Beta-0.1.1/admins/school_profile.php
+/Beta-0.1/admins/staffs/staffs/assets/css/custom.css 2 https://nuscma.com/Beta-0.1/admins/staffs/staffs/create_staffs.php
+/Beta-0.1.1/admins/class/assets/css/media-queries.css 18 https://nuscma.com/Beta-0.1.1/admins/class/view_class
+/Beta-0.1/admins/assets/js/jquery-3.4.1.js 56 https://nuscma.com/Beta-0.1/admins/export.php
+/bk/ 2 -
+/Beta/admins/post 1 https://nuscma.com/Beta/admins/createNotice
+/Beta-0.1/admins/transport/assets/css/media-queries.css 4 https://nuscma.com/Beta-0.1/admins/transport/create_bus_root
+/Beta-0.1/admins/class/create_class 4 https://www.nuscma.com/Beta-0.1/admins/exam/listExam.php
+/ads.txt 7 http://nuscma.com/ads.txt
+/Beta-0.1.1/admins/class/assets/css/reset.css 18 https://nuscma.com/Beta-0.1.1/admins/class/view_class
+/admin 10 -
+/students/assets/css/custom.css 2 https://nuscma.com/students/create_students.php
+/Beta/assets/js/jquery-3.4.1.js 5 https://nuscma.com/Beta/index
+/Beta-0.1.1/admins/students/assets/css/custom.css 2 https://nuscma.com/Beta-0.1.1/admins/students/student_listview_list.php
+/v2/ 2 -
+/Beta-0.1/admins/more/assets/css/reset.css 2 https://nuscma.com/Beta-0.1/admins/more/reminder
+/Beta-0.1/admins/exam/assets/css/custom.css 2 https://nuscma.com/Beta-0.1/admins/exam/index
+/Beta-0.1/adims/assets/js/jquery-3.4.1.js 1 https://nuscma.com/Beta-0.1/adims/index
+/Beta-0.1/assets/css/reset.css 16 https://nuscma.com/Beta-0.1/
+/admins/assets/js/jquery-3.4.1.js 18 https://nuscma.com/admins/export.php
+/install.php 1 -
+/Beta-0.1.1/admins/attendence/assets/js/jquery-3.4.1.js 6 https://www.nuscma.com/Beta-0.1.1/admins/attendence/index
+/students/assets/css/media-queries.css 2 https://nuscma.com/students/create_students.php
+/Beta-0.1.1/admins/assets/css/reset.css 24 https://www.nuscma.com/Beta-0.1.1/admins/export.php
+/Beta-0.1/admins/accounts/exam/index 4 https://nuscma.com/Beta-0.1/admins/accounts/student_fees_profile.php
+/css/animate.css 3 https://nuscma.com/login
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/admin/ 2 http://www.nuscma.com/admin/
+/site/ 2 -
+/Beta-0.1/staffs/assets/css/reset.css 4 https://nuscma.com/Beta-0.1/staffs/create_staffs.php
+/Beta-0.1/admins/accounts/school_profile 4 https://nuscma.com/Beta-0.1/admins/accounts/purchase.php
+/2018/ 2 -
+/2019/wp-includes/wlwmanifest.xml 2 -
+/wp-admin/ 5 http://nuscma.com/wp-login.php
+/Beta-0.1/admins/create_staffs.php 2 https://nuscma.com/Beta-0.1/admins/index.php
+/Beta-0.1/admins/attendence/assets/css/custom.css 9 https://nuscma.com/Beta-0.1/admins/attendence/attendence
+/Beta-0.1/admins/accounts/hostel/index 2 https://nuscma.com/Beta-0.1/admins/accounts/student_listview
+/Beta-0.1/admins/exam/exam/listExam.php 2 https://nuscma.com/Beta-0.1/admins/exam/index.php
+/plugins/system/debug/debug.xml 16 -
+/Beta-0.1.1/admins/exam/assets/css/reset.css 4 https://www.nuscma.com/Beta-0.1.1/admins/exam/listExam
+/Beta-0.1.1/admins/create_staffs.php 4 https://nuscma.com/Beta-0.1.1/admins/students/create_students.php
+/Beta-0.1/admins/accounts/hostel/assets/js/jquery-3.4.1.js 3 https://nuscma.com/Beta-0.1/admins/accounts/hostel/createRoomType
+/old-wp/ 2 -
+/admins/school_p/index 2 https://nuscma.com/admins/school_p/index
+//2018/wp-includes/wlwmanifest.xml 3 -
+/admins/export.php 7 https://nuscma.com/admins/school_profile
+/Beta/admins/assets/js/jquery-3.4.1.js 14 https://nuscma.com/Beta/admins/post
+/Beta-0.1/admins/exam/exam/assets/css/reset.css 2 https://nuscma.com/Beta-0.1/admins/exam/exam/listExam.php
+/2019/ 2 -
+/Beta-0.1/admins/accounts/more/reminder 4 https://nuscma.com/Beta-0.1/admins/accounts/create_general_ledger
+/Beta/assets/js/jquery.min.map 21 -
+/Beta/login.php 1 -
+/Beta-0.1/admins/accounts/report 8 https://nuscma.com/Beta-0.1/admins/accounts/report.php
+/Beta-0.1/admins/library/assets/css/custom.css 2 https://nuscma.com/Beta-0.1/admins/library/bookListbystatus
+/administrator/ 16 -
+/cpanle 1 -
+/Beta-0.1/admins/staffs/assets/css/media-queries.css 8 https://nuscma.com/Beta-0.1/admins/staffs/school_profile
+/Beta-0.1/admins/transport/create_bus_root 2 https://nuscma.com/Beta-0.1/admins/index.php
+/Betaadmins/assets/css/custom.css 1 https://nuscma.com/Betaadmins/index
+/Beta/assets/css/assets/images/School-2.svg 16 https://nuscma.com/Beta/assets/css/custom.css
+/Beta-0.1/admins/accounts/more/assets/css/custom.css 8 https://nuscma.com/Beta-0.1/admins/accounts/more/changePin
+/Beta-0.1/admins/staffs/staffs/assets/css/media-queries.css 2 https://nuscma.com/Beta-0.1/admins/staffs/staffs/create_staffs.php
+/Beta-0.1/admins/accounts/more/changePin 2 https://nuscma.com/Beta-0.1/admins/accounts/create_general_ledger
+/Beat/admins/ 1 -
+/vendor/phpunit/phpunit/build.xml 16 -
+/app-ads.txt 2 http://nuscma.com/app-ads.txt
+/beta/index 1 https://nuscma.com/beta/login
+//news/wp-includes/wlwmanifest.xml 3 -
+/Beta-1.1/ 2 -
+/Beta-0.1/admins/staffs/school_profile 2 https://nuscma.com/Beta-0.1/admins/staffs/create_staffs
+/Beta-0.1/assets/images/origami 70 https://nuscma.com/Beta-0.1/
+/Beta-0.1/admins/multistep-form.php 1 -
+/Beta-0.1/admins/accounts/class/assets/css/custom.css 1 https://nuscma.com/Beta-0.1/admins/accounts/class/create_class
+//test/wp-includes/wlwmanifest.xml 3 -
+/Beta-0.1/admins/accounts/library/assets/css/reset.css 1 https://nuscma.com/Beta-0.1/admins/accounts/library/index
+/ 6 -
+/Beta-0.1/login 42 https://nuscma.com/Beta-0.1/
+/staff/login 1 -
+/Beta/admins/assets/icons/box.svg 15 https://nuscma.com/Beta/admins/
+/Beta-0.1.1/admins/accounts/assets/js/jquery-3.4.1.js 10 https://www.nuscma.com/Beta-0.1.1/admins/accounts/student_fees_profile
+/staffs/assets/css/media-queries.css 5 https://nuscma.com/staffs/login
+/admins/school_p/assets/css/custom.css 3 https://nuscma.com/admins/school_p/index
+/Beta-0.1/admins/assets/css/reset.css 55 https://nuscma.com/Beta-0.1/admins/export.php
+/Beta-0.1/admins/accounts/class/assets/js/jquery-3.4.1.js 1 https://nuscma.com/Beta-0.1/admins/accounts/class/create_class
+/beta/assets/css/reset.css 3 https://nuscma.com/beta/login
+/Beta-0.1/admins/exam/assets/js/jquery-3.4.1.js 2 https://nuscma.com/Beta-0.1/admins/exam/index
+/Beta-0.1/admins/class/assets/css/media-queries.css 18 https://www.nuscma.com/Beta-0.1/admins/class/class_profile
+/privacy.html 12 -
+/Beta/admins/assets/icons/settings.svg 15 https://nuscma.com/Beta/admins/
+/Beta-0.1/admins/assets/images/user.png 36 https://nuscma.com/Beta-0.1/admins/accounts/student_fees_profile.php
+/images/editor/separator.gif 16 -
+/Beta-0.1/admins/accounts/more/assets/js/jquery-3.4.1.js 8 https://nuscma.com/Beta-0.1/admins/accounts/more/changePin
+/Beta-0.1/admins/staffs/create_staffs 4 https://www.nuscma.com/Beta-0.1/admins/
+/Beta/assets/assets/images/School-2.svg 1 https://nuscma.com/Beta/assets/css/custom.css
+/reset 2 -
+/___proxy_subdomain_cpanel/ 2 -
+/web/ 2 -
+/Beta-0.1/admins/attendence/viewAttendence 2 https://nuscma.com/Beta-0.1/admins/hostel/index.php
+/2018/wp-includes/wlwmanifest.xml 2 -
+/admins/staffs/assets/css/custom.css 2 https://www.nuscma.com/admins/staffs/listViewStaffs.php
+/Beta-0.1/admins/ 4 -
+/Beta-0.1/admins/accounts/more/assets/css/reset.css 8 https://nuscma.com/Beta-0.1/admins/accounts/more/changePin
+/Beta-0.1.1/admins/exam/listExam 4 https://www.nuscma.com/Beta-0.1.1/admins/exam/updateMarks.php
+/Beta-0.1/staffs/assets/js/jquery-3.4.1.js 4 https://nuscma.com/Beta-0.1/staffs/create_staffs.php
+/Beta-0.1.1/admins/attendence/index 4 https://www.nuscma.com/Beta-0.1.1/admins/attendence/insertAttendence.php
+/site/wp-includes/wlwmanifest.xml 2 -
+//2019/wp-includes/wlwmanifest.xml 3 -
+/admins/hostel/assets/js/jquery-3.4.1.js 1 https://nuscma.com/admins/hostel/categoriesBook
+/website/wp-includes/wlwmanifest.xml 2 -
+/wp/wp-includes/wlwmanifest.xml 2 -
+/Beta-0.1/admins/assets/css/media-queries.css 53 https://nuscma.com/Beta-0.1/admins/export.php
+/Beta-0.1.1/admins/exam/assets/js/jquery-3.4.1.js 4 https://www.nuscma.com/Beta-0.1.1/admins/exam/listExam
+/Beta-0.1/admins/exam/assets/css/reset.css 2 https://nuscma.com/Beta-0.1/admins/exam/index
+/staff/assets/css/reset.css 1 https://nuscma.com/staff/login
+/Beta-0.1/ 18 -
+//cms/wp-includes/wlwmanifest.xml 3 -
+/Beta-0.11 2 -
+//wp-includes/wlwmanifest.xml 3 -
+/test/ 2 -
+/Beta/admins/assets/icons/shopping-cart.svg 14 https://nuscma.com/Beta/admins/
+/Beta-0.1/admins/more/assets/css/custom.css 2 https://nuscma.com/Beta-0.1/admins/more/reminder
+/admins/assets/css/custom.css 18 https://nuscma.com/admins/export.php
+/Beat/admins/assets/css/custom.css 1 https://nuscma.com/Beat/admins/
+/admins/assets/css/reset.css 18 https://nuscma.com/admins/export.php
+/staffs/assets/js/jquery-3.4.1.js 5 https://nuscma.com/staffs/login
+/requestReset 10 -
+/Beta-0.1/admins/class/assets/css/custom.css 18 https://www.nuscma.com/Beta-0.1/admins/class/class_profile
+/admins/assets/css/media-queries.css 18 https://nuscma.com/admins/export.php
+/media/wp-includes/wlwmanifest.xml 2 -
+/Beta/admins/assets/icons/accounting.svg 16 https://nuscma.com/Beta/admins/
+/Beta-0.2/assets/css/custom.css 1 https://nuscma.com/Beta-0.2/index
+/Beta-0.1/staffs/create_staffs.php 4 https://nuscma.com/Beta-0.1/admins/index.php
+/Beta-0.1/admins/students/assets/css/reset.css 4 https://www.nuscma.com/Beta-0.1/admins/students/viewStudents
+/cms/ 2 -
+/Beta-0.1/admins/accounts/class/assets/css/reset.css 1 https://nuscma.com/Beta-0.1/admins/accounts/class/create_class
+/administrator/language/en-GB/install.xml 12 -
+/Beta-0.1/admins/library/library/assets/css/media-queries.css 2 https://nuscma.com/Beta-0.1/admins/library/library/categoriesBook
+/Beta/admins/mulistep-form.html 1 -
+/Beta/admins/studentData.php 4 https://nuscma.com/Beta/admins/viewStudents
+/Beta-0.1/configuration.php 1 -
+/admins/Beta-0.1.1/school_profile.php 2 -
+/wp1/ 2 -
+/admins/school_p/assets/css/media-queries.css 3 https://nuscma.com/admins/school_p/index
+/Beta/admins/assets/icons/team.svg 15 https://nuscma.com/Beta/admins/
+/staff/assets/js/jquery-3.4.1.js 1 https://nuscma.com/staff/login
+/Beta-0.1/adims/assets/css/media-queries.css 1 https://nuscma.com/Beta-0.1/adims/index
+/fckeditor/editor/filemanager/connectors/php/upload.php 16 -
+/Beta-0.2/assets/js/jquery-3.4.1.js 1 https://nuscma.com/Beta-0.2/index
+/Beta-0.1/admins/library/bookListbystatus 2 https://nuscma.com/Beta-0.1/admins/library/index.php
+/blog/wp-includes/wlwmanifest.xml 2 -
+/Beta-0.1.1/admins/accounts/report 6 https://www.nuscma.com/Beta-0.1.1/admins/index.php
+/Beta0.11 2 -
+/Beta-0.1/admins/library/library/categoriesBook 1 https://nuscma.com/Beta-0.1/admins/library/index
+/Betaadmins/assets/css/media-queries.css 1 https://nuscma.com/Betaadmins/index
+/admin/view/javascript/common.js 16 -
+/Beta-0.1/admins/students/assets/css/custom.css 4 https://www.nuscma.com/Beta-0.1/admins/students/viewStudents
+/Beta.0-1/assets/js/jquery-3.4.1.js 2 https://www.nuscma.com/Beta.0-1/login
+/Beta-0.1/admins/attendence/assets/css/media-queries.css 9 https://nuscma.com/Beta-0.1/admins/attendence/attendence
+/Beta-1.1/assets/css/media-queries.css 2 https://nuscma.com/Beta-1.1/
+//wordpress/wp-includes/wlwmanifest.xml 3 -
+/backup/ 2 -
+/Beta-0.1.1/admins/assets/js/jquery-3.4.1.js 24 https://www.nuscma.com/Beta-0.1.1/admins/export.php
+/Beta-0.1/admins/accounts/exam/assets/js/jquery-3.4.1.js 9 https://nuscma.com/Beta-0.1/admins/accounts/exam/listExam
+/Beta-0.1.1./assets/css/media-queries.css 4 https://www.nuscma.com/Beta-0.1.1./
+/restore_account 1 -
+/news/wp-includes/wlwmanifest.xml 2 -
+//web/wp-includes/wlwmanifest.xml 3 -
+/Beta-0.1/admins/attendence/assets/css/reset.css 9 https://nuscma.com/Beta-0.1/admins/attendence/attendence
+/Beta-0.1.1/admins/students/assets/css/media-queries.css 2 https://nuscma.com/Beta-0.1.1/admins/students/student_listview_list.php
+/Beta-0.1.1./assets/css/custom.css 4 https://www.nuscma.com/Beta-0.1.1./
+/Beta/assets/css/reset.css 5 https://nuscma.com/Beta/index
+/admins/Beta-0.1.1/assets/js/jquery-3.4.1.js 2 https://www.nuscma.com/admins/Beta-0.1.1/school_profile.php
+/staff/assets/css/media-queries.css 1 https://nuscma.com/staff/login
+/Beta-0.1/admins/library/assets/js/jquery-3.4.1.js 2 https://nuscma.com/Beta-0.1/admins/library/bookListbystatus
+/admins/logout 10 https://nuscma.com/admins/index.php
+/students/assets/css/reset.css 2 https://nuscma.com/students/create_students.php
+/Beta-0.1/admins/accounts/accounts/assets/css/custom.css 6 https://nuscma.com/Beta-0.1/admins/accounts/accounts/gl_report
+/Beta-0.1.1/admins/class/view_class 12 https://nuscma.com/Beta-0.1.1/admins/students/create_students.php
+/Beta-0.1/admins/exam/exam/assets/css/custom.css 2 https://nuscma.com/Beta-0.1/admins/exam/exam/listExam.php
+/beta/login 2 -
+/robots.txt 228 -
+/Beta/admins/assets/icons/dashboard.svg 15 https://nuscma.com/Beta/admins/
+/Beta-0.1.1/admins/accounts/assets/css/media-queries.css 10 https://www.nuscma.com/Beta-0.1.1/admins/accounts/student_fees_profile
+/Beta/mulitstep-form.php 1 -
+/Beta-1.1/assets/css/reset.css 2 https://nuscma.com/Beta-1.1/
+/util/login.aspx 1 -
+/admins/Beta-0.1.1/assets/css/media-queries.css 2 https://www.nuscma.com/admins/Beta-0.1.1/school_profile.php
+/Beta/multistep-form.php 15 -
+/Beta-0.1/admins/assets/css/custom.css 55 https://nuscma.com/Beta-0.1/admins/export.php
+/Beta-0.1/admins/accounts/hostel/assets/css/reset.css 3 https://nuscma.com/Beta-0.1/admins/accounts/hostel/createRoomType
+/Beta/mulitistep-form.php 3 -
+/Beta-0.1/admins/transport/assets/css/custom.css 4 https://nuscma.com/Beta-0.1/admins/transport/create_bus_root
+/Beta-0.1.1/admins/staff/create_staffs.php 6 https://nuscma.com/Beta-0.1.1/admins/students/create_students.php
+/Beta-0.1/admins/accounts/accounts/gl_report 2 https://nuscma.com/Beta-0.1/admins/accounts/report
+/admins/staffs/listViewStaffs.php 2 -
+/Beta-0.1/admins/more/reminder 2 https://nuscma.com/Beta-0.1/admins/index.php
+/Beta-0.1/admins/accounts/accounts/dailyreports 1 https://nuscma.com/Beta-0.1/admins/accounts/report
+/wp1/wp-includes/wlwmanifest.xml 2 -
+/Beat/admins/assets/js/jquery-3.4.1.js 1 https://nuscma.com/Beat/admins/
+//website/wp-includes/wlwmanifest.xml 3 -
+/Beta-0.1/admins/library/library/assets/js/jquery-3.4.1.js 2 https://nuscma.com/Beta-0.1/admins/library/library/categoriesBook
+/Beta-0.1/admins/library/library/createBooks 1 https://nuscma.com/Beta-0.1/admins/library/index
+/Beta-0.1/admins/more/assets/js/jquery-3.4.1.js 2 https://nuscma.com/Beta-0.1/admins/more/reminder
+/dev/ 2 -
+/Beta-0.1/admins/logout 14 https://nuscma.com/Beta-0.1/admins/index.php
+/Beta-0.1/admins/accounts/exam/assets/css/custom.css 9 https://nuscma.com/Beta-0.1/admins/accounts/exam/listExam
+/web/wp-includes/wlwmanifest.xml 2 -
+/Betaadmins/index 1 -
+/cms/wp-includes/wlwmanifest.xml 2 -
+/Beta-0.1/admins/class/assets/js/jquery-3.4.1.js 18 https://www.nuscma.com/Beta-0.1/admins/class/class_profile
+/Beta-0.1.1./index.php 2 -
+/admisn 1 -
+/Beta-0.1.1/admins/assets/css/media-queries.css 24 https://www.nuscma.com/Beta-0.1.1/admins/export.php
+/Beta-0.1/admins/staffs/staffs/assets/js/jquery-3.4.1.js 2 https://nuscma.com/Beta-0.1/admins/staffs/staffs/create_staffs.php
+/wp-login.php 2 -
+/loign 1 -
+/Beta-0.1/assets/css/media-queries.css 16 https://nuscma.com/Beta-0.1/
+/Beta-0.1/configration.php 1 -
+/Beta-0.1/admins/accounts/exam/assets/css/reset.css 9 https://nuscma.com/Beta-0.1/admins/accounts/exam/listExam
+/Beta-0.1/admins/accounts/assets/css/reset.css 24 https://www.nuscma.com/Beta-0.1/admins/accounts/purchase
+/assets/images/origami 114 https://nuscma.com/
+/Beta/admins/assets/icons/university.svg 15 https://nuscma.com/Beta/admins/
+/Beta-0.1.1/admins/exam/assets/css/custom.css 4 https://www.nuscma.com/Beta-0.1.1/admins/exam/listExam
+/Beta-0.1/admins/staffs/index 2 https://nuscma.com/Beta-0.1/admins/staffs/index
+/magento_version 1 -
+/Beta-0.1/assets/js/jquery-3.4.1.js 16 https://nuscma.com/Beta-0.1/
+/Beta-0.1/index 46 https://nuscma.com/Beta-0.1/index
+/Beta-0.1/admins/accounts/library/assets/css/custom.css 1 https://nuscma.com/Beta-0.1/admins/accounts/library/index
+/Beta 2 -
+/Beta-0.1/admins/exam/assets/css/media-queries.css 2 https://nuscma.com/Beta-0.1/admins/exam/index
+/wp-includes/wlwmanifest.xml 2 -
+/Beta-0.1/staffs/assets/css/custom.css 4 https://nuscma.com/Beta-0.1/staffs/create_staffs.php
+/Beta-0.1.1/admins/staff/assets/css/reset.css 14 https://nuscma.com/Beta-0.1.1/admins/staff/create_staffs.php
+/admins/hostel/categoriesBook 1 https://nuscma.com/admins/hostel/createRoom
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 206
+106.211.237.1 2049 3091 22451052 20200413195423
+157.46.78.126 451 1731 4669997 20200428085233
+157.51.96.4 440 840 4234478 20200424072159
+106.211.193.75 434 730 4935154 20200403195514
+157.46.82.212 382 1052 3337144 20200426090059
+157.46.95.34 289 853 2233719 20200425063112
+106.211.203.159 239 526 4275462 20200405134025
+157.50.112.183 225 444 6127839 20200418131109
+157.50.44.161 224 2313 22256281 20200410172753
+157.51.112.56 223 651 12360413 20200419152112
+106.211.237.150 221 226 90926 20200411145813
+106.211.202.155 204 562 5695349 20200409081901
+106.211.203.203 202 485 3601512 20200406195145
+106.211.238.176 199 661 5946705 20200425221059
+157.46.91.59 196 358 2500777 20200424140726
+106.211.239.211 187 563 3351401 20200427022615
+106.211.203.37 175 220 970530 20200404154800
+157.50.200.237 175 299 2417941 20200403120211
+157.50.199.127 175 287 1273021 20200403144434
+157.50.203.234 174 238 1418157 20200405135656
+106.211.238.1 166 344 2491113 20200427141327
+157.46.104.26 160 404 1632865 20200426060925
+223.182.210.93 160 275 2040825 20200409135005
+106.217.17.158 150 315 3205587 20200402143030
+157.46.85.43 147 339 1882613 20200430040839
+40.84.154.177 23 23 103201 20200430005614
+157.46.119.9 1 5 118697 20200415135106
+106.211.227.174 2 50 772424 20200422030251
+157.51.112.203 2 60 1088740 20200422030110
+157.51.72.86 12 19 150763 20200401151719
+106.211.226.176 136 672 7049517 20200422203826
+157.51.119.110 23 83 995732 20200423074022
+157.51.99.206 13 41 858273 20200421043848
+66.249.84.251 0 1 46424 
+192.36.53.165 1 1 4565 20200421011508
+157.50.198.11 69 148 1608513 20200412174826
+207.46.13.171 0 3 220395 
+137.226.113.28 2 2 8974 20200426162346
+157.50.9.227 139 323 4773930 20200408152101
+157.50.9.123 43 140 2697387 20200408083721
+157.46.74.80 53 106 1085890 20200413141348
+51.89.201.8 4 4 18002 20200426070345
+192.36.71.133 2 2 8974 20200429022456
+157.50.26.88 68 164 1634403 20200404063927
+106.211.241.16 68 106 478917 20200428161946
+192.71.36.158 1 1 4565 20200415093558
+157.46.76.243 0 28 0 
+159.203.24.155 1 1 0 20200415131306
+157.51.224.159 2 7 132500 20200418041318
+157.51.195.199 4 20 489903 20200418041835
+106.211.227.13 48 226 2289246 20200423144015
+157.51.82.121 6 50 683542 20200422143611
+106.211.243.36 25 79 1294164 20200415202045
+157.51.190.126 55 314 4278689 20200413040205
+157.46.127.150 68 137 1209123 20200414050209
+104.206.128.22 1 1 21536 20200407083700
+106.211.241.150 10 66 658602 20200429114654
+157.46.79.153 34 59 546212 20200401082948
+157.51.86.140 69 85 703598 20200421130210
+106.211.239.124 87 239 1147457 20200427200101
+106.211.238.197 1 1 1461 20200420223635
+157.46.121.187 130 312 2257263 20200428135222
+74.125.210.5 0 5 118930 
+157.46.115.237 3 28 490570 20200410102346
+106.211.243.114 6 10 119189 20200409181044
+34.222.158.10 1 1 4565 20200419030924
+157.50.50.210 3 28 491559 20200413073432
+157.51.79.206 3 15 374097 20200417111229
+173.249.22.173 2 4 227972 20200422192158
+157.51.108.173 2 50 771282 20200424100332
+157.50.214.133 99 101 153318 20200405081132
+37.230.128.130 2 2 8974 20200428103700
+157.51.103.226 0 2 79176 
+51.77.246.205 2 27 486005 20200409062742
+74.125.210.3 0 2 114293 
+51.15.241.250 1 1 4565 20200401020112
+157.50.25.236 104 218 2118467 20200403060816
+157.50.57.77 36 64 765923 20200407133729
+23.96.107.127 6 6 27090 20200422074313
+157.50.209.107 10 56 716658 20200412135519
+40.77.167.43 0 1 1454 
+104.206.128.54 1 1 21536 20200407002250
+157.46.86.40 114 287 4367083 20200414065251
+157.50.232.121 31 333 3063893 20200411151633
+216.10.252.159 1 1 21536 20200421194043
+13.82.139.145 3 3 64281 20200428153119
+157.46.112.177 29 53 454241 20200416102356
+51.15.242.216 1 1 4565 20200401151046
+157.51.167.92 4 14 255377 20200417061724
+157.51.219.204 2 10 249388 20200417111056
+106.211.233.229 17 55 772037 20200414094812
+157.50.196.125 78 143 949419 20200401131433
+157.51.196.9 37 89 1512786 20200418040749
+157.46.101.114 1 3 11639 20200414094215
+157.46.83.76 69 210 4086784 20200415052714
+182.74.165.114 27 52 502391 20200409121220
+95.216.7.190 1 1 4565 20200401110213
+157.51.113.100 34 160 1023311 20200423035515
+157.50.58.147 48 95 911921 20200406135404
+157.50.253.156 35 68 644165 20200404145702
+185.129.148.34 1 1 4565 20200420233131
+66.249.84.224 0 1 46424 
+66.102.6.93 6 6 31792 20200409123104
+157.50.17.226 31 97 2142370 20200407060155
+157.51.240.250 2 4 14144 20200424152349
+157.51.126.162 4 15 282999 20200401163833
+84.17.51.139 1 1 21536 20200409155445
+106.211.242.165 58 213 2721061 20200418194335
+34.77.40.206 9 11 247161 20200401030058
+38.18.63.115 1 1 4565 20200403164000
+193.203.11.86 1 1 21536 20200417172836
+106.211.230.210 144 438 1676754 20200427222403
+157.46.92.151 92 232 496752 20200429053800
+106.211.237.230 64 92 518823 20200411200412
+95.217.135.181 2 2 9028 20200424105649
+106.208.105.97 78 174 1869482 20200419160710
+106.211.237.112 13 39 692227 20200410142725
+18.196.72.2 2 2 43080 20200423010036
+84.17.51.47 1 1 21536 20200412215316
+106.206.86.61 24 48 455366 20200415123841
+157.46.122.54 96 256 3358739 20200413130218
+157.50.32.115 97 224 2807261 20200409032442
+185.13.98.57 1 1 4565 20200403221712
+157.51.167.226 116 490 11313580 20200417105908
+157.51.198.214 1 5 122470 20200418041234
+106.197.41.164 3 7 122946 20200412151708
+157.46.91.71 2 52 850482 20200430181336
+106.208.133.240 23 50 595183 20200403152836
+40.84.133.2 3 3 64632 20200425092512
+157.46.127.232 78 200 3489946 20200414150013
+157.51.117.25 1 1 1461 20200420021727
+123.57.85.145 1 1 4565 20200401215743
+170.130.187.46 1 1 21536 20200407222032
+66.102.6.92 3 3 20801 20200409123104
+138.246.253.5 1 1 0 20200406081136
+138.68.73.215 1 1 21536 20200414180055
+157.46.71.14 2 50 771306 20200430120034
+66.102.6.94 1 1 4565 20200402133126
+157.50.240.194 112 196 1787069 20200402131807
+157.51.115.193 2 50 229138 20200423053101
+159.203.12.19 1 1 0 20200415131311
+157.51.64.82 32 172 2387330 20200422062958
+157.50.32.121 1 1 1463 20200409071629
+106.211.236.178 127 282 2609815 20200412181443
+157.50.46.7 1 15 296280 20200406081428
+157.50.2.151 10 11 3643 20200409043200
+74.125.210.31 2 3 2099 20200413043453
+157.50.59.253 1 3 11474 20200410173601
+54.187.225.157 2 2 9028 20200425195602
+157.50.50.33 3 28 487465 20200406031528
+157.46.118.91 52 168 1727925 20200429133900
+157.46.92.123 16 49 670601 20200413080954
+106.211.237.196 64 266 3213322 20200420191850
+157.50.208.185 2 27 486005 20200402023720
+157.50.3.142 34 245 1463041 20200411044932
+157.51.111.204 1 1 1461 20200421185723
+157.50.31.41 13 17 119984 20200410100515
+157.55.39.192 0 2 2916 
+106.211.232.177 5 34 501491 20200414143532
+137.226.113.26 2 2 8974 20200426232118
+157.51.213.194 8 32 646054 20200418053509
+157.46.84.191 19 23 126935 20200416073625
+157.50.239.211 21 46 514129 20200405061934
+157.51.249.100 10 35 827186 20200417140531
+157.50.255.195 59 130 1409808 20200402054448
+157.50.82.238 2 52 850482 20200429092659
+157.51.155.8 47 124 1613495 20200413054251
+106.211.226.22 14 72 710096 20200424110237
+157.50.22.213 13 39 153685 20200406122549
+51.91.141.31 2 2 9130 20200418151145
+104.42.37.239 5 5 56767 20200421132921
+157.51.117.79 1 6 164270 20200421052407
+157.46.112.103 44 194 1076782 20200429044737
+157.50.31.60 13 19 128278 20200409132611
+157.51.123.220 1 1 1461 20200420023156
+157.50.24.204 57 203 4600618 20200407044757
+46.45.185.190 1 1 4565 20200405022556
+157.50.246.185 1 3 11583 20200411081111
+138.246.253.15 3 3 0 20200425064829
+157.51.100.46 1 1 1456 20200419112006
+157.46.78.144 59 147 318217 20200430154908
+106.211.226.222 16 366 4459886 20200422115349
+157.51.254.89 2 10 244951 20200418042842
+142.93.157.53 1 1 0 20200415131309
+157.50.16.112 20 55 880368 20200406094149
+157.51.128.148 1 1 1456 20200417081708
+157.50.198.135 145 197 961296 20200405035209
+157.51.66.53 8 37 868876 20200418053402
+157.46.117.135 31 59 681079 20200416025600
+157.50.64.55 94 211 3215819 20200418072001
+157.50.252.191 14 39 432434 20200404154344
+157.51.116.74 13 17 32820 20200422061348
+106.211.240.95 121 311 2423926 20200429192244
+192.3.142.106 1 1 4565 20200402004357
+34.220.254.244 1 1 4565 20200418050032
+157.51.108.233 15 19 127308 20200420183357
+157.50.222.100 2 27 486005 20200402182454
+157.51.105.229 1 1 1461 20200419183233
+157.51.229.160 64 113 911112 20200401163357
+157.51.209.160 59 252 6009702 20200417122053
+158.69.225.34 6 6 93023 20200409062716
+138.197.158.232 1 1 0 20200415131308
+208.80.194.42 1 1 21536 20200406052552
+106.211.236.181 1 1 1456 20200418223544
+157.50.253.87 34 84 974345 20200412181352
+157.50.13.95 27 80 1068501 20200406090222
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20200401 276 533 4874508 16
+20200402 257 529 5619587 11
+20200403 913 1586 11348896 10
+20200404 307 510 3861172 9
+20200405 685 1143 7618377 10
+20200406 300 751 6974351 14
+20200407 127 367 7573519 6
+20200408 324 872 11726767 8
+20200409 389 783 7667368 14
+20200410 254 2400 23570536 6
+20200411 351 899 5148266 8
+20200412 784 1505 15436259 12
+20200413 1781 3054 24897203 11
+20200414 284 717 10372855 7
+20200415 124 347 5959576 9
+20200416 86 173 1818446 4
+20200417 206 853 19515562 10
+20200418 429 1003 15122510 17
+20200419 361 1061 17053278 10
+20200420 26 56 533677 7
+20200421 89 138 1767398 7
+20200422 215 1399 16948257 10
+20200423 109 523 4659683 5
+20200424 656 1326 8239805 6
+20200425 496 1550 8263112 9
+20200426 725 1959 7701766 8
+20200427 407 1089 5964806 4
+20200428 654 2154 7479432 5
+20200429 323 1025 7243443 9
+20200430 233 611 3925819 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 33
+2mn-5mn 12
+30s-2mn 14
+5mn-15mn 35
+1h+ 44
+15mn-30mn 25
+0s-30s 105
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 303
+/Beta/validationAjax.php 1415 6695 5 1
+/Beta/admins/studentData.php 599 455899 1 3
+/Beta-0.1/admins/index.php 526 3070026 11 22
+/validationAjax.php 464 3326 0 0
+/Beta-0.1/validationAjax.php 397 397 0 0
+/Beta/admins/ 307 1420858 2 11
+/ 254 1463991 91 56
+/login.php 222 248043 3 3
+/Beta/ 215 972707 19 6
+/Beta/admins/attendence/insertAttendence 167 482778 1 3
+/Beta/login 165 241028 38 13
+/Beta-0.1.1/login.php 157 205036 5 3
+/Beta/admins/studentAcademicProfile.php 156 728561 0 6
+/admins/school_profile 155 143398 0 0
+/Beta-0.1.1/admins/staffs/create_staffs.php 154 1041594 0 1
+/Beta/admins/viewStudents 154 939278 0 2
+/Beta-0.1.1/admins/ 144 892980 0 3
+/login 140 203305 12 8
+/Beta/assets/images/origami 132 3899264 0 4
+/Beta/admins/index 127 610649 0 6
+/Beta-0.1/admins/configuration.php 113 450315 0 2
+/Beta/admins/exam/insertExam.php 110 322359 0 4
+/Beta-0.1/login 107 155927 20 8
+/Beta-0.1/admins/ 95 562477 0 2
+/Beta-0.1.1/admins/students/viewStudents.php 92 508366 1 1
+/Beta-0.1.1/admins/attendence/viewAttendence.php 54 206029 0 0
+/Beta-0.1.1/admins/accounts/student_fees_profile.php 45 221431 0 1
+/admins/library/createBooks 9 24762 0 0
+/Beta/admins/gl_report.php 6 15688 0 0
+/admins/view_class 10 26694 0 0
+/Beta/admins/student_fees_profile.php 33 133981 0 1
+/Beta/admins/report 10 29906 0 1
+/Beta-0.1.1/admins/accounts/gl_report.php 6 20906 0 0
+/Beta-0.1/admins/accounts/student_listview_list.php 23 96193 0 0
+/Beta-0.1/admins/students/viewStudents.php 10 79816 0 0
+/Beta-0.1/admins/hostel/bookHostel 12 46564 0 0
+/admins/export.php 3 11067 0 0
+/admins/student_listview 4 11057 0 0
+/admins/exam/listExam.php 1 2839 0 0
+/Beta-0.1.1/admins/exam/index.php 23 84128 0 0
+/Beta-0.1/admins/hostel/createRoomType.php 6 25640 0 0
+/Beta-0.1.1/admins/hostel/createRoomType.php 21 78408 0 0
+/Beta-0.1/admins/staffs/staffsProfile.php 2 11760 0 0
+/Beta-0.1/admins/staffs/listViewStaffs.php 3 14637 0 0
+/Beta-0.1.1/admins/attendence/index.php 52 184292 0 0
+/Beta-0.1/admins/hostel/index.php 20 75312 0 0
+/Beta-0.1.1/admins/more/reminder.php 10 35600 0 0
+/Beta/admins/create_students 26 97409 0 2
+/Beta-0.1.1/admins/accounts/student_listview_list.php 22 84876 0 0
+/Beta-0.1.1/admins/students/studentData.php 24 7281 0 0
+/Beta-0.1/admins/transport/listBus.php 2 8818 0 0
+/Beta/admins/create_bus_root 2 5460 0 0
+/Beta/admins/student_listview_list.php 32 115203 0 0
+/Beta/requestReset 40 43435 0 1
+/Beta-0.1/admins/accounts/purchase 9 29547 0 0
+/Beta-0.1.1/admins/accounts/create_general_ledger.php 12 44024 1 1
+/Beta/admins/index.php 29 145808 0 1
+/Beta-0.1/admins/library/categoriesBook 12 41056 0 0
+/Beta-0.1/admins/library/categoriesBook.php 2 8560 0 0
+/Beta/admins/reminder 11 29397 0 0
+/admins/library/bookListbystatus 5 14190 0 0
+/index 43 208701 5 2
+/Beta-0.1.1/admins/transport/listRoots.php 26 90613 0 0
+/Beta-0.1/admins/accounts/chequeList.php 8 30664 0 0
+/Beta-0.1/admins/more/changePin 4 14237 0 0
+/Beta/admins/gl_pdf_report.php 3 5708 0 0
+/Beta-0.1/admins/hostel/createRoom.php 48 163478 0 0
+/Beta-0.1.1/admins/exam/listExam.php 84 306540 0 1
+/Beta-0.1/admins/transport/create_bus_root 10 31602 0 0
+/admins/create_students 23 89158 0 0
+/admins/create_general_ledger 7 20002 0 0
+/Beta-0.1.1/admins/accounts/gl_data.php 1 3458 0 0
+/Beta/admins/gl_report 22 62425 0 0
+/admins/create_class 9 26170 0 0
+/Beta-0.1/admins/library/index 29 107195 0 0
+/Beta-0.1/admins/accounts/gl_data 6 13314 0 0
+/Beta/admins/exam/listExam 76 219459 0 1
+/Beta-0.1/admins/more/createNotice.php 4 17072 0 0
+/Beta-0.1/admins/class/view_class.php 28 120854 0 0
+/Beta-0.1/admins/accounts/student_fees_profile.php 42 204891 0 1
+/Beta-0.1/admins/staffs/1-A.php 1 971 0 0
+/Beta-0.1.1/admins/transport/create_bus_root.php 8 28394 0 0
+/Beta/admins/exam/index 24 65313 0 0
+/Beta-0.1.1/admins/accounts/reportScholarship.php 11 38497 0 0
+/Beta-0.1.1/index.php 10 44870 0 1
+/Beta-0.1.1/admins/students/tabledata.php 9 2810 0 0
+/staffs/login 5 7432 0 0
+/Beta-0.1/admins/accounts/report 15 52971 0 0
+/Beta-0.1/admins/library/createBooks.php 4 18036 0 0
+/Beta/login.php 50 73118 0 2
+/Beta-0.1.1/admins/students/gaudrianDetails.php 2 810 0 0
+/Beta-0.1.1/admins/staffs/listViewStaffs.php 80 325466 1 0
+/Beta-0.1/admins/class/view_class 27 88190 0 0
+/Beta-0.1/requestReset 8 6108 0 0
+/Beta-0.1/admins/students/studentAcademicProfile.php 33 169854 0 1
+/Beta-0.1.1/admins/accounts/updateCheque.php 12 43432 0 0
+/Beta-0.1/admins/accounts/reportScholarship.php 37 163817 0 1
+/admins/exam/insertExam.php 3 8075 0 0
+/Beta-0.1/admins/staffs/create_staffs.php 76 445966 0 1
+/admins/add_subjects.php 2 5676 0 1
+/Beta-0.1.1/admins/library/categoriesBook.php 14 51212 0 0
+/Beta-0.1/admins/hostel/index 21 65904 0 0
+/Beta-0.1/admins/exam/listExam 28 90970 0 0
+/Beta-0.1/admins/class/add_subjects.php 3 12185 0 0
+/Beta-0.1/login.php 62 90424 5 10
+/Beta-0.1/admins/students/gaudrianDetails.php 1 405 0 0
+/Beta-0.1/admins/students/feesConfirmation.php 7 1675 0 1
+/Beta-0.1/admins/library/createBooks 12 38161 0 0
+/Beta-0.1/admins/staffs/create_staffs 29 120835 1 3
+/Beta/admins/hostel/index 4 10884 0 0
+/Beta-0.1.1/admins/students/studentAcademicProfile.php 46 237238 0 0
+/Beta-0.1/assets/images/origami 33 1827780 0 0
+/Beta/admins/library/createBooks 2 5470 0 0
+/admins/attendence/viewAttendence 7 19376 0 0
+/admins/hostel/createRoomType 6 16020 0 1
+/Beta/admins/gl_data 24 65127 0 0
+/Beta-0.1/admins/exam/insertExam.php 44 155626 0 0
+/Beta-0.1.1/admins/export.php 4 800 0 1
+/Beta-0.1.1/admins/class/create_class.php 37 146207 0 0
+/Beta-0.1/gateway.php 2 2916 0 0
+/Beta-0.1/admins/class/class_profile.php 2 9174 0 0
+/admins/gl_report 7 19495 0 1
+/Beta-0.1/admins/more/createNotice 8 24431 0 0
+/admins/hostel/bookHostel.php 2 9208 0 0
+/Beta/admins/create_general_ledger 3 9086 0 0
+/Beta-0.1/admins/exam/updateMarks.php 2 9394 0 0
+/Beta-0.1/admins/index 58 322245 0 2
+/admins/changePin 7 16924 0 0
+/admins/attendence/ 5 13258 0 0
+/Beta-0.1/ 84 378232 22 6
+/admins/exam/index 21 56810 0 1
+/Beta/admins/hostel/createRoom 4 10600 0 0
+/admins/purchase 9 25665 0 0
+/Beta-0.1/admins/students/create_students 51 245664 2 4
+/Beta-0.1.1/admins/class/add_subjects.php 35 136061 0 0
+/Beta-0.1/admins/hostel/studentsHostel.php 11 48338 0 0
+/Beta-0.1.1/admins/attendence/ 4 13910 0 0
+/admins/index 6 27597 0 0
+/Beta/admins/attendence/index 75 202575 0 0
+/Beta-0.1/passwordLinksend 1 681 0 0
+/admins/staffs/1-A.php 9 8727 0 1
+/Beta-0.1/admins/transport/create_bus_root.php 22 94361 0 0
+/Beta-0.1/admins/accounts/pending_fees.php 7 32378 0 0
+/admins/hostel/bookHostel 3 9838 0 0
+/Beta-0.1.1/admins/hostel/viewRoom.php 20 70517 0 0
+/Beta-0.1/passwordUpdated 1 644 1 0
+/admins/library/categoriesBook 8 21567 0 0
+/Beta-0.1.1/admins/accounts/student_listview.php 18 62748 0 0
+/Beta/admins/hostel/createRoomType 3 8016 0 0
+/Beta/admins/class_profile 7 20483 0 0
+/Beta-0.1/admins/accounts/dailyreports 15 48765 0 1
+/Beta-0.1/admins/attendence/viewAttendence 34 102069 0 0
+/admins/pending_fees 4 11712 0 0
+/Beta/admins/studentAcademicProfile 72 312372 0 0
+/Beta-0.1.1/admins/hostel/studentsHostel.php 33 117305 0 0
+/Beta-0.1/admins/transport/listRoots.php 14 61878 0 0
+/admins/staffs/create_staffs.php 21 133698 0 1
+/Beta-0.1/admins/attendence/insertAttendence.php 2 13643 0 0
+/Beta/admins/createNotice 44 116694 0 2
+/gateway.php 5 7273 0 0
+/Beta-0.1/admins/hostel/bookHostel.php 8 41324 0 0
+/Beta-0.1/admins/library/index.php 14 54900 0 2
+/Beta-0.1/admins/accounts/purchase.php 22 89898 0 0
+/Beta-0.1/admins/students/studentData.php 34 31375 0 0
+/Beta-0.1/admins/school_profile 35 132771 0 2
+/Beta-0.1/admins/transport/addBus.php 2 9378 0 0
+//admins/create_students 1 3885 0 0
+/Beta-0.1.1/admins/library/createBooks.php 20 78062 0 0
+/admins/create_bus_root 6 16734 0 1
+/Beta-0.1.1/admins/library/index.php 24 93048 0 0
+/Beta-0.1.1/admins/transport/addBus.php 40 154656 0 0
+/Beta-0.1.1/admins/hostel/bookHostel.php 54 222434 0 1
+/Beta-0.1/configuration.php 41 31588 0 0
+/Beta-0.1/admins/school_profile.php 44 180792 0 0
+/Beta-0.1/admins/students/viewStudents 81 570431 0 1
+/Beta-0.1/admins/accounts/student_listview 22 77565 0 0
+/admins/ 88 415674 0 4
+/Beta-0.1/admins/accounts/clearCheque.php 6 25968 0 0
+/admins/create_staffs 18 65640 0 0
+/Beta-0.1.1/admins/accounts/purchase.php 8 28820 0 0
+/Beta-0.1.1/admins/staffs/1-A.php 2 1942 0 0
+/Beta-0.1.1/admins/accounts/createScholarship.php 8 29244 0 0
+/Beta-0.1/admins/hostel/listOfRooms 18 54895 0 0
+/Beta-0.1/admins/attendence/ 43 146538 0 0
+/admins/report.php 2 5238 0 0
+/Beta-0.1.1/validationAjax.php 59 56 0 0
+/requestReset 16 14318 0 1
+/admins/dailyreports 7 20198 0 0
+/Beta-0.1/admins/accounts/createScholarship 9 25992 0 0
+/admins/hostel/createRoom 9 23793 0 1
+/Beta-0.1/admins/accounts/create_general_ledger.php 18 74424 0 0
+/Beta/admins/student_listview 32 90259 0 0
+/Beta/admins/add_subjects.php 2 5800 0 0
+/Beta/passwordLinksend 20 13620 0 0
+/Beta/admins/view_class 6 16238 0 0
+/Beta-0.1/admins/students/tabledata.php 11 4814 0 0
+/Beta-0.1/admins/accounts/create_general_ledger 16 63285 0 0
+/Beta-0.1.1/admins/more/changePin.php 12 42876 0 0
+/Beta-0.1.1/admins/exam/updateMarks.php 17 61722 0 1
+/Beta/admins/tabledata.php 83 51590 0 0
+/Beta/admins/create_staffs 14 47718 0 1
+/Beta-0.1.1/admins/staffs/staffsProfile.php 62 300998 0 2
+/Beta/admins/exam/listExam.php 15 42697 0 0
+/Beta-0.1.1/admins/hostel/createRoom.php 34 126872 0 0
+/Beta/admins/purchase 15 43320 0 1
+/Beta-0.1/admins/exam/listExam.php 60 258988 0 0
+/Beta-0.1.1/admins/hostel/listOfRooms.php 27 95803 0 0
+/Beta/admins/library/categoriesBook 2 5388 0 0
+/Beta-0.1/admins/more/reminder.php 8 30308 0 0
+/admins/exam/listExam 10 28221 0 1
+/Beta/admins/hostel/bookHostel 4 14043 0 0
+//admins/ 1 5026 0 0
+/admins/hostel/listOfRooms 6 16471 0 0
+/admins/hostel/index 5 13587 0 0
+/admins/report 6 16938 0 0
+/admins/index.php 54 265186 0 1
+/Beta/admins/daily_pfd_report.php 1 2117 0 0
+/admins/school_profile.php 16 64700 0 0
+/Beta-0.1.1/admins/class/view_class.php 48 169952 0 0
+/Beta-0.1/admins/attendence/viewAttendence.php 9 39493 0 0
+/Beta-0.1.1/admins/index.php 50 308204 0 2
+/Beta-0.1/admins/more/changePin.php 14 61658 0 0
+/Beta-0.1/admins/accounts/clearCheque 2 5582 0 0
+/Beta-0.1.1/admins/school_profile.php 64 268758 0 0
+/Beta-0.1/admins/class/class_profile 48 139845 0 0
+/Beta-0.1.1/admins/accounts/pending_fees.php 11 39205 0 0
+/Beta/admins/student_fees_profile 2 7843 0 0
+/Beta-0.1/resetPassword.php 9 6659 1 1
+/Beta-0.1/admins/library/bookListbystatus 11 37449 0 0
+/Beta/admins/hostel/studentsHostel 8 22392 0 0
+/Beta-0.1/admins/accounts/gl_report 3 9027 0 0
+/Beta/admins/multistep-form.php 68 308256 1 1
+/Beta-0.1.1/ 28 125636 11 0
+/Beta-0.1/admins/hostel/studentsHostel 16 51376 0 0
+/Beta-0.1/admins/attendence/index.php 20 82772 0 0
+/Beta-0.1.1/admins/students/create_students.php 80 555624 0 1
+/Beta/admins/attendence/viewAttendence 54 151958 0 0
+/cpanel 13 176485 3 0
+/Beta-0.1/admins/exam/index 41 133365 0 0
+/admins/staffs/listViewStaffs.php 5 23845 0 0
+/admins/student_fees_profile.php 4 16032 0 0
+/admins/attendence/insertAttendence 3 8532 0 0
+/Beta-0.1.1/admins/library/bookListbystatus.php 11 43226 0 0
+/Beta-0.1.1/admins/exam/insertExam.php 83 308616 0 0
+/session/ 64 11533 1 1
+/Beta/index 11 50121 1 0
+/Beta-0.1/admins/accounts/chequeList 3 8347 0 0
+/Beta-0.1/admins/exam/index.php 22 93562 0 0
+/admins/attendence/viewAttendence.php 2 5564 0 0
+/admins/gl_data 3 8021 0 0
+/Beta-0.1/admins/hostel/payfeesHostel.php 44 223012 0 0
+/Beta-0.1.1/admins/more/createNotice.php 8 28908 0 0
+/Beta-0.1/admins/attendence/insertAttendence 52 205123 0 2
+/Beta/admins/school_profile 84 267750 0 2
+/Beta-0.1/admins/more/reminder 13 38883 0 0
+/Beta-0.1/admins/accounts/pending_fees 4 13094 0 0
+/Beta-0.1/admins/attendence/index 18 52086 0 0
+/index.php 2 9028 0 1
+/admins/student_listview_list.php 1 3347 0 0
+/Beta-0.1.1/admins/accounts/chequeContent.php 6 20786 0 0
+/Beta/admins/multistep-form.html 2 5910 0 0
+/Beta/admins/dailyreports 12 36402 0 0
+/admins/reminder 6 16310 0 0
+/Beta-0.1.1/admins/attendence/insertAttendence.php 46 167898 0 0
+/Beta-0.1.1/admins/accounts/clearCheque.php 30 101394 0 1
+/Beta/admins/library/index 4 11964 0 0
+/admins/library/index 8 23918 0 0
+/Beta/admins/export.php 4 16751 0 0
+/Beta-0.1/admins/accounts/reportScholarship 22 63889 0 1
+/Beta/admins/create_class 8 23727 0 0
+/Beta-0.1/admins/accounts/createScholarship.php 11 42693 0 0
+/Beta-0.1.1/admins/accounts/report.php 14 50177 0 0
+/Beta-0.1/admins/class/create_class.php 24 104442 0 0
+/Beta/admins/exam/updateMarks.php 17 50267 0 0
+/session/something 3 302 0 0
+/assets/images/origami 74 4386672 1 11
+/Beta-0.1.1/admins/accounts/chequeList.php 16 56540 0 0
+/Beta-0.1/admins/hostel/listOfRooms.php 5 21873 0 0
+/Beta-0.1/admins/class/create_class 23 80868 0 0
+/Beta/admins/library/bookListbystatus 8 22916 0 0
+/Beta-0.1/admins/accounts/report.php 13 60041 0 0
+/Beta/admins/changePin 3 6456 0 0
+/Beta/admins/print_recipt.php 1 1979 0 0
+/Beta-0.1/admins/hostel/createRoomType 9 27600 0 0
+/Beta-0.1/admins/hostel/createRoom 29 64728 0 0
+/Beta-0.1.1/admins/accounts/dailyreports.php 18 63425 0 0
+/Beta-0.1/index 9 40833 2 0
+/Beta-0.1/admins/students/create_students.php 60 384832 0 1
+/Beta-0.1/admins/accounts/gl_data.php 2 9016 0 0
+/Beta/admins/hostel/listOfRooms 12 33318 0 0
+/admins/attendence/index 5 13338 0 0
+/Beta-0.1/admins/accounts/gl_report.php 14 63814 0 0
+/Beta-0.1/admins/accounts/student_listview.php 12 47696 0 0
+/Beta-0.1.1/admins/transport/listBus.php 14 49074 0 0
+/admins/hostel/studentsHostel 4 10972 0 0
+/admins/class_profile 3 8741 0 0
+/Beta-0.1.1/admins/class/class_profile.php 48 176454 0 0
+/Beta/admins/attendence/ 26 67443 0 0
+/Beta/admins/pending_fees 7 20696 0 0
+/404.shtml 8 6560 0 0
+/Beta-0.1.1/admins/hostel/index.php 12 45086 0 0
+/Beta-0.1/admins/accounts/dailyreports.php 12 54288 0 0
+/franchise.html 2 2422 0 0
+END_SIDER

@@ -1,0 +1,992 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202503 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.excoso.in.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2056                
+POS_TIME 2732                
+POS_VISITOR 11984               
+POS_DAY 17722               
+POS_DOMAIN 3580                
+POS_LOGIN 4055                
+POS_ROBOT 4210                
+POS_WORMS 4806                
+POS_EMAILSENDER 4937                
+POS_EMAILRECEIVER 5080                
+POS_SESSION 18536               
+POS_FILESIZE 42710               
+POS_SIDER 18727               
+POS_FILETYPES 5215                
+POS_DOWNLOADS 5481                
+POS_OS 5529                
+POS_BROWSER 5844                
+POS_SCREENSIZE 6936                
+POS_UNKNOWNREFERER 7010                
+POS_UNKNOWNREFERERBROWSER 7839                
+POS_ORIGIN 8603                
+POS_SEREFERRALS 8744                
+POS_PAGEREFS 8940                
+POS_SEARCHWORDS 9108                
+POS_KEYWORDS 9260                
+POS_MISC 2394                
+POS_ERRORS 9319                
+POS_CLUSTER 3911                
+POS_SIDER_404 9513                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250401042308 3 580 15881456214943
+FirstTime 20250301005755
+LastTime 20250331133912
+LastUpdate 20250401185254 3 0 2 0 0
+TotalVisits 152                 
+TotalUnique 128                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 149                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 102 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 16 409392 2 24 1645556
+1 24 90 15342570 10 38 2820838
+2 2 2 27664 8 39 1137476
+3 16 16 300987 19 35 939328
+4 10 10 402292 4 17 1613566
+5 6 64 14678058 4 21 378997
+6 736 736 99817152 86 121 1403216
+7 28 47 5240630 18 59 1655354
+8 16 16 142048 6 21 198630
+9 14 48 7486239 19 65 459973
+10 64 216 32588222 9 54 1432232
+11 21 62 8496839 28 49 1017599
+12 27 248 48151112 13 57 1181237
+13 26 168 28219575 23 55 1854086
+14 14 229 48496441 21 40 637821
+15 56 312 47074648 7 42 2052280
+16 22 37 1673549 20 45 336464
+17 51 230 53580490 7 46 1329650
+18 15 16 251593 19 50 670975
+19 2 2 27680 6 13 399647
+20 14 137 27926764 36 85 1183716
+21 17 23 5925500 28 60 2252794
+22 23 90 14944199 332 357 7815824
+23 2 8 60960 10 30 816012
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+gb 734 764 106901395
+in 222 935 161298376
+us 193 960 176012649
+ca 19 27 1132219
+ru 16 16 195338
+se 10 10 138408
+kz 6 6 144
+gr 4 4 4772
+cn 4 30 3597695
+be 4 4 55672
+ua 4 4 267020
+ro 2 2 27670
+no 2 18 2829908
+au 2 2 27862
+md 0 2 1176512
+ao 0 37 7596819
+hn 0 2 2145
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+bingbot/ 229 14317460 20250331125042 55
+bot[\s_+:,\.\;\/\\-] 184 59870 20250331235252 180
+no_user_agent 29 8334573 20250324131719 0
+Applebot/ 20 79197 20250326164909 10
+unknown 18 432 20250331112423 18
+curl 12 537900 20250313074319 0
+YandexBot/ 10 94556 20250308070336 4
+scrapy 6 83496 20250325195152 0
+Apache\-HttpClient/ 6 83026 20250304182806 0
+survey 4 267812 20250306164555 0
+CheckMarkNetwork/ 4 19839 20250306230010 0
+YandexImages/ 1 13096 20250308070335 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+html 229 5267831 0 0
+jpg 302 166378235 0 0
+Unknown 926 100458792 0 0
+css 178 925466 0 0
+xml 21 7166 0 0
+env 24 28632 0 0
+php 2 27980 0 0
+jpeg 222 25463398 0 0
+png 899 162675916 0 0
+sample 20 31188 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 18
+android10 533 132
+linuxcentos 2 2
+androidnougat 2 2
+linuxubuntu 2 2
+macosx15 171 16
+macosx11 2 2
+linux 153 40
+unix 4 4
+ios_iphone 95 6
+win10 1637 904
+winxp 10 2
+Unknown 154 86
+android12 4 4
+macosx 1 0
+ios_ipad 2 2
+win7 47 14
+win8.1 2 2
+macosx13 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 52
+netscape5.0 8 8
+safari18.3 45 4
+chrome121.0.0.0 2 2
+firefox11.0 8 0
+multizilla 2 2
+chrome132.0.0.0 60 14
+chrome103.0.0.0 2 2
+chrome134.0.0.0 504 103
+chrome124.0.0.0 2 2
+chrome122.0.0.0 66 12
+safari10.0 35 2
+chrome117.0.5938.132 68 0
+chrome108.0.0.0 5 0
+chrome129.0.0.0 4 4
+chrome66.0.3359.181 4 4
+chrome125.0.6422.60 66 0
+chrome91.0.4472.124 1 1
+chrome125.0.0.0 39 2
+mozilla 128 60
+chrome86.0.4240.183 8 8
+chrome81.0.4044.129 16 16
+firefox124.0 2 2
+chrome60.0.3112.107 2 2
+chrome130.0.0.0 41 2
+safari15.4 56 0
+chrome127.0.6533.119 3 0
+Unknown 47 47
+chrome79.0.3945.79 32 2
+msie11.0 2 2
+chrome120.0.0.0 4 4
+safari7.2.1.0 2 2
+safari9.1.2 2 2
+firefox125.0 4 4
+edge18 30 0
+chrome133.0.0.0 475 101
+chrome116.0.0.0 68 12
+safari18.3.1 88 8
+iphone 2 2
+chrome126.0.0.0 43 4
+firefox120.0 2 2
+chrome109.0.0.0 37 4
+chrome100.0.4896.75 12 12
+chrome105.0.0.0 10 10
+safari 2 2
+chrome78.0.3880.0 2 2
+chrome76.0.3809.100 2 2
+chrome113.0.0.0 34 0
+chrome80.0.3987.149 2 2
+chrome83.0.4103.97 2 2
+firefox78.0 730 730
+chrome110.0.0.0 10 10
+chrome73.0.3683.75 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla/5.0_(compatible) 20250325160827
+python-httpx/0.23.3 20250326015825
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250328133006
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250328085522
+Mozilla/5.0_(PlayBook;_U;_RIM_Tablet_OS_2.1.0;_en-US)_AppleWebKit/536.2__(KHTML_like_Gecko)_Version/7.2.1.0_Safari/536.2_ 20250302080127
+Mozilla/5.0_(compatible;_Dataprovider.com) 20250331133947
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250319054304
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Microsoft_Office/16.0_(Windows_NT_10.0;_Microsoft_Excel_16.0.18429;_Pro) 20250306221053
+Microsoft_Office/16.0_(Windows_NT_10.0;_Microsoft_PowerPoint_16.0.18429;_Pro) 20250308164028
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250319054304
+Microsoft_Office/16.0_(Windows_NT_10.0;_Microsoft_Excel_16.0.18526;_Pro) 20250329104940
+python-httpx/0.23.3 20250326015825
+Microsoft_Office/16.0_(Windows_NT_10.0;_Microsoft_PowerPoint_16.0.18526;_Pro) 20250323212649
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1008 1021
+From1 6 6
+From2 8 8
+From3 4 4
+From4 196 1784
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_com 2 2
+cn_bing_com 2 2
+www_bing_com 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://l.wl.co 4 4
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+405 84 8561691
+206 5 1425518
+301 32 8162
+400 26 1352
+406 236 53336
+403 18 8694
+404 379 1266737
+422 2 244
+500 16 10784
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 65
+/.git/logs/refs/stash 2 -
+/.git/refs/heads/production 2 -
+/.git/refs/wip/wtree/refs/heads/development 2 -
+/viewproduct 14 -
+/media/system/js/core.js 1 -
+/.git/logs/refs/heads/master 2 -
+/public/images/addproduct/1727778370_download.jpg 16 https://www.excoso.in/
+/.git/refs/remotes/origin/master 2 -
+/geoserver/web/wicket/bookmarkable/org.geoserver.web.demo.MapPreviewPage 4 -
+/phpinfo.php 2 -
+/.git/refs/heads/staging 2 -
+/.git/refs/remotes/origin/staging 2 -
+/.git/refs/heads/master 2 -
+/.git/hooks/post-receive.sample 2 -
+/sitemap_index.xml 6 -
+/.git/logs/refs/remotes/origin/master 2 -
+/sitemap.xml.gz 4 -
+/.env.dev 8 -
+/.git/refs/remotes/origin/development 2 -
+/.git/refs/wip/wtree/refs/heads/main 2 -
+/.git/refs/heads/development 2 -
+/index.php/viewproducts/js/script1.js 1 -
+/llms.txt 2 -
+/_profiler/phpinfo 2 -
+/.env.save 18 -
+/config.js 1 -
+/.env.production 8 -
+/.git/refs/remotes/origin/production 2 -
+/.git/refs/wip/wtree/refs/heads/staging 2 -
+/public/images/addproduct/1727777643_download.jpg 17 https://www.excoso.in/
+/js/script1.js 49 -
+/.git/refs/wip/index/refs/heads/production 2 -
+/.git/refs/wip/wtree/refs/heads/master 2 -
+/.git/refs/wip/index/refs/heads/development 2 -
+/.git/logs/refs/heads/staging 2 -
+/.git/objects/00/00000000000000000000000000000000000000 2 -
+/phpmyadmin 8 -
+/sitemap.txt 6 -
+/.git/refs/wip/index/refs/heads/staging 2 -
+/.git/logs/refs/remotes/origin/production 2 -
+/.git/refs/wip/index/refs/heads/main 2 -
+/.git/refs/stash 2 -
+/.git/logs/refs/remotes/origin/development 2 -
+/viewproducts/js/script1.js 25 https://www.excoso.in/viewproducts/Bags
+/.git/logs/refs/remotes/origin/staging 2 -
+/sitemap.xml 6 -
+/sitemaps.xml 4 -
+/AutoDiscover/autodiscover.xml 21 -
+/.git/packed-refs 2 -
+/phpMyAdmin 8 -
+/.env.prod 10 -
+/.git/refs/wip/index/refs/heads/master 2 -
+/.env.development.local 8 -
+/php_info.php 2 -
+/.env.stage 8 -
+/admin/.env 10 -
+/.git/objects/info/packs 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/upper.php 24 -
+/.git/logs/refs/heads/production 2 -
+/phpinfo 2 -
+/.git/hooks/post-commit.sample 2 -
+/.git/info/refs 2 -
+/.git/logs/refs/heads/development 2 -
+/ads.txt 16 -
+/.git/refs/wip/wtree/refs/heads/production 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 149
+167.172.233.216 730 730 99627820 20250304061353
+110.224.90.91 33 85 9284685 20250313150118
+152.59.176.212 31 89 22302211 20250328170326
+49.47.218.93 30 82 10419776 20250314105943
+157.51.183.141 24 43 5185138 20250306071929
+49.47.218.85 16 72 11199323 20250310103018
+49.43.248.217 14 57 10621683 20250303155459
+174.138.18.243 12 12 14316 20250326111113
+103.102.230.8 10 10 5690 20250325201446
+146.190.82.57 8 8 9544 20250305221210
+223.185.26.60 8 90 15607050 20250328165117
+49.44.84.101 8 74 15232412 20250323010837
+152.58.213.237 6 6 74498 20250303133721
+45.148.10.80 6 6 3414 20250326111340
+110.224.86.30 6 12 5863883 20250319215423
+35.171.144.152 6 6 83514 20250320013448
+49.47.216.121 6 59 10990255 20250319145747
+5.252.155.15 6 6 144 20250321162944
+106.208.97.57 6 62 11190389 20250313172201
+49.47.216.68 6 57 16795794 20250307173712
+157.51.166.153 6 76 15642931 20250305201459
+49.37.194.245 6 48 9610314 20250313125306
+49.37.195.152 5 46 9609312 20250329104940
+49.37.203.58 5 5 1707 20250305091416
+172.225.137.214 4 42 8460180 20250315122317
+77.74.177.114 2 2 27678 20250320050023
+87.236.176.222 2 2 27802 20250322125854
+206.168.34.81 2 2 27674 20250321182848
+198.235.24.238 2 2 133978 20250318130838
+147.185.132.249 2 2 133834 20250311161603
+27.60.174.148 2 2 3648 20250319010016
+68.183.87.140 2 2 27818 20250311080405
+64.226.108.148 2 2 28010 20250307185153
+64.233.173.70 0 2 26192 
+206.189.143.65 2 2 27870 20250322145944
+49.37.192.116 4 5 6778 20250319184534
+51.195.34.242 4 34 7273575 20250321222145
+162.142.125.216 2 2 27820 20250315165532
+27.60.173.117 1 1 341 20250308164028
+54.198.55.229 4 4 266876 20250313173353
+27.59.52.244 2 8 60960 20250316233802
+68.183.197.216 2 2 27804 20250309122925
+94.159.110.103 2 2 27680 20250315100535
+87.236.176.230 2 2 27870 20250318065623
+157.230.121.54 2 2 27694 20250307162540
+64.233.173.69 0 3 39288 
+205.210.31.91 2 2 133438 20250301005755
+209.38.67.194 2 2 27822 20250323075515
+192.104.34.34 2 2 133438 20250326034312
+96.0.144.194 2 2 27664 20250313023835
+198.235.24.41 4 4 267272 20250314042936
+167.94.145.104 2 2 27678 20250309225421
+49.44.83.198 4 37 7616196 20250323010837
+34.122.147.229 0 30 7242117 
+205.169.39.29 0 37 7596819 
+185.247.137.9 2 2 27670 20250328085522
+198.235.24.239 2 2 133438 20250319034655
+164.92.201.59 2 2 27670 20250321071307
+185.247.137.55 2 2 27812 20250327033417
+122.171.16.85 2 2 20894 20250322011638
+205.210.31.72 2 2 133618 20250314111740
+161.35.22.116 2 2 27674 20250309082451
+167.94.138.112 2 2 27804 20250301200458
+162.142.125.209 2 2 28006 20250305104944
+93.158.91.10 2 2 27676 20250316012403
+3.89.232.158 2 2 27808 20250324010438
+178.128.104.249 4 4 4772 20250315224908
+49.37.210.75 1 1 342 20250319131106
+199.45.155.67 2 2 28002 20250317100211
+52.77.241.178 2 2 27680 20250320190652
+49.37.193.96 3 3 1024 20250319110507
+49.37.208.153 1 1 342 20250320150335
+54.244.142.228 0 58 14515624 
+223.178.82.212 1 1 341 20250323212649
+139.59.71.20 2 2 27862 20250308101256
+34.123.170.104 0 6 685646 
+34.217.120.70 2 2 27672 20250303171855
+34.118.35.22 0 33 7584940 
+167.94.145.110 2 2 27890 20250304092045
+171.79.53.174 2 2 3648 20250318003407
+149.56.150.241 2 2 133582 20250304124346
+110.224.81.3 1 1 341 20250301141440
+223.178.85.107 1 1 341 20250306221053
+198.235.24.40 2 2 133438 20250311183034
+138.68.187.123 2 2 28010 20250321150230
+205.210.31.164 2 2 133618 20250319054304
+165.22.3.227 2 2 1138 20250303210947
+185.247.137.211 2 2 28010 20250322003518
+18.212.55.130 2 2 27804 20250326090355
+5.133.192.94 2 2 27684 20250323002404
+103.102.230.20 4 4 2276 20250326015825
+54.197.66.22 2 2 27818 20250315103802
+143.110.249.175 2 2 27804 20250325160827
+204.101.161.19 2 10 63419 20250321164601
+172.225.218.65 4 45 7928174 20250308112844
+157.49.107.196 0 14 4588963 
+52.91.113.244 2 2 27822 20250304170236
+103.6.157.174 2 2 27802 20250313083124
+222.64.241.53 2 28 3463717 20250314123756
+147.185.132.123 2 2 133438 20250314041659
+146.59.4.209 2 18 2829908 20250322154033
+52.37.42.222 2 2 133438 20250312004656
+18.237.90.75 2 2 27688 20250326104611
+170.254.178.78 0 1 13096 
+27.59.53.191 2 2 27798 20250323114332
+103.91.60.130 4 43 9597068 20250307103025
+18.116.162.27 2 2 1138 20250330133217
+64.233.173.71 0 3 39288 
+94.159.108.209 2 2 27680 20250321173251
+185.208.158.226 2 2 1138 20250330161214
+191.102.187.188 0 1 207 
+5.133.192.166 2 2 27686 20250301213210
+49.37.210.59 1 1 341 20250320130652
+45.148.10.238 2 2 1138 20250312122302
+91.242.95.237 0 1 533 
+149.56.150.81 0 34 7397251 
+104.197.69.115 0 30 7242117 
+54.88.179.33 2 2 27824 20250320000526
+167.94.145.100 2 2 27996 20250328133006
+45.148.10.249 4 4 2276 20250302080127
+91.242.72.33 0 1 1175979 
+149.56.150.119 2 2 133582 20250331133912
+27.60.175.58 1 1 341 20250321184638
+35.165.215.140 2 41 9406460 20250323121209
+38.255.36.128 2 2 48 20250317034543
+47.230.191.93 1 1 0 20250320030724
+5.133.192.131 2 2 27682 20250308181718
+191.102.163.57 0 1 1938 
+93.159.230.28 2 2 27670 20250305081947
+154.161.2.98 0 37 7596819 
+206.168.34.42 2 2 27672 20250306160652
+205.169.39.43 0 37 7596819 
+5.133.192.168 2 2 27680 20250330212526
+194.50.16.252 2 2 27670 20250311180117
+103.6.157.163 4 4 55626 20250314222103
+147.185.132.100 2 2 133834 20250318042640
+123.6.49.4 2 2 133978 20250331112352
+205.169.39.153 0 30 7106612 
+152.58.199.205 2 48 9134649 20250303133712
+35.86.108.197 2 2 27674 20250312000431
+44.245.163.52 0 62 14314279 
+171.79.59.93 1 1 341 20250327164134
+18.237.22.57 2 2 27676 20250327202255
+27.62.66.193 1 1 341 20250325031103
+106.208.107.186 2 2 3648 20250314221015
+49.47.218.135 4 38 7428497 20250315093942
+172.225.218.64 4 46 2346538 20250327154542
+91.222.174.85 4 4 267020 20250331111856
+149.56.160.205 0 34 7397251 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20250301 9 9 190407 5
+20250302 4 6 15905 1
+20250303 28 118 19873419 6
+20250304 738 774 107241240 5
+20250305 21 108 21609017 6
+20250306 27 47 5226247 3
+20250307 14 270 63906817 4
+20250308 9 87 15580878 4
+20250309 6 6 83156 3
+20250310 17 73 11199664 2
+20250311 8 9 335856 4
+20250312 7 7 162591 4
+20250313 51 202 30420144 6
+20250314 44 122 14343657 8
+20250315 19 128 23573927 7
+20250316 4 10 88636 2
+20250317 4 5 41146 2
+20250318 11 11 327696 6
+20250319 32 125 24748601 11
+20250320 13 14 152451 8
+20250321 17 55 7448417 8
+20250322 14 30 2939256 6
+20250323 17 122 24722511 7
+20250324 4 4 28946 2
+20250325 15 15 37469 7
+20250326 18 18 198254 7
+20250327 15 238 42533836 5
+20250328 41 161 36272332 5
+20250329 1 1 341 1
+20250330 6 6 29956 3
+20250331 8 42 7931831 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 2
+30mn-1h 1
+15mn-30mn 2
+0s-30s 140
+30s-2mn 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 378
+/ 229 5267831 103 80
+/fetchproducts 100 158806 3 17
+/searchprod 34 596 0 1
+/.git/config 34 19346 14 14
+/.env 24 28632 5 5
+/autodiscover/autodiscover.xml 21 7166 19 19
+/viewproducts/Bags 20 428916 0 6
+/.git/HEAD 12 288 5 4
+/viewproducts/raincoats 6 92768 0 2
+/viewproducts/Jackets 6 93980 1 0
+/.git/objects/a9/b549189653697bdcc2597e2a81e93fae10cea6 2 214 0 0
+/.git/objects/4c/c2c967993894fa409ccbdf8db4939533ec880e 2 480 0 0
+/.git/objects/ac/f81a890206a9450adee30d6f079a06231ebbf6 2 19476 0 0
+/.git/objects/d7/39eb3dd46f6f845bd6363ad64d40aae091fd33 2 482 0 0
+/.git/objects/67/3581954094fff28c0e50361034d743f5dfde7e 2 172502 0 0
+/.git/objects/dc/bf3bb3151a654801079e0b06fcb36d52341b97 2 18276 0 0
+/.git/objects/e7/3b450aeb9845140523171dd1518dc4543a0df9 2 1368 0 0
+/.git/objects/29/b5e6ffef0b95d5cd980cf7741ca4b3f07ed9dc 2 19512 0 0
+/.git/objects/89/64173744fc1aee719774901d9e0aa92b005d25 2 201354 0 0
+/viewproducts/tshirts 2 31240 0 0
+/.git/objects/3c/f5e09286183fa233fe39d26dad9f902fc1c69e 2 174 0 0
+/.git/refs/remotes/origin/HEAD 2 60 0 0
+/.git/objects/c0/c5534c9031cd71ee2c712b187a56fd813b0e41 2 866 0 0
+/.git/objects/91/81d18ea73b964a54a6ec6c23c28cf70e3fef5d 2 17988 0 0
+/.git/objects/eb/d1943e7e54d7fd32d663e79af716c4ea2fa2c6 2 176 0 0
+/.git/objects/67/ee04500f5108fff37f05f0aae1f71430835820 2 584 0 0
+/.git/objects/61/b218e1db2418c64272512e41c0cfb8c5b5067a 2 910 0 0
+/.git/objects/b1/736f328efc70c747b8b7fdd61af506068785a4 2 2350 0 0
+/.git/objects/c1/a4daee32c51ac862082d546511cb539f98721a 2 1342 0 0
+/.git/objects/32/e46a3cd15b9aa54cccc46fc53990f382062325 2 172 0 0
+/.git/objects/0b/a5d5d8f10c959d538e1e6ae87aa271d41e1ff0 2 2602 0 0
+/.git/objects/51/1bf70dd385028ba060de6e255bf939c830d264 2 406 0 0
+/.git/objects/b1/51c4db0d7b3131c38640b56b60882ce5b48589 2 480 0 0
+/.git/objects/0e/47148cdc385e56e10422dccf84c1b8c5f894ef 2 1198 0 0
+/.git/objects/fa/6462f31d2c3077816c976da074adc1e7ca37cc 2 238200 0 0
+/.git/objects/94/33d74bb4c294f45cb8a1a2a7338a73b0122792 2 18264 0 0
+/.git/objects/e7/ef34da6e04fe4f73b35ef1487abe4570cf166a 2 9218 0 0
+/.git/objects/f8/c945e3ff1c41cfdd60364019e310f979ccb6c3 2 200 0 0
+/.git/objects/d7/596d0b0c0e56feb8986be19c96289baa7b7f71 2 1376 0 0
+/.git/objects/cc/34ae044972cd7fa653d2cd20c6b721fc000ccb 2 126 0 0
+/.git/objects/3a/ec5e27e5db801fa9e321c0a97acbb49e10908f 2 634 0 0
+/.git/objects/6e/603c74a326e2ee3d63b37e6c2ea4288cfa3986 2 58152 0 0
+/.git/objects/87/06e5723d02c3541473b930e554e9a4845d31b4 2 234 0 0
+/.git/objects/45/62dfa3ff3ccdb95a6461536f16ec2bb3519690 2 1516 0 0
+/.git/objects/d6/331d10a20f1b64c7581c03b17e021b2699d226 2 654 0 0
+/.git/objects/6b/b9b0ee5fe93000ff40d14701315344e907cd58 2 596 0 0
+/.git/objects/9a/e9515840617252d9970c5dc12450583eb5677d 2 532 0 0
+/.git/objects/68/e6b473f30ac6556e95de8f85806d76a77a4175 2 694296 0 0
+/.git/objects/f6/86cfa9bac4c8882a37c01d89ddbd6a7602e5f2 2 326 0 0
+/.git/objects/ee/a2e9e307856eca4c9e2e6c98f1caedcde6d77c 2 1652 0 0
+/.git/objects/08/a4cd962676eb14ae23a2a1137b9fd749d59e23 2 370 0 0
+/.git/objects/66/907ef4445c1a0b97a884a1b51816c18af52dbf 2 836 0 0
+/.git/objects/a1/2d5b988bf5468106707789672206a508972e0f 2 9222 0 0
+/.git/objects/be/2ab6d2abfe6e5754634359b9902cec622da288 2 1644 0 0
+/.git/objects/d9/3066c6913ec60050e5e13674f5ad22856a3508 2 4762 0 0
+/.git/objects/55/0cc9ba711f61918ae861810b16f7451d13ecb0 2 220 0 0
+/.git/objects/5e/81f6dafaf51a9e397959a3bfa90ff2ce85dc1d 2 654 0 0
+/.git/objects/64/dfddbbf8285d90c67ab0f6f63d55b018f6c3c8 2 627094 0 0
+/.git/hooks/applypatch-msg.sample 2 956 0 0
+/.git/objects/1e/f5484b99ffa3d84311f624a40a46ca1633db89 2 338 0 0
+/.git/objects/de/c66d8c69e6bd95cafec0a67b278c6a7a5fb3be 2 39284 0 0
+/.git/objects/cd/8328c13eaec1b3f92966d65bd4464a5e87bba6 2 1853982 0 0
+/.git/hooks/pre-commit.sample 2 3298 0 0
+/.git/ORIG_HEAD 2 82 0 0
+/.git/objects/8f/4803c05638697d84ea28d40693324ec70f7990 2 78 0 0
+/.git/objects/66/4f719b4284fb951251314dceb42332e9d3c955 2 200 0 0
+/.git/objects/58/b44f95dabe8ac2aff4cc6e650a1879a4fee87f 2 314 0 0
+/.git/objects/f1/b03d538a52680925828218a67b82ea4f5e843c 2 410 0 0
+/.git/objects/90/97f45aa08603b53f12081347d0a6a9f280f85a 2 121362 0 0
+/.git/objects/16/c47eb9a5c358f450896c5d0f56f9d4006a66ae 2 1314 0 0
+/.git/objects/e0/28f74b95fd7e4b3fe899fd83769ce6772d8f89 2 79670 0 0
+/.git/hooks/pre-push.sample 2 2748 0 0
+/.git/objects/a0/f28c14bc322fc48734b1b10b2e619ba816ba13 2 2619826 0 0
+/.git/objects/37/259efce6c002738c1e6f79b31a42bf9653524e 2 1626 0 0
+/.git/logs/refs/heads/Backend 2 2484 0 0
+/.git/objects/10/cfeaa9b922c2096caefa7598311b11d7a239fe 2 1356 0 0
+/.git/objects/7d/e588ac487e3db898e2e70ffcb077821322110a 2 200 0 0
+/.git/objects/82/078139150ca7d67f75ffe718d4957ee421ae18 2 85038 0 0
+/.git/objects/d6/b7ef32c8478a48c3994dcadc86837f4371184d 2 60 0 0
+/.git/objects/21/3e8fcac738068fbdbd91eb4ba5f739a4dd0eda 2 334 0 0
+/.git/objects/d8/430e6160e2738302d099fa2877b095aca23d9d 2 10296 0 0
+/.git/hooks/post-update.sample 2 378 0 0
+/.git/objects/db/deed862e63f867823e69daa7bcf3869f4a6cf4 2 3292 0 0
+/.git/objects/8e/04b42240fb2ac3c7dc55039927d6f806448ce6 2 516 0 0
+/.git/objects/f0/b6541e5890aed30e9cde218afbe9294df66876 2 4528 0 0
+/.git/objects/d8/b40931c140b9950bf64e7d7aa9cacfa7e696e8 2 652 0 0
+/.git/objects/3b/79da445d577011dd404e38ab65df6e330fa8d8 2 338 0 0
+/.git/objects/1d/e0c47eab10de37c0cafe9f9372e4890aa401ce 2 175500 0 0
+/.git/objects/2c/b3152349673ad340e80082d0967c5850671131 2 400 0 0
+/.git/objects/c5/7bb1069b13f19af255da43b53ae4519a3292eb 2 555718 0 0
+/.git/objects/3a/0126f013862fc0ab2ab0cc9475588ef5583ee3 2 208170 0 0
+/.git/objects/d3/62e7aa02afe65779e088c5f6b272cb18683dbd 2 120 0 0
+/.git/objects/bb/07d461af36499ad5548bc5a43119e0ead76968 2 1796 0 0
+/.git/objects/d3/e0349150091029866f7e927c1db8554b6de303 2 1312 0 0
+/.git/objects/4b/455379c5ee5810aafe0d7177d1d86518e17fac 2 240 0 0
+/.git/objects/e6/51092f2f1f450e1a96a2341c1291cdd8a60d4b 2 562 0 0
+/.git/objects/f9/311f387a27a07b0b57381a73a317f265121a7c 2 1778998 0 0
+/.git/objects/fb/448ee70a5121ae7f22020b1ca9059055e853a6 2 85842 0 0
+/.git/objects/bf/e8472d8a7351074cc35e63ca3b26fb3d777699 2 1798 0 0
+/.git/objects/04/43d3d741e973e18596cde2b9c0346f66a83667 2 2244 0 0
+/admin/dashboard 2 702 1 0
+/.git/objects/29/b0954bbddbd386cd4fe10dc8367552667f193b 2 554 0 0
+/.git/objects/71/34e8c38c4211eac214dc837bce1e5c631c596a 2 1794 0 0
+/.git/objects/c8/3cc2bc82c370a3f2d468986a0acc4027898210 2 326 0 0
+/.git/hooks/update.sample 2 7300 0 0
+/.git/objects/00/72da56d28cd6d757757fd9d254bc7c4be46e20 2 19618 0 0
+/index.php/fetchproducts 2 3732 0 1
+/.git/objects/2d/02db1793a4033aaa02ac34f1130b0ef9581256 2 1316 0 0
+/.git/objects/58/4104c9cf7521e255fad7a01e2cec3658a4d2c4 2 1022 0 0
+/.git/objects/cf/1d0ed1625df7895a2427fa65cc523f2e125a16 2 3761152 0 0
+/.git/objects/23/5048a64fbeb5ac276a46efabb6e6c32c538ed9 2 105080 0 0
+/.git/objects/4b/d544ff876acd4b30a0623855654b39673ae94a 2 96220 0 0
+/.git/objects/c2/6f13e8131e424332f4477b2b2b90f797f282c8 2 578 0 0
+/.git/objects/1b/8fb637e6ca356bae4c054428a41fc0499eae0b 2 5496 0 0
+/.git/objects/e3/b49b68bace17c1f103188e002066eb4d6da2ef 2 650 0 0
+/.git/objects/88/6545b9252a6133825a470533e9491ee27cd086 2 168 0 0
+/.git/hooks/pre-receive.sample 2 1088 0 0
+/.git/objects/8f/c577adcbb54789c7159d6993444b99a23e16be 2 400 0 0
+/.git/objects/9b/fde6c80c436499c29ec90cdb1faa2db7a8607e 2 1538 0 0
+/.git/objects/0b/255a2c39e0b9d0224aaa971da4ef979fe78a98 2 960 0 0
+/.git/objects/0d/b7290496b449bf454c261d2f5c60049104500d 2 2714 0 0
+/.git/objects/21/fa131d3d9aea0af5c5c5acc1f199500ab1c9bc 2 2090354 0 0
+/.git/objects/de/f621f47d6037826d60e2a11ab2394f9f131d79 2 876 0 0
+/.git/objects/f4/6726731e4a40fb77f12c7fa647cb837c634362 2 2726 0 0
+/.git/objects/86/c5694e6b78042f9f95e4017eb6194440a33259 2 1600 0 0
+/.git/objects/e6/73d95341d04d18efeafcf78af5280ec743dc53 2 858112 0 0
+/.git/objects/67/657a3d471b789527703e131b632e8b79bcc76b 2 198 0 0
+/.git/objects/bf/a4002ae3121328f6be5e438b340daade0d0d9b 2 220 0 0
+/.git/objects/05/8ab063a2139e310dbd8253674f2556a9636e1f 2 2154 0 1
+/.git/objects/55/aa9b0bc393ac672ff03ff0b2506e54a24aa8d1 2 19740 0 0
+/.git/objects/97/42c93d9d30bf2c9b783f6fd354437eb3a1b6ae 2 4458192 0 0
+/.git/objects/8a/72d9c105a3f6be52f3aacde986875331070d0a 2 506 0 0
+/.git/objects/61/255a589ef355ecfb3af25bbfd021a72ac3505d 2 1736 0 0
+/.git/objects/27/9b16f11cd23efaeed192d3a12bc2f579c08230 2 181986 0 0
+/.git/objects/91/5a2e851ff23eb877291ad74c5b1e3d02022263 2 218 0 0
+/.git/logs/refs/remotes/origin/HEAD 2 9982 0 0
+/.gitignore 2 516 0 0
+/.git/objects/5f/1390b015cbf1ee54f580c38fcd47a723eb81f4 2 230 0 0
+/.git/objects/7a/8423466877c7705920cb68cebfa9bbe5cdfa1a 2 19692 0 0
+/.git/objects/2b/aec17596dcaf0cd677d47af4cd177eab92c89c 2 327056 0 0
+/.git/objects/d3/3f6f363f8d312cf5dcc615fa081028e0545f91 2 722 0 0
+/.git/objects/36/32480b15a9bf4e5c2bc889f2c54e76a3bda896 2 206414 0 0
+/.git/objects/e1/2a6ff0f5e77ee6cff4059f670bdab9b91c9c54 2 2010226 0 0
+/.git/objects/92/5f7d2ee84ba4435a6f512534598eb06a20148a 2 2324 0 0
+/.git/objects/5f/4bce86f6f3e6f8aed0fb15228a33d38750f601 2 290 0 0
+/.git/objects/98/6d54c5db598d91de115c3563bf7a01c53b2807 2 1630 0 0
+/.git/objects/67/9c850f352fba846ff01933a11e77c0bf3926a0 2 714 0 0
+/.git/objects/2e/5d888bc62ace2a7d851e1d4e3babd576c3a6f7 2 636 0 0
+/.git/objects/45/2e6b65b7a18aa7c3aaf886fd183a002d381e34 2 378 0 0
+/.git/info/exclude 2 480 0 0
+/.git/objects/01/6fbc4b1f9117820e296c2bdbc7dcc9fc97a1b5 2 1552 0 0
+/.git/objects/30/29d0183bae48823b994a2ba5ec22110478df96 2 1796 0 0
+/.git/objects/55/7e42fc06145ceaf53832ed9928b4dd9a13daad 2 6540 0 0
+/.git/objects/42/1b5695627db43c022947cfc7c0ecce6b9689be 2 342 0 0
+/.git/objects/7c/3e442a7b7bc79867b12bd9a33afbdfcad80cf3 2 328 0 0
+/.git/logs/refs/heads/main 2 1328 0 0
+/.git/objects/78/b9c5aa8eff34acd6aa6e1d4725222e35c8ac3b 2 62932 0 0
+/.git/objects/fc/4c1136b9e44e5edf01654bde671fb0beee2a72 2 134 0 0
+/.git/COMMIT_EDITMSG 2 36 0 0
+/.git/objects/35/93fcbeb8eac177d083dad04813dbe0a5087918 2 650 0 0
+/.git/objects/2e/116a0d5cb752ad12e54f39aa8d26e34c83d7a0 2 464 0 0
+/.git/objects/f8/7aa7432ff3679304c566630f08557e4fb2676a 2 3569408 0 0
+/.git/objects/7d/7534b542a7d636122782d24ecc98154369f239 2 2532012 0 0
+/.git/objects/1f/7eef01bd2fcfb878385b743ba6d1dc3dfd462b 2 464 0 0
+/.git/objects/d0/81be0a1d670b3c3ebcd328ad09d9c8bc00b85d 2 360 0 0
+/.git/objects/2f/3a08a641a047ac8ebcaa12fd104cf760cafd25 2 1796 0 0
+/.git/objects/70/16ac01ca868f56684317d4b0728fb0bec13d98 2 2509268 0 0
+/.git/objects/6c/d3364ade70db1fd182db5c7eb5089979c173aa 2 176056 0 0
+/.git/objects/02/b610c8c084c52dab0a70d628c87439c63e6347 2 1372 0 0
+/.git/objects/11/6bd8d002477e76510418cdbe2ac90a92ea7ce7 2 2410 0 0
+/.git/hooks/prepare-commit-msg.sample 2 2984 0 0
+/.git/objects/61/a95fb588ebfa695b1a0e1b641c8e8d4915b69a 2 324 0 0
+/.git/objects/52/1e756c4cb29e43b54ec7a436a1cfda7b1b7f3a 2 9206 0 0
+/.git/objects/4c/d0a5c60484b01f67d4ecd275c9c40d509ae4d2 2 1188 0 0
+/.git/objects/92/f812a05555ef22e2180d8adf5fa4e239142e25 2 810370 0 0
+/.git/hooks/commit-msg.sample 2 1792 0 0
+/.git/objects/01/e4a6cda9eb380973b23a40d562bca8a3a198b4 2 74 0 0
+/admin/addproduct 2 4682 0 1
+/.git/objects/b9/c106be81284c3684966b8ce632fd9895f9ede6 2 688 0 0
+/.git/objects/26/16b2c0717710007c559d92c7255a73b7c580bb 2 1376 0 0
+/.git/objects/af/9a5c9b2fa1d57e1eadc4696f4cfa7895fd8e56 2 165092 0 0
+/.git/objects/37/97cc789be5c3fc20a3b6d453e48fc97a7ef550 2 200 0 0
+/.git/objects/c5/7c57a84fe7d9cedac054ad5abc18dd6124ac26 2 4402 0 0
+/.git/objects/eb/b9a2f7bc32daf327f5a2cbcc68288ea4446bca 2 32580 0 0
+/.git/objects/38/b258d1855b5e767bde3df168106f468088472f 2 142 0 0
+/.git/objects/0f/1a56e8fe4a2f669436a9ddd94aedfabee8b5d8 2 1314 0 0
+/.git/objects/57/73b0ceb771e176520d5a9c1efe5e918878318d 2 376 0 0
+/.git/objects/17/22693e2b404dfbc0f2f6d88536c5df249d0708 2 122 0 0
+/.git/objects/07/eaada9e1bd39472ab76b0a612a5fb491b739e4 2 123682 0 0
+/.git/objects/f1/fcf27d4bd522d04815e36657a81a378a4336d7 2 608 0 0
+/.git/objects/54/cf928aa6b557e990f017232aa924c5be940961 2 2628 0 0
+/.git/objects/6f/c9063e3607bd11414455dd7e679859e5d98555 2 8780 0 0
+/.git/objects/c7/9078256f0b174a2d366dd7c76d6337f6f8f0bb 2 1356 0 0
+/.git/objects/22/57b3b323f34bdf71cc9c43977661c7d54b2e6c 2 274 0 0
+/.git/objects/8f/0de65c560259bd171d746d12aa187f666893a3 2 342 0 0
+/.git/objects/09/d44462aee4b7049157bb39e0ccf744ca34e6b8 2 54090 0 0
+/.git/objects/ea/2e88cea6208b1530a9454147bbf82c5e8058aa 2 878 0 0
+/.git/objects/7b/49625aae4202e74323b7bbfab1c14a2bfa91fa 2 1164 0 0
+/.git/objects/bb/31b8dd1b18e864c4b195e7fb9e28d40b30ffc3 2 66464 0 0
+/.git/objects/17/3c98399c5b415545c31d39ca6c5fbe601fa03f 2 1580 0 0
+/.git/objects/bb/d868806545af9047084dc0bba3cdc18e027752 2 83528 0 0
+/viewproducts/Caps 2 28338 1 1
+/.git/objects/56/eb19e8163fd6099db9b88ece419ca7aa389742 2 347040 0 0
+/.git/objects/1d/c012252a4f90d5fdc50ca3031d6bc278173691 2 478 0 0
+/.git/objects/83/64a84e2b7eea9f007e99a5d3333273fe30bf8a 2 512 0 0
+/.git/objects/66/c2d5f38743f4869709f2ab9206368cf48e3445 2 11328 0 0
+/.git/objects/cc/2c5acb54ae1fa2164618ae0acd591f369ba729 2 551238 0 0
+/.git/logs/refs/heads/frontend 2 1754 0 0
+/.git/objects/c9/a928f22111b4cfe2df8ef3325c116a2b6151db 2 9030 0 0
+/.git/objects/80/11e65a2a2c5a250ceb521858d7b0dda696e07b 2 547392 0 0
+/.git/objects/31/a150b54e7b1752b5cd402f9d750ac742e60d3a 2 405978 0 0
+/.git/objects/bc/46c9fb07c13d6dbab5d31667051955e547a1b3 2 168 0 0
+/.git/objects/f8/2db5cf29b483f0a08fc99c999c45cc159dfe88 2 120 0 0
+/.git/objects/23/99c7aea10326bba6928622821edcf2a9310bb6 2 2066090 0 0
+/.git/objects/67/398166b26d28a7c3d2da213b27c454a0b60680 2 195800 0 0
+/.git/objects/2f/9a5d3825a125009cf894af6cbd880d9b8358c0 2 1945924 0 0
+/.git/objects/7a/31f64f6bd6a261f2d339bfdc9e9e0c066f9eed 2 10264 0 0
+/.git/objects/c6/f6c5f02cc2e9460498a2d1f8978b4fc2b422d4 2 4371860 0 0
+/.git/objects/d2/9c09c22cf6843983ea2c1b144e937da68de33b 2 850 0 0
+/.git/objects/67/b8565e4d38d1eaeb395fcaaf55fce74fc328a5 2 702 0 0
+/.git/objects/e9/92ca182e5a2ac17c794c3277822c50d0c666f7 2 1316 0 0
+/.git/objects/50/6b9a38ec75058856e1b76d11c4e45270add7ec 2 980 0 0
+/.git/objects/25/8eca3bc89d02728185d08ce2f7bd9f4293e5d3 2 198 0 0
+/.git/objects/05/fb5d9ea95d1b527ba0e7074936553944b8d302 2 1006 0 0
+/.git/objects/21/e1febbabe00770851ccc241705e58b6da6a17d 2 1182674 0 0
+/.git/objects/d0/1a0ef2f7ffeb30b856a70a7daedf47d9b6b31b 2 554 0 0
+/.git/objects/44/a03ed3bdc54a6063b72831db8fed0f78c72df3 2 3918 0 0
+/.git/objects/f3/a025902ad22c25d326b33ac5bfaa182bfab0de 2 9212 0 0
+/.git/objects/b9/e820e35a2a9600c9a8d1b88fcc2cdc86faf99a 2 3259214 0 0
+/.git/objects/9b/19b93c9f13d72749cc3bac760a28325116f3f1 2 52 0 0
+/.git/objects/62/a5a1466993993f7f401d12fbd0da7dced95333 2 480 0 0
+/.git/objects/91/536d4a5b46cbb8022135cb02da2b747cfbbd71 2 3274662 0 0
+/.git/objects/31/cb421d8e58fe825a7831338cc1b1b9e67da6de 2 1546 0 0
+/index.php 2 27980 0 0
+/.git/objects/c4/f72600e79eb60e68e14858807152896bc78d09 2 174 0 0
+/.git/objects/1b/548f94429275f1811e7b82e014f5f857db5314 2 21114 0 0
+/.git/objects/8a/cfb390be670d6d1ac0228cc1c75a40db9faa6e 2 19696842 0 0
+/.git/objects/42/5e7058fcc7c202cef39889ff4b27d2fb1f798e 2 1124 0 0
+/.git/objects/cf/b2ecdb3fb8d626443dcca5879b26c935c1cf47 2 2038562 0 0
+/.git/objects/b3/48643546abf87d7a841db21e9918f399029e45 2 212880 0 0
+/.git/objects/3e/40e02a70195fe425c56232a56d8531757cb9c3 2 78126 0 0
+/.git/objects/05/c4471f2b53fc17d3cac9d3d252755a35479f7c 2 190 0 0
+/.git/objects/10/83c5e5272f9944e651122b351358f8ce6a6ad0 2 314 0 0
+/.git/objects/c6/73466c38171ab9623bd1da01b4b9f45c641c60 2 1436 0 0
+/.git/objects/42/0b39d180a1fabf37ea76e20a43ecd6bdb98f78 2 1192 0 0
+/.git/objects/8d/94292b29f4e1a08e795260ab32c8e121374c4a 2 2552 0 0
+/.git/objects/0f/e018fdc7b25a6a84755b31a9a799c5fb8e0c85 2 369932 0 0
+/.git/objects/09/0b3479abb78d455a4ce35adae810728dca0508 2 104 0 0
+/.git/objects/fc/b21d396d657f597ef8b6729f73d89b0a871c9b 2 282 0 0
+/.git/objects/63/5412e718f1700302f85a4af22fcab9a6f8403e 2 1330 0 0
+/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391 2 30 0 0
+/.git/objects/e2/a17da83ceee5ff8107791bbdeef62ed4d50b4c 2 1124 0 0
+/.git/objects/d5/6e4438e6eb7cfd643a595acd72aba0e6ae9666 2 3722132 0 0
+/.git/objects/b1/301ad184c52e5e4462e757d15a3c37673cd55e 2 2137542 0 0
+/.git/objects/28/af87efbf98584c5be5eb4fcdc236454d80555c 2 9232 0 0
+/.git/objects/7c/5fc6ded417aac88ba2b4c1e07746837f9ee1c4 2 56994 0 0
+/.git/objects/a6/235da8d0b4cd5e13ad2d7a01cea4f4563fc004 2 1746 0 0
+/.git/objects/52/d489d14e1b7d29b3f177a6c240a5f3c1c9d4bc 2 2322360 0 0
+/.git/objects/21/3d9344482b8be931820b1ce75e459d34a57c00 2 25788 0 0
+/.git/objects/fe/1ffc2ff1abc1c23522418994879623c5647859 2 248 0 0
+/.git/objects/5a/357cbed263e3352f17a74d6ead723512e7b803 2 714266 0 0
+/.git/objects/73/d727c3210d44321772b9843715d36c83cd5e96 2 2187232 0 0
+/.git/objects/a6/8346936a7795a4ea241bba63b87018c038a27a 2 686 0 0
+/.git/objects/fa/b774422985b3ef1068f6574e91b506a8b08e09 2 56182 0 0
+/.git/objects/36/bb86841567a29834e70ba545ad7ee07d7b7653 2 212 0 0
+/.git/objects/96/48b985c57a52d05c551c8d2e2bb8dde3cdae04 2 93318 0 0
+/.git/FETCH_HEAD 2 732 0 0
+/.git/objects/e9/ce14a79ac3ac4a589e4eef450879a942db3cc2 2 576 0 0
+/.git/objects/ab/6cde53272ebaa264946224d7e932b10aa90862 2 1446 0 0
+/.git/objects/cc/4895f74527ea556c3f9093e769d34a3129252f 2 120 0 0
+/.git/objects/0c/5fbda406ab345f0ec719938ed9ae2f0fdbcfe0 2 144412 0 0
+/.git/objects/8b/d56a399400991bf1d8d9f1841a7083d11a678d 2 2513692 0 0
+/.git/objects/4e/01cd6c179a4387f477e2412d90a6afc549ea1f 2 8810 0 0
+/.git/objects/e3/36b4a900f53d0e5f76b4c58ac9a986f008a3f4 2 174 0 0
+/.git/objects/88/d779565f3ace570327a6efa9049df8a60c13fd 2 158 0 0
+/.git/objects/e9/155a248ab74363d1cf3322aedcd7f8be52901a 2 3362 0 0
+/.git/objects/8b/bc671d653451a4fb556d72387a5719a277c73b 2 538 0 0
+/.git/refs/heads/main 2 82 0 0
+/.git/description 2 146 0 0
+/.git/index 2 56448 0 0
+/.git/objects/f7/2c009a40016ea82fa35e92e2c5b24031d1d08d 2 11258 0 0
+/.git/logs/refs/remotes/origin/main 2 1644 0 0
+/.git/objects/4e/ff52b51e13a72c69f177f1eb60e9fab33a039d 2 1822 0 0
+/.git/objects/2a/2989718a994f139c79e15f3ef0a0625f81a7de 2 8630 0 0
+/.git/objects/f7/6e808e8a97736d41ec624c198e44430a5f1b91 2 110 0 0
+/.git/objects/ee/5fb0ec38f3db79d205775076d5d3170a8389ca 2 342 0 0
+/.git/objects/a6/a0f2904ebaf0e6caf8f1546a1a656d522496a2 2 168 0 0
+/.git/objects/d8/3ab6f582418435bd7ddba70fa03bbf9937cdee 2 2186 0 0
+/.git/objects/d1/1830d939360faae9720d50d007e48dd24a4868 2 18274 0 0
+/.git/objects/2d/10c28e45dc3e6d5bd71134b30a8cdd3371d7d7 2 506 0 0
+/.git/objects/f8/210195f7c6e2080c1480bc8a332701183e3602 2 17102 0 0
+/.git/objects/34/9c9b735a54a24c5757a2554a192ff17ccccbdf 2 1240 0 0
+/.git/objects/76/b02b9dc7aab904c852ab349b542f914f28dcaa 2 12598 0 0
+/.git/objects/8c/6312276d3fc622864ed8233712e26c5c5ee817 2 1190916 0 0
+/.git/objects/13/fbda65a2660f5dec8eb83b498d0e60b1ace6aa 2 168 0 0
+/.git/objects/b9/3d5f3dfe31045c64675dfff1dc70c131bccde8 2 716 0 0
+/.git/objects/c6/4ead75c0aadc3c1e5ccfa1f4f93a1a332c7c4b 2 392950 0 0
+/.git/hooks/pre-applypatch.sample 2 848 0 0
+/.git/objects/58/74111820672eb385dc004effa33e54c5a1e551 2 2704 0 0
+/.git/objects/3c/ec7264c14f12dac65fa1427f9cd3e2f6d001a0 2 578342 0 0
+/.git/objects/86/77cd5cabb06901eac3d8f9a500094d2c1dab45 2 166 0 0
+/.git/objects/fc/732333530f385990e32d7dcff5c6c3a7e91118 2 360 0 0
+/.git/objects/e9/64349b7c5c854929625dab1d57b2831e7ba826 2 1316 0 0
+/.git/objects/94/7d98963f027df503355d7cd45cf736eba943ff 2 618 0 0
+/.git/objects/df/13d3df226c660fa0ce29cbd13f6d366fc230d0 2 2414 0 0
+/.git/objects/6d/230382b4c7d8c76d442e73f970f8a037779a7c 2 926 0 0
+/.git/objects/c5/f244d7fca0f2c604e15f3191fde7024de49360 2 1646 0 0
+/.git/objects/0d/968ed02c2943bc6d8f96aaf9a83829a3268c31 2 1698 0 0
+/.git/logs/HEAD 2 7292 0 0
+/.git/objects/27/ef5639f922d48c9dad1e48f28a69e7b1649ecd 2 1088 0 0
+/.git/objects/c9/fe5cfec35d5e37702f8ebfffa3605d3ad4ee18 2 1214 0 0
+/.git/objects/02/4260c9a710592348e3421f7c5ef37ed82369bd 2 1206980 0 0
+/.git/objects/35/0b827be62589fa4a536845d9bb45d4b58cf74d 2 276 0 0
+/.git/objects/56/e31d686c340b4df62e351ff2249ccd01353953 2 656 0 0
+/.git/objects/27/a36175f8236be239854f401d88ae0f52e4b0cf 2 932 0 0
+/.git/objects/96/233b34ccba706a9f89dca87a9282a3cd836e0a 2 110 0 0
+/.git/objects/8a/a11a4d4d165131da5ae17f26359532257c8133 2 494 0 0
+/.git/refs/remotes/origin/main 2 82 0 0
+/.git/objects/1d/f60cd0afb694c7bd88a8873ac77aeb078a22e2 2 198 0 0
+/.git/objects/73/5f0ddcbe5e11ab6688dc5c47e9bb8dfb099d9a 2 60456 0 0
+/.git/objects/f8/e8dcb8a6c38c6237f500a30e04043d1fe2aa9b 2 3138 0 0
+/.git/objects/57/11501d365d2e8648b42895c33740ac07733b4c 2 10296 0 0
+/.git/objects/b7/9d43d929d0707eeef0b47f44737763710c5922 2 412 0 0
+/.git/objects/3c/e81d4e5ab2a32d35b9ded8cea22f9efde02bb1 2 724 0 0
+/.git/objects/b5/258224f438ddc525a508735b52d6f27b1895c0 2 798 0 0
+/.git/objects/a8/bde9bc71e5ab2fec27d7734ed79c862b36e9cb 2 494 0 0
+/.git/objects/54/cb2fef15e5de731badff9e143249efb7de4c6a 2 198 0 0
+/.git/objects/ac/06940ad1b9c7d7f07af90b904bde875486d4e0 2 198 0 0
+/.git/refs/heads/Backend 2 82 0 0
+/.git/objects/68/071d6d1568875da7e9e3c80c5eae0211da4795 2 1808 0 0
+/.git/objects/82/a336128b128515e309f14703ff0d206fcba6a1 2 464 0 0
+/.git/objects/a4/637803273a7f960690d145c4f19677583aa911 2 1556 0 0
+/.git/objects/d2/d79d8c8a7af45efb4bd96df547ad7292f5bba9 2 1662 0 0
+/.git/refs/heads/frontend 2 82 0 0
+/.git/objects/52/b7dd99350bd5f5434d7d6eda1d6baf9028feed 2 1342612 0 0
+/.git/objects/50/cbc75d0ce57f94e94665d405fb96d4b4b1844b 2 453386 0 0
+/.git/objects/27/b33e8a0663490e2979364e6da9d7fbdbff14af 2 310 0 0
+/.git/objects/d9/f153945baa717e51c3325c909ca656ba375bf2 2 628270 0 0
+/.git/objects/a8/48461ee2730338bb95b0b8a65e370206508055 2 1532 0 0
+/.git/objects/8c/ea0fc57f004f9fb3ead14d95bf403b08e62379 2 2914962 0 0
+/.git/objects/1a/4c26ba3297a45e4e2993dea65169ce318e9a6f 2 3552 0 0
+/.git/objects/61/40643b481e462ea810439507abdbc299dd9bdf 2 1650 0 0
+/.git/objects/e5/9d6a0adf70fff0492083b03ad0baa283434008 2 76 0 0
+/.git/objects/4e/934caa8a03df3e0b0a67f64f14fd25004891ef 2 306 0 0
+/.git/objects/51/61a45ef11709f7df5eeea2b51152eca15a4954 2 1236 0 0
+/.git/objects/21/a2d8eed2f7d8121330e621e0a6b6394f20fd02 2 61636 0 0
+/.git/objects/82/32a2fd6876c3488e6b12cc5f53fe3da8183404 2 924 0 0
+/.git/objects/a6/10e85e36e33ee632bd9bc2946244da697d2eeb 2 8486 0 0
+/.git/objects/c8/3f2cf6d4435f42e6f330e596aba775274e1a7c 2 1160 0 0
+/.git/objects/91/844b6b15d6cb05be81d75cc67c6644ccb74330 2 511408 0 0
+/.git/objects/25/6a343bbe3107a242862f7f2495d680f1691fa1 2 119400 0 0
+/.git/objects/6b/4facc82d33ddfa45e1a38e23753342fe011fa6 2 482 0 0
+/.git/hooks/pre-rebase.sample 2 9796 0 0
+/.git/objects/85/a9e26ee43808051984862be0a1c34e00be0911 2 328172 0 0
+/.git/objects/95/11977d1ef1b9169760b46342490f6871802ab7 2 584194 0 0
+/.git/objects/e0/118b37d7511cd94264f004f49682319bd61594 2 1436 0 0
+/.git/objects/41/a9be9dbca056f7f8c551d5a25c70ba41d39e20 2 1312 0 0
+/.git/objects/90/5b9c0fc1a5681cb621f805af5a564424a3baa3 2 2104 0 0
+/.git/objects/ef/f2ed24041c8f6bdd2ab749c8a0af70144387f7 2 356 0 0
+/.git/objects/43/274437ec2afd3166e93e87eac4f08ea7cb140e 2 982 0 0
+/.git/objects/8b/7076daad9729d0f4549d311b2efb7ec981c361 2 238 0 0
+/.git/objects/44/a9e64eb2e8753d94114c33ba0cc60422938cb5 2 1314 0 0
+/.git/objects/4b/cbd130aea6922df2244483d43062d7525fe205 2 630 0 0
+/.git/objects/a1/f2083b74dcca8ed909930a9860ee03b0dfd78b 2 512 0 0
+/.git/objects/a0/718cc320b31dff1fd430e94526e7190ff19c48 2 672 0 0
+/.git/objects/c0/865ed98b7240b2957de4693ffaadc9ae5bd8e9 2 137510 0 0
+/.git/objects/f6/a5204f2c94f6ab0def178dfc7d3162b49a239c 2 352 0 0
+/.git/objects/bc/42302e5f94edc54a88ad54a74cdf93fc5680a8 2 2276 0 0
+/.git/objects/f4/0a45892f2cb5e9284b2986a75fcdaf625a2213 2 650 0 0
+/.git/objects/e3/9af3c04fa511794434407449e5261ec7155a0c 2 198 0 0
+/.git/objects/8c/e752e710bff348d3aadf67422cd4aa22e42cc7 2 6974 0 0
+/.git/objects/b9/a66c0d5250fa3228482a56ce6e85ecb149ebd3 2 1316 0 0
+/.git/objects/46/340a60ac9862e2cc6db274162807e7ecea7dec 2 354 0 0
+/.git/objects/2a/d85792bc67c35ae432df8a49e9e85b6f3bac06 2 3190 0 0
+/.git/objects/14/359e0ce1334f450b00a3553a900d07aa6b40cd 2 10264 0 0
+/.git/objects/32/bb4322af67822d9ad4e141575031a64039cead 2 712 0 0
+/.git/objects/eb/0536286f3081c6c0646817037faf5446e3547d 2 80 0 0
+/.git/objects/18/fbf859a916beefc89dd90a73b8a01ced85b3ba 2 1820 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+2K-5K 562
+0-44 471
+44-100 95
+100-500 620
+5K+ 1832
+1K-2K 298
+500-1K 368
+END_FILESIZE

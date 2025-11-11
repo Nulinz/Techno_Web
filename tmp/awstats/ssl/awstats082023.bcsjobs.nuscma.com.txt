@@ -1,0 +1,913 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202308 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.bcsjobs.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2694                
+POS_VISITOR 16843               
+POS_DAY 25474               
+POS_DOMAIN 3548                
+POS_LOGIN 3997                
+POS_ROBOT 4152                
+POS_WORMS 4775                
+POS_EMAILSENDER 4906                
+POS_EMAILRECEIVER 5049                
+POS_SESSION 26295               
+POS_SIDER 26504               
+POS_FILETYPES 5184                
+POS_DOWNLOADS 5487                
+POS_OS 5857                
+POS_BROWSER 6229                
+POS_SCREENSIZE 7749                
+POS_UNKNOWNREFERER 7823                
+POS_UNKNOWNREFERERBROWSER 8647                
+POS_ORIGIN 9167                
+POS_SEREFERRALS 9307                
+POS_PAGEREFS 9487                
+POS_SEARCHWORDS 9635                
+POS_KEYWORDS 9787                
+POS_MISC 2358                
+POS_ERRORS 9846                
+POS_CLUSTER 3853                
+POS_SIDER_404 10019               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230901013957 7 1230 7582724086851
+FirstTime 20230801014651
+LastTime 20230831232029
+LastUpdate 20230901190118 7 0 6 0 0
+TotalVisits 223                 
+TotalUnique 210                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 221                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 16 187344 6 18 22058
+1 13 13 83694 9 15 72121
+2 13 27 301443 14 23 122520
+3 7 30 7171470 6 38 16497
+4 11 21 326554 11 15 520140
+5 7 7 119374 11 65 744172
+6 12 41 1392559 5 31 143279
+7 28 98 1799197 252 253 578634
+8 16 58 1618298 16 118 1261994
+9 2 2 14105 7 31 377378
+10 9 50 1636628 13 66 705668
+11 56 263 4853051 83 100 609480
+12 92 326 14982021 55 63 164437
+13 111 423 40531138 100 132 682771
+14 125 380 6786990 86 153 1881506
+15 312 470 12715018 143 202 135778
+16 196 369 8138816 135 158 202957
+17 64 131 5328351 67 75 121824
+18 52 119 2616544 15 20 192411
+19 101 153 602021 57 69 100263
+20 246 656 8072980 128 171 106593
+21 232 467 16176690 156 347 3144248
+22 84 182 13932078 81 156 480515
+23 13 27 345224 5 17 52564
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+us 935 2200 78633503
+in 823 1907 59292297
+gb 12 61 1922233
+cn 11 47 704382
+ca 9 11 6059452
+nl 6 6 202719
+se 4 7 54702
+ru 4 4 28300
+au 3 45 1438145
+ua 2 2 12752
+de 2 2 7099
+ir 2 2 7045
+be 2 4 36456
+eu 1 1 7054
+fr 1 29 1318407
+ch 1 1 7042
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+Googlebot/ 228 2487544 20230831142209 0
+bingbot/ 202 5583340 20230831140009 0
+crawl 46 1488782 20230818213251 0
+robot 20 834647 20230819140942 0
+no_user_agent 8 352277 20230828152013 0
+Googlebot\-Image/ 3 587866 20230827073905 0
+java 2 14048 20230805023355 0
+DoCoMo/ 2 18256 20230819045058 0
+Wget/ 1 7046 20230807052715 0
+Go\-http\-client/ 1 7006 20230802164554 0
+curl 1 43284 20230802174805 0
+scanner 1 7099 20230823163934 0
+link 1 7508 20230809063021 0
+Konqueror/ 1 7051 20230811175417 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+php 1363 6155030 0 0
+js 1032 32756165 0 0
+jpg 4 488308 0 0
+svg 413 1613581 0 0
+css 514 5570127 0 0
+apk 3 16955310 0 0
+ttf 6 2624204 0 0
+png 537 44905894 0 0
+woff2 27 1187520 0 0
+woff 46 7690000 0 0
+html 376 9811590 0 0
+pdf 8 19973859 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 5
+/res/bcsjobs.apk 3 0 16955310
+/image/2023-08-03%2003:19:32-2023-07-30%2001_13_33-booklet%20content%20(2).pdf 3 0 19006482
+/image/2023-08-05%2004:45:06-pdf.pdf 1 0 144328
+/image/2023-08-05%2004:14:10-Gowtham%20Shivaram%20Resume.pdf 1 0 548279
+/image/2023-08-06%2003:17:46-2023-08-05%2002_03_20-INV_IRX-81578.pdf 1 0 274770
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 22
+androidoreo 1 1
+wii 1 1
+macosx9 1 1
+linuxubuntu 8 8
+macosx10 6 6
+unix 44 3
+android 3 3
+ios_iphone 49 8
+macosx11 27 13
+win7 5 2
+androidjellybean 1 1
+macosx7 1 0
+winnt 6 0
+androidpie 1 1
+win10 3443 1484
+macosx15 442 166
+macosx14 2 2
+linux 215 74
+macosx 26 3
+Unknown 45 39
+androidmarshmallow 1 1
+macosx13 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 73
+safari 2 2
+chrome110.0.0.0 2 2
+chrome52.0.2012 1 0
+chrome70.0.3538.102 1 1
+chrome66.0.3359.181 11 11
+chrome87.0.863 1 0
+chrome57.0.2315 1 0
+chrome77.0.2162 1 0
+sec\- 1 1
+firefox116.0 1215 564
+chrome53.0.2623 1 0
+chrome66.0.3359.126 1 1
+firefox47.0 3 3
+chrome67.0.3396.87 1 1
+chrome90.0.2156 1 0
+firefox28.0 8 8
+chrome95.0.2346 1 0
+chrome93.0.2786 1 0
+chrome100.0.4896.60 8 8
+chrome102.0.2504 1 0
+chrome36.0.1944.0 1 1
+chrome67.0.2102 1 0
+firefox114.0 1 1
+chrome60.0.1612 1 0
+chrome58.0.3029.110 2 2
+chrome105.0.0.0 23 6
+chrome113.0.0.0 1 1
+chrome104.0.1067 1 1
+chrome106.0.0.0 25 4
+mozilla 12 8
+chrome96.0.4664.110 2 1
+chrome96.0.890 1 0
+chrome114.0.0.0 44 9
+firefox89.0 1 1
+chrome95.0.1389 1 0
+chrome17.0.963.56 1 0
+chrome89.0.4389.114 1 1
+safari3.1.1 1 1
+chrome63.0.3239.132 3 0
+safari10.1.2 6 6
+safari12.0.2 1 1
+chrome108.0.0.0 28 28
+chrome90.0.4430.212 2 2
+chrome87.0.4280.88 15 1
+edge17 2 2
+chrome82.0.597 1 0
+firefox52.0 24 10
+firefox83.0 1 1
+chrome89.0.4389.90 1 1
+chrome101.0.4951.54 2 2
+firefox51.0 1 1
+chrome89.0.4328.0 15 1
+chrome76.0.3809.111 1 1
+chrome109.0.0.0 963 378
+chrome76.0.3809.100 2 2
+chrome116.0.5845.96 148 10
+chrome102.0.0.0 3 3
+chrome100.0.4896.127 1 1
+chrome83.0.4103.97 38 38
+chrome74.0.3729.169 1 1
+chrome101.0.2327 1 0
+chrome116.0.0.0 100 24
+chrome59.0.2415 1 0
+chrome78.0.960 1 0
+safari13.0.3 1 1
+chrome103.0.0.0 1 1
+chrome115.0.0.0 1501 625
+chrome76.0.2813 1 1
+safari11.0 2 2
+chrome95.0.1287 1 0
+lg\- 1 1
+Unknown 33 31
+safari16.5.2 44 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Mozilla/5.0_(compatible;_Dataprovider.com) 20230816163111
+Google 20230821084713
+Python/3.8_aiohttp/3.8.4 20230818133925
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230820015624
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230830235455
+SEC-SGHX820/1.0_NetFront/3.2_Profile/MIDP-2.0_Configuration/CLDC-1.1 20230809063022
+panscient.com 20230822204243
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230818161537
+PlayStore-Google 20230821084713
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Google 20230821084713
+Python/3.8_aiohttp/3.8.4 20230818133925
+panscient.com 20230822204243
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230830235455
+wii_libnup/1.0 20230809063021
+PlayStore-Google 20230821084713
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 479 541
+From1 0 0
+From2 3 3
+From3 0 0
+From4 1336 3785
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+search_yahoo_com 1 1
+google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+403 2 268
+404 1459 531332
+409 79 6142
+206 5 328494
+301 2 469
+302 166 111077
+406 72 16272
+500 6 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 187
+/.env.production 1 -
+/src/sendgrid.env 1 -
+/openapi.json 1 -
+/lib/bootstrap/css/bootstrap.min.css 7 https://bcsjobs.com/pp.php
+/js/vendor/bootstrap.bundle.min.js 3 -
+/API/sendgrid.env 1 -
+/wp-json/wp/v2/users/1 4 -
+/api/sendgrid.env 1 -
+/js/plugins/perfect-scrollbar.min.js 3 -
+/web/sendgrid.env 1 -
+/cqkzumbl.php 1 www.google.com
+/.env.example 1 -
+/app/settings.py 1 -
+/api/api.env 1 -
+/admin/image/2023-08-05%2002:03:20-INV_IRX-81578.pdf 2 https://bcsjobs.com/admin/view_teacher.php
+/lib/Magnific-Popup-master/dist/jquery.magnific-popup.js 6 https://bcsjobs.com/pp.php
+/app/sendgrid.env 1 -
+/back/sendgrid.env 1 -
+/lib/bootstrap/js/bootstrap.min.js 7 https://bcsjobs.com/pp.php
+/config.rb 1 -
+/local/sendgrid.env 1 -
+/.svn/entries 1 -
+/swagger-ui 1 -
+/css/theme.css 7 https://bcsjobs.com/pp.php
+/css 270 -
+/apps/api/sendgrid.env 1 -
+/js/plugins/select2.min.js 3 -
+/config/config.json 1 -
+/.aws/credentials 2 -
+/development/sendgrid.env 1 -
+/private/sendgrid.env 1 -
+/backend/sendgrid.env 1 -
+/admin/image/2023-08-03%2002:39:59-12ffea77-e996-4db1-bbb7-b1a80c76e0cd.jpeg 1 https://bcsjobs.com/admin/view_school.php
+/settings.py 1 -
+/dashboard/assets/js/plugins/perfect-scrollbar.min.js.map 9 -
+/credentials.json 1 -
+/js/theme.js 6 https://bcsjobs.com/pp.php
+/assets/js/plugins/%25url%25 1 -
+/admin/image/2023-08-08%2002:20:22-2023-08-05%2002_03_20-INV_IRX-81578.pdf 2 https://bcsjobs.com/admin/view_teacher.php
+/application/sendgrid.env 1 -
+/js/plugins/swiper-bundle.min.js 3 -
+/laravel-artisan/sendgrid.env 1 -
+/config/default.json 1 -
+/.well-known/security.txt 1 -
+/axis2-admin/ 2 -
+/shared/sendgrid.env 1 -
+/shell20211028.php 1 www.google.com
+/.hg 1 -
+/js/vendor/jquery-3.6.0.min.js 3 -
+/api-docs 1 -
+/search/sendgrid.env 1 -
+/sitemap.txt 2 -
+/axis2/axis2-admin/ 2 -
+/css/normalize.css 7 https://bcsjobs.com/pp.php
+/.DS_Store 1 -
+/personal/sendgrid.env 1 -
+/sendgrid.env.local 1 -
+/js/plugins/magnific-popup.js 3 -
+/swagger/api/swagger.json 1 -
+/lib/slick/slick/slick.css 7 https://bcsjobs.com/pp.php
+/rest/sendgrid.env 1 -
+/server/sendgrid.env 1 -
+/sourceMap/chrome/css/advanced_protection_signal.css.map 26 -
+/admin/image/2023-08-05%2004:26:17-pexels-chevanon-photography-325044.jpg 3 https://bcsjobs.com/admin/view_school.php
+/dashboard/teacher_login.php 2 -
+/admin/image/2023-08-09%2009:38:50-10x8%20school%20copy.JPG 2 https://bcsjobs.com/admin/view_school.php
+/blog-details.html 6 -
+/dashboard/assets/bcs-jobs-logo.png 10 https://bcsjobs.com/dashboard/edit_exp.php
+/sendgrid.env.example 1 -
+/.git/config 10 -
+/js/vendor/jquery-migrate-3.3.0.min.js 2 -
+/jobs-list.html 8 -
+/swagger.json 1 -
+/engine/sendgrid.env 1 -
+/Dockerrun.aws.json 1 -
+/admin/.env 1 -
+/dashboard/assets/css/vendors/bootstrap.min.css.map 21 -
+/apps/sendgrid.env 1 -
+/s3cmd.ini 1 -
+/dependencies/sendgrid.env 1 -
+/school/assets/images/profile-img.png 29 https://bcsjobs.com/school/create_school.php
+/school/assets/css/app.min.css.map 3 -
+/admin/image/2023-08-03%2003:19:32-2023-07-30%2001_13_33-booklet%20content%20(2).pdf 18 https://bcsjobs.com/admin/view_teacher.php
+/protected/sendgrid.env 1 -
+/admin/image/ 3 https://bcsjobs.com/admin/view_teacher.php
+/js/plugins/scrollup.js 3 -
+/lib/jquery/jquery-3.4.1.min.js 6 https://bcsjobs.com/pp.php
+/master/sendgrid.env 1 -
+/swagger/v3/swagger.json 1 -
+/dashboard/create_quaification.php 1 -
+/dashboard/dasboard.php 2 https://bcsjobs.com/dashboard/create_qualification.php
+/deployment/sendgrid.env 1 -
+/config.json 1 -
+/school/assets/css/bootstrap.min.css.map 3 -
+/dashboard/assets/css/style.css.map 21 -
+/assets/js/plugins/perfect-scrollbar.min.js.map 14 -
+/js/main.js 2 -
+/assets/css/style.css.map 23 -
+/qrqkxdig.php 1 www.google.com
+/api/v3/api-docs 1 -
+/js/vendor/modernizr-3.6.0.min.js 3 -
+/admin/image/2023-08-06%2007:20:00-gallery.png 4 https://bcsjobs.com/admin/edit_school.php
+/robots.txt 83 -
+/admin/sendgrid.env 1 -
+/sitemap.xml 7 -
+/settings/settings.py 1 -
+/docker/sendgrid.env 1 -
+/wp-plain.php 2 www.google.com
+/.gitlab-ci.yml 1 -
+/sendgrid.env.production 1 -
+/swagger.yaml 1 -
+/git/config 1 -
+/cli/sendgrid.env 1 -
+/js/plugins/isotope.js 2 -
+/api/v2/api-docs 1 -
+/core/sendgrid.env 1 -
+/v3/api-docs 1 -
+/sourceMap/chrome/css/interactive_balloon.css.map 14 -
+/dashboard/assets/js/vendor/bootstrap.bundle.min.js.map 9 -
+/js/plugins/counterup.js 2 -
+/admin/post_profile.php 1 -
+/admin/image/Nil 24 https://bcsjobs.com/admin/view_teacher.php
+/site/sendgrid.env 1 -
+/dev/sendgrid.env 1 -
+/config/environment.rb 1 -
+/swagger/v1/swagger.json 1 -
+/security.txt 1 -
+/auth/sendgrid.env 1 -
+/blog-grid.html 1 -
+/api/v1/api-docs 1 -
+/lib/slick/slick/slick.min.js 6 https://bcsjobs.com/pp.php
+/dashboard/feedback,php 1 -
+/lib/Magnific-Popup-master/dist/magnific-popup.css 7 https://bcsjobs.com/pp.php
+/framework/sendgrid.env 1 -
+/credentials/config.json 1 -
+/docs/swagger.json 1 -
+/frontend/sendgrid.env 1 -
+/v2/swagger.json 1 -
+/assets/credentials.json 1 -
+/sendgrid.env 1 -
+/dashboard/assets/imgs/page/post-job/arrow-down.svg 81 https://bcsjobs.com/dashboard/assets/css/style.css
+/laravel/sendgrid.env 1 -
+/openapi.yaml 1 -
+/cp/sendgrid.env 1 -
+/school/assets/css/icons.min.css.map 1 -
+/assets/css/vendors/bootstrap.min.css.map 23 -
+/django/settings.py 1 -
+/wp-content/themes/seotheme/db.php 2 www.google.com
+/assets/app.config.json 1 -
+/vue/sendgrid.env 1 -
+/v2/api-docs 1 -
+/js/plugins/wow.js 3 -
+/swagger/v2/swagger.json 1 -
+/app-ads.txt 12 -
+/api.env 1 -
+/image/0 4 https://bcsjobs.com/dashboard/edit_academic.php
+/img/Nuscma-tab-icon.svg 2 https://bcsjobs.com/pp.php
+/project/sendgrid.env 1 -
+/ads.txt 32 -
+/axis2/ 2 -
+/web/settings/settings.py 1 -
+/xxl.php 1 www.google.com
+/lib/slick/slick/slick-theme.css 6 https://bcsjobs.com/pp.php
+/assets/js/vendor/bootstrap.bundle.min.js.map 14 -
+/assets/js/plugins/swiper-bundle.min.js.map 14 -
+/image/Nil 8 https://bcsjobs.com/dashboard/view_teacher.php
+/vod_installer/sendgrid.env 1 -
+/js/plugins/waypoints.js 3 -
+/v1/swagger.json 1 -
+/login/sendgrid.env 1 -
+/xmlrpc.php 2 -
+/css2 265 https://bcsjobs.com/dashboard/assets/css/style.css
+/environment.rb 1 -
+/.git/credentials 1 -
+/redmine/config/environment.rb 1 -
+/admin/image/2023-08-06%2003:31:42-pexels-chevanon-photography-325044.jpg 5 https://bcsjobs.com/admin/view_school.php
+/manifest.json 115 https://bcsjobs.com/contact.php
+/dummy404file.html 1 -
+/api-docs.yaml 1 -
+/SENDGRID.ENV 1 -
+/ADMIN/sendgrid.env 1 -
+/sitemaps.xml 6 -
+/document/sendgrid.env 1 -
+/v1/api-docs 1 -
+/dashboard/assets/js/plugins/swiper-bundle.min.js.map 9 -
+/config/sendgrid.env 1 -
+/system/sendgrid.env 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 221
+117.253.93.205 302 463 14125757 20230809173620
+157.49.221.187 301 471 7133081 20230809183917
+106.195.37.241 164 305 1635987 20230806213318
+106.195.44.161 118 123 655153 20230808200815
+106.217.31.153 86 226 1178226 20230803205522
+157.49.254.136 72 204 3447723 20230813125744
+157.51.196.81 42 76 1633174 20230809180447
+157.51.193.203 39 66 1549025 20230811220524
+157.51.196.31 35 44 13507184 20230805221748
+157.49.200.97 33 78 999127 20230809141146
+157.49.217.176 32 120 9477502 20230809131454
+157.49.219.131 31 49 3337806 20230809124651
+157.51.199.127 31 113 8757331 20230808213458
+117.253.94.115 26 110 7540692 20230810132904
+157.51.196.135 25 89 192950 20230808212216
+117.253.185.20 24 108 12580779 20230826133717
+106.217.31.141 22 22 103715 20230803221839
+157.51.66.95 19 94 60208 20230822142857
+157.49.166.99 18 47 98407 20230813074547
+154.6.13.151 17 19 85561 20230822204243
+106.195.41.22 14 45 3139387 20230804215747
+106.195.33.217 13 93 46446 20230817210440
+157.51.192.17 13 16 43730 20230804205613
+157.49.213.68 13 76 4067631 20230811203837
+23.251.143.73 12 26 5746891 20230818133925
+54.245.198.39 1 1 7045 20230808232508
+24.144.104.173 1 1 7042 20230805015338
+146.190.49.145 1 1 7006 20230803022806
+5.133.192.94 1 2 18254 20230816084947
+34.217.53.27 1 1 7099 20230831232002
+35.90.61.232 1 1 7101 20230819205855
+51.158.100.91 5 5 27493 20230817011157
+106.220.255.212 1 2 7099 20230823082421
+103.70.191.123 4 49 1582790 20230810122910
+58.17.6.9 1 1 7006 20230803040417
+141.98.252.163 1 1 7051 20230810152135
+35.85.221.152 1 1 7101 20230822073546
+34.221.163.132 1 1 7051 20230811001142
+52.34.152.174 1 1 7051 20230811001203
+35.88.181.213 1 1 7006 20230802003602
+149.56.160.179 1 1 44247 20230816163111
+34.217.9.5 1 1 7101 20230820014150
+164.92.73.192 1 1 7099 20230817020430
+157.51.192.33 4 5 17607 20230804214614
+18.212.233.130 1 1 7099 20230817165831
+117.50.170.108 1 10 134044 20230802225219
+205.210.31.200 1 1 44247 20230830122139
+59.93.15.148 10 89 5219875 20230803130031
+34.217.78.201 1 1 7045 20230808232058
+52.26.153.99 1 1 7099 20230830224300
+164.52.213.215 1 1 7101 20230820174550
+117.241.64.19 2 45 1567998 20230808114916
+35.90.230.87 1 1 7099 20230823000650
+34.222.83.163 1 1 7006 20230803230544
+205.210.31.229 1 1 43399 20230805041714
+95.217.155.224 1 1 5653 20230809110642
+35.90.92.250 1 1 7046 20230807020151
+104.133.10.86 3 44 1433909 20230821101134
+157.49.217.198 1 28 1604066 20230809123035
+20.93.118.74 2 2 14198 20230815181817
+157.51.197.220 2 5 88996 20230811204709
+87.236.176.157 1 1 7101 20230818161535
+157.245.33.9 1 1 7099 20230823003513
+52.66.101.190 2 2 0 20230818120048
+198.235.24.40 1 1 44247 20230816083630
+134.209.38.209 1 1 7045 20230809013516
+157.49.199.83 11 15 63033 20230809141353
+35.91.122.59 1 1 7101 20230819205834
+198.235.24.88 1 1 44247 20230819145819
+74.125.215.133 0 13 315418 
+66.249.92.32 0 1 81550 
+18.237.154.97 1 1 7006 20230802003519
+64.233.172.6 1 1 3576 20230821084713
+34.217.146.99 1 1 7054 20230811222358
+18.117.217.92 8 8 41753 20230809063024
+167.94.146.58 1 2 18254 20230817045336
+66.249.92.195 5 9 147272 20230831161224
+164.90.220.213 1 1 7101 20230821110329
+183.136.225.46 1 2 55402 20230815133934
+106.75.36.24 1 10 134044 20230804041033
+34.219.45.232 1 1 7099 20230815155814
+52.10.50.44 1 1 7099 20230828220312
+65.19.141.115 1 1 44247 20230825163806
+104.248.52.4 1 1 7046 20230807003526
+157.49.206.81 0 1 1448 
+35.86.130.70 1 1 7045 20230808232431
+157.49.213.72 10 47 3887326 20230809125033
+72.14.199.102 0 15 190294 
+117.241.66.133 1 1 7006 20230802220131
+157.51.192.147 9 88 68146 20230803224119
+164.92.101.156 1 1 7099 20230816085320
+77.74.177.119 1 1 7099 20230827043640
+205.210.31.202 1 1 44247 20230819045618
+66.249.92.193 1 56 4303403 20230828150837
+193.164.132.219 1 1 0 20230816204017
+198.235.24.174 1 1 44247 20230830235455
+36.99.136.136 1 7 59421 20230827111157
+167.248.133.186 1 1 7099 20230814161020
+106.195.42.22 6 9 21341 20230804191807
+47.242.28.147 0 1 11155 
+128.140.118.109 2 2 7045 20230806031750
+142.93.153.208 0 1 5651770 
+167.248.133.35 1 1 7101 20230820015624
+138.197.116.93 1 1 7006 20230801014651
+106.195.44.156 1 1 7099 20230824085324
+71.6.134.230 1 1 12068 20230823195545
+167.248.133.189 1 2 18254 20230815210622
+35.164.106.110 1 1 7042 20230804220653
+165.22.233.4 1 1 7508 20230804223019
+74.85.214.233 1 1 7054 20230812185333
+54.213.36.217 1 1 7099 20230826224855
+138.197.134.79 1 1 1795 20230809144025
+146.190.135.153 1 1 7099 20230815023211
+54.147.30.237 1 1 7046 20230807072259
+205.210.31.252 1 1 44247 20230825043407
+54.88.179.33 2 2 87646 20230819000712
+146.190.47.25 1 1 7099 20230827000127
+51.15.133.189 1 15 220959 20230817023549
+104.248.93.113 1 1 7054 20230813021200
+18.237.204.240 1 1 7045 20230808232128
+42.83.147.54 1 1 7101 20230818222210
+51.15.241.94 1 15 223529 20230816231502
+54.200.210.128 1 1 7006 20230803230627
+146.190.141.5 1 1 1782 20230804012155
+185.195.232.249 1 1 7046 20230807231207
+45.80.158.152 2 2 14198 20230816201630
+72.14.199.103 1 8 571184 20230830163649
+83.145.36.70 1 1 0 20230809163637
+3.95.241.57 1 1 7099 20230825074638
+137.184.164.110 1 1 7046 20230807115859
+143.244.142.159 1 1 7099 20230831020121
+183.136.225.44 2 4 110804 20230830210140
+36.99.136.129 1 1 7099 20230827111156
+164.92.127.89 1 1 7099 20230825020114
+54.148.129.177 1 1 7101 20230821221559
+38.107.85.168 1 1 7046 20230807222217
+157.230.182.1 1 1 7099 20230830174028
+34.217.215.17 1 1 7054 20230811222320
+34.208.30.252 1 1 7006 20230804033413
+52.25.135.91 1 1 7045 20230806001520
+87.236.176.125 0 1 11155 
+51.158.182.226 1 1 7042 20230805142505
+35.88.145.149 1 1 7051 20230811001114
+198.235.24.141 1 1 44247 20230825160213
+34.219.12.243 1 1 7100 20230817224128
+36.99.136.137 0 8 164108 
+34.220.164.197 1 1 7046 20230808002014
+64.233.172.4 1 1 3576 20230821084713
+35.85.145.181 1 1 7042 20230805035735
+106.220.255.203 4 52 2622613 20230818170322
+146.190.139.233 1 1 7006 20230802151244
+157.51.193.107 5 5 321093 20230811210215
+3.83.4.147 1 1 7046 20230808031035
+46.19.136.74 1 1 7042 20230805074111
+35.90.157.5 1 1 7099 20230831232029
+157.49.203.129 4 25 569529 20230810131956
+107.166.118.238 1 1 7042 20230805074032
+35.88.238.28 1 1 7099 20230824211819
+3.93.38.241 1 1 7099 20230814065959
+81.173.112.207 6 6 202719 20230802101246
+45.80.158.126 2 2 14108 20230813053529
+35.92.11.223 1 1 7006 20230803230615
+157.51.196.102 1 1 6080 20230808211708
+46.48.13.161 1 1 7101 20230818170836
+223.187.117.176 3 3 10767 20230821080701
+95.216.187.230 1 1 7099 20230830213416
+54.245.170.240 1 1 7099 20230823000721
+51.158.73.152 2 2 0 20230814132813
+35.88.181.248 1 1 7100 20230817224208
+35.90.216.70 1 1 7006 20230803230528
+24.199.125.18 1 1 7006 20230803092937
+165.232.38.159 1 1 7101 20230819025731
+205.210.31.91 1 1 43399 20230805143049
+74.125.215.132 1 10 215638 20230821084721
+110.224.90.159 12 63 46993 20230818121802
+35.88.124.113 1 1 7099 20230826022638
+51.158.125.26 1 22 1436159 20230817030432
+54.200.255.87 1 1 7099 20230828220251
+87.236.176.166 1 1 7045 20230806061701
+5.133.192.131 1 2 18194 20230810115145
+209.112.228.6 3 44 1578612 20230813072921
+38.122.112.147 2 2 14199 20230824174858
+45.79.199.142 2 2 14198 20230814041058
+72.14.199.96 0 1 2889 
+93.159.230.87 1 1 7054 20230813043205
+3.137.201.114 1 1 7099 20230828095131
+143.244.134.142 1 1 7101 20230821000709
+146.190.79.181 2 2 6373 20230802083913
+35.164.251.208 1 1 7099 20230830224341
+174.138.80.200 1 1 7099 20230826161903
+161.35.43.156 1 1 4268 20230809051119
+36.99.136.128 0 1 11155 
+52.34.47.72 1 1 7099 20230825020436
+117.253.93.235 5 16 2828260 20230808133336
+5.133.192.99 1 2 18254 20230824162608
+81.65.110.53 1 29 1318407 20230823064118
+35.92.128.52 1 1 7006 20230802042818
+174.138.66.7 1 1 7099 20230829024900
+35.93.12.204 1 1 7099 20230824211726
+54.91.45.155 1 1 7046 20230807083300
+35.86.120.4 1 1 7099 20230816213551
+35.90.4.221 1 1 7099 20230826224825
+106.195.45.246 1 28 1604081 20230811214835
+87.236.176.5 0 1 11155 
+119.161.97.202 3 45 1438145 20230831143329
+62.72.29.58 1 1 7099 20230816053700
+106.75.133.231 2 2 14198 20230822224300
+35.171.144.152 6 6 261062 20230819000710
+34.211.195.32 1 1 7101 20230821051653
+71.6.134.232 1 1 12073 20230815010312
+178.62.18.216 1 1 7054 20230812124907
+157.49.194.100 10 25 463553 20230809202059
+117.253.94.169 4 54 2760233 20230811165742
+35.87.2.39 1 1 7051 20230811001147
+71.6.134.231 1 1 12068 20230807163133
+54.186.197.59 1 1 7101 20230821221536
+74.125.215.134 1 19 888122 20230821084718
+167.94.138.127 1 1 7042 20230805193530
+34.211.44.64 1 1 7099 20230816213614
+66.249.92.194 1 16 417582 20230824171623
+137.184.21.140 1 1 7051 20230811013224
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20230801 2 2 9590 2
+20230802 13 22 375582 8
+20230803 134 432 6619004 11
+20230804 44 91 3466015 10
+20230805 46 100 15223140 10
+20230806 168 310 1668277 4
+20230807 8 8 61390 8
+20230808 188 393 14050044 12
+20230809 788 1389 48524955 19
+20230810 33 140 8142505 5
+20230811 71 241 10440422 13
+20230812 4 4 100956 3
+20230813 97 299 5152958 6
+20230814 6 6 28396 4
+20230815 7 9 114125 6
+20230816 11 26 372871 10
+20230817 25 141 1777709 9
+20230818 34 148 8456055 8
+20230819 7 7 198291 7
+20230820 3 3 21303 3
+20230821 15 96 2906511 11
+20230822 40 118 222470 5
+20230823 6 35 1358871 6
+20230824 6 21 1046767 6
+20230825 7 13 782252 7
+20230826 29 115 13150675 6
+20230827 5 28 1049662 5
+20230828 4 20 594477 4
+20230829 2 18 483641 2
+20230830 8 32 936659 8
+20230831 7 62 2396015 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 179
+2mn-5mn 6
+30s-2mn 10
+1h+ 6
+5mn-15mn 13
+30mn-1h 4
+15mn-30mn 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 83
+/ 218 2419196 180 162
+/dashboard/dashboard.php 112 301308 3 5
+/admin/new_job.php 101 406071 0 1
+/dashboard/view_teacher.php 75 411892 2 2
+/index.php 73 509050 1 7
+/teacher_login.php 72 276992 6 1
+/admin/view_post.php 67 508976 0 1
+/create_teacher.php 58 333601 4 4
+/admin/dashboard.php 57 382047 1 2
+/school/school_login.php 53 95863 2 2
+/admin/verify_teacher.php 49 209806 0 0
+/admin/view_teacher.php 46 323745 0 0
+/admin/assets/fonts/fa-solid-900.html 46 1662453 0 0
+/admin/ 39 69707 3 2
+/admin/assets/fonts/boxicons.html 38 1639041 0 0
+/admin/select_profile.php 36 165378 0 1
+/school/dashboard.php 31 147043 1 1
+/assets/fonts/uicons/uicons-regular-rounded.woff2 27 1187520 1 3
+/dashboard/feedback.php 24 68756 0 1
+/dashboard/create_qualification.php 24 130091 1 1
+/otpbutton.php 23 27794 0 0
+/admin/interview.php 23 98076 0 0
+/admin/new_school.php 21 101976 0 0
+/admin/engagement.php 20 84566 0 0
+/school/post.php 20 148261 0 1
+/admin/edit_item.php 2 7956 0 0
+/admin/mail_complete.php 3 10510 0 0
+/school/create_school.php 15 38826 1 4
+/admin/edit_consult.php 3 12193 0 0
+/admin/assets/fonts/fa-solid-900.woff 8 619800 0 0
+/school/interview_confirm.php 3 3369 3 2
+/admin/assets/fonts/boxicons.ttf 1 0 0 1
+/admin/create_user.php 4 16309 0 0
+/school/assets/fonts/fa-solid-900.html 7 237471 0 0
+/dashboard/formsubmit.php 6 421 0 0
+/school/otp.php 9 12058 0 0
+/school/assets/fonts/materialdesignicons-webfonte910.html 8 1264431 0 0
+/admin/assets/fonts/boxicons.woff 8 1255008 0 0
+/dashboard/edit_address.php 5 14558 0 0
+/admin/view_school.php 12 61774 0 0
+/dashboard/edit_teacher.php 7 23657 0 0
+/school/mailSend.php 4 4553 0 0
+/admin/edit_school.php 3 15434 0 0
+/school/view_school.php 7 25623 0 0
+/admin/new_teacher.php 16 76233 0 0
+/admin/mail_jobverify.php 9 3980 0 0
+/school/schedule_list.php 14 46062 0 0
+/school/subscribe.php 6 33120 0 0
+/school/assets/fonts/materialdesignicons-webfonte910.woff 9 2282660 0 1
+/otp.php 17 20260 0 1
+/dashboard/edit_exp.php 9 32907 0 1
+/school/assets/fonts/boxicons.ttf 1 209092 0 0
+/school/assets/fonts/materialdesignicons-webfonte910.ttf 1 1004940 0 0
+/pp.php 6 21495 4 3
+/grade.php 16 68344 1 2
+/admin/consult_amount.php 16 80485 0 0
+/admin/index.php 14 25735 2 0
+/admin/assets/fonts/fa-solid-900.ttf 1 202616 0 0
+/school/assets/fonts/boxicons.html 7 298067 0 0
+/school/assets/fonts/boxicons.woff 6 836672 0 0
+/admin/assets/fonts/materialdesignicons-webfonte910.html 9 2220708 0 0
+/admin/edit_exp.php 1 4192 0 0
+/admin/grade.php 5 19674 0 0
+/dashboard/edit_qualify.php 17 55071 0 0
+/school/assets/fonts/fa-solid-900.ttf 1 202616 0 0
+/dashboard/create_address.php 4 11233 0 0
+/school/otpbutton.php 12 16728 0 0
+/admin/review.php 6 24219 0 0
+/admin/assets/fonts/materialdesignicons-webfonte910.woff 8 2282660 0 0
+/admin/item.php 19 100128 0 0
+/admin/select_list.php 19 75385 0 2
+/admin/verify_school.php 16 73226 0 0
+/admin/payment.php 6 23705 0 0
+/school/ 3 384 2 0
+/school/mail.php 6 8321 0 0
+/dashboard/ 1 132 0 0
+/school/post_profile.php 7 23112 0 0
+/about.php 16 170471 2 4
+/admin/assets/fonts/materialdesignicons-webfonte910.ttf 1 1004940 0 0
+/dashboard/create_exp.php 10 60578 2 1
+/dashboard/edit_academic.php 18 56577 0 1
+/school/assets/fonts/fa-solid-900.woff 7 413200 0 1
+/contact.php 10 45256 1 2
+END_SIDER

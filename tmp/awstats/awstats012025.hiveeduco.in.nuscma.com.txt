@@ -1,0 +1,501 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202501 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/awstats.hiveeduco.in.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2055                
+POS_TIME 2726                
+POS_VISITOR 9187                
+POS_DAY 12160               
+POS_DOMAIN 3497                
+POS_LOGIN 3876                
+POS_ROBOT 4031                
+POS_WORMS 4344                
+POS_EMAILSENDER 4475                
+POS_EMAILRECEIVER 4618                
+POS_SESSION 12863               
+POS_FILESIZE 16606               
+POS_SIDER 13021               
+POS_FILETYPES 4753                
+POS_DOWNLOADS 4892                
+POS_OS 4940                
+POS_BROWSER 5091                
+POS_SCREENSIZE 5333                
+POS_UNKNOWNREFERER 5407                
+POS_UNKNOWNREFERERBROWSER 6182                
+POS_ORIGIN 6622                
+POS_SEREFERRALS 6756                
+POS_PAGEREFS 6900                
+POS_SEARCHWORDS 7126                
+POS_KEYWORDS 7278                
+POS_MISC 2390                
+POS_ERRORS 7337                
+POS_CLUSTER 3732                
+POS_SIDER_404 7442                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250201075534 1 0 5251418675551
+FirstTime 20250101125544
+LastTime 20250131180517
+LastUpdate 20250201185706 1 0 0 0 0
+TotalVisits 104                 
+TotalUnique 71                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 75                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 145416 155 155 627526
+1 0 0 0 0 0 0
+2 4 4 96944 102 102 386036
+3 2 3 726547 2 2 14024
+4 0 0 0 14 43 84410406
+5 2 2 14024 5 26 9546113
+6 12 12 221936 244 244 842698
+7 14 15 914035 153 159 760054
+8 10 10 173464 155 155 579770
+9 8 11 2193665 2 6 48472
+10 4 4 28048 0 0 0
+11 2 2 14024 40 40 70626
+12 10 11 139797 52 52 193244
+13 10 10 76776 51 51 193018
+14 2 2 48472 114 115 97929
+15 14 17 2276841 102 108 386036
+16 8 8 159440 145 147 529878
+17 8 8 90544 51 51 193018
+18 116 119 1773255 261 265 999850
+19 4 4 62496 51 53 193734
+20 12 12 159696 159 159 547726
+21 6 6 145416 169 169 617730
+22 2 2 48472 53 53 241490
+23 4 4 96944 104 106 400776
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+us 222 229 6171007
+ca 8 8 159440
+cn 6 7 112885
+gr 6 6 145416
+au 4 4 96944
+zz 4 4 348
+nl 4 4 28048
+gb 2 2 14024
+ru 2 4 1439070
+be 2 2 14024
+cz 0 1 712523
+in 0 1 712523
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+Go\-http\-client/ 678 5026864 20250130205653 0
+no_user_agent 90 2165196 20250131063751 0
+bot[\s_+:,\.\;\/\\-] 69 94149527 20250111070459 0
+archive\.org_bot 2 14024 20250123230914 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+png 10 7125230 0 0
+Unknown 114 7756 0 0
+js 2 2698 0 0
+html 146 2470568 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win7 5 4
+android10 2 2
+winxp 2 2
+androidmarshmallow 76 76
+win10 16 14
+Unknown 171 162
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 9
+chrome41.0.2224.3 2 2
+chrome49.0.2623.112 5 4
+chrome110.0.0.0 2 0
+Unknown 99 98
+chrome58.0.3029.110 2 2
+chrome52.0.3624.98 76 76
+chrome78.0.3904.62 2 2
+mozilla 72 64
+chrome100.0.4896.75 12 12
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250131070314
+Mozilla/5.0_(compatible) 20250128165922
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250123031814
+python-httpx/0.28.1 20250129125600
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20250123180928
+Cpanel-HTTP-Client/1.0 20250131180517
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250104143148
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+python-httpx/0.28.1 20250129125600
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250104143148
+Cpanel-HTTP-Client/1.0 20250131180517
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 256 267
+From1 0 0
+From2 0 0
+From3 4 5
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://ledgerbook.biz 2 2
+https://prala-ir.cc 2 2
+https://www.yxhlmm.com 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+406 90 20340
+404 1316 504203
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 68
+/demo 4 -
+/aws.yml 2 -
+/cms 4 -
+/app_dev.php/_profiler/open 2 -
+/.vscode/sftp.json 38 -
+/old 4 -
+/testing 4 -
+/dev 4 -
+/phpinfo.php 4 -
+/config/aws.yml 2 -
+/v2/_catalog 76 -
+/.git/config 78 -
+/main 4 -
+/assets/images/company_logo/.DS_Store 76 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 76 -
+/assets/assets/images/Imgur.gif 1 -
+/app_dev.php/_profiler 2 -
+/wordpress 4 -
+/assets/pages/.DS_Store 74 -
+/sapi/debug/default/view 4 -
+/login.action 76 -
+/.env.php 2 -
+/frontend_dev.php 2 -
+/new 4 -
+/_all_dbs 76 -
+/portal 4 -
+/sendgrid.env 2 -
+/.env.example 2 -
+/symfony/public/_profiler/phpinfo 2 -
+/_profiler/phpinfo 4 -
+/blog 4 -
+/assets/pages/kazakhstan.html 2 -
+/web/app_dev.php/_profiler 2 -
+/robots.txt 4 -
+/tool/view/phpinfo.view.php 4 -
+/frontend/web/debug/default/view 4 -
+/_profiler/open 2 -
+/gists/cache 2 -
+/assets/images/company_logo/new 4 http://hiveeduco.in.nuscma.com
+/wp-admin/setup-config.php 2 -
+/s/2383e2235323e20313e2631323/_/ 76 -
+/.aws/credentials 2 -
+/web/debug/default/view 4 -
+/site 4 -
+/debug/default/view.html 2 -
+/aws.env 2 -
+/web/app_dev.php/_profiler/open 2 -
+/wp 4 -
+/server 76 -
+/config.json 38 -
+/config.js 1 -
+/web 4 -
+/.env.dev 2 -
+/symfony/public 2 -
+/wp-admin/install.php 2 -
+/actuator/env 76 -
+/about 76 -
+/ads.txt 4 -
+/home 4 -
+/debug/default/view 90 -
+/info.php 80 -
+/admin/.env 2 -
+/telescope/requests 76 -
+/backup 4 -
+/phpinfo 4 -
+/tmp 4 -
+/test 4 -
+/newsite 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 75
+216.10.252.82 94 94 6016 20250131180517
+35.171.144.152 8 8 56096 20250119125421
+207.154.197.113 6 6 145416 20250115024147
+165.227.173.41 6 6 145416 20250129071651
+178.128.207.138 6 6 145416 20250130205638
+164.90.228.79 4 4 96944 20250127062546
+13.214.182.67 4 4 348 20250123180929
+54.88.179.33 4 4 28048 20250109131345
+165.22.235.3 4 4 96944 20250129005812
+64.227.32.66 2 2 48472 20250117063820
+35.172.228.211 2 3 14805 20250129125559
+16.16.201.40 2 2 174 20250123180927
+138.197.191.87 2 2 48472 20250101150342
+167.94.138.188 2 3 726547 20250105095018
+139.59.143.102 2 2 48472 20250127064311
+164.92.244.132 2 2 48472 20250128205949
+162.142.125.34 2 3 726547 20250131070305
+23.178.112.108 2 2 174 20250123180927
+206.81.24.227 2 2 48472 20250104164105
+52.34.60.31 2 2 174 20250123180928
+188.166.25.36 2 2 14024 20250124175421
+67.207.92.211 2 2 14024 20250124113419
+134.209.147.134 2 2 14024 20250114070945
+209.38.208.202 2 2 48472 20250112202422
+3.147.6.165 2 2 174 20250123180929
+185.247.137.121 0 1 712523 
+23.178.112.105 2 2 174 20250123180927
+34.217.77.47 2 2 174 20250123180928
+138.68.160.7 2 2 14024 20250128165922
+167.172.47.249 2 2 14024 20250116081255
+139.59.136.184 2 2 48472 20250113005003
+124.220.24.137 2 2 14024 20250116125722
+134.122.104.46 2 2 14024 20250128075857
+147.185.132.25 2 2 48472 20250104123036
+159.89.127.165 2 2 48472 20250101125544
+142.93.212.168 2 2 14024 20250124070553
+159.65.59.195 2 2 14024 20250102064845
+157.245.113.227 2 2 48472 20250130083318
+157.245.36.108 2 2 48472 20250116191033
+167.94.138.182 2 3 726547 20250104152759
+3.133.79.178 2 2 174 20250123180928
+87.236.176.31 2 2 14024 20250123031812
+68.183.9.16 2 2 48472 20250104210835
+106.75.146.146 2 2 48472 20250120183147
+188.166.6.186 2 2 14024 20250110085104
+206.168.34.202 2 3 726547 20250103091340
+103.108.229.52 0 1 712523 
+159.89.12.166 2 2 48472 20250119070247
+167.71.14.187 2 2 14024 20250126063306
+147.182.200.94 2 2 48472 20250123181012
+13.60.38.135 2 2 174 20250123180928
+185.247.137.30 2 2 14024 20250110095850
+159.203.33.160 2 2 14024 20250112205457
+106.75.168.236 2 3 50389 20250120183145
+64.23.218.208 2 2 48472 20250102135002
+68.183.180.73 2 2 48472 20250103021956
+206.189.225.181 2 2 48472 20250110222022
+162.142.125.219 2 3 726547 20250109154508
+161.35.236.190 2 2 14024 20250126175651
+164.90.232.85 2 2 14024 20250114194628
+79.127.217.49 0 1 712523 
+185.247.137.84 0 1 712523 
+167.71.175.236 2 2 48472 20250107060730
+147.185.132.81 2 2 48472 20250104143148
+206.168.34.35 2 3 726547 20250119152956
+172.105.158.219 2 2 48472 20250114152020
+64.225.64.197 2 2 14024 20250112053855
+143.244.168.161 2 2 48472 20250126214058
+206.189.19.19 2 2 48472 20250102174013
+209.38.248.17 2 2 48472 20250106181139
+35.223.13.45 2 2 14024 20250116094102
+157.230.19.140 2 2 48472 20250101181032
+164.90.208.56 2 2 48472 20250118212403
+206.81.12.187 2 2 48472 20250130181742
+159.89.174.87 2 2 48472 20250110235010
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20250101 10 10 145672 4
+20250102 10 10 111224 4
+20250103 8 9 775275 3
+20250104 16 17 969163 7
+20250105 6 7 726803 2
+20250106 6 6 48728 2
+20250107 6 6 48728 2
+20250108 6 6 110968 3
+20250109 10 11 754851 4
+20250110 14 15 886243 6
+20250112 8 8 124992 4
+20250113 2 2 48472 1
+20250114 6 6 76520 3
+20250115 2 2 48472 1
+20250116 8 8 90544 4
+20250117 4 4 96944 2
+20250118 2 2 48472 1
+20250119 12 13 865563 5
+20250120 6 7 98989 3
+20250122 4 4 256 1
+20250123 30 31 825487 13
+20250124 10 12 1467374 4
+20250125 4 4 256 1
+20250126 10 10 76776 4
+20250127 8 8 97200 3
+20250128 10 10 76776 4
+20250129 26 27 113029 7
+20250130 10 10 145672 4
+20250131 6 7 726803 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 103
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 50
+/ 146 2470568 72 72
+/.well-known/acme-challenge/nFzaFkQoRnHPAiz8ZT_qtznGhBjdYPahJRJWJuQqbjw 10 870 4 5
+/.well-known/acme-challenge/Fd3XQYr-Ehs4JaJAslr8aECkkP5euaNidBY_SYlOX7s 10 870 5 4
+/.well-known/acme-challenge/MCRFIWIF6OW9E0QTCMMKEENYS-TF50Q3 2 128 1 0
+/.well-known/acme-challenge/5MOOTYP1W0RX1Z7YQ0PS_IB-84UNN8HO 2 128 0 1
+/.well-known/acme-challenge/QT-BLJWLAIXFT1HFWCKYO9PXI4DG0OJS 2 128 0 1
+/.well-known/acme-challenge/CASXBZ_QDHEZEGBNGIBAR6S5WZ27F88J 2 128 1 0
+/.well-known/acme-challenge/HO3XCEY5TD3A7N01JRC7VGSYNX50I--O 2 128 1 0
+/.well-known/acme-challenge/VX2SQK2W930LV9HL00ALOGAW_PMLDPDY 2 128 1 0
+/.well-known/acme-challenge/J65TI0J9K3Z85W1KG1U0XMZFUU0D3IAO 2 128 1 0
+/.well-known/acme-challenge/SMQ6E5L-8M146841JPXS2_I34ZTJS0_W 2 128 0 1
+/.well-known/acme-challenge/5BCGDV-J0HZX8AUXRUTML7464ROWFOJT 2 128 0 1
+/.well-known/acme-challenge/RR0HL1ARWR0H5LP98S-BE8-JLUWN87IB 2 128 0 0
+/.well-known/acme-challenge/7MC31F0_R-ZFOTS_0OOU8BIH6GMD5OBB 2 128 1 0
+/.well-known/acme-challenge/2JCDI_41PHMQPKEM6LOPF2F9J5R_DLIO 2 128 0 1
+/.well-known/acme-challenge/_9MUISNLKFN59J809BM5PWBEI5C4W9GP 2 128 1 0
+/.well-known/acme-challenge/U9U89M4SLGL__9QYTJRIWI3NQ0ITONHS 2 128 0 1
+/.well-known/acme-challenge/KWIN8X-RTBB2PZC-I27QBX2YR392I1JV 2 128 0 1
+/.well-known/acme-challenge/YHEZQOYVV18RJSHIUZ5TO0VLMPA_3DJ0 2 128 0 1
+/.well-known/acme-challenge/L3_8P3R0PLUSIEJ_CQCTXQ1-A4BEZWD_ 2 128 1 1
+/.well-known/acme-challenge/UXJMPWSLUPY0H3VVOTVC0GZJY845N62U 2 128 1 0
+/.well-known/acme-challenge/9B_NYAJJ3SCGP53SP5JHP0GX7ZKN9HPL 2 128 1 0
+/.well-known/acme-challenge/NB6FIMRX304D44M7NQP2DELM0UEMZ0LN 2 128 0 1
+/.well-known/acme-challenge/D-X-CCGTHM7OQACNUW_X842VKC8IJB3A 2 128 1 0
+/.well-known/acme-challenge/9XABJOCKG0-IAZXWAEG75GPPJQXUJ4BY 2 128 0 1
+/.well-known/acme-challenge/Y-T26DGOJ8H23ALVYW48W0KPCHU58YG5 2 128 0 1
+/.well-known/acme-challenge/WY6VBKTVVBUO95ZTZ8B9TTVC2ZLUVWEE 2 128 0 1
+/.well-known/acme-challenge/73X3ZUSLXH-S5K1-7DT1O7PFPY36789G 2 128 0 1
+/.well-known/acme-challenge/F4WEHBUEVZG_N6X5CPS_4K068A0-QQXQ 2 128 0 1
+/.well-known/acme-challenge/A51SU9DDE3YQV-_PL8R_NJ_QOIM0UWRZ 2 128 1 0
+/.well-known/acme-challenge/LB7SUZ0NBBNZXO5XA_M41CGCU9ASZTI7 2 128 1 0
+/.well-known/acme-challenge/F7TE30D3F2H9GXFTB3SKJYH5JLBOL0W- 2 128 0 1
+/.well-known/acme-challenge/H_ZG80UUR6P6BFTBU_MPLBKLZWWHQW4R 2 128 1 0
+/.well-known/acme-challenge/AXRI4XM4K-RAZDIIGR__5TMRBHEG6KUR 2 128 1 0
+/.well-known/acme-challenge/HAOC-OU-WSJ906R8MKOJ2MNT1282A3TB 2 128 1 0
+/.well-known/acme-challenge/_1QAGGCV13OOCGN7PY2BYQUYX6U4G-CO 2 128 0 1
+/.well-known/acme-challenge/DTI74XNYQNIVPT-24Y0DJYJ7Y7LWAEZP 2 128 0 1
+/.well-known/acme-challenge/XJ0TTGKN87AKT3Y2K83T7O382AEDRM7G 2 128 0 1
+/.well-known/acme-challenge/KMF-Y6MLN7LMLX4CVT_1JRPE9Y2ZSV0Y 2 128 0 1
+/.well-known/acme-challenge/FEFOIX8NQXKMTNHTC0HL9XXPT36J811X 2 128 1 0
+/.well-known/acme-challenge/OG07K_SRIXN5P1UDH3LA5PP1UNP15GNP 2 128 1 0
+/.well-known/acme-challenge/RMFN22A1-ITKAECSXQ06392RGD0UZI1F 2 128 1 0
+/.well-known/acme-challenge/WIYPTITSQGFXSZYD1DJISRYCNCAT1Q0A 2 128 1 0
+/.well-known/acme-challenge/EP48W5_4R_0_VYR_CGH5B_YTYDG7VLGL 2 128 1 0
+/.well-known/acme-challenge/I7G8H3_ME7IPQC3TLX6B9TX6ZS0NVR-I 2 128 0 1
+/.well-known/acme-challenge/-INKX1YUGUTPD277FF0EN9NQUYMPKQBS 2 128 0 1
+/.well-known/acme-challenge/IKEXF6X_M7TAL7_VD27C7Y1TR_MB4G14 2 128 0 0
+/.well-known/acme-challenge/3STSYTXFBK2CSC3ZFKH9EHE-NWRRHSK6 2 128 1 0
+/.well-known/acme-challenge/LGCFKC96P_H5PFJJL-B-UDE96KLWHP6L 2 128 1 0
+/.well-known/acme-challenge/VNS997MX37KW59CW7_9SD7LK_P3KVSNP 2 128 0 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 5
+1K-2K 1
+5K+ 391
+44-100 78
+100-500 615
+500-1K 152
+END_FILESIZE

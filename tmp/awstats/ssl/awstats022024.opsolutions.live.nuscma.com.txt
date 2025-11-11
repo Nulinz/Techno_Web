@@ -1,0 +1,651 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202402 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.opsolutions.live.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2029                
+POS_TIME 2701                
+POS_VISITOR 15532               
+POS_DAY 18156               
+POS_DOMAIN 3439                
+POS_LOGIN 3854                
+POS_ROBOT 4009                
+POS_WORMS 4292                
+POS_EMAILSENDER 4423                
+POS_EMAILRECEIVER 4566                
+POS_SESSION 18692               
+POS_SIDER 18859               
+POS_FILETYPES 4701                
+POS_DOWNLOADS 4878                
+POS_OS 4926                
+POS_BROWSER 5240                
+POS_SCREENSIZE 6102                
+POS_UNKNOWNREFERER 6176                
+POS_UNKNOWNREFERERBROWSER 6466                
+POS_ORIGIN 6607                
+POS_SEREFERRALS 6743                
+POS_PAGEREFS 6887                
+POS_SEARCHWORDS 7068                
+POS_KEYWORDS 7220                
+POS_MISC 2365                
+POS_ERRORS 7279                
+POS_CLUSTER 3710                
+POS_SIDER_404 7409                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240301042540 1 0 12452652182266
+FirstTime 20240201131432
+LastTime 20240229123150
+LastUpdate 20240301185444 1 0 0 0 0
+TotalVisits 72                  
+TotalUnique 65                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 66                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 3308 6 10 888443
+1 4 25 1447946 8 13 326309
+2 4 46 2870360 184 247 1205193
+3 3 3 14420 5 15 1187329
+4 5 26 1444871 9 15 157047
+5 0 0 0 5 24 972845
+6 9 9 47989 15 18 394772
+7 2 2 8037 1 2 10345
+8 6 60 4893870 14 45 4120072
+9 5 5 8270 11 132 197528
+10 0 0 0 5 5 164999
+11 3 3 9691 8 11 229720
+12 5 5 17728 10 12 175950
+13 3 3 4962 15 31 1436017
+14 2 2 3308 10 23 312176
+15 6 6 9924 9 23 118558
+16 1 28 1675179 10 34 920510
+17 2 2 3308 14 18 882856
+18 23 83 5427460 68 94 568568
+19 2 23 1435180 16 22 150283
+20 6 33 2451897 13 39 3272081
+21 1 1 1654 1 2 10928
+22 0 0 0 15 95 6416316
+23 2 2 3308 6 37 2398226
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+us 56 212 13295786
+it 8 35 2455357
+cn 7 49 2875322
+se 5 5 8270
+ca 4 25 1438488
+gb 3 3 4962
+ua 3 3 4962
+in 2 29 1676833
+nl 2 2 3308
+ru 1 1 1654
+fr 1 1 6383
+jp 1 1 1654
+vn 1 1 1654
+by 1 1 1654
+sa 1 1 6383
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+bingbot/ 119 9710590 20240228001129 0
+Googlebot/ 95 5856280 20240225041804 0
+no_user_agent 46 7050078 20240228203102 0
+scanner 3 4962 20240226192429 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+html 5 1576120 0 0
+woff 5 2282660 0 0
+css 30 944598 0 0
+js 231 15750592 0 0
+php 86 218060 0 0
+jpg 12 1010640 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+win2000 1 0
+win10 102 43
+winxp 3 0
+ios_iphone 4 2
+android10 2 2
+macosx13 1 1
+Unknown 34 13
+win2003 1 0
+win8 1 0
+macosx 44 2
+win7 35 5
+linuxubuntu 1 0
+linux 45 12
+macosx14 1 0
+macosx6 2 0
+ios_ipad 1 1
+win98 1 0
+macosx15 84 9
+winlong 1 1
+android 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 42
+chrome104.0.5112.105 1 1
+firefox25.0 2 0
+safari16.6 3 1
+firefox24.0 1 0
+chrome88.0.4324.150 1 1
+chrome74.0.3729.169 1 1
+chrome35.0.2309.372 2 0
+chrome117.0.0.0 1 1
+chrome116.0.0.0 24 3
+chrome121.0.0.0 28 1
+chrome96.0.4664.110 3 3
+chrome60.0.3112.90 30 3
+chrome87.0.4280.88 44 2
+firefox57.0 1 1
+firefox58.0 1 1
+safari13.1 1 1
+safari16.3 1 1
+opera12.00 1 0
+firefox62.0 1 0
+chrome120.0.0.0 131 20
+chrome79.0.3945.130 3 3
+chrome108.0.0.0 1 1
+mozilla 18 13
+edge14 1 0
+chrome103.0.5060.114 5 5
+opera11.10 1 0
+chrome110.0.0.0 2 2
+opera11.52 1 0
+chrome122.0.6261.49 1 1
+chrome100.0.4896.60 12 12
+chrome109.0.0.0 2 2
+firefox55.0 1 1
+opera11.50 1 0
+Unknown 21 0
+opera11.01 4 0
+firefox45.66.18 1 0
+chrome59.0.3071.104 7 7
+chrome105.0.0.0 5 5
+firefox118.0 1 1
+chrome44.0.2403.155 1 0
+opera11.62 1 1
+chrome58.0.3029.110 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240224142352
+colly_-_https://github.com/gocolly/colly/v2 20240203025423
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240203072253
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+colly_-_https://github.com/gocolly/colly/v2 20240203025423
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 55 122
+From1 0 0
+From2 0 0
+From3 2 2
+From4 39 245
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://opsolutions.live:443 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 3 1074
+302 179 3727293
+404 435 157980
+406 38 8588
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 244
+/stream/GenericWorker 1 -
+/utils/common 1 -
+/assets/libs/pdfmake/build/pdfmake.js 1 -
+/assets/libs/jszip/zipEntries 1 -
+/DataReader 1 -
+/about 3 -
+/zlib/inflate 1 -
+/Public/home/js/check.js 5 -
+/assets/lang/ 1 -
+/external 1 -
+/zipEntry 1 -
+/text/plain 1 -
+/assets/libs/jszip/messages 1 -
+/assets/libs/jquery/text/plain 1 -
+/assets/libs/jszip/common 1 -
+/adler32 1 -
+/.vscode/sftp.json 3 -
+/lib/utils/common 1 -
+/load 1 -
+/reader/readerFor 1 -
+/assets/images/logo-light.png 4 -
+/assets/libs/jszip/support 1 -
+/signature 1 -
+/zlib/deflate 1 -
+/assets/libs/jszip/nodejsUtils 1 -
+/object 1 -
+/assets/libs/datatables.net-buttons/js/buttons.colVis.js 1 -
+/stream/StreamHelper 1 -
+/NodeBufferReader 1 -
+/assets/libs/datatables.net-buttons/js/application/xml 1 -
+/assets/libs/stream/GenericWorker 1 -
+/application/xml 1 -
+/assets/libs/utils/common 1 -
+/assets/libs/utils 1 -
+/assets/libs/jszip/zipEntry 1 -
+/common 1 -
+/assets/libs/jszip/compressions 1 -
+/ArrayReader 1 -
+/application/zip 1 -
+/text/css 1 -
+/assets/libs/datatables.net-buttons/js/text/xml 1 -
+/libs/datatables.net-responsive-bs4/js/responsive.bootstrap4.min.js 6 -
+/js/pages/dashboard.init.js 7 -
+/libs/datatables.net/js/jquery.dataTables.min.js 6 -
+/utils/strings 1 -
+/assets/libs/jquery/jquery.js 1 -
+/generate 1 -
+/debug/default/view 3 -
+/data/Helvetica.afm 1 -
+/assets/libs/jszip/zipObject 1 -
+/inffast 1 -
+/libs/simplebar/simplebar.min.js 5 -
+/assets/libs/jszip/crc32 1 -
+/assets/libs/node-waves/waves.js 1 -
+/assets/libs/jszip/zlib/zstream 1 -
+/data/Helvetica-Oblique.afm 1 -
+/assets/libs/jszip/zlib/inflate 1 -
+/simple.php 1 www.google.com
+/assets/libs/datatables.net-bs4/js/dataTables.bootstrap4.js 1 -
+/assets/libs/datatables.net-buttons/js/workbook.xml 1 -
+/index.html 1 -
+/defaults 1 -
+/support 1 -
+/text/csv 1 -
+/compressedObject 1 -
+/assets/libs/datatables.net-buttons/js/xl/worksheets/sheet1.xml 1 -
+/libs/datatables.net-buttons/js/buttons.html5.min.js 6 -
+/s/2383e2235323e20313e2631323/_/ 3 -
+/assets/libs/jszip/lib/deflate 1 -
+//cdn.logwork.com/widget/text.js 6 -
+/assets/libs/jszip/lib/utils/common 1 -
+/assets/libs/datatables.net/js/jquery.dataTables.js 1 -
+/data/Times-Italic.afm 1 -
+/wp-json/wp/v2/posts/ 1 -
+/assets/libs/jszip/utils 1 -
+/assets/libs/datatables.net-buttons/js/xl/styles.xml 1 -
+/assets/libs/jszip/stream/GenericWorker 1 -
+/assets/libs/jszip/external 1 -
+/assets/libs/datatables.net-buttons/js/buttons.html5.js 1 -
+/js/pages/datatables.init.js 4 -
+/workbook.xml 1 -
+/libs/datatables.net-buttons/js/dataTables.buttons.min.js 5 -
+/xl/worksheets/sheet1.xml 1 -
+/stream/DataLengthProbe 1 -
+/assets/libs/jszip/flate 1 -
+/messages 1 -
+/data/Times-Bold.afm 1 -
+/style.php 1 www.google.com
+/assets/libs/jszip/nodejs/NodejsStreamInputAdapter 1 -
+/assets/libs/datatables.net-buttons/js/worksheets/sheet1.xml 1 -
+/assets/libs/jszip/reader/readerFor 1 -
+/assets/libs/jszip/inftrees 1 -
+/ConvertWorker 1 -
+/assets/libs/jszip/GenericWorker 1 -
+/assets/libs/pdfmake/build/application/octet-stream 1 -
+/libs/metismenu/metisMenu.min.js 5 -
+/assets/libs/datatables.net-buttons/js/buttons.print.js 1 -
+/application/pdf 1 -
+/assets/libs/support 1 -
+/flate 1 -
+/assets/libs/jszip/trees 1 -
+/assets/libs/jszip/Uint8ArrayReader 1 -
+/libs/datatables.net-buttons/js/buttons.print.min.js 5 -
+/assets/libs/jquery/text/html 1 -
+/data/Courier-Oblique.afm 1 -
+/text/xml 1 -
+/stream/Crc32Probe 1 -
+/data/Courier-Bold.afm 1 -
+/data/Times-Roman.afm 1 -
+/config.json 3 -
+/assets/libs/jszip/stream/DataLengthProbe 1 -
+/assets/libs/metismenu/metisMenu.js 1 -
+/feed/atom/ 3 -
+/Pattern%20cs%20/Sh1%20scn 1 -
+/assets/libs/bootstrap/js/text/html 1 -
+/assets/libs/jszip/zlib/deflate 1 -
+/assets/libs/signature 1 -
+/assets/libs/external 1 -
+/assets/images/logo-dark.png 4 -
+/assets/libs/jszip/StringReader 1 -
+/assets/libs/jszip/NodeBufferReader 1 -
+/styles.xml 1 -
+/assets/images/logo-light.svg 4 -
+/.git/config 10 -
+/assets/libs/jszip/stream/Crc32Probe 1 -
+/libs/jszip/jszip.min.js 6 -
+/assets/libs/jszip/lib/inflate 1 -
+/libs/datatables.net-buttons-bs4/js/buttons.bootstrap4.min.js 4 -
+/login.action 3 -
+/assets/libs/jszip/defaults 1 -
+/xl/styles.xml 1 -
+/StringReader 1 -
+/libs/node-waves/waves.min.js 4 -
+/inftrees 1 -
+/assets/libs/apexcharts/apexcharts.js 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 3 -
+/assets/libs/datatables.net-buttons/js/text/csv 1 -
+/sheet1.xml 1 -
+/sitemap.xml.gz 2 -
+/assets/libs/datatables.net-buttons-bs4/js/buttons.bootstrap4.js 1 -
+/assets/libs/jszip/utils/common 1 -
+/compressions 1 -
+/assets/libs/pdfmake/build/application/pdf 1 -
+/assets/libs/jszip/stream/StreamHelper 1 -
+/sitemap_index.xml 2 -
+/zlib/messages 1 -
+/assets/libs/jquery/application/x-www-form-urlencoded 1 -
+/assets/libs/crc32 1 -
+/data/Helvetica-BoldOblique.afm 1 -
+/utils 1 -
+/assets/libs/jszip/signature 1 -
+/crc32 1 -
+/libs/jquery/jquery.min.js 5 -
+/data/Courier-BoldOblique.afm 1 -
+/nodejs/NodejsStreamInputAdapter 1 -
+/application/x-www-form-urlencoded 1 -
+/libs/datatables.net-buttons/js/buttons.colVis.min.js 6 -
+/assets/libs/datatables.net-buttons/js/image/jpeg 1 -
+/data/Times-BoldItalic.afm 1 -
+/zlib/gzheader 1 -
+/libs/datatables.net-responsive/js/dataTables.responsive.min.js 5 -
+/xl/workbook.xml 1 -
+/assets/libs/jszip/application/zip 1 -
+/assets/libs/jszip/DataReader 1 -
+/assets/libs/datatables.net-buttons/js/application/octet-stream 1 -
+/text/html 1 -
+/telescope/requests 3 -
+/libs/pdfmake/build/vfs_fonts.js 5 -
+/assets/libs/datatables.net-responsive-bs4/js/responsive.bootstrap4.js 1 -
+/image/png 1 -
+/sitemaps.xml 2 -
+/static/admin/javascript/hetong.js 5 -
+/base64 1 -
+/trees 1 -
+/assets/libs/jszip/utf8 1 -
+/assets/libs/jszip/base64 1 -
+/zlib/constants 1 -
+/application/octet-stream 1 -
+/assets/libs/datatables.net-buttons/js/xl/workbook.xml 1 -
+/nodejsUtils 1 -
+/Gs1%20gs%20/Pattern%20cs%20/Sh1%20scn 1 -
+/Pattern%20cs 1 -
+/assets/libs/nodejs/NodejsStreamOutputAdapter 1 -
+/ZipFileWorker 1 -
+/data/Courier.afm 1 -
+/a/b 1 -
+/robots.txt 30 -
+/assets/libs/jszip/lib/zlib/constants 1 -
+/nodejs/NodejsStreamOutputAdapter 1 -
+/assets/libs/jszip/utils/strings 1 -
+/assets/libs/datatables.net-buttons/js/sheet1.xml 1 -
+/.DS_Store 3 -
+/lib/zlib/constants 1 -
+/libs/apexcharts/apexcharts.min.js 5 -
+/assets/libs/jszip/zlib/messages 1 -
+/assets/libs/apexcharts/image/png 1 -
+/assets/libs/datatables.net-responsive/js/dataTables.responsive.js 1 -
+/assets/libs/apexcharts/text/css 1 -
+/zlib/zstream 1 -
+/Uint8ArrayReader 1 -
+/assets/libs/jszip/ConvertWorker 1 -
+/assets/libs/jszip/jszip.js 1 -
+/assets/libs/jszip/load 1 -
+/_all_dbs 3 -
+/assets/libs/utf8 1 -
+/image/jpeg 1 -
+/assets/libs/jszip/adler32 1 -
+/worksheets/sheet1.xml 1 -
+/libs/datatables.net-bs4/js/dataTables.bootstrap4.min.js 5 -
+/assets/libs/base64 1 -
+/assets/libs/jszip/zlib/constants 1 -
+/assets/libs/jszip/generate 1 -
+/stream/DataWorker 1 -
+/assets/libs/bootstrap/js/bootstrap.bundle.js 1 -
+/assets/images/profile-img.png 12 https://www.opsolutions.live/login.php
+/utf8 1 -
+/data/Helvetica-Bold.afm 1 -
+/assets/libs/compressions 1 -
+/Pattern%20CS 1 -
+/data/ZapfDingbats.afm 1 -
+/assets/libs/jszip/ArrayReader 1 -
+/lib/deflate 1 -
+/assets/js/assets/lang/ 1 -
+/assets/libs/datatables.net-buttons/js/styles.xml 1 -
+/GenericWorker 1 -
+/sitemap.xml 3 -
+/assets/libs/jszip/zlib/gzheader 1 -
+/assets/libs/jszip/compressedObject 1 -
+/assets/libs/jszip/stream/DataWorker 1 -
+/v2/_catalog 3 -
+/assets/libs/jszip/ZipFileWorker 1 -
+/assets/libs/datatables.net-buttons/js/dataTables.buttons.js 1 -
+/libs/pdfmake/build/pdfmake.min.js 4 -
+/assets/libs/jquery/text/xml 1 -
+/zipEntries 1 -
+/data/Symbol.afm 1 -
+/assets/libs/simplebar/simplebar.js 1 -
+/zipObject 1 -
+/assets/libs/jszip/inffast 1 -
+/assets/libs/jszip/object 1 -
+//cdn.dayspedia.com/js/dwidget.min.vc01b6c64.js 5 -
+/libs/bootstrap/js/bootstrap.bundle.min.js 5 -
+/lib/inflate 1 -
+/js/app.js 5 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 66
+84.17.42.52 8 35 2455357 20240226181559
+35.171.144.152 6 6 38298 20240228063056
+54.88.179.33 6 6 38298 20240228063058
+68.183.245.101 4 32 2532809 20240226181623
+128.90.177.206 3 30 2446935 20240226204756
+44.236.207.248 3 30 2446935 20240219082702
+54.37.119.123 3 30 2446935 20240216084216
+95.217.18.177 3 3 4962 20240226181016
+199.45.154.49 2 2 3308 20240215235745
+54.183.168.162 2 23 1435180 20240203025450
+111.7.96.170 2 23 1435180 20240211040927
+199.45.154.64 1 1 1654 20240223095001
+5.133.192.140 1 1 1654 20240224205153
+162.142.125.13 1 1 1654 20240215152936
+133.242.174.119 1 1 1654 20240226210932
+34.29.179.120 1 1 1654 20240217092629
+199.45.154.19 1 1 1654 20240215120847
+47.254.16.187 1 1 1654 20240227151601
+36.99.136.129 1 1 1654 20240218074518
+134.17.137.91 1 1 1654 20240215174622
+89.248.174.34 1 1 1654 20240225200848
+51.15.242.131 1 1 1654 20240229123150
+43.225.189.142 1 1 1654 20240226181130
+207.244.91.143 1 3 170094 20240226181344
+199.45.154.17 1 1 1654 20240211065752
+34.41.240.72 1 1 1654 20240222091159
+36.99.136.136 1 12 663472 20240227012104
+5.133.192.136 1 1 1654 20240213231543
+104.164.173.211 1 22 1433526 20240226193009
+62.3.6.70 1 1 6383 20240214113343
+5.133.192.105 1 1 1654 20240201131432
+199.45.155.51 1 1 1654 20240203044354
+51.81.245.138 1 1 1654 20240226180921
+199.45.155.34 1 1 1654 20240215134043
+51.254.111.94 1 1 6383 20240213060816
+106.55.202.193 1 1 1654 20240223001835
+47.242.224.70 1 22 1433526 20240227021015
+199.45.155.16 1 1 1654 20240203175036
+18.212.125.245 1 1 6383 20240219043752
+122.178.123.183 1 28 1675179 20240223165129
+164.90.241.135 1 1 1654 20240226181347
+154.47.30.181 0 1 84220 
+35.226.104.178 1 1 1654 20240219091759
+35.188.175.113 1 1 1654 20240215182847
+199.45.155.19 1 1 1654 20240224142352
+47.88.86.63 1 1 1654 20240227151559
+193.233.233.29 1 1 1654 20240222020423
+35.222.218.64 1 1 1654 20240221125301
+5.133.192.131 1 1 1654 20240220032018
+199.45.155.35 1 1 1654 20240203042917
+47.254.25.10 1 1 1654 20240227151601
+162.142.125.220 1 1 1654 20240215141448
+34.222.102.89 1 1 1654 20240227092344
+34.71.210.239 1 1 1654 20240218112323
+47.251.11.3 1 1 1654 20240227151600
+81.71.5.172 1 1 1654 20240209005439
+5.133.192.88 1 1 1654 20240207183436
+34.70.176.240 1 1 1654 20240216131424
+146.70.187.145 1 1 1654 20240226181107
+18.130.38.110 1 3 170094 20240226181343
+171.244.43.14 1 1 1654 20240227063533
+67.220.86.160 1 1 1654 20240224194559
+47.88.94.161 1 1 1654 20240227151601
+42.83.147.56 1 1 1654 20240223112438
+36.99.136.137 1 11 771708 20240227012108
+149.56.150.25 1 1 6383 20240203072253
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20240201 1 1 1654 1
+20240203 6 27 1446525 5
+20240207 3 3 14420 2
+20240209 1 1 1654 1
+20240211 3 24 1436834 2
+20240213 2 2 8037 2
+20240214 3 3 19149 2
+20240215 8 8 13232 8
+20240216 4 31 2448589 2
+20240217 3 3 14420 2
+20240218 2 2 3308 2
+20240219 5 32 2454972 3
+20240220 3 3 14420 3
+20240221 1 1 1654 1
+20240222 2 2 3308 2
+20240223 6 33 1692907 5
+20240224 3 3 4962 3
+20240225 1 1 1654 1
+20240226 26 134 9306267 12
+20240227 10 52 2880284 10
+20240228 2 2 12766 2
+20240229 1 1 1654 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+0s-30s 69
+2mn-5mn 1
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/login.php 86 218060 72 68
+/assets/fonts/materialdesignicons-webfonte910.woff 5 2282660 0 4
+/assets/fonts/materialdesignicons-webfonte910.html 5 1576120 0 0
+END_SIDER

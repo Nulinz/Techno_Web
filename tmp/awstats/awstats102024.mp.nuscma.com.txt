@@ -1,0 +1,511 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202410 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/awstats.mp.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2683                
+POS_VISITOR 13522               
+POS_DAY 14497               
+POS_DOMAIN 3223                
+POS_LOGIN 3514                
+POS_ROBOT 3669                
+POS_WORMS 3910                
+POS_EMAILSENDER 4041                
+POS_EMAILRECEIVER 4184                
+POS_SESSION 14877               
+POS_SIDER 15034               
+POS_FILETYPES 4319                
+POS_DOWNLOADS 4418                
+POS_OS 4466                
+POS_BROWSER 4604                
+POS_SCREENSIZE 4914                
+POS_UNKNOWNREFERER 4988                
+POS_UNKNOWNREFERERBROWSER 5547                
+POS_ORIGIN 5914                
+POS_SEREFERRALS 6046                
+POS_PAGEREFS 6190                
+POS_SEARCHWORDS 6338                
+POS_KEYWORDS 6490                
+POS_MISC 2347                
+POS_ERRORS 6549                
+POS_CLUSTER 3370                
+POS_SIDER_404 6663                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20241102100038 1 0 11047760527504
+FirstTime 20241001142331
+LastTime 20241030094013
+LastUpdate 20241102184058 1 0 0 0 0
+TotalVisits 24                  
+TotalUnique 24                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 24                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 1 1 118 1 2 83
+2 1 1 118 0 1 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 1 1 83
+6 2 2 236 95 103 35845
+7 0 0 0 0 0 0
+8 5 5 590 150 154 49892
+9 1 1 118 3 4 646
+10 5 5 616 4 7 1790
+11 0 0 0 0 0 0
+12 2 2 262 0 1 0
+13 1 1 118 2 3 620
+14 6 6 708 150 153 49621
+15 0 0 0 1 2 716
+16 0 0 0 0 0 0
+17 1 1 144 0 0 0
+18 0 0 0 0 0 0
+19 2 2 288 0 0 0
+20 1 1 144 1 1 83
+21 2 2 236 0 0 0
+22 0 0 0 0 0 0
+23 3 3 406 0 2 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 17 17 2032
+ca 5 5 694
+pk 4 4 472
+cn 2 2 262
+be 2 2 236
+in 2 2 288
+nl 1 1 118
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 4 576 20241019130817 0
+bot[\s_+:,\.\;\/\\-] 2 236 20241008134224 0
+curl 1 144 20241005145429 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+Unknown 2 236 0 0
+html 31 3866 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win10 11 11
+Unknown 10 10
+win7 4 4
+ios_iphone 4 4
+macosx15 2 2
+linux 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 13
+firefox123.0 4 4
+chrome114.0.0.0 1 1
+chrome99.0.4859.172 1 1
+chrome100.0.4896.60 1 1
+chrome49.0.2623.112 2 2
+chrome71.0.2623.112 1 1
+Unknown 4 4
+chrome127.0.0.0 2 2
+mozilla 6 6
+safari17.0 4 4
+chrome126.0.0.0 4 4
+chrome63.0.3239.132 1 1
+chrome89.0.4389.82 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20241030094013
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20241029230113
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20241012120535
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20241012120535
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 33 33
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+409 7 581
+404 344 123152
+406 65 14690
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 211
+/assets/scripts/filemanager/dialog.php 1 -
+/config/app_local.php 2 -
+/linusadmin-phpinfo.php 2 -
+/admin/.env 2 -
+/admin/ckeditor/plugins/kcfinder/upload.php 1 -
+/config/cache.php 2 -
+/js/tinymce/kcfinder/upload.php 1 -
+/phpinfo.php4 2 -
+/temp.php 2 -
+/plugins/server/php/ 1 -
+/.env.sample 2 -
+/infophp.php 2 -
+/jquery-file-upload/server/php/ 1 -
+/application/config/database.php 2 -
+/.remote 2 -
+/media/kcfinder/upload.php 1 -
+/config/autoload/global.php 2 -
+/assets/global/plugins/jquery-file-upload/server/php/ 1 -
+/plugins/jQuery-File-Upload/server/php/ 1 -
+/application/config/foreign_chars.php 2 -
+/blueimp-jQuery-File-Upload/server/php/ 1 -
+/scripts/filemanager/dialog.php 1 -
+/resources/plugins/tiny_mce/plugins/filemanager/dialog.php 1 -
+/plugins/responsive_filemanager/filemanager/dialog.php 1 -
+/lib/kcfinder/upload.php 1 -
+/public/server/php/ 1 -
+/fileupload/server/php/ 1 -
+/.env.travis 2 -
+/assets/plugins/js/jquery-file-upload/server/php/ 1 -
+/js/jquery-file-upload/server/php/ 1 -
+/admin/responsive_filemanager/filemanager/dialog.php 1 -
+/helpers/utility.js 2 -
+/config/broadcasting.php 2 -
+/core/scripts/wysiwyg/kcfinder/upload.php 1 -
+/sftp-config.json 4 -
+/.git/config 2 -
+/app/webroot/js/kcfinder/upload.php 1 -
+/login/index.php 2 -
+/assets/kcfinder/upload.php 1 -
+/filemanager/dialog.php 1 -
+/application/config/hooks.php 2 -
+/config/application.config.php 2 -
+/admin/core/kcfinder/upload.php 1 -
+/old_phpinfo.php 2 -
+/config/paths.php 2 -
+/login/ 2 -
+/phpinfo.php5 2 -
+/phpversion.php 4 -
+/phpinfo.php3 2 -
+/config/app.php 2 -
+/assets/plugins/filemanager/dialog.php 1 -
+/assets/responsive_filemanager/filemanager/dialog.php 1 -
+/.env.prod.local 2 -
+/js/fileManager/filemanager/dialog.php 1 -
+/assets/app-assets/data/jquery-file-upload/server/php/ 1 -
+/admin/tools/assets/jquery-file-upload/server/php/ 1 -
+/php_info.php 4 -
+/.env.dev.local 2 -
+/application/config/doctypes.php 2 -
+/js/tinymce4/plugins/filemanager/dialog.php 1 -
+/assets/admin/bower_components/jquery.filer/php/readme.txt 1 -
+/assets/server/php/ 1 -
+/_profiler/phpinfo.php 2 -
+/config/filesystems.php 2 -
+/cms/vendor/responsive_filemanager/filemanager/dialog.php 1 -
+/asset/kcfinder/upload.php 1 -
+/static/lib/jquery-file-upload/server/php/ 1 -
+/config/database.php 2 -
+/editor/filemanager/dialog.php 1 -
+/plugins/jquery.filer/php/readme.txt 1 -
+/.env-sample 2 -
+/login 2 -
+/config/requirements.php 2 -
+/assets/global/plugins/server/php/ 1 -
+/assets/plugins/server/php/ 1 -
+/.env.development.local 2 -
+/responsive_filemanager/filemanager/dialog.php 1 -
+/i.php 4 -
+/plugins/js/jquery-file-upload/server/php/ 1 -
+/time.php 2 -
+/vendor/laravel-filemanager/js/script.js 1 -
+/js/kcfinder/upload.php 1 -
+/.envs 2 -
+/config.js 2 -
+/prevlaravel/sftp-config.json 2 -
+/admin/kcfinder/upload.php 1 -
+/application/themes/admin/assets/js/kcfinder/upload.php 1 -
+/phpformbuilder/plugins/filemanager/dialog.php 1 -
+/ckeditor/plugins/kcfinder/upload.php 1 -
+/app/webroot/kcfinder/upload.php 1 -
+/dev/phpinfo.php 2 -
+/js/server/php/ 1 -
+/.env.dist 2 -
+/php-info.php 4 -
+/.env.local 2 -
+/.env.production.local 2 -
+/aws.yml 2 -
+/tinymce/filemanager/dialog.php 1 -
+/dashboard/phpinfo.php 2 -
+/application/config/profiler.php 2 -
+/libraries/jsupload/server/php/ 1 -
+/config/queue.php 2 -
+/install/index.php 2 -
+/application/config/autoload.php 2 -
+/tinymce/plugins/filemanager/dialog.php 1 -
+/assets/js/frontend/jquery-file-upload/server/php/ 1 -
+/admin/ckeditor/kcfinder/upload.php 1 -
+/application/config/encryption.php 2 -
+/.env.config 2 -
+/app/ 2 -
+/admin/galerie/server/php/ 1 -
+/test2.php 2 -
+/config/session.php 2 -
+/public/client/planinfo 2 -
+/.env.save 2 -
+/assets/plugins/jQuery-File-Upload/server/php/ 1 -
+/plugins/kcfinder/upload.php 1 -
+/.vscode/sftp.json 2 -
+/config/routes.php 2 -
+/admin/filemanager/dialog.php 1 -
+/kcfinder/upload.php 2 -
+/.env.example 2 -
+/jquery.filer/php/readme.txt 1 -
+/application/config/mimes.php 2 -
+/.env.production 2 -
+/admin/server/php/ 1 -
+/admin/js/kcfinder/upload.php 1 -
+/pinfo.php 2 -
+/.env.prod 2 -
+/_profiler/phpinfo 2 -
+/assets/vendor/jquery.filer/php/readme.txt 1 -
+/config/services.php 2 -
+/resources/js/tinymce/plugins/filemanager/dialog.php 1 -
+/phpinfo 2 -
+/phpinfos.php 2 -
+/.local 2 -
+/assets/jquery-file-upload/server/php/ 1 -
+/assets/filemanager/dialog.php 1 -
+/symfony/_profiler/phpinfo 2 -
+/public/filemanager/dialog.php 1 -
+/.aws/config 2 -
+/libs/kcfinder/upload.php 1 -
+/.env.development.sample 2 -
+/application/config/migration.php 2 -
+/assets/plugins/jquery.filer/php/readme.txt 1 -
+/asset/server/php/ 1 -
+/assets/plugins/jquery-file-upload/server/php/ 1 -
+/application/config/config.php 2 -
+/application/config/email.php 2 -
+/application/config/constants.php/ 2 -
+/.ssh/sftp-config.json 2 -
+/config/env.php 2 -
+/assets/plugins/kcfinder/upload.php 1 -
+/.env.docker.dev 2 -
+/phpinfo.php 2 -
+/cms/tinymce/filemanager/filemanager/dialog.php 1 -
+/infos.php 2 -
+/config/config.json 2 -
+/filemanager/filemanager/dialog.php 1 -
+/live_env 2 -
+/assets/plugins/js/server/php/ 1 -
+/admin/blueimp-jQuery-File-Upload/server/php/ 1 -
+/config/view.php 2 -
+/ckeditor/kcfinder/upload.php 1 -
+/assets/tinymce/plugins/filemanager/dialog.php 1 -
+/upload/server/php/ 1 -
+/test.php 2 -
+/admin/jquery-file-upload/server/php/ 1 -
+/asdf.php 2 -
+/php.php 2 -
+/sftp.json 2 -
+/asset/filemanager/dialog.php 1 -
+/wp-config.php 4 -
+/assets/js/kcfinder/upload.php 1 -
+/assets/plugins/tinymce/plugins/filemanager/dialog.php 1 -
+/.env.dev 2 -
+/core/scripts/kcfinder/upload.php 1 -
+/.production 2 -
+/info.php 4 -
+/config.php 2 -
+/.env-example 2 -
+/admin/events/lib/external/responsive_filemanager/filemanager/dialog.php 1 -
+/.env.stage 2 -
+/test1.php 2 -
+/jquery/kcfinder/upload.php 1 -
+/config/cli_bootstrap.php 2 -
+/config/auth.php 2 -
+/.vscode/settings.json 2 -
+/config/bootstrap.php 2 -
+/arquivos/javascript/responsive_filemanager/filemanager/dialog.php 1 -
+/public/js/libraries/filemanager/dialog.php 1 -
+/assets/admin/tinymce/plugins/filemanager/dialog.php 1 -
+/.env.docker 2 -
+/plugin/server/php/ 1 -
+/.aws/credentials 2 -
+/application/config/routes.php 2 -
+/js/fileManager/dialog.php 1 -
+/.envrc 2 -
+/robots.txt 5 -
+/asset_admin/assets/plugins/jquery-file-upload/server/php/ 1 -
+/lib/filemanager/dialog.php 1 -
+/.env.project 2 -
+/public/scripts/filemanager/dialog.php 1 -
+/media/filemanager/dialog.php 1 -
+/assets/admin/js/tinymce/plugins/filemanager/dialog.php 1 -
+/config/aws.yml 2 -
+/config/app.default.php 2 -
+/application/config/constants.php 2 -
+/components/kcfinder/upload.php 1 -
+/frontend_dev.php/$ 2 -
+/config/autoload/local.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 24
+172.179.237.236 4 4 472 20241010084313
+182.191.79.181 4 4 472 20241023140120
+34.67.250.102 2 2 236 20241013100017
+115.231.78.4 2 2 262 20241005100853
+144.91.106.14 2 2 236 20241013213308
+205.210.31.132 1 1 144 20241012120535
+167.94.138.47 1 1 118 20241019023510
+103.149.26.200 1 1 144 20241007235928
+199.45.155.86 1 1 118 20241013014144
+199.45.155.105 1 1 118 20241030094013
+199.45.154.136 1 1 118 20241014060730
+165.227.228.54 1 1 118 20241010080658
+205.210.31.221 1 1 144 20241011191128
+205.210.31.25 1 1 144 20241008202140
+107.181.244.204 1 1 118 20241001142331
+142.93.39.67 1 1 118 20241020122720
+198.235.24.164 1 1 144 20241008194719
+87.236.176.112 1 1 118 20241029230113
+54.88.179.33 1 1 144 20241020173659
+104.248.55.192 1 1 118 20241006143549
+46.101.128.169 1 1 118 20241024104426
+103.149.26.240 1 1 144 20241007235928
+87.236.176.145 1 1 118 20241021132246
+170.64.227.50 1 1 118 20241005061946
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20241001 1 1 118 1
+20241005 3 3 380 2
+20241006 1 1 118 1
+20241007 2 2 288 2
+20241008 2 2 288 2
+20241010 5 5 590 2
+20241011 1 1 144 1
+20241012 1 1 144 1
+20241013 5 5 590 3
+20241014 1 1 118 1
+20241019 1 1 118 1
+20241020 2 2 262 2
+20241021 1 1 118 1
+20241023 4 4 472 1
+20241024 1 1 118 1
+20241029 1 1 118 1
+20241030 1 1 118 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+2mn-5mn 1
+0s-30s 23
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 31 3866 24 22
+/index.php/phpinfo 2 236 0 2
+END_SIDER

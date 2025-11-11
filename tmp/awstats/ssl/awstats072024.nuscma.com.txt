@@ -1,0 +1,2686 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202407 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2695                
+POS_VISITOR 26494               
+POS_DAY 83264               
+POS_DOMAIN 3758                
+POS_LOGIN 4640                
+POS_ROBOT 4795                
+POS_WORMS 5736                
+POS_EMAILSENDER 5867                
+POS_EMAILRECEIVER 6010                
+POS_SESSION 84306               
+POS_SIDER 84523               
+POS_FILETYPES 6145                
+POS_DOWNLOADS 6493                
+POS_OS 6757                
+POS_BROWSER 7468                
+POS_SCREENSIZE 12629               
+POS_UNKNOWNREFERER 12703               
+POS_UNKNOWNREFERERBROWSER 14006               
+POS_ORIGIN 14883               
+POS_SEREFERRALS 15037               
+POS_PAGEREFS 15333               
+POS_SEARCHWORDS 15630               
+POS_KEYWORDS 15782               
+POS_MISC 2359                
+POS_ERRORS 15841               
+POS_CLUSTER 4496                
+POS_SIDER_404 16102               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240801002733 510 161983 21074215179514
+FirstTime 20240701000357
+LastTime 20240731220254
+LastUpdate 20240801184912 510 0 509 0 0
+TotalVisits 2167                
+TotalUnique 1332                
+MonthHostsKnown 0                   
+MonthHostsUnknown 1403                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 2 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 138 420 8673070 839 1298 8522822
+1 119 667 12156726 286 764 9290256
+2 208 856 17710492 266 702 7262738
+3 352 1067 16064052 264 696 9133811
+4 339 1069 23857963 281 840 15276905
+5 473 1177 61535112 289 727 7001741
+6 593 1533 112676657 429 839 4665658
+7 590 1657 64098800 477 994 10631720
+8 926 2394 141639958 740 1294 18221900
+9 6606 11526 597011719 4074 4570 5180274
+10 9771 13036 567274927 5650 6133 7356195
+11 10450 13938 650751447 6032 6531 7030065
+12 10918 12791 545111656 6338 6874 16514001
+13 10234 12541 505995474 5685 6211 12549098
+14 8615 10921 445320351 5412 5822 7198854
+15 9831 11892 548077461 6352 6762 9840387
+16 6037 8739 452670674 3428 3853 10494779
+17 2853 5342 259508949 1631 2267 23257741
+18 1249 3322 85336722 658 1050 6806632
+19 1886 4811 203012314 745 1139 9700652
+20 1471 3094 60348969 511 828 4559110
+21 1818 3091 120765209 698 941 5640217
+22 357 894 44166841 355 698 7645342
+23 288 453 4124378 397 818 6675842
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 42
+in 75334 96436 4323967936
+us 9765 28393 1116085154
+cn 200 585 20881351
+ru 93 107 1644548
+pl 91 104 1022534
+ca 81 274 3484741
+jp 78 94 1364737
+gb 59 293 48440613
+pa 33 33 252485
+rs 32 75 979615
+hu 28 42 308041
+br 26 40 215595
+nz 26 40 312299
+se 25 30 469969
+id 24 24 213730
+md 24 24 633040
+de 20 20 493528
+au 20 20 169212
+fr 18 18 618796
+sg 18 18 0
+ir 14 14 326934
+vn 14 14 128284
+zz 12 15 131600
+tz 12 12 106864
+ua 10 89 4782382
+bg 2 2 21418
+mn 2 2 14966
+no 2 2 21416
+sc 8 11 576444
+il 0 1 46043
+ch 2 2 21416
+uz 2 79 4618789
+ro 6 6 142424
+eg 2 2 21416
+eu 2 2 21418
+es 6 6 64254
+be 10 14 116870
+kr 3 82 4727082
+nl 8 9 158918
+ae 3 59 1490585
+bd 5 136 8782059
+ar 2 2 10414
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 19
+Googlebot/ 5054 46538888 20240731230855 0
+bot[\s_+:,\.\;\/\\-] 1981 66303017 20240731074327 0
+bingbot/ 1419 23210814 20240731090706 0
+Googlebot\-Image/ 397 10844867 20240731221807 0
+Applebot/ 342 2640803 20240731153306 0
+(firefox/)([0-9]\.|[0-1][0]\.) 266 1886904 20240728200114 0
+link 147 1202591 20240706124639 0
+facebookexternalhit/ 119 10873223 20240729193845 0
+no_user_agent 92 6532991 20240728120050 0
+AdsBot\-Google[\x20]\( 87 492679 20240715191304 0
+Go\-http\-client/ 80 657963 20240729023833 0
+yandex 57 709806 20240730081506 0
+YandexBot/ 36 182454 20240730072406 0
+scanner 23 180198 20240728125942 0
+curl 18 739948 20240729044342 0
+YandexImages/ 8 284922 20240730182536 0
+Baiduspider/ 4 42834 20240721062048 0
+[\s_+:,\.\;\/\\-]bot 4 42833 20240730153258 0
+archive\.org_bot 2 21416 20240730004410 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+html 6723 63761061 0 0
+png 8658 1219348995 0 0
+woff2 312 32197044 0 0
+php 78889 3106401893 0 0
+css 17665 125238415 0 0
+jpeg 2174 245874259 0 0
+csv 6 1462 0 0
+Unknown 195 1066328 0 0
+svg 1121 2169954 0 0
+pdf 1 600978 0 0
+js 9365 168271652 0 0
+jpg 2119 582439251 0 0
+woff 3 518628 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/software/assets/Downloads/busRoot.csv 4 0 204
+/software/assets/Downloads/rework%20import.csv 2 0 1258
+/software/Students_Documents/deepak%20santh%20820230514_20522832_8e9fb29b12f3ed2d8eb7f0321ce5f810.pdf 1 2 600978
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 42
+androidoreo 850 231
+macosx15 1384 449
+macosx5 2 0
+ios_iphone 504 160
+macosx7 1 1
+androidmarshmallow 113 35
+macosx10 9 2
+win98 28 24
+android 5792 1872
+win7 20852 15400
+androideclair 2 2
+macosx9 5 1
+macosx12 50 3
+androidpie 1162 471
+win2003 2 2
+linux 4496 366
+win8 17 4
+macosx6 6 2
+beos 4 3
+symbian 2 2
+linuxdebian 1 0
+win10 71413 57879
+winvista 2 0
+macosx13 1 0
+macosx11 425 285
+winnt 10 5
+bsdopenbsd 6 3
+ios_ipad 2 2
+Unknown 6559 2265
+win2000 5 0
+macosx 173 23
+androidnougat 89 18
+win8.1 24 13
+macosx14 585 39
+winlong 12 1
+macosx8 1 1
+androidjellybean 8131 5281
+linuxubuntu 36 30
+winxp 51 13
+linuxfedora 1 0
+androidfroyo 2 2
+android10 4423 1232
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 240
+chrome80.0.3987.162 2 2
+chrome37.0.2062.124 3 2
+chrome125.0.0.0 703 54
+firefox51.0 1 0
+chrome34.0.1866.237 2 1
+chrome74.0.1733 1 0
+firefox124.0 2 2
+chrome41.0.2228.0 3 0
+firefox48.0 6 6
+chrome62.0.786 1 1
+firefox117.0 20 20
+safari2.0.1 2 2
+chrome72.0.1382 2 2
+chrome100.0.4895.86 2 2
+chrome126.0.6478.126 498 49
+firefox115.0 20646 15363
+chrome124.0.0.0 163 44
+chrome117.0.0.0 121 28
+firefox52.59.12 3 0
+chrome98.0.4758.102 6 6
+firefox116.0 18 18
+chrome77.0.3865.10 2 2
+chrome83.0.4103.61 40 4
+chrome49.0.2656.18 1 1
+chrome100.0.4896.60 20 20
+chrome105.0.0.0 21 16
+chrome102.0.5005.125 90 3
+safari17.3.1 2 2
+firefox65.0 6 6
+chrome35.0.1916.47 2 0
+chrome91.0.4472.114 8 8
+chrome96.0.4664.110 65 48
+chrome18.0.1025.166 8129 5279
+chrome84.0.4147.89 3 3
+firefox31.0 4 2
+chrome108.0.0.0 35 35
+chrome58.0.3029.110 20 20
+msie8.0 3 3
+chrome104.0.0.0 12 12
+opera11.51 3 1
+chrome87.0.4280.101 59 3
+chrome127.0.6533.72 1302 43
+firefox64.0 2 0
+chrome87.0.4280.88 369 23
+chrome126.0.6478.134 3997 1436
+opera10.61 24 24
+chrome106.0.0.0 8 8
+chrome60.0.3112.90 1 1
+chrome101.0.4951.67 12 12
+chrome126.0.6478.186 450 141
+firefox27.0 1 0
+safari10.0 4 4
+chrome102.0.0.0 2 2
+firefox115 2 2
+chrome87.0.4280.141 22 7
+chrome78.0.3904.108 2 2
+chrome122.0.6261.105 30 4
+firefox62.0 5 0
+chrome41.0.2226.0 3 1
+chrome99.0.9999.999 246 9
+chrome119.0.0.0 9 6
+chrome102.0.2074 2 2
+safari16.5.2 6 6
+chrome49.0.2623.112 27 6
+chrome125.0.6422.165 273 46
+mozilla 203 55
+chrome94.0.4606.85 37 2
+chrome90.0.4430.82 27 3
+safari16.5.1 122 25
+firefox108.0 6 6
+Unknown 6343 2212
+opera111.0.0.0 95 9
+chrome66.0.3359.158 413 244
+chrome41.0.2227.0 1 0
+opera12.16 3 2
+chrome89.0.4389.90 21 21
+chrome34.0.1847.137 1 0
+opera11.10 3 0
+chrome122.0.0.0 418 50
+chrome118.0.5993.80 2 2
+safari12.0 2 2
+chrome99.0.4844.84 2 2
+firefox57.0 2 2
+chrome126.0.0.0 47667 36574
+opera10.10 2 2
+safari17.5 12 6
+firefox45.66.18 3 0
+chrome110.0.0.0 12 12
+chrome126.0.6478.188 36 6
+chrome41.0.2225.0 4 0
+chrome36.0.1985.67 3 0
+chrome35.0.3319.102 2 0
+chrome76.0.49 1 1
+firefox46.0 3 0
+opera12.0 5 0
+chrome44.0.2403.155 4 2
+chrome36.0.1944.0 2 0
+opera12.80 1 0
+chrome84.0.254 1 1
+chrome 4 4
+edge13 5 0
+chrome35.0.2309.372 2 0
+opera11.50 2 0
+chrome125.0.6422.175 1538 127
+chrome77.0.3830.0 576 32
+chrome78.0.3904.62 14 14
+chrome118.0.0.0 6 6
+chrome79.0.3945.116 27 3
+firefox52.0 423 283
+opera12.00 5 2
+chrome103.0.5060.114 30 30
+chrome105.0.5195.79 17 2
+safari9.0 2 2
+chrome52.0.3624.98 6 6
+firefox114.0 4 4
+chrome50.0.1769 1 0
+chrome127.0.0.0 6620 5113
+firefox127.0 165 7
+chrome114.0.0.0 28 28
+chrome76.0.3809.100 2 2
+chrome126.0.6478.122 399 142
+chrome100.0.4758.11 2 2
+chrome70.0.3538.110 97 14
+chrome65.0.502 1 0
+chrome84.0.4147.105 2 2
+chrome117.0.5938.132 236 10
+opera11.52 4 2
+firefox126.0 5 5
+chrome97.0.673 1 1
+chrome122.0.6261.90 118 54
+chrome81.0.4044.145 2 2
+safari17.0 4 4
+chrome54.0.2840.98 2 2
+chrome92.0.4515.159 264 8
+chrome79.0.3945.147 2 2
+chrome41.0.2227.1 2 0
+opera62.0.3331.116 2 2
+chrome115.0.0.0 2 2
+firefox40.1 1 0
+chrome107.0.0.0 8 8
+chrome75.0.3770.143 2 2
+chrome101.0.4951.64 4 4
+firefox67.0 2 2
+firefox26.0 2 0
+safari17.0.1 2 2
+firefox123 2 2
+edge44 3 3
+chrome87.0.1125 1 0
+chrome26.0.1410.63 6 6
+safari15.5 15 3
+chrome77.0.3865.19 3 3
+netscape5.0 10 10
+chrome89.0.4389.114 2 2
+chrome79.0.3945.79 217 5
+msie11.0 2 2
+chrome78.0.3904.97 3 3
+chrome118.0.5993.70 2 2
+chrome78.0.3904.96 57 3
+chrome70.0.3538.77 7 5
+chrome125.0.6422.186 20 5
+chrome76.0.3809.111 10 10
+chrome126.0.6478.133 561 245
+firefox60.0 1 0
+chrome80.0.2678 2 2
+chrome52.0.2762.73 1 1
+chrome124.0.6367.82 26 3
+chrome55.0.2883.87 2 2
+chrome99.0.3809.100 15 2
+chrome126.0.6478.182 474 36
+chrome126.0.6478.135 803 515
+chrome60.0.3112.107 2 2
+chrome120.0.6099.193 50 9
+edge12 1 0
+chrome41.0.2224.3 2 0
+firefox25.0 5 0
+chrome126.0.6478.123 145 108
+chrome73.0.3683.90 2 2
+chrome74.0.3729.136 65 28
+chrome123.0.0.0 55 2
+chrome96.0.4664.45 3 2
+firefox128.0 275 109
+chrome75.0.3770.142 2 2
+chrome85.0.2627 1 1
+firefox58.0.1 2 0
+chrome59.0.2585 1 0
+firefox28.0 2 2
+chrome93.0.722 1 0
+msie9.0 9 9
+chrome108.0.5359.128 20 5
+opera11.01 13 0
+chrome40.0.2214.93 6 3
+firefox27.3 4 0
+chrome83.0.4103.116 294 54
+chrome35.0.2117.157 2 2
+safari 252 11
+firefox24.0 3 0
+chrome77.0.3865.116 12 2
+chrome83.0.4103.97 14 14
+chrome30.0.1599.114 2 2
+chrome103.0.0.0 14 14
+chrome113.0.5672.162 30 5
+chrome100.0.4896.127 2 2
+chrome84.0.4147.125 50 2
+chrome90.0.4430.210 897 239
+chrome124.0.6367.61 2 2
+firefox63.0 5 1
+firefox112.0 6 0
+iphone 3 2
+chrome17.0.963.65 1 1
+chrome121.0.0.0 355 72
+edge14 4 0
+chrome120.0.0.0 332 120
+chrome11.0.696.65 1 1
+android 8 6
+chrome79.0.3945.130 2 2
+chrome101.0.4951.41 4 4
+firefox89.0 2 2
+chrome75.0.3770.90 2 2
+chrome85.0.2261 1 0
+chrome70.0.3538.25 2 2
+chrome126.0.6478.71 281 60
+opera83.0.0.0 52 2
+chrome52.0.876 1 0
+firefox123.0 52 5
+opera12.14 5 1
+chrome58.0.20 1 0
+opera11.62 4 0
+chrome124.0.6367.179 2 2
+safari13.0.3 102 102
+chrome36.0.1985.125 4 1
+chrome116.0.0.0 59 44
+chrome70.0.1419 2 2
+chrome109.0.0.0 17510 15993
+chrome74.0.3729.169 143 143
+safari15.1 2 2
+chrome112.0.5615.136 11 3
+chrome37.0.2049.0 4 0
+firefox58.0 1 0
+chrome59.0.3071.125 49 3
+chrome112.0.0.0 104 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 20
+tc-lib-file 20240731134832
+Python/3.8_aiohttp/3.9.5 20240711072039
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_Mozilla/5.0,_Google-AdWords-Express)_Chrome/125.0.6422.175_Safari/537.36 20240715175511
+GuzzleHttp/7 20240704183255
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240728120508
+python-httpx/0.27.0 20240712182649
+got_(https://github.com/sindresorhus/got) 20240721114514
+WhatsApp/2.23.20.0 20240724162234
+GlobalWebSearchx 20240725045606
+okhttp/4.11.0-PPE/hermes-1_3_700 20240711181925
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240731150616
+Google 20240716201308
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240714093923
+Mozilla/5.0_zgrab/0.x 20240712203100
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240726030015
+Python/3.10_aiohttp/3.9.5 20240730180106
+okhttp/4.11.0-PPE/hermes-1_3_669 20240701025757
+Faraday_v0.17.6 20240724135825
+Symfony_BrowserKit 20240715222330
+PlayStore-Google 20240731212839
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 15
+tc-lib-file 20240731134832
+Python/3.8_aiohttp/3.9.5 20240711072039
+GuzzleHttp/7 20240704183255
+python-httpx/0.27.0 20240712182649
+WhatsApp/2.23.20.0 20240724162234
+got_(https://github.com/sindresorhus/got) 20240721114514
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240731150616
+okhttp/4.11.0-PPE/hermes-1_3_700 20240711181925
+GlobalWebSearchx 20240725045606
+Google 20240716201308
+Python/3.10_aiohttp/3.9.5 20240730180106
+Faraday_v0.17.6 20240724135825
+okhttp/4.11.0-PPE/hermes-1_3_669 20240701025757
+PlayStore-Google 20240731212839
+Symfony_BrowserKit 20240715222330
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 7410 7969
+From1 83 83
+From2 962 1015
+From3 15 51
+From4 77652 118115
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 8
+www_google_com 931 965
+www_bing_com 2 11
+baidu 8 8
+www_google_fr 2 2
+bing_com_catchall 2 2
+in_search_yahoo_com 5 5
+www_google_co_in 6 6
+google_com 6 16
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://mail.nuscma.com 12 12
+http://www.xtrafficplus.shop 3 3
+http://mail.nuscma.com/assets/img/Nuscma-tab-icon.svg 0 1
+https://mail.nuscma.com 0 35
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 13
+302 8324 13461249
+400 1 0
+504 8 3748
+406 834 187806
+403 17962 6430396
+301 2324 570552
+502 1 0
+206 198 31523033
+404 12491 4629802
+503 7 2148
+409 352 28967
+421 645 207690
+500 8380 21838
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 256
+/wp-content/plugins/startklar-elmentor-forms-extwidgets/assets/dropzone/basic.css 1 -
+/photo/2023-06-13 62 -
+/photo/2023-04-15%2003:17:22 10 -
+/js/appear.min.js 25 -
+/assets/icons/newicons/Nuscma-tab-icon.svg 291 -
+/secrets.json 4 -
+/assets/css/pages-css/footer.css.map 7 -
+/config.yml 8 -
+/nulinz.com/distributorship.php 2 -
+/photo/2023-09-19 42 https://nuscma.com/view_school.php
+/application/configs/application.ini 2 -
+/individual_school_parent_modules/sri_srv_mhs_school_attur/policy/pp.php 68 -
+/js/odometer.min.js 25 -
+/sitemap.xml.gz 2 -
+/nulinz.com/nulinzManag/branchs 2 -
+/photo/2024-04-08 6 -
+/shop 2 -
+/Terms&Policy.php 14 -
+/software/teacher/service-worker.js 34 https://nuscma.com/software/teacher/index.php
+/cloud-config.yml 4 -
+/photo/2023-04-27%2010:14:47 50 https://www.nuscma.com/view_school.php
+/assets/css/pages-css/gallery.css.map 7 -
+/400.shtml 3 -
+/sitemaps.xml 4 -
+/dns-query 2 -
+/about 6 -
+/photo/2023-07-16 4 -
+/privacypolicy.txt 60 -
+/nulinz.com 6 -
+/___proxy_subdomain_cpanel/unprotected/loader.html 32 https://nuscma.com/
+/core 8 -
+/franchise.php 16 -
+/index.html 6 -
+/photo/2023-09-11 8 -
+/config.xml 8 -
+/individual_school_parent_modules/sri_raghavendra_mechari/policy/pp.php 68 -
+/___proxy_subdomain_cpanel/.git-credentials 1 -
+/%3Cbr%20/%3E%3Cb%3EWarning%3C/b%3E:%20%20Trying%20to%20access%20array%20offset%20on%20value%20of%20type%20null%20in%20%3Cb%3E/home2/nuscmy3y/public_html/view_school.php%3C/b%3E%20on%20line%20%3Cb%3E430%3C/b%3E%3Cbr%20/%3E 2 -
+/assets/css/pages-css/profile-authentication.css.map 7 -
+/assets/css/pages-css/home-five.css.map 7 -
+/products-details.html 6 -
+/photo/2024-02-10_09:47:57%20am_schllogo.jpg 1 -
+/cfide/scripts/ajax/fckeditor/editor/filemanager/browser/default/browser.html 2 -
+/assets/css/pages-css/team.css.map 7 -
+/___proxy_subdomain_webmail/.git/config 2 -
+/modules/simpleimportproduct/views/fonts/myprestamodules.svg 1 -
+/config.js 1 -
+/home2/nuscmy3y/public_html/software/admin/tcpdf/examples/images/ 180 -
+/assets/css/pages-css/checkout.css.map 7 -
+/blog 10 -
+/___proxy_subdomain_cpanel/.git/config 2 -
+/contact 2 -
+/Public/admin/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/js/fckeditor/editor/filemanager/browser/default/browser.html 2 -
+/sitemap.xml 38 -
+/static/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/img/classify/img1.jpg 50 https://nuscma.com/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/my_profile.php
+/___proxy_subdomain_cpcalendars/.git-credentials 1 -
+/wordpress/wp-admin/setup-config.php 2 http://nuscma.com/wordpress/wp-admin/setup-config.php
+/assets/css/pages-css/home-one.css.map 7 -
+/.env.production 8 -
+/backup.tar.gz 4 -
+/software/individual_school_teacher_modules/srm_mechari/service-worker.js 64 https://nuscma.com/software/individual_school_teacher_modules/srm_mechari/
+/___proxy_subdomain_cpcontacts/docker-compose.yml 1 -
+/Public/home/js/check.js 14 -
+/___proxy_subdomain_webmail/ 23 -
+/.well-known/assetlinks.json 89 -
+/jQuery-File-Upload/server/php/index.php 2 -
+/___proxy_subdomain_webdisk/codebuild.yml 1 -
+/photo/2024-02-13_10:10:18%20am_schlimage.jpg 2 -
+/Public/Plugin/h-ui/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/photo/2024-02-10_09:39:10%20am_schllogo.jpg 1 -
+/assets/css/gendral.css 2 -
+/aws.yml 2 -
+/js/owl.carousel.min.js 25 -
+/_all_dbs 6 -
+/assets/css/style.css.map 7 -
+/requestReset 2 -
+/config.yaml 8 -
+/nulinz.com/index.html 2 -
+/software/individual_school_teacher_modules/srm_mechari/img/icons/DJI_0890%20(2).jpg 28 https://nuscma.com/software/individual_school_teacher_modules/srm_mechari/
+/software/Teacher_Documents/school_Profile%20Pictureb46ddb93f5e03b40328e6c60912eb712.jpg 1 https://nuscma.com/software/admin/teacherProfile.php
+/new 10 -
+/___proxy_subdomain_cpcalendars/docker-compose.yml 1 -
+/docker-compose.yml 21 -
+/___proxy_subdomain_webdisk/ 21 -
+/___proxy_subdomain_webmail/.git-credentials 1 -
+/assets/css/pages-css/navbar.css.map 7 -
+/modules/jmarketplace/Readme.md 2 -
+/app-ads.txt 676 -
+/.git/HEAD 8 -
+/security.txt 2 http://www.nuscma.com/security.txt
+/.svn/wc.db 8 -
+/about-us.php 6 -
+/photo/2024-02-04 151 https://nuscma.com/view_school.php
+/static/hui/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/___proxy_subdomain_cpcalendars/ 14 -
+/sites/favicon.png 2 -
+/.well-known/traffic-advice 134 -
+/assets/css/pages-css/home-three.css.map 7 -
+/wp-config.php 8 -
+/_fragment 10 -
+/wp-content/plugins/wp-automatic/css/style.css 1 -
+/assets/css/pages-css/products-details.css.map 7 -
+/assets/css/pages-css/home-two.css.map 7 -
+/home 8 -
+/___proxy_subdomain_cpanel/codebuild.yml 1 -
+/photo/2024-02-10_09:59:45%20am_schllogo.jpg 1 -
+/software/nuscma_2/beta/profile_staff 6 https://nuscma.com/software/nuscma_2/beta/list_staff.php
+/packages/barryvdh/elfinder/js/elfinder.min.js 1 -
+/assets/css/pages-css/coming-soon.css.map 7 -
+/old 10 -
+/ 92 -
+/photo/2024-02-10_10:21:04%20am_schllogo.jpg 1 -
+/assets/css/pages-css/cart.css.map 7 -
+/Public/webuploader/0.1.5/server/fileupload.php 2 -
+/Plugs/ueditor/net/controller.ashx 2 -
+/phpinfo 2 -
+/___proxy_subdomain_cpanel/docker-compose.yml 1 -
+/photo/2024-04-08Screenshot%202023-04-21%20205159.png 29 https://www.nuscma.com/school_list.php
+/___proxy_subdomain_cpcalendars/robots.txt 4 -
+/___proxy_subdomain_webdisk/docker-compose.yml 1 -
+/___proxy_subdomain_cpcalendars/.git/config 3 -
+/humans.txt 2 http://www.nuscma.com/humans.txt
+/CMSModules/MediaLibrary/CMSPages/MultiFileUploader.ashx 2 -
+/___proxy_subdomain_cpcontacts/.git/config 2 -
+/server.key 8 -
+/wp-admin/install.php 6 -
+/.well-known/security.txt 4 -
+/assets/css/pages-css/home-six.css.map 7 -
+/pp.php 4 -
+/ads.txt 54 -
+/_profiler/phpinfo 2 -
+/ewebeditor/ueditor/net/controller.ashx 2 -
+/static/admin/javascript/hetong.js 14 -
+/assets/css/pages-css/contact.css.map 7 -
+/js/bootstrap.bundle.min.js 25 -
+/software/nuscma_2/beta/profile_student 2 https://nuscma.com/software/nuscma_2/beta/list_student.php
+/js/jquery.min.js 25 -
+/___proxy_subdomain_webdisk/.git-credentials 1 -
+/css2 7366 https://nuscma.com/assets/css/style.css
+/photo/2024-02-05 8 https://nuscma.com/view_school.php
+/photo/2024-04-08Screenshot%202023-11-09%20174601.png 3 -
+/___proxy_subdomain_cpanel/robots.txt 9 -
+/newsite 8 -
+/fckeditor/editor/filemanager/browser/default/browser.html 2 -
+/assets/css/pages-css/faq.css.map 7 -
+/assets/css/pages-css/privacy-policy.css.map 7 -
+/wordpress 10 -
+/___proxy_subdomain_webdisk/.git/config 2 -
+/config.json 7 -
+/user_secrets.yml 4 -
+/photo/2024-02-10_09:39:15%20am_schllogo.jpg 1 -
+/.ssh/id_ed25519 8 -
+/sitemap 2 https://nuscma.com/robots.txt
+/nil 2 -
+/inputs.php 2 www.google.com
+/v2/_catalog 6 -
+/.git/config 63 -
+/.aws/credentials 10 -
+/jquery-file-upload/server/php/index.php 2 -
+/staffLogin.php 20 -
+/faq.html 6 -
+/___proxy_subdomain_webmail/robots.txt 4 -
+/___proxy_subdomain_cpcontacts/robots.txt 4 -
+/config.php 8 -
+/assets/css/reset%20-%20Copy.css 2 -
+/admins/ 4 -
+/archivarix.cms.php 2 https://nuscma.com/archivarix.cms.php
+/Plugin/ueditor/net/controller.ashx 2 -
+/photo/2023-04-17%2012:23:25 14 -
+/software/teacher/element-hero-blocks.html 8 -
+/debug/default/view 6 -
+/modules/simpleimportproduct/views/js/error.js 2 -
+/js/magnific-popup.min.js 22 -
+/s/2383e2235323e20313e2631323/_/ 6 -
+/science-fest.php 4 -
+/wp-login.php 1 http://www.google.com.hk
+/assets/js/%25url%25 3 -
+/info.php 2 -
+/___proxy_subdomain_cpcontacts/.git-credentials 1 -
+/___proxy_subdomain_cpcalendars/codebuild.yml 1 -
+/js/meanmenu.min.js 25 -
+/___proxy_subdomain_cpanel/ 15 -
+/wp-admin/setup-config.php 12 -
+/feed 8 -
+/individual_school_parent_modules/ssv_school_mechari/policy/pp.php 68 -
+/___proxy_subdomain_webdisk/robots.txt 5 -
+/___proxy_subdomain_cpcontacts/codebuild.yml 1 -
+/phpinfo.php 10 -
+/aeromodellingBasic.php 10 -
+/.vscode/sftp.json 5 -
+/individual_school_parent_modules/ssv_school_belur/policy/pp.php 70 -
+/testing 8 -
+/assets/css/pages-css/error.css.map 7 -
+/wp 10 -
+/nulinz.com/internship.php 2 -
+/assets/css/pages-css/terms-conditions.css.map 7 -
+/assets/ueditor/net/controller.ashx 2 -
+/photo/2024-02-13_10:10:18%20am_schllogo.jpg 35 https://www.nuscma.com/school_list.php
+/assets/css/pages-css/how-it-works.css.map 7 -
+/telescope/requests 6 -
+/.ssh/id_ecdsa 8 -
+/js/aos.js 25 -
+/assets/css/pages-css/home-four.css.map 7 -
+/assets/css/pages-css/blog-details.css.map 7 -
+/public/static/admin/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/js/ajaxchimp.min.js 25 -
+/server 6 -
+/modules/mod_rebug/manifest.xml 2 -
+/parentsLogin.php 10 -
+/photo/2024-07-16 10 https://nuscma.com/view_school.php
+/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js 1 -
+/.git-credentials 13 -
+/modules/mod_review/manifest.xml 2 -
+/config/database.php 8 -
+/photo/2024-05-02 4 -
+/software/teacher/policy/bankdetails.php 2 -
+/backup.zip 4 -
+/config/production.json 4 -
+/robots.txt 1118 -
+/modules/jmarketplace/views/js/multipleshipping.js 1 -
+/admin/ueditor/net/controller.ashx 2 -
+/util/login.aspx 2 -
+/unprotected/loader.html 32 https://nuscma.com/
+/validationAjax.php 6 -
+/photo/2023-06-30 18 https://www.nuscma.com/view_school.php
+/admin/ewebeditor/ueditor/net/controller.ashx 2 -
+/ueditor/net/controller.ashx 2 -
+/software/teacher/policy/profile.php 2 -
+/config/aws.yml 2 -
+/login.action 6 -
+/admin/fckeditor/editor/filemanager/browser/default/browser.html 2 -
+/dnsquery 2 -
+/___proxy_subdomain_webmail/docker-compose.yml 1 -
+/software/nuscma_2/beta/list_student 8 -
+/wp-json/litespeed/v1/cdn_status 3 http://nuscma.com/wp-json/litespeed/v1/cdn_status
+/admin/ 2 -
+/nulinz.com/ 6 -
+/Public/Admin/hui/lib/webuploader/0.1.5/server/fileupload.php 2 -
+/software/teacher/policy/img/icons/icon-96x96.png 1 -
+/assets/css/pages-css/products.css.map 7 -
+/test 10 -
+/.kube/config 8 -
+/___proxy_subdomain_webmail/codebuild.yml 1 -
+/js/contact-form-script.js 15 -
+/js/form-validator.min.js 24 -
+/.DS_Store 20 -
+/login 2 -
+/js/swiper-bundle.min.js 25 -
+/___proxy_subdomain_cpcontacts/ 19 -
+/sitemap.txt 4 -
+/js/main.js 25 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 6 -
+/codebuild.yml 13 -
+/software/requestReset.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1403
+117.253.84.55 4785 4805 129257574 20240718180222
+117.253.94.105 3739 3981 134889634 20240719172739
+120.56.17.64 3262 3265 58590349 20240717154827
+120.56.235.148 2572 2837 87668791 20240717173804
+120.56.235.192 2179 2273 73605185 20240720163155
+117.253.188.244 2004 2179 40170279 20240716165136
+120.56.236.119 1949 2243 57299940 20240711124742
+117.203.70.158 1673 1957 74791351 20240716172543
+120.60.119.50 1614 1614 63826265 20240723141917
+117.253.182.1 1587 1953 92103435 20240727162334
+120.56.231.145 1382 1395 77021122 20240715165032
+117.203.64.77 1358 1358 83429991 20240722172332
+117.193.242.41 1357 1357 44071683 20240725141637
+117.253.178.112 1336 1427 92605874 20240730162047
+117.253.184.214 1202 1203 73655027 20240731160052
+117.203.75.9 1159 1433 65990265 20240724142053
+120.60.115.213 1097 1223 47954865 20240705152857
+120.56.230.54 994 1088 55043554 20240709171652
+120.56.22.87 973 1444 76244166 20240729171306
+117.253.83.241 926 928 41789905 20240729162755
+120.60.114.103 922 1183 58961806 20240726142909
+120.60.121.236 876 1061 53643878 20240725150328
+120.56.235.245 873 1323 46481725 20240712172013
+117.253.89.70 849 849 65116262 20240701154645
+120.60.127.86 799 972 64962777 20240708173452
+120.56.18.219 156 219 11838354 20240704145217
+157.49.246.4 2 2 2472 20240725074734
+175.44.42.54 1 1 10708 20240717135349
+152.58.212.32 10 25 352391 20240705101527
+106.195.35.160 107 248 8706257 20240728090756
+154.13.208.192 3 50 502805 20240713075616
+157.51.197.112 12 49 1090660 20240714103415
+18.232.107.211 2 10 118308 20240704011706
+106.198.22.101 32 61 135619 20240709214505
+43.163.8.148 2 2 21418 20240704132210
+157.51.71.118 14 14 29956 20240730165445
+152.58.198.206 5 61 1339347 20240731184757
+205.169.39.19 2 2 21416 20240726041819
+152.58.212.127 2 10 1050810 20240723192249
+223.181.202.141 5 61 1500269 20240705175906
+206.189.109.140 2 2 21418 20240714222133
+178.254.38.45 4 4 42834 20240719013911
+52.202.99.3 2 10 118308 20240709040337
+27.60.166.160 2 2 27128 20240704101411
+137.184.8.252 2 2 14966 20240716143535
+157.51.195.47 71 108 1226655 20240730200537
+157.48.170.41 2 2 2906 20240704204415
+157.51.195.234 20 20 67496 20240726201634
+35.173.241.167 2 10 118308 20240705223730
+157.49.99.159 0 3 64282 
+8.41.221.55 43 1302 86413618 20240731171445
+119.13.101.219 2 2 18666 20240704014330
+157.51.193.20 15 15 44596 20240702185741
+157.49.96.173 2 15 160595 20240704175025
+117.203.64.185 656 933 49718001 20240703105405
+123.207.198.35 2 2 21418 20240707112633
+35.203.128.8 6 35 578082 20240720175823
+42.104.129.159 5 5 7046 20240719051313
+18.209.28.246 2 10 118308 20240708121422
+34.212.216.241 2 2 21416 20240716155747
+87.236.176.101 0 1 2446 
+120.60.126.166 2 80 4621236 20240709094123
+152.58.221.186 5 7 65237 20240711172157
+66.249.88.227 2 2 21418 20240715175509
+157.49.228.27 120 222 38714521 20240704053445
+117.193.242.200 249 250 11512487 20240712172717
+106.198.77.10 64 103 1304926 20240703192346
+49.47.219.97 210 213 5409958 20240731161914
+106.197.69.229 15 24 115020 20240712142217
+157.49.218.167 2 15 2802 20240705164301
+106.75.66.124 1 2 69335 20240707075856
+43.155.160.173 6 6 64252 20240725031721
+72.14.199.197 5 98 4520844 20240710132419
+157.49.213.96 78 78 5591147 20240723161012
+158.220.106.179 2 2 21416 20240718193513
+66.249.87.236 28 155 3990610 20240706180127
+45.196.45.13 2 2 21418 20240714091835
+157.51.196.13 4 19 424902 20240721134240
+49.47.218.128 13 137 11634777 20240731112657
+106.208.123.14 14 51 31386 20240713141651
+152.58.215.24 38 171 30985871 20240718113437
+157.45.205.55 2 17 421986 20240727155347
+42.104.142.79 40 69 87570 20240710203439
+223.181.244.106 7 41 10393660 20240722185938
+157.49.198.170 6 43 1323459 20240705191532
+120.60.113.156 475 475 39311391 20240724140902
+157.51.194.57 10 27 17915499 20240722080701
+49.47.218.58 2 2 21416 20240718180503
+123.6.49.47 2 69 4176772 20240713144133
+167.94.138.46 2 3 23862 20240726030010
+106.222.97.165 13 92 3429924 20240701151142
+157.51.199.48 2 16 181233 20240714121538
+157.49.207.214 2 2 2908 20240720081152
+107.178.235.234 1 1 0 20240712072335
+15.204.183.221 2 2 21418 20240704051215
+157.46.81.0 13 51 136552 20240725154054
+107.191.49.22 11 11 583 20240712150740
+167.172.238.236 2 2 16420 20240717220331
+117.253.85.225 2 2 21418 20240703102623
+64.233.172.103 0 29 72269 
+152.58.213.253 2 2 2802 20240712091945
+150.109.16.20 2 2 21418 20240708041122
+49.47.218.97 2 2 2798 20240713113849
+110.238.104.161 2 2 12714 20240706212753
+106.195.40.93 2 17 422000 20240731162955
+93.158.91.25 2 3 23864 20240705001100
+49.47.218.15 53 53 3265613 20240717110608
+120.60.122.214 69 69 204290 20240714164455
+149.56.160.172 3 80 4725118 20240714093922
+120.56.19.123 2 17 421996 20240707161438
+206.168.34.58 2 3 23862 20240726003011
+117.43.97.167 2 2 99588 20240716060744
+206.168.34.211 2 3 23864 20240716085643
+88.99.26.177 2 2 21416 20240728121101
+157.49.99.155 2 17 2908 20240706164401
+209.85.238.2 31 203 4426256 20240724130134
+157.51.193.137 194 259 8715125 20240724221219
+42.104.142.173 2 2 2802 20240701190209
+157.49.252.184 6 6 8394 20240721213934
+157.51.196.38 2 2 2914 20240724183323
+34.212.17.217 2 2 21416 20240716155827
+193.186.4.141 4 4 35718 20240718210044
+54.159.105.153 2 2 21418 20240709072307
+120.60.114.79 280 471 21823258 20240718183619
+42.106.176.165 3 57 888575 20240724221828
+152.58.246.240 10 10 27137 20240708202359
+117.253.81.87 431 442 28208622 20240705132903
+138.197.149.134 2 2 21418 20240715064136
+157.51.196.114 18 55 63396 20240711161645
+179.43.191.18 2 2 21416 20240725045606
+157.49.233.249 9 9 28345 20240716200238
+157.51.193.118 3 27 388091 20240714162243
+49.44.87.74 80 118 1004046 20240705115610
+106.197.123.227 13 28 438423 20240731185557
+27.62.18.56 2 15 160595 20240710161131
+106.195.32.88 11 55 1723842 20240724134046
+152.58.251.155 2 2 2798 20240704142738
+223.187.120.37 4 18 5604 20240715192509
+106.222.122.241 16 43 148396 20240731114351
+18.234.55.100 2 2 21416 20240730072436
+49.206.115.232 3 60 1654370 20240725104105
+157.49.241.119 90 90 7146634 20240708130039
+161.35.213.57 2 2 21416 20240725055941
+154.28.229.195 5 5 53540 20240723105552
+152.58.248.40 2 17 2882 20240703180844
+157.51.195.60 2 2 2472 20240729073942
+27.60.165.54 0 1 58626 
+18.232.132.102 4 4 199176 20240713094904
+27.62.140.194 4 4 5604 20240726211013
+117.253.80.133 84 149 7280947 20240719173649
+106.195.35.236 6 21 267495 20240727154922
+157.51.193.133 6 49 544333 20240725213102
+111.7.96.152 2 3 23862 20240729051809
+157.51.199.75 61 61 163269 20240714200114
+43.155.136.16 4 4 42834 20240731192707
+157.46.64.78 5 19 7046 20240713070816
+34.76.151.34 181 251 2209493 20240711072039
+195.211.77.140 7 7 0 20240729003719
+47.128.254.60 2 2 21416 20240728205347
+60.188.57.0 2 2 21418 20240712074531
+106.198.118.234 2 17 2906 20240723132443
+152.58.214.73 49 49 106674 20240716055135
+66.249.83.129 2 22 225894 20240715175508
+157.49.197.32 7 7 17629 20240703200417
+120.60.121.23 366 443 30819368 20240722162338
+47.89.193.162 2 2 21418 20240708214722
+120.60.125.7 463 511 40588905 20240702132006
+45.148.10.59 12 12 128496 20240730144557
+117.203.71.95 274 276 18041537 20240712170820
+223.187.122.172 3 59 1490585 20240709102900
+106.222.117.144 0 1 58626 
+106.197.142.150 3 60 1654370 20240716230804
+157.51.196.50 2 2 2898 20240707074337
+5.133.192.138 2 3 23864 20240710233134
+117.202.233.215 2 37 1120705 20240703163907
+42.104.142.81 11 12 72130 20240731173856
+149.28.104.119 11 11 583 20240716213555
+42.104.129.169 7 67 2768582 20240715102109
+27.60.164.127 52 102 1635131 20240725210723
+223.182.207.218 135 173 1427589 20240711070005
+106.198.31.223 5 20 426403 20240710131757
+36.134.147.75 4 4 42834 20240718101631
+120.56.239.7 415 674 37004078 20240701121200
+74.125.217.101 2 8 47218 20240724052149
+157.51.196.29 2 2 2900 20240717120329
+106.197.127.216 2 2 27128 20240721080810
+205.169.39.46 5 61 2624861 20240722195338
+199.182.172.210 2 2 14242 20240713075632
+152.58.213.18 5 5 7313 20240701201602
+106.208.81.118 12 27 436760 20240708114826
+157.49.202.65 4 4 5824 20240709175718
+49.47.243.230 0 1 287548 
+64.233.172.97 2 24 81332 20240704135739
+117.253.92.150 140 140 9210172 20240706165658
+106.222.238.133 3 59 1423268 20240703110631
+120.56.233.139 448 744 34435641 20240720171841
+152.58.215.13 4 4 5820 20240715121125
+49.47.216.93 58 145 8434183 20240724163923
+120.60.112.105 94 228 11632084 20240724120106
+106.198.124.71 15 15 43963 20240722055931
+199.182.173.14 2 2 16420 20240713075721
+106.211.194.159 35 64 577627 20240702185819
+171.79.53.197 22 59 1120017 20240729110016
+139.59.70.51 2 2 21416 20240723074556
+106.205.119.39 3 59 1285415 20240724191525
+94.103.188.103 6 6 158260 20240704164628
+110.224.94.188 4 18 184035 20240711085513
+42.106.187.136 2 32 832660 20240722220231
+66.249.92.168 0 1 1072 
+144.202.63.58 11 11 583 20240730234407
+152.58.198.111 5 118 9124434 20240722185104
+27.60.173.248 2 15 178787 20240726202115
+5.161.214.123 2 2 10414 20240715113559
+152.58.252.241 2 17 2902 20240717211357
+117.253.91.40 383 658 41074213 20240720171607
+199.34.85.7 3 55 1276091 20240722082730
+42.104.129.32 50 87 1031911 20240728134333
+110.224.91.96 0 2 205308 
+171.79.60.61 0 2 71644 
+157.46.66.20 2 2 15930 20240712062643
+157.49.209.210 3 3 10731 20240703200306
+157.51.195.0 7 22 10264 20240730212032
+42.105.223.1 3 26 329535 20240719083600
+45.137.9.58 2 2 21418 20240714071314
+101.44.162.42 2 2 17826 20240703225619
+193.186.4.106 2 2 21416 20240717233041
+157.51.192.32 2 12 364174 20240713151443
+49.204.139.204 0 2 504648 
+120.56.31.99 175 175 13348272 20240731175017
+157.49.97.138 6 6 7416 20240713103607
+223.182.192.12 2 2 27128 20240727130134
+120.56.235.124 12 102 5997817 20240727160737
+120.56.238.161 22 59 1120530 20240723171411
+43.131.248.209 2 2 21416 20240727221427
+94.137.63.203 18 32 204059 20240708075337
+3.81.114.30 2 2 45338 20240713061314
+171.79.60.126 9 60 11936263 20240715220217
+92.204.175.89 8 8 286856 20240712184341
+106.197.32.169 3 59 1423268 20240703211249
+23.145.40.147 4 6 54486 20240724023958
+199.192.115.21 24 76 1680556 20240720192941
+117.253.190.180 503 594 32067438 20240709170919
+117.253.177.240 672 773 45630557 20240719172025
+152.58.212.126 7 7 17753 20240727081648
+157.49.199.22 2 18 416421 20240717190102
+157.49.202.74 54 91 1216126 20240709095512
+157.51.195.109 3 3 4398 20240708190753
+74.125.218.229 0 12 2073906 
+171.79.49.88 2 5 2802 20240702094703
+157.51.195.191 17 54 1104177 20240701174329
+152.58.213.217 4 9 7317652 20240723192237
+54.158.243.222 2 10 118308 20240706203305
+157.49.243.199 4 4 4944 20240703173255
+207.148.1.105 11 11 583 20240709030556
+198.235.24.74 2 2 99588 20240710095937
+175.44.42.84 2 2 21418 20240711052415
+103.116.33.139 1 1 10709 20240711181925
+223.182.223.191 2 2 2802 20240703185552
+157.46.92.254 6 6 8488 20240703161421
+157.51.194.237 2 17 2916 20240707153534
+1.24.16.3 2 2 21418 20240710130913
+157.49.97.225 1 1 1492 20240714072730
+49.47.240.194 8 87 4262773 20240703142400
+152.58.253.235 6 20 423245 20240702212020
+223.181.224.115 34 34 130890 20240705203128
+106.208.43.202 4 4 5804 20240719170306
+152.58.213.20 61 120 2006152 20240705102053
+152.58.213.238 0 2 254640 
+91.90.122.31 2 2 21418 20240710061330
+49.204.136.189 0 1 52709 
+117.253.190.82 11 52 7479214 20240731103451
+199.182.172.150 2 2 21418 20240713075655
+175.6.217.4 2 2 21418 20240710172720
+42.104.130.247 8 8 107556 20240706134327
+103.149.12.33 12 12 106864 20240731135157
+152.58.199.236 3 83 4729530 20240712211156
+14.194.220.98 0 2 196074 
+43.157.40.112 4 4 42832 20240726120259
+110.224.91.25 3 58 1318275 20240703131646
+152.58.252.174 7 41 9878190 20240717201431
+152.58.212.84 38 55 10616398 20240723192137
+27.60.174.47 2 2 2802 20240703183157
+51.254.49.110 2 2 99588 20240705165817
+117.249.209.248 22 22 66794 20240730080731
+34.1.11.140 6 14 161742 20240720123926
+157.51.156.44 59 79 1329624 20240716193958
+23.230.167.178 2 2 21416 20240722053959
+106.75.168.236 2 9 266392 20240731072530
+157.51.193.66 7 16 269152 20240717202512
+172.225.219.7 2 2 18626 20240704161352
+152.58.213.133 4 4 5604 20240716112543
+152.58.198.47 3 58 1660426 20240703182417
+87.236.176.81 0 1 2446 
+106.197.92.39 20 57 1358544 20240705183557
+168.91.45.39 3 50 496353 20240728075958
+52.0.200.203 2 2 21418 20240702195656
+152.58.205.37 2 2 2910 20240713214909
+157.49.98.13 2 4 44589 20240716203441
+43.159.141.180 2 2 21418 20240703131241
+137.184.12.208 2 2 12714 20240716210636
+152.58.249.215 3 59 1361316 20240725191724
+157.51.85.202 17 69 14207922 20240703162907
+157.51.193.81 4 4 5892 20240714114609
+157.46.68.245 2 16 5248 20240723091930
+223.181.218.213 60 97 1200092 20240727103435
+171.79.50.21 2 15 178787 20240709165345
+117.203.72.60 646 653 29359240 20240731165807
+223.181.199.173 2 15 178787 20240720165633
+106.197.43.36 12 12 41908 20240714093422
+49.44.86.5 2 16 239048 20240703130723
+152.58.213.71 2 4 257556 20240729192038
+35.89.9.34 1 1 0 20240723052000
+85.164.48.112 2 2 21416 20240726110034
+27.60.166.41 12 49 31312 20240714104105
+47.254.25.10 2 2 21416 20240729000834
+66.249.66.163 4 4 29778 20240731100639
+133.242.174.119 2 2 21418 20240708124552
+47.251.13.32 2 2 21418 20240708215732
+223.244.35.77 2 2 21418 20240704021142
+157.49.97.229 2 15 178787 20240729175512
+205.169.39.45 2 55 4151794 20240709152857
+180.149.22.249 2 56 4152562 20240709153458
+223.187.117.27 48 80 2813439 20240731112939
+35.187.132.230 6 15 103639 20240709142643
+202.88.170.208 3 56 1278537 20240702193813
+157.51.136.145 4 18 431028 20240727184000
+199.182.172.204 3 50 491801 20240713075804
+157.51.193.127 195 286 8890285 20240720213559
+125.94.144.102 2 2 21416 20240730060411
+223.182.205.203 6 30 391768 20240708220555
+157.51.197.97 2 17 422000 20240712073827
+42.83.147.56 2 2 21418 20240710013216
+43.130.47.136 2 2 21418 20240715182944
+157.47.105.96 4 4 5812 20240710184513
+157.51.193.32 3 78 4135539 20240722163912
+72.14.201.141 17 17 132340 20240731220138
+157.46.75.132 44 49 211479 20240701192841
+169.197.140.199 2 3 23864 20240715214231
+42.106.185.178 2 16 160595 20240703151836
+47.88.94.161 2 2 21416 20240724223617
+152.58.222.207 52 90 1223001 20240710204840
+179.43.189.90 2 2 21416 20240731153018
+66.249.87.231 0 1 18118 
+122.174.41.239 5 88 4913038 20240710101328
+49.47.218.66 3 50 502805 20240708095127
+120.60.125.248 181 440 21999869 20240727170837
+172.241.244.95 2 2 21418 20240702000359
+157.49.196.166 51 88 1198058 20240710053314
+157.49.247.45 9 9 28327 20240715195745
+223.181.203.148 50 58 140897 20240723195335
+106.208.59.230 3 59 1423268 20240710175442
+42.83.147.55 3 3 32127 20240703054041
+123.249.91.159 2 2 21418 20240702021116
+45.86.86.251 6 6 158260 20240702154537
+157.49.225.203 102 139 862231 20240703071247
+157.49.211.42 9 11 97810 20240709154226
+157.51.198.106 24 62 30456793 20240704191345
+51.77.105.91 2 85 5149010 20240711011156
+66.249.92.149 0 1 2191 
+34.217.212.147 1 1 10709 20240704161203
+47.89.193.239 2 2 21418 20240708214722
+223.187.117.203 2 15 2802 20240701104150
+223.150.40.180 2 2 99588 20240716044413
+159.65.37.38 2 2 21418 20240705075318
+106.220.251.187 2 16 181233 20240721201059
+101.44.160.68 2 2 16852 20240710194428
+117.203.72.16 492 582 26860689 20240727142002
+65.111.1.176 4 4 31832 20240715161142
+72.14.201.142 6 6 51892 20240727131908
+106.221.16.189 2 17 160795 20240720222109
+157.46.80.56 39 66 105824 20240722205248
+157.51.190.3 0 1 58626 
+72.14.199.199 4 14 180502 20240709131949
+124.243.136.118 2 2 30664 20240710132054
+106.222.109.234 6 20 433910 20240718203311
+3.140.201.252 1 1 10709 20240709142647
+52.81.203.9 1 2 69335 20240707075358
+152.58.247.59 2 16 2794 20240720103553
+117.253.178.23 150 151 9198107 20240726160642
+15.204.182.106 4 4 42836 20240707075505
+117.253.178.212 57 58 6637909 20240706170521
+205.169.39.29 3 79 4724689 20240729094014
+193.186.4.143 20 20 175586 20240731215907
+88.181.221.195 4 4 96624 20240727182919
+106.197.69.138 2 14 177727 20240726193154
+110.224.93.225 3 3 13959 20240703112005
+157.46.64.60 0 25 16431100 
+157.51.197.212 2 3 21416 20240728095258
+193.186.4.195 2 2 15930 20240720115824
+152.58.212.163 5 117 9121988 20240728161616
+106.197.89.120 3 26 2402 20240723071551
+106.197.167.65 14 36 10709057 20240708160957
+223.181.219.32 2 17 2908 20240711174148
+67.218.4.205 2 49 359369 20240729164719
+66.249.75.224 2 2 2840 20240706162508
+152.58.212.34 13 13 39341 20240727074106
+106.197.96.125 3 59 1361316 20240717185742
+111.7.100.31 0 2 3293 
+118.190.147.229 2 2 21418 20240701011821
+106.195.37.153 2 17 422006 20240710214312
+152.58.213.35 23 23 73835 20240708185245
+35.234.176.169 4 27 895249 20240706201521
+137.184.233.191 4 4 30356 20240716044309
+157.49.223.190 84 85 271284 20240730211641
+49.47.218.120 3 58 1318275 20240715150429
+152.58.253.125 2 15 178787 20240705123740
+157.51.198.42 2 15 178787 20240713143722
+216.10.252.82 138 138 27984 20240731134832
+52.52.223.54 2 2 21418 20240704205517
+223.187.118.243 15 93 37336858 20240711060141
+157.49.200.169 0 4 0 
+106.197.83.84 2 16 181233 20240706083253
+106.75.166.28 4 18 532784 20240731072457
+144.126.238.167 2 2 21416 20240721073243
+182.156.1.58 0 1 84079 
+157.49.229.28 15 16 790510 20240723142648
+117.247.105.233 2 2 27132 20240708115122
+152.58.252.70 2 2 2802 20240730064200
+107.178.231.113 1 1 0 20240719064042
+106.198.23.6 3 26 329535 20240717221805
+87.236.176.201 2 2 21416 20240725191008
+154.28.229.212 1 1 10709 20240708173531
+64.233.173.231 0 16 71432 
+117.193.244.171 61 185 8981270 20240731181353
+157.47.111.189 2 2 2906 20240711043616
+223.182.216.33 4 4 5812 20240719182046
+117.193.247.225 545 622 22880360 20240712121923
+27.57.39.29 0 2 504648 
+152.58.253.38 3 58 1346407 20240716201433
+157.49.245.152 35 110 35697718 20240709062232
+152.58.247.177 53 61 149009 20240708195208
+152.58.213.139 2 55 1219770 20240708133121
+45.14.244.50 2 2 21416 20240730231328
+117.253.92.210 692 724 32335832 20240730171759
+157.49.254.219 2 2 2802 20240704081923
+110.224.93.58 31 87 706654 20240703081258
+154.28.229.234 2 2 21416 20240723105544
+87.236.176.204 0 1 2446 
+152.58.253.203 0 1 58626 
+130.255.166.79 2 2 21416 20240717170038
+37.139.53.191 2 2 13334 20240710164419
+164.90.205.109 2 2 20492 20240717121830
+110.224.83.208 10 25 26722 20240716082340
+117.253.182.82 107 107 5925143 20240706144723
+157.51.193.129 2 17 2908 20240717131807
+106.197.125.65 36 38 630732 20240713111330
+54.88.179.33 4 4 199176 20240717032839
+87.245.198.4 21 95 38289198 20240711095942
+157.46.89.87 2 16 160595 20240728194644
+27.60.172.248 10 60 2421415 20240703133715
+171.244.43.14 2 2 21418 20240708214431
+3.89.210.90 2 10 118308 20240710073157
+27.60.164.207 2 2 813598 20240706150026
+51.254.49.108 2 2 99588 20240717154355
+49.47.216.162 6 6 69962 20240722142853
+106.197.85.187 6 6 8804 20240729202958
+223.186.51.140 2 12 2920 20240709122937
+64.233.172.108 2 24 262351 20240704135544
+157.49.229.226 2 16 181233 20240708184353
+203.109.124.241 3 59 1361316 20240727132515
+106.194.33.204 3 59 1786134 20240731112340
+43.250.173.124 1 1 10709 20240714182211
+157.51.198.183 19 48 537989 20240724215152
+104.164.173.236 2 2 21418 20240708094417
+157.49.96.232 2 2 2802 20240701122351
+45.63.114.73 2 2 21418 20240714033901
+49.47.216.55 37 40 1497769 20240723160628
+152.58.227.74 0 2 196074 
+124.243.136.24 2 2 12786 20240708060038
+152.58.225.160 2 2 2906 20240716024343
+27.60.167.154 3 56 1316309 20240706182127
+43.134.142.8 2 2 21418 20240706153216
+171.79.54.141 2 16 417461 20240730142230
+42.104.142.147 2 17 2898 20240722060152
+49.47.218.190 2 2 18572 20240730172858
+49.47.218.70 154 222 8017176 20240720151747
+117.203.67.68 740 866 29298459 20240708162201
+43.128.100.220 2 2 21416 20240723035553
+154.28.229.132 4 4 42836 20240708094411
+223.181.213.151 60 68 210226 20240720170143
+152.58.199.199 0 2 1887062 
+152.58.248.76 8 23 11632 20240719070449
+117.253.181.193 79 181 44375738 20240711212722
+157.49.218.48 2 2 2802 20240705151104
+171.79.59.62 7 21 424805 20240702211529
+24.199.109.200 2 2 21416 20240718092221
+66.249.66.71 8 8 68556 20240730160630
+157.49.198.223 2 2 10724 20240705191630
+51.81.245.138 2 2 21418 20240708094429
+117.203.77.170 242 415 17203112 20240730180612
+157.51.195.9 34 163 1890750 20240708081938
+106.197.65.106 9 23 427636 20240722180508
+223.187.117.239 2 16 428234 20240714180217
+106.198.117.33 8 8 17761 20240720141859
+157.51.196.93 2 2 2802 20240711183555
+157.49.239.228 2 2 33376 20240704055812
+167.99.209.118 2 2 21418 20240712164315
+157.49.234.62 2 5 2802 20240714100857
+152.58.214.149 2 17 2906 20240708202616
+65.75.195.25 2 2 21418 20240712203100
+72.14.201.138 18 18 171054 20240727132540
+157.47.59.87 2 17 421996 20240703150854
+128.90.174.32 2 2 21416 20240727122027
+168.151.114.79 2 79 4222418 20240709153458
+223.181.226.245 6 6 81388 20240725200333
+157.47.13.1 2 2 2906 20240708095648
+106.221.21.22 19 62 5845569 20240723194002
+3.145.94.166 2 2 21418 20240709142643
+157.49.203.10 10 10 28470 20240710053622
+157.46.86.175 39 39 100905 20240708200135
+42.104.130.73 47 109 5486893 20240706153610
+157.51.113.214 15 52 1100853 20240710055945
+152.58.198.209 2 2 2906 20240731134331
+15.235.114.125 2 2 21416 20240724135825
+87.236.176.98 2 2 21418 20240715100628
+34.122.147.229 3 80 4725118 20240709152726
+110.224.84.4 9 9 34337 20240702195348
+106.197.91.86 2 12 364170 20240714195544
+106.197.160.255 71 108 1118278 20240716080510
+124.221.186.82 2 2 21416 20240717072248
+35.92.234.104 1 53 4044268 20240703195820
+157.49.217.90 9 50 6648842 20240701190408
+152.58.249.92 2 2 2802 20240728084923
+124.221.186.26 2 2 21418 20240706104000
+180.110.203.108 2 2 21418 20240707154827
+13.215.154.132 2 2 21418 20240714193549
+34.123.170.104 3 89 5521908 20240708094454
+106.211.192.184 2 15 2802 20240727210814
+49.47.218.9 2 2 27130 20240719102947
+171.79.58.106 10 39 515630 20240707114637
+106.197.78.67 3 59 1490585 20240727120003
+157.49.243.230 2 17 2908 20240727135548
+117.253.182.203 36 41 1151529 20240706185018
+157.49.98.28 2 2 2906 20240712043125
+159.138.110.8 2 2 17826 20240701103204
+52.12.50.51 1 1 0 20240709054228
+138.197.33.159 2 2 21416 20240726065244
+74.125.218.230 2 7 72904 20240706065712
+35.234.176.170 2 16 417463 20240706201441
+111.93.159.50 8 131 11574078 20240722163845
+152.58.73.49 2 2 2900 20240705144858
+154.28.229.17 1 1 10709 20240708101513
+106.211.219.38 2 2 2908 20240725222242
+117.253.183.103 6 6 69966 20240705124705
+157.45.131.98 2 12 99485 20240718143746
+66.249.83.130 2 27 145798 20240715175508
+117.193.124.35 2 56 1190561 20240704102637
+40.81.244.227 16 174 9561251 20240725165554
+193.186.4.170 2 2 18626 20240719163553
+110.224.95.197 3 26 214649 20240725124044
+42.104.142.201 423 662 23463339 20240709135057
+49.0.200.245 2 2 14966 20240703115833
+106.197.67.108 90 127 274752 20240721205652
+64.233.172.96 6 31 123855 20240704135902
+171.79.63.195 2 17 2910 20240715121441
+117.242.83.134 42 71 147040 20240719213428
+157.49.197.179 253 253 803558 20240710215502
+49.37.215.250 6 20 423173 20240727142430
+199.182.173.147 2 2 20492 20240713075639
+43.130.39.101 2 2 21416 20240726230951
+35.234.176.168 16 16 55032 20240706201636
+157.51.193.72 4 4 5828 20240709180805
+103.170.6.4 5 62 1402547 20240701083118
+157.51.194.133 2 2 2802 20240714083938
+42.104.129.105 43 106 4541687 20240725134856
+117.62.235.53 2 2 21416 20240721185550
+120.60.6.173 5 60 1336901 20240713110314
+159.65.218.174 2 2 21416 20240717055130
+183.82.123.111 0 2 196074 
+66.249.92.160 0 1 13304 
+157.49.199.12 8 51 15113460 20240718170917
+34.78.227.97 103 173 714028 20240709035624
+49.47.218.176 211 305 12667730 20240712183314
+152.58.205.157 7 7 17701 20240718131437
+157.49.99.236 3 3 4401 20240707135152
+111.7.100.29 0 4 66001 
+77.74.177.119 4 4 42834 20240726020740
+117.203.64.233 84 193 9708666 20240726173801
+72.14.201.103 2 2 15930 20240728213014
+157.51.198.29 2 17 160803 20240705111541
+117.203.75.110 2 17 421982 20240707141413
+111.7.100.30 0 3 37023 
+113.219.218.197 2 2 21416 20240722072056
+20.40.60.226 6 85 4759206 20240725112203
+193.186.4.142 15 15 123775 20240726152628
+157.51.197.17 2 2 21418 20240702230400
+223.182.217.2 2 16 181233 20240725142147
+84.239.54.49 2 2 99588 20240705035436
+106.220.250.166 3 26 329535 20240728092337
+72.14.201.143 8 8 69176 20240727184525
+150.158.45.24 2 2 21418 20240706010923
+157.49.222.53 273 396 13305614 20240716221320
+49.47.218.165 82 82 3542232 20240718100450
+223.182.245.17 2 2 2912 20240711204346
+117.200.178.130 0 2 181264 
+152.58.225.233 3 22 9151856 20240712213649
+27.60.173.173 5 29 4804 20240703165923
+157.49.210.91 2 6 2137217 20240729170458
+167.71.183.140 2 2 21418 20240711063520
+66.249.92.150 0 1 20060 
+157.49.98.96 6 20 423251 20240731182109
+152.58.221.225 0 1 58626 
+157.51.193.157 29 70 10682216 20240726200431
+106.195.42.88 10 30 1160186 20240724180201
+157.51.195.124 3 17 429679 20240727140943
+184.174.88.250 2 2 3250 20240713075716
+27.5.122.155 4 4 37252 20240715052325
+152.58.199.64 6 88 5359764 20240716161814
+36.99.136.129 11 17 222442 20240728124628
+154.28.229.161 5 5 44841 20240708094417
+117.203.66.12 1 1 10708 20240724162234
+49.47.218.155 4 5 229998 20240710110705
+184.94.240.88 6 6 190264 20240722012334
+103.116.33.136 1 1 10709 20240701025757
+157.47.5.93 2 2 2906 20240709233119
+120.60.119.33 702 835 29537609 20240701172608
+152.58.249.171 2 15 2802 20240727223808
+43.157.66.187 2 2 21416 20240724170713
+47.254.76.138 4 4 42836 20240709054056
+74.125.217.102 0 4 44641 
+18.232.130.167 21 117 1417956 20240709122656
+45.86.86.242 6 6 158260 20240724184129
+101.255.125.201 12 12 106866 20240709184219
+176.116.36.157 2 2 21418 20240706022042
+170.106.82.193 4 4 42832 20240726013615
+157.46.71.170 2 5 62713 20240712202501
+161.97.163.166 2 2 99588 20240704183255
+157.51.134.128 14 14 20370 20240713230903
+157.51.199.98 2 2 2906 20240713195430
+117.249.255.138 2 8 66550 20240731195236
+182.44.9.147 4 4 42834 20240728090401
+154.28.229.154 1 1 10709 20240708173531
+147.185.132.159 2 2 99588 20240702040001
+157.49.96.1 0 1 90632 
+110.224.87.75 86 86 294898 20240712193441
+66.249.66.70 4 4 34110 20240726151143
+111.7.96.154 4 6 47724 20240727224841
+43.250.173.208 2 2 21418 20240715060658
+37.221.65.103 12 12 316520 20240722163604
+27.60.167.2 2 2 2802 20240718205716
+156.239.53.68 2 2 21416 20240719070210
+157.46.69.73 5 5 14919 20240701200056
+106.195.42.142 2 2 2802 20240731194235
+157.49.234.110 2 2 2898 20240706103949
+103.196.30.8 3 73 1821179 20240708173238
+203.33.203.148 2 2 21418 20240715070420
+157.49.98.97 2 2 2802 20240730203919
+157.46.70.108 2 2 2472 20240704180147
+175.41.138.39 18 18 0 20240730180106
+49.47.218.132 174 401 18461798 20240711180516
+117.203.71.131 261 623 23447645 20240725174154
+217.164.250.19 3 59 1490585 20240728213704
+157.51.193.227 9 9 28327 20240701203616
+46.4.33.48 2 2 99588 20240713121744
+188.166.249.66 2 3 23862 20240727005750
+157.49.200.123 9 45 1078811 20240711190728
+110.224.70.177 0 1 305260 
+199.192.115.22 58 81 1022244 20240730164043
+54.82.60.164 2 2 21418 20240709101115
+120.56.16.215 2 2 21418 20240704095308
+45.76.225.7 11 11 583 20240731212112
+47.254.74.59 2 2 21416 20240723230136
+157.50.21.227 2 2 2920 20240713211158
+106.195.45.153 16 81 29198258 20240710215620
+157.51.192.128 2 2 2898 20240714183227
+157.46.81.249 3 59 1361316 20240714102828
+106.211.221.185 2 17 2910 20240720132457
+106.197.121.55 10 10 27082 20240704103637
+157.51.199.63 2 2 2914 20240719152724
+157.49.96.43 2 2 2802 20240727184244
+170.106.104.42 2 2 21418 20240706035758
+147.185.132.249 2 2 99588 20240726031611
+209.85.238.4 15 25 282060 20240724130117
+42.83.147.53 4 4 42832 20240730124613
+159.138.98.180 2 2 17826 20240707075938
+49.47.218.169 44 117 869802 20240703133620
+152.58.213.110 3 59 1423268 20240703053511
+54.185.25.168 2 2 21416 20240724154703
+106.220.245.241 2 2 2900 20240701091557
+152.58.199.216 2 2 2908 20240730054309
+120.56.23.232 654 655 42229907 20240703132231
+152.58.246.138 0 2 264956 
+66.249.92.142 0 1 897 
+167.99.215.66 2 2 21418 20240707082423
+157.51.195.251 9 94 5195053 20240722000945
+64.227.6.112 2 2 21418 20240713192856
+14.139.186.146 1 57 1474655 20240725142927
+49.47.242.67 3 58 1318275 20240721221601
+66.249.92.169 2 3 25537 20240711042323
+199.182.173.163 2 2 14966 20240713075650
+143.110.214.28 2 2 21416 20240719063937
+106.75.100.73 2 3 80042 20240729023647
+157.51.127.133 5 5 7046 20240731182922
+152.58.198.150 2 17 421996 20240723222258
+117.203.65.169 2 2 21418 20240702101025
+49.204.112.163 0 2 196074 
+116.68.245.225 3 58 2376481 20240727170927
+120.56.19.74 14 124 8615588 20240701161408
+47.242.224.70 25 218 2747245 20240729083957
+42.104.139.24 17 32 71459 20240714201740
+110.224.91.63 76 129 357292 20240711185034
+223.181.230.64 8 88 4776973 20240718093733
+157.51.198.130 203 240 510443 20240724190338
+159.138.111.177 2 2 16852 20240711215804
+27.115.124.45 2 77 4220452 20240708022919
+157.51.193.49 2 17 422010 20240712182116
+13.48.30.58 1 1 10709 20240709190528
+157.51.194.99 91 162 11978204 20240717191454
+94.74.84.72 4 4 26764 20240708160705
+152.58.214.60 2 17 2912 20240725070902
+120.56.226.62 11 11 707583 20240723121649
+157.51.194.206 2 2 2402 20240718205823
+49.47.218.11 4 5 24666 20240729141804
+58.49.233.126 2 2 21416 20240729174659
+171.79.52.183 5 62 2056268 20240705161214
+106.195.34.110 23 95 16109675 20240717080013
+106.198.97.217 5 150 6831761 20240718105724
+66.249.87.225 22 37 273670 20240706181946
+223.181.218.30 2 15 178787 20240718192720
+103.157.74.4 12 12 106866 20240706180936
+157.51.195.204 254 276 20321391 20240721122642
+117.253.92.132 102 367 20195676 20240713105041
+157.51.194.94 2 16 2842 20240727212448
+117.253.86.159 17 80 645422 20240706084612
+34.72.176.129 2 95 5822858 20240709152705
+130.255.166.120 2 2 21416 20240722091903
+117.193.241.151 28 28 1938744 20240708171942
+209.85.238.3 25 78 2263106 20240724131049
+152.58.220.198 2 17 2902 20240715194649
+223.182.223.196 2 16 160595 20240706201750
+106.197.161.240 14 14 129314 20240716173159
+106.208.42.14 26 44 666961 20240725161549
+46.246.122.117 5 5 165399 20240712044239
+223.231.187.126 2 7 2916 20240726140353
+64.233.173.229 0 16 181654 
+5.133.192.87 2 3 23862 20240716233930
+120.56.233.70 18 18 43091 20240706070858
+152.58.204.69 4 4 52082 20240708161407
+42.104.129.11 149 186 440201 20240727232135
+106.208.143.23 2 17 421998 20240730175013
+157.49.193.239 73 73 407391 20240703200252
+43.155.152.154 2 2 21416 20240722173041
+157.49.97.56 2 16 417457 20240716201319
+157.51.195.230 13 13 64221 20240701184826
+106.197.101.23 8 26 15799898 20240702222449
+66.112.178.69 2 2 2802 20240720073725
+110.238.105.83 2 2 17092 20240701231053
+199.45.154.123 2 3 23864 20240704133155
+157.51.199.244 2 2 2798 20240721141000
+106.195.42.113 0 3 326196 
+47.251.14.232 4 4 42836 20240708215658
+47.254.85.182 2 2 21418 20240708215732
+152.58.198.167 4 4 52082 20240707162040
+142.214.185.14 2 2 21416 20240730113907
+157.49.243.174 9 46 1080811 20240715204621
+111.7.96.163 4 17 211319 20240716222935
+157.49.212.178 2 3 2802 20240704203151
+49.47.218.44 2 2 21418 20240702132834
+120.60.125.175 304 366 23219362 20240723135802
+49.37.202.142 3 59 1634886 20240716123444
+199.45.155.78 2 3 23864 20240704115521
+111.7.96.153 2 3 23864 20240703143116
+157.49.219.102 5 5 13305 20240703200351
+157.49.99.77 27 27 83132 20240731211347
+125.75.66.97 2 2 21418 20240701233754
+117.203.70.55 363 544 29004431 20240716171846
+54.214.170.161 2 2 21416 20240716155749
+54.245.159.226 2 2 21416 20240716160022
+123.108.243.38 3 80 4629497 20240729095206
+64.225.6.161 2 2 21416 20240729063351
+117.253.178.215 747 927 67175346 20240710165821
+18.189.32.204 3 3 32127 20240709142646
+66.249.87.229 1 9 118883 20240705194337
+122.180.189.26 1 1 10709 20240708122821
+157.49.202.214 3 60 3020470 20240728070930
+156.59.26.154 2 2 99588 20240709131544
+106.220.245.224 2 2 2900 20240706095229
+157.46.94.119 12 44 997385 20240701175127
+223.182.206.45 33 77 536002 20240731191141
+111.7.100.33 2 2 21416 20240720013451
+117.193.244.225 258 321 9538488 20240709112620
+157.49.210.173 43 43 144136 20240703200004
+106.221.16.236 5 5 7296 20240726074828
+223.182.197.61 2 17 160785 20240714094129
+152.58.198.40 6 21 8800 20240729220342
+112.124.49.163 21 21 109026 20240720135746
+165.232.177.26 2 2 21418 20240704131612
+41.93.78.218 12 12 106864 20240728224957
+152.58.199.200 4 104 4808066 20240722151738
+74.125.210.8 12 99 355584 20240713000446
+157.46.90.111 27 69 7279424 20240717081505
+49.47.216.141 8 88 4788780 20240725124228
+122.180.178.177 4 4 42836 20240706064408
+42.104.130.155 5 20 165209 20240724200034
+106.195.44.247 7 7 17709 20240703213946
+120.60.125.42 614 795 55118651 20240704130811
+157.46.93.0 2 2 2914 20240703202737
+66.249.92.165 2 2 2778 20240725041726
+49.204.138.98 22 63 5518564 20240703134013
+157.51.192.208 4 4 4804 20240729154922
+66.249.87.224 26 74 913132 20240706180125
+157.51.194.0 2 17 421998 20240724051642
+157.51.198.3 4 18 184035 20240723184842
+117.253.188.64 663 766 48375919 20240711171421
+157.51.197.133 42 42 2234500 20240729131950
+157.51.132.191 2 2 2910 20240713230648
+117.253.83.255 720 726 38853999 20240726151256
+43.134.37.211 2 2 21418 20240702122834
+152.58.215.223 2 2 3402 20240716082351
+152.58.223.128 5 116 8535572 20240714114850
+157.51.198.126 2 17 2900 20240709170736
+157.49.228.59 2 2 33376 20240704053546
+38.95.13.132 2 5 512190 20240708103223
+117.246.151.112 3 18 423478 20240724073538
+42.105.218.55 136 138 7576243 20240715130706
+147.185.132.165 2 2 99588 20240709065930
+144.76.104.143 2 2 21418 20240715222330
+45.32.136.8 11 11 583 20240729064943
+157.46.84.78 2 16 417463 20240706203720
+152.58.225.22 6 85 4768457 20240705132727
+157.49.205.129 19 19 56731 20240705211844
+185.45.66.14 2 2 21418 20240712035612
+54.235.58.143 4 4 29208 20240731021925
+152.58.246.152 20 20 29264 20240716112803
+106.195.36.206 2 12 2802 20240719143031
+34.220.97.140 2 49 3364196 20240703191945
+111.7.100.28 4 7 55364 20240701133648
+64.233.172.101 6 24 17976 20240711142055
+47.88.101.3 2 2 21418 20240709054056
+193.186.4.137 14 14 108810 20240730114615
+154.28.229.202 1 1 10709 20240708173639
+49.47.216.34 2 2 21416 20240727162453
+178.254.12.205 2 2 21416 20240716202041
+101.44.160.158 2 2 18488 20240704092346
+157.49.97.228 16 53 53996 20240719200130
+182.87.64.160 2 2 99588 20240716060741
+171.79.50.68 4 59 1327588 20240721220620
+157.49.239.4 5 60 1364115 20240702171227
+152.58.223.8 0 2 61072 
+147.78.47.55 24 24 206610 20240701001655
+154.28.229.159 4 4 42832 20240724223133
+3.80.252.15 2 2 21416 20240723113818
+42.104.141.16 2 2 2796 20240715222212
+157.51.195.53 2 16 428238 20240714195445
+35.161.195.32 2 2 99588 20240711193245
+152.58.199.234 2 2 2908 20240731220254
+103.13.116.133 24 38 212711 20240712042149
+27.62.140.66 2 16 181233 20240721200348
+152.58.252.133 10 10 26710 20240731171242
+223.181.201.142 3 57 1443523 20240713165156
+157.51.196.196 2 14 2904 20240722195642
+124.243.134.238 2 2 14966 20240709154220
+157.48.121.11 0 1 90621 
+122.164.83.65 2 16 181233 20240719144623
+128.90.174.13 2 2 21418 20240716045600
+223.182.218.110 3 81 4631943 20240729094936
+106.197.39.142 2 15 178787 20240707152041
+46.101.1.225 2 2 99588 20240728120053
+157.49.195.42 2 2 2910 20240718222542
+106.197.65.117 2 16 417461 20240728225812
+176.123.1.195 18 18 474780 20240719060253
+199.192.115.20 28 42 287010 20240730164026
+157.51.194.111 54 83 179742 20240715082728
+45.196.45.141 4 4 42836 20240714105505
+223.182.212.164 2 2 2910 20240710185823
+103.144.208.178 12 12 106864 20240721043927
+106.197.132.16 13 36 14980 20240731150659
+152.58.215.156 20 20 68384 20240712084934
+176.100.243.133 2 2 21418 20240709154253
+133.201.21.224 0 2 610520 
+64.226.74.202 2 2 16852 20240716001749
+157.51.199.46 2 2 2912 20240707110646
+35.203.128.13 16 16 34680 20240720175907
+3.94.160.152 1 1 10708 20240723101143
+223.187.121.114 0 1 35822 
+106.198.113.208 2 16 2786 20240718161658
+18.141.25.45 2 2 21416 20240721210727
+152.58.251.243 2 52 1551466 20240730170640
+184.174.88.242 3 50 491071 20240713075709
+205.210.31.128 2 2 99588 20240713134142
+157.49.211.98 18 18 67450 20240705191620
+117.253.188.110 313 594 22533588 20240713200620
+142.44.215.117 2 2 99588 20240706081544
+182.64.209.68 3 59 1786134 20240724172849
+45.133.237.106 2 2 21418 20240714152915
+74.125.210.6 13 110 562539 20240719231813
+152.58.226.225 21 22 330237 20240706153635
+157.49.209.11 14 97 23738619 20240703195343
+159.65.187.198 11 11 583 20240712000949
+157.51.197.79 5 19 9492 20240718170053
+106.197.66.28 34 63 140924 20240728085733
+171.76.87.83 0 1 305260 
+52.80.60.159 4 6 160084 20240727093026
+104.237.171.8 23 37 211269 20240708070028
+74.125.215.13 5 95 3184033 20240720141237
+157.49.216.232 22 59 1378977 20240710181354
+152.58.224.55 2 5 5426908 20240715170736
+74.125.215.1 4 77 1593417 20240720140954
+157.49.229.189 2 2 2908 20240714172556
+120.60.113.26 560 620 20896554 20240704152641
+117.203.78.132 235 235 11526222 20240728140414
+49.47.218.143 295 462 9921908 20240709141440
+157.51.197.239 3 26 2472 20240722172404
+223.181.212.137 26 52 10270454 20240719215031
+157.49.235.59 11 26 16042 20240711091747
+103.111.96.4 3 80 4629497 20240720103537
+199.182.172.20 2 2 12786 20240713075626
+120.60.112.242 372 436 16962167 20240706144427
+35.167.174.151 2 2 21418 20240708155155
+199.182.172.165 2 2 8938 20240713075740
+154.28.229.198 1 1 10709 20240708101513
+185.254.190.163 2 2 99588 20240707211720
+49.47.218.195 4 4 54256 20240721110300
+117.193.245.55 149 242 13521966 20240713163413
+42.106.176.253 3 58 1318275 20240705103421
+79.140.25.163 1 1 49794 20240726013503
+42.104.131.4 12 12 28472 20240719091307
+120.56.226.5 113 258 12766843 20240722172013
+49.47.218.84 238 280 9469073 20240716170013
+157.46.93.247 3 83 4729530 20240704200153
+117.33.163.216 8 8 85670 20240720065206
+152.58.200.119 3 3 4387 20240719132524
+223.187.127.5 5 5 7387 20240731045059
+157.51.193.22 53 53 181681 20240701165427
+162.55.94.178 4 4 106318 20240718161311
+85.239.34.93 17 17 424986 20240726151712
+157.51.198.240 2 2 2802 20240725174748
+157.51.195.160 10 10 76730 20240721200334
+106.195.46.222 5 63 2627306 20240714075136
+152.58.215.28 2 56 1188595 20240725215249
+139.59.178.1 2 2 10414 20240715011049
+66.249.92.133 14 239 15501626 20240729100219
+223.187.114.237 2 16 2802 20240708113130
+171.79.53.159 8 42 10094872 20240724135927
+54.213.250.114 2 2 21418 20240701101703
+205.210.31.178 2 2 99588 20240719094957
+157.46.65.68 14 43 45726 20240706192139
+157.49.222.145 160 197 1521025 20240729212457
+157.49.232.141 2 2 2802 20240717125433
+134.122.118.236 2 2 21418 20240709054334
+72.14.199.237 117 218 2298826 20240710130311
+167.99.134.178 2 2 99588 20240707203214
+106.198.117.51 2 2 2802 20240717103858
+34.174.192.151 2 77 4616824 20240709142722
+138.68.137.255 2 2 21418 20240714125832
+223.181.217.80 4 4 5804 20240708184408
+106.197.102.48 40 77 1178099 20240702195258
+199.182.173.144 2 2 16852 20240713075745
+157.46.70.51 5 39 9646808 20240724153926
+106.197.74.102 2 17 2898 20240711155035
+171.79.52.86 2 2 27128 20240703091826
+157.51.198.119 33 33 185907 20240715111726
+49.47.216.158 0 1 52709 
+87.236.176.97 0 1 2446 
+106.211.220.195 2 17 422002 20240724134609
+23.229.65.222 3 50 495629 20240728164202
+188.165.87.103 2 2 99588 20240705145650
+27.60.174.207 14 54 5556142 20240706145832
+157.51.195.163 87 87 713421 20240722194108
+52.81.208.114 1 2 69334 20240729023702
+72.14.201.137 7 7 65149 20240727131711
+152.58.223.249 2 15 2802 20240730184803
+36.99.136.137 10 29 278195 20240727224819
+117.203.68.227 751 751 28893561 20240706151206
+35.171.144.152 10 10 497940 20240731060232
+35.225.82.182 2 2 87980 20240726021035
+182.101.47.33 2 2 99588 20240729132551
+35.187.132.231 3 19 216920 20240709142655
+74.125.217.103 0 2 2336 
+106.222.101.144 3 27 2402 20240702185127
+223.182.228.87 5 39 9557306 20240711190250
+124.70.70.4 2 2 21418 20240707072224
+154.28.229.66 2 2 21416 20240728120046
+157.49.215.78 2 15 2908 20240731122008
+157.245.12.138 11 11 583 20240717234922
+157.51.172.220 2 16 428234 20240704181516
+106.195.37.9 3 56 1418856 20240707194325
+42.104.130.121 19 82 3911642 20240706163343
+117.253.191.224 547 547 25719387 20240710170458
+5.132.110.211 2 2 14052 20240704050934
+66.249.83.131 0 27 314724 
+107.178.235.231 1 1 0 20240726072501
+34.203.237.121 6 38 472072 20240708185000
+120.60.114.78 608 608 40092509 20240702120947
+101.44.160.33 2 2 17708 20240706202537
+64.15.123.15 50 74 445056 20240712031323
+152.58.221.113 2 17 421994 20240712213603
+157.48.123.23 3 83 4729528 20240726145754
+152.58.248.200 2 2 2902 20240717202302
+171.79.51.12 8 23 430964 20240723214304
+106.197.101.99 22 24 83695 20240712180824
+117.203.69.125 2 57 4152562 20240715114250
+157.49.255.247 2 2 2472 20240703173143
+128.90.104.177 1 4 501481 20240708103223
+106.197.79.217 2 2 27130 20240728143620
+117.246.243.10 0 9 801203 
+45.32.1.147 11 11 583 20240702220501
+152.58.220.3 2 17 421998 20240725211917
+106.205.119.162 3 83 4729530 20240703113425
+157.51.197.185 2 2 21418 20240703055219
+195.16.77.197 2 81 4716374 20240717190201
+34.16.12.137 2 2 21416 20240721114514
+223.187.114.222 209 209 663041 20240711215123
+94.103.188.130 6 6 158260 20240708001606
+157.49.197.68 3 81 4631943 20240722164139
+223.182.240.10 2 11 123409 20240705184729
+42.104.130.174 2 15 2802 20240726182816
+124.243.135.114 2 2 17708 20240707093324
+66.249.92.161 645 3275 83189875 20240731211059
+143.198.110.228 2 2 21416 20240717143502
+199.244.88.218 2 2 21416 20240727182508
+42.104.130.115 14 74 19946624 20240719170457
+199.192.115.19 24 24 54884 20240730163918
+74.125.210.7 15 95 573139 20240719232221
+157.49.203.121 2 49 373373 20240702202711
+157.46.83.217 38 95 925690 20240706212343
+157.51.177.94 0 5 2666228 
+54.198.60.32 8 40 473232 20240709041226
+199.192.115.23 14 28 286118 20240730164008
+42.104.142.9 2 17 2906 20240719131617
+157.49.227.133 11 47 666510 20240709190912
+1.38.102.218 3 60 3020470 20240725192501
+152.58.204.149 6 193 13048514 20240701184523
+117.193.247.103 671 761 55159139 20240716110305
+61.1.188.146 0 1 287548 
+199.244.88.226 2 2 21418 20240709165740
+213.232.235.21 6 6 158260 20240709180512
+122.180.184.177 2 2 21418 20240708170611
+52.80.18.29 1 2 69334 20240729023827
+223.181.212.122 108 145 1428316 20240724114911
+157.49.245.146 2 16 417463 20240730123221
+110.224.82.139 0 2 196074 
+62.210.222.43 2 2 21416 20240729082702
+157.49.209.46 3 59 1490585 20240712062307
+66.249.92.151 2 4 36557 20240718041654
+157.49.194.35 18 20 362570 20240712192207
+157.46.91.234 64 120 1419850 20240712164342
+18.237.46.137 1 1 10709 20240704161202
+157.51.198.10 2 17 2902 20240703195329
+193.186.4.140 10 10 82851 20240727132554
+106.198.24.16 47 104 11361073 20240721114857
+66.249.92.162 500 1634 25358078 20240731212831
+64.233.173.230 3 17 235794 20240705175911
+157.49.244.103 2 2 2918 20240722114805
+152.58.215.239 2 2 2802 20240706220546
+152.58.220.116 2 17 421982 20240721203013
+195.211.77.142 12 12 128499 20240729003738
+117.253.185.255 6 166 9459060 20240715161157
+188.147.13.2 5 18 287813 20240730214627
+103.70.196.251 0 2 196074 
+66.249.92.134 10 91 2172749 20240731085311
+157.49.192.163 2 4 44655 20240713202558
+157.49.198.43 31 60 121787 20240720171604
+103.115.236.154 4 83 4695360 20240729142457
+223.187.117.158 6 35 17616 20240704194234
+152.58.205.91 4 35 3827460 20240707124922
+190.92.216.77 2 2 10414 20240709163315
+157.49.217.222 7 38 10385169 20240714095927
+157.51.85.37 2 2 2900 20240713115250
+104.131.4.177 2 2 3250 20240716123901
+66.135.23.240 11 11 583 20240714230117
+117.253.180.10 171 173 13195401 20240715105844
+152.58.247.92 7 7 23635 20240708195222
+183.93.80.195 2 2 21416 20240730211010
+152.58.199.30 2 8 66748 20240708204137
+157.51.199.164 13 28 19205 20240723064713
+43.252.72.190 12 12 106864 20240718160250
+157.51.198.31 6 19 3330253 20240722080444
+88.174.212.45 4 4 102404 20240709021330
+52.90.78.0 2 2 21418 20240707143835
+157.51.129.206 19 34 185641 20240710195115
+103.163.248.38 3 58 1318275 20240714173838
+120.56.26.29 445 613 27130399 20240702171820
+54.175.246.226 2 2 99588 20240727074142
+198.244.227.74 4 4 42836 20240713043159
+152.58.225.242 8 24 19095 20240717131749
+157.51.193.234 9 9 28327 20240701181130
+107.178.231.114 1 1 0 20240705062208
+42.105.223.65 8 8 108948 20240706141121
+157.51.194.254 39 39 2418829 20240715122210
+157.51.194.192 2 2 17358 20240726104254
+157.46.79.77 8 96 5791544 20240708095059
+120.56.227.167 720 720 31625130 20240711160950
+106.198.44.27 10 38 843712 20240717101254
+120.56.27.208 88 140 4303488 20240729125345
+77.243.18.68 18 32 204059 20240708060239
+27.115.124.38 2 61 4151794 20240701195929
+106.195.47.225 13 96 32337162 20240709165659
+117.253.85.63 20 110 6090000 20240727184937
+205.169.39.83 2 89 4382601 20240708094522
+66.249.92.167 0 1 14073 
+205.169.39.8 2 2 21418 20240701000357
+157.49.248.248 1 1 1442 20240710215326
+152.58.204.62 11 39 38331 20240711205630
+106.197.112.175 76 76 196079 20240714092834
+106.197.33.242 2 16 2802 20240731193225
+106.216.224.78 6 21 427898 20240711062159
+36.99.136.128 10 19 169057 20240724095204
+64.233.172.102 4 32 343395 20240711142216
+223.181.236.78 4 18 163397 20240731205059
+157.51.193.212 5 5 7289 20240727141604
+111.7.96.155 2 3 23862 20240729051754
+157.46.75.40 15 15 42007 20240702060711
+143.198.0.245 2 2 30664 20240715152550
+15.204.161.7 8 8 52336 20240707231259
+223.113.128.137 2 3 80044 20240701073429
+157.49.237.71 2 8 2802 20240716102100
+94.248.240.228 16 30 201175 20240708073239
+157.51.199.109 99 115 1561449 20240726111901
+199.192.115.17 13 13 27160 20240720180125
+103.115.236.19 5 157 8870921 20240716101635
+23.236.131.68 3 50 501879 20240711142137
+114.96.103.33 2 2 21416 20240716182045
+171.79.56.58 2 2 2802 20240714033857
+171.79.55.48 4 19 5876 20240706080737
+5.188.62.21 4 4 42836 20240710051826
+113.161.61.22 12 12 106866 20240713121035
+43.163.3.58 2 2 21418 20240714182906
+157.49.97.63 0 1 143206 
+34.125.230.24 2 78 4661700 20240709142647
+211.117.24.68 3 82 4727082 20240730134149
+106.221.206.19 9 9 13150 20240707153022
+87.236.176.47 2 2 21418 20240702042448
+84.54.105.38 2 79 4618789 20240717190200
+43.128.100.206 2 2 21416 20240727101022
+128.90.174.14 2 2 21418 20240704120951
+93.158.90.33 2 2 21418 20240712021321
+27.60.175.207 4 4 55104 20240706151332
+152.58.213.25 0 8 27444 
+223.185.135.186 5 60 1327959 20240713115728
+217.114.43.60 2 2 21416 20240722023010
+193.186.4.139 12 12 109440 20240731220108
+199.45.154.128 2 3 23862 20240725221902
+49.205.38.167 3 58 1318275 20240726122144
+103.93.107.86 0 2 205308 
+157.49.225.81 3 59 1423268 20240731114939
+49.44.86.9 2 52 1551466 20240729092117
+64.227.141.70 2 2 21418 20240714184755
+223.182.202.32 2 16 181233 20240717191418
+66.249.92.135 10 31 283734 20240730064443
+157.49.193.62 2 17 422004 20240716070225
+157.51.194.22 3 27 214579 20240718191012
+117.203.72.75 670 670 47307668 20240704105904
+171.79.52.233 2 2 17636 20240703222659
+42.104.129.70 37 37 1051707 20240725143750
+157.46.69.68 2 16 2802 20240724140824
+123.6.49.44 2 77 4220452 20240713144123
+37.218.237.10 12 12 106866 20240702002904
+164.90.208.56 2 2 99588 20240708094410
+120.56.21.74 5 163 9350763 20240722164236
+52.81.189.133 1 2 69335 20240707074946
+106.197.122.135 41 70 639177 20240701193847
+106.216.234.160 2 2 2914 20240720203813
+157.49.195.222 12 12 30178 20240703200336
+49.235.189.18 4 4 42834 20240717000544
+120.56.235.102 789 958 34759151 20240710124122
+43.155.138.79 4 4 42836 20240709171800
+152.58.215.37 7 200 13761410 20240730151929
+158.222.117.74 2 2 21416 20240723051353
+157.51.195.85 32 69 1131385 20240722201021
+152.58.246.12 2 2 2802 20240710180532
+162.62.61.134 2 9 88736 20240712182439
+223.187.113.43 2 2 2802 20240715204428
+223.182.241.172 2 15 2802 20240703083936
+47.88.78.6 2 2 21416 20240723230136
+157.51.198.196 4 19 5894 20240726205616
+42.106.184.205 2 8 66746 20240709203759
+43.134.66.205 2 2 21416 20240718222059
+154.28.229.5 1 1 10709 20240708173639
+120.56.25.114 14 105 7403981 20240722115534
+42.104.141.24 3 3 4398 20240720200734
+106.197.105.209 0 2 71644 
+205.169.39.197 4 78 3362986 20240709152725
+103.68.195.222 2 2 21418 20240714132515
+206.168.34.218 1 2 13155 20240707123227
+152.58.224.166 10 74 29497535 20240715170228
+152.58.222.123 3 58 1318275 20240702221434
+157.47.101.114 13 13 18929 20240711123807
+157.46.71.183 33 62 103145 20240728080713
+49.47.218.241 17 97 4835259 20240706151404
+46.27.195.43 4 4 42836 20240707054331
+106.217.15.253 2 79 4222418 20240703145044
+106.197.108.53 3 27 61028 20240702190229
+110.224.84.35 15 30 2921816 20240702133104
+205.169.39.67 3 90 4838023 20240709152754
+223.182.230.13 2 2 21416 20240726101618
+101.44.160.62 2 2 17092 20240705082311
+157.51.192.180 2 2 2802 20240705075905
+154.28.229.102 3 3 32127 20240708173532
+171.79.57.180 11 52 107142 20240722171759
+157.51.195.246 6 6 8706 20240712094411
+157.49.196.235 9 47 604744 20240712192239
+129.226.147.7 2 2 21416 20240719092035
+157.46.94.117 2 2 2914 20240712220224
+157.51.196.246 24 67 144627 20240720141434
+223.181.227.118 9 9 20337 20240715212041
+176.123.1.145 6 6 158260 20240715084359
+95.217.18.177 2 2 21418 20240708134016
+152.58.250.133 3 3 4395 20240718165039
+193.186.4.136 5 5 42569 20240727121058
+137.184.233.184 2 2 14242 20240717041544
+106.198.117.65 34 72 79391 20240720083715
+187.95.255.69 26 40 215595 20240708061425
+157.49.97.218 3 3 4402 20240714072617
+207.148.9.22 11 11 583 20240704011819
+106.197.166.174 2 2 2902 20240709082456
+152.58.253.113 3 83 4729528 20240722164034
+46.37.120.55 2 2 21418 20240703014935
+223.181.204.178 53 64 5012277 20240712155932
+51.77.53.200 4 4 22132 20240722075834
+223.187.120.75 93 130 1296523 20240712204145
+43.153.93.68 2 2 21416 20240728191512
+49.44.85.230 2 52 1551466 20240717190112
+65.155.30.101 2 2 21418 20240704155938
+223.187.124.82 16 45 775296 20240713191026
+5.133.192.171 2 3 23862 20240729000514
+117.246.24.159 2 2 2908 20240701090528
+66.249.66.69 2 2 24264 20240727152920
+119.13.110.133 2 2 12786 20240708201041
+117.203.78.145 797 797 60443136 20240708164105
+157.51.196.120 8 22 189721 20240715102552
+106.220.240.25 2 2 2802 20240708164832
+157.49.227.10 23 93 12191875 20240705171429
+61.205.127.73 19 33 205501 20240706183843
+49.44.80.38 18 32 204059 20240708062303
+136.22.132.229 4 19 424910 20240711095050
+142.93.138.93 2 2 21416 20240728181636
+106.195.39.72 2 2 2902 20240725194716
+14.139.162.2 7 95 5730345 20240728184649
+223.187.115.214 26 26 95898 20240706101428
+106.197.153.117 2 16 181233 20240730161638
+120.71.59.24 2 2 21416 20240730170819
+157.51.195.198 7 90 4996283 20240727121312
+223.187.112.109 2 17 2902 20240717060622
+147.185.132.46 2 2 99588 20240706003949
+35.187.132.232 3 24 96209 20240709142656
+66.249.83.70 0 1 52709 
+157.51.197.220 2 16 353719 20240729112158
+106.198.47.147 41 41 120327 20240709210910
+157.51.199.234 2 4 257546 20240712072336
+106.197.83.16 2 10 320970 20240725215033
+106.208.107.106 40 77 734152 20240704172343
+49.43.251.101 3 58 1391277 20240725164426
+117.193.243.62 303 338 15317883 20240715152714
+152.58.198.85 4 5 50915 20240712211639
+106.220.245.107 0 2 217464 
+51.89.49.205 2 79 4714409 20240710200403
+106.198.117.21 2 2 2802 20240717151409
+120.60.127.96 7 88 4781175 20240710112543
+49.44.78.6 20 34 206861 20240719065811
+154.13.208.196 2 2 12714 20240713075735
+72.14.199.198 4 27 907322 20240707065626
+117.203.74.116 149 261 11768192 20240705171955
+152.58.247.232 7 36 23639 20240708195046
+142.147.107.120 3 50 501879 20240725143355
+206.168.34.116 1 2 13154 20240716160504
+157.51.196.240 7 7 17727 20240701174131
+120.56.25.201 202 413 20834206 20240723171519
+106.197.81.124 105 134 389294 20240710223335
+42.111.149.240 2 15 178787 20240730074833
+5.188.62.26 2 2 21416 20240717015518
+157.51.196.148 2 2 2904 20240713153749
+49.47.218.223 475 477 12585033 20240715143426
+106.198.23.25 33 33 94407 20240717052631
+147.185.132.96 2 2 99588 20240724133204
+152.58.249.32 2 17 421998 20240703130057
+74.125.218.231 0 3 101801 
+171.79.53.162 2 2 2902 20240730215828
+152.58.250.120 51 51 218309 20240704181150
+110.224.93.64 3 58 1318275 20240705115233
+72.14.199.236 152 515 8840212 20240710133427
+157.51.193.24 26 54 6932180 20240703195106
+171.79.62.133 0 1 143206 
+46.246.8.142 2 2 99588 20240713200221
+43.159.128.68 2 2 21418 20240712194215
+72.14.201.140 16 16 134164 20240731220239
+157.51.111.65 2 17 422000 20240709160453
+106.197.160.246 2 2 2902 20240709090341
+179.43.167.18 29 29 209653 20240709042745
+66.249.92.163 390 665 7907894 20240731212833
+170.81.155.69 3 82 4727082 20240718125335
+54.175.218.4 7 39 472652 20240705053055
+157.46.84.195 64 125 4893300 20240707200311
+49.47.216.11 22 22 161122 20240726144910
+157.51.197.83 2 17 160795 20240709190239
+106.208.75.255 8 38 5360044 20240710133043
+157.51.193.0 215 215 640899 20240701193539
+68.183.154.199 2 3 23862 20240731060650
+106.217.20.98 53 53 174448 20240713131054
+157.49.242.187 2 6 63288 20240716140039
+74.125.215.2 9 72 5029422 20240720141358
+157.51.196.170 117 207 30999925 20240730070012
+192.36.109.91 2 2 21418 20240705085137
+103.187.63.173 2 8 57414 20240719112314
+35.234.176.174 12 12 41540 20240706201654
+220.158.156.145 9 9 13290 20240731202255
+64.23.176.236 2 2 21418 20240703072755
+3.110.206.215 3 82 4727082 20240726123652
+157.51.112.136 17 46 363631 20240708213141
+106.197.131.201 3 3 4406 20240715174626
+208.167.239.247 11 11 583 20240702014326
+157.51.198.116 83 120 203511 20240713084108
+157.51.199.13 2 2 2914 20240727215952
+117.203.79.81 5 107 4791431 20240725121014
+106.195.43.64 158 158 419300 20240724190122
+178.62.253.41 2 2 21418 20240713080028
+66.249.87.230 2 4 31643 20240705194336
+223.187.116.27 4 4 53544 20240731113653
+188.166.24.124 2 2 21416 20240727060622
+209.38.202.206 3 3 32127 20240709152709
+154.28.229.248 1 1 10709 20240708094406
+72.14.199.235 187 947 21990614 20240710044612
+152.58.227.155 0 1 36230 
+50.19.56.83 2 2 21416 20240730091020
+36.32.3.20 2 2 21418 20240713220548
+223.187.122.27 4 4 53556 20240731113204
+157.47.30.148 2 2 2906 20240709152418
+157.51.195.247 2 2 2904 20240727174629
+106.197.39.252 2 17 160807 20240707142725
+157.47.109.111 4 30 582783 20240701094334
+27.60.164.128 8 50 11481391 20240706074208
+121.4.105.222 2 2 21418 20240705074458
+3.82.21.102 1 1 10708 20240723104919
+157.51.193.96 0 1 287548 
+106.197.119.69 5 30 2780204 20240703190707
+152.58.225.255 3 58 1318275 20240718194737
+79.101.110.9 14 43 775556 20240702005013
+42.104.131.97 235 300 12841394 20240711125008
+147.185.132.84 2 2 99588 20240705070755
+64.226.74.77 2 2 12786 20240718012931
+157.49.97.248 1 1 1492 20240714072636
+120.56.18.162 246 372 19257326 20240703173103
+162.142.125.222 2 3 23862 20240726001659
+101.44.161.217 2 2 21418 20240703090803
+120.56.235.150 524 617 30661030 20240713163745
+157.51.195.136 6 20 186919 20240716142230
+49.113.94.234 2 2 21418 20240701120247
+36.99.136.136 4 25 372868 20240728124625
+35.203.128.11 27 27 61949 20240720180120
+72.14.201.136 8 8 62062 20240725142921
+27.60.174.62 2 2 18626 20240704124444
+196.240.60.198 2 5 512190 20240708103223
+180.102.134.69 2 2 21416 20240729072848
+199.182.172.197 2 2 30664 20240713075645
+182.42.110.255 2 2 21416 20240717071103
+152.58.253.160 4 15 5604 20240712142646
+157.51.197.105 2 17 2896 20240714120346
+110.224.88.162 2 17 196979 20240729210325
+94.74.94.111 2 2 17826 20240709143821
+49.205.142.30 3 59 1361316 20240710115056
+157.49.249.25 22 61 1938337 20240701214417
+188.165.87.111 2 2 99588 20240717142024
+164.90.228.79 2 2 99588 20240723105554
+157.51.195.158 113 134 585543 20240702082223
+198.235.24.94 2 2 99588 20240731150616
+157.51.195.205 4 4 5820 20240712204336
+120.56.21.38 18 61 2615934 20240715181223
+137.184.140.204 1 1 10709 20240710061348
+106.197.110.164 5 19 185477 20240721105112
+157.49.97.255 1 1 1492 20240714072707
+154.28.229.147 1 1 10708 20240728120047
+167.94.138.39 2 3 23864 20240707122020
+117.203.74.167 354 533 40541450 20240706131057
+93.158.91.31 2 3 23862 20240722235303
+157.49.192.87 2 2 15930 20240712062442
+42.111.149.243 2 2 2906 20240729170441
+157.49.244.241 2 2 33376 20240704053525
+205.169.39.6 2 43 729475 20240709152858
+149.56.150.133 20 20 618408 20240714093901
+106.197.112.242 2 2 2902 20240711130956
+157.51.199.207 4 19 5894 20240723203510
+117.203.70.233 664 855 63255219 20240718170531
+42.104.129.109 52 116 5836870 20240724171333
+157.49.99.11 3 26 214649 20240708162357
+117.253.95.34 14 74 2096721 20240731102350
+157.49.219.148 0 1 36230 
+223.187.114.138 5 20 7382 20240702072823
+106.195.41.76 3 17 182675 20240713073807
+87.236.176.206 2 2 21416 20240728120507
+106.221.16.246 6 6 8706 20240713161207
+110.224.86.94 12 13 925032 20240704123847
+106.217.29.56 2 17 160787 20240722182234
+157.51.199.21 2 16 217454 20240728165520
+223.231.139.124 2 2 2920 20240714203819
+106.195.46.191 2 17 2906 20240704213745
+223.182.219.115 2 16 2802 20240721193530
+152.58.247.23 2 7 257548 20240703175108
+47.88.86.63 2 2 21416 20240729000834
+157.49.211.217 2 17 421996 20240720163924
+106.195.42.205 54 91 1211734 20240727214226
+37.139.53.167 2 2 99588 20240726004155
+157.51.191.135 2 16 181233 20240704062846
+147.161.225.20 0 1 46043 
+62.141.44.236 2 2 21416 20240726124447
+157.46.67.75 6 20 423155 20240726204232
+120.56.234.255 1 81 4708112 20240708122647
+223.181.246.178 5 85 4750944 20240721191930
+3.137.138.18 18 301 2283830 20240731012912
+171.79.52.254 0 1 84079 
+157.51.196.177 2 17 2908 20240721120419
+103.163.248.189 3 57 1488619 20240716002358
+120.56.230.4 111 112 4435195 20240724145001
+13.202.101.117 29 494 22696545 20240726131821
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240701 3134 4477 217458600 73
+20240702 2109 3193 157369414 61
+20240703 2522 4403 262087873 93
+20240704 2255 3357 185470839 81
+20240705 2183 3434 128189110 78
+20240706 1855 2975 128343472 82
+20240707 197 608 18385927 46
+20240708 3036 4660 220807528 102
+20240709 3275 5484 268522839 101
+20240710 3814 5041 197517666 68
+20240711 3510 5210 309103411 61
+20240712 2402 3678 130133197 68
+20240713 1582 3180 108260311 85
+20240714 401 1198 40128929 65
+20240715 3306 4496 259274770 76
+20240716 5188 6810 216671300 74
+20240717 6250 7362 219552425 68
+20240718 5989 7147 261561883 53
+20240719 4747 5597 216942997 60
+20240720 3755 5186 181526356 58
+20240721 553 1211 49569990 40
+20240722 2249 3930 246883355 66
+20240723 2895 3692 180353101 67
+20240724 3438 4788 186761448 69
+20240725 2078 3833 147917840 64
+20240726 2331 4940 253550180 74
+20240727 2500 4031 161266579 76
+20240728 611 1604 51564820 54
+20240729 2480 3784 164446796 60
+20240730 2854 3969 211997151 69
+20240731 2623 3953 166269814 75
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 145
+0s-30s 1371
+15mn-30mn 83
+5mn-15mn 83
+30s-2mn 168
+1h+ 222
+2mn-5mn 95
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 353
+/software/admin/studentProfile.php 19738 558365524 14 21
+/software/admin/stdPGraph.php 7228 160849 0 21
+/software/admin/markGraph.php 6125 137106 0 34
+/software/admin/ajax.php 4314 792938 0 2
+/software/admin/studentView.php 3421 1173323616 4 21
+/ 2801 34697527 706 488
+/login.php 2621 4413819 96 39
+/software/admin/trans_sem.php 2266 20400762 0 0
+/software/admin/collect_fees.php 2122 19965248 3 2
+/individual_school_parent_modules/Meenarmpark_Mechari/dashboard.php 2000 10698042 7 22
+/software/admin/ 1998 26274767 0 1
+/software/admin/printStudentFees.php 1709 448842150 0 14
+/software/admin/chart_Data.php 1610 3042159 0 26
+/software/admin/collection.php 1488 84986711 1 2
+/software/admin/supply.php 1483 117843 0 1
+/index.php 802 8585126 12 22
+/software/admin/index.php 758 9859377 0 0
+/individual_school_parent_modules/Meenarmpark_Mechari/ 753 1062682 217 119
+/individual_school_parent_modules/Meenarmpark_Mechari/graph1.php 738 24321 0 38
+/software/admin/reportDailyFeesCollected.php 730 5897736 2 3
+/software/admin/ex_report.php 699 6864443 1 1
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/ 688 1004321 221 166
+/software/admin/expenseCreated.php 680 8242492 0 1
+/software/admin/supplierProfile.php 650 36148316 0 1
+/software/admin/view_dailyreport.php 614 5108888 1 40
+/individual_school_parent_modules/SSV_School_Mechari/subject.php 2 2824 0 0
+/software/admin/sec_wiseExamgraph.php 30 720 0 0
+/individual_school_parent_modules/SSV_School_Mechari/edit_rem.php 4 7516 0 0
+/software/admin/module_permission.php 2 21134 0 0
+/individual_school_parent_modules/Meenarmpark_Mechari/index.php 324 457204 1 19
+/software/admin/sectionGraphProfile.php 30 660 0 0
+/individual_school_parent_modules/SSV_School_Mechari/policy/pp.php 251 907867 48 51
+/software/admin/school_detailsEdit.php 2 24350 0 0
+/individual_school_parent_modules/SRI_SRV_MHS_School_ATTUR/dashboard.php 64 342700 5 4
+/software/admin/report_pre_balance.php 14 128784 0 0
+/software/admin/teacherProfile.php 104 2839438 0 0
+/software/admin/viewBus.php 32 307680 0 0
+/software/admin/create_rem.php 2 16774 0 0
+/./privacy_policy.php/ 1 7121 0 0
+/software/nuscma_2/beta/stdoverallattd.php 2 11038 0 0
+/assets/fonts/remixicon.woff 3 518628 0 1
+/software/admin/2023-24-pendingprint.php 2 377784 0 0
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/enquiry.php 2 3682 0 1
+/individual_school_parent_modules/SSV_School_Belur/attendance.php 8 18800 0 0
+/software/admin/edit_collect_fees.php 92 852142 0 0
+/software/admin/print_expense_report.php 10 1487314 0 1
+/software/admin/print_trans_stu.php 10 4122322 0 0
+/software/admin/2023-24.php 337 3140922 0 0
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/graph1.php 77 18990 0 0
+/software/admin/itemCreated.php 6 49668 0 0
+/individual_school_parent_modules/SSV_School_Belur/graph1.php 15 1872 0 0
+/individual_school_parent_modules/SSV_School_Belur/graph2.php 15 1950 0 2
+/individual_school_parent_modules/SSV_School_Mechari/appformsubmit.php 20 1088 1 2
+/faq.php 12 124710 0 0
+/software/admin/tech_fees_task.php 52 1978 0 0
+/school_blog.php 90 923980 4 9
+/old 12 0 0 0
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/fees.php 18 37404 0 1
+/software/admin/supplierCreated.php 14 116516 0 0
+/individual_school_parent_modules/Meenarmpark_Mechari/task.php 58 63974 1 0
+/software/admin/bonafiedReport.php 30 66472 0 3
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/profile_edit.php 2 4202 0 0
+/software/admin/edit_notify.php 2 16760 0 0
+/cgi-sys/500.html 4 1432 0 0
+/individual_school_parent_modules/SRI_SRV_MHS_School_ATTUR/homework.php 8 11296 0 1
+/home 12 0 0 12
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/lib/fontawesome/webfonts/fa-solid-900.woff2 41 1885200 0 4
+/software/admin/changeStudentClass.php 58 605769 0 0
+/software/nuscma_2/beta/ 12 100164 1 1
+/software/admin/task_pending_chart.php 6 300 0 0
+/software/admin/ent_trans_sem.php 446 4416984 0 0
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/policy/pp.php 249 905862 52 46
+/software/admin/buswise_report.php 37 331158 0 1
+/software/admin/pdf_printSectionFeesReport.php 6 1020924 0 1
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/viewResult.php 2 3104 0 0
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/classroom.php 356 1964972 0 2
+/individual_school_parent_modules/SSV_School_Belur/index.php 12 16780 0 0
+/software/nuscma_2/beta/index.php 8 70544 0 0
+/individual_school_parent_modules/SSV_School_Belur/dashboard.php 198 1061800 2 5
+/individual_school_parent_modules/SSV_School_Mechari/workdone.php 4 5752 0 2
+/software/admin/fees_task_chart.php 6 231 0 0
+/software/admin/expense_report.php 37 369163 0 0
+/software/admin/classView.php 56 538696 0 0
+/individual_school_parent_modules/SRI_SRV_MHS_School_ATTUR/fees.php 8 18048 0 0
+/individual_school_parent_modules/Meenarmpark_Mechari/document.php 34 66760 0 1
+/software/admin/edit_exp.php 14 126860 0 0
+/software/admin/functions.php 1 71 0 0
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/workdone.php 12 91856 0 0
+/software/admin/allowance.php 2 15940 0 0
+/software/admin/sec_wiseSubgraph.php 30 660 0 0
+/individual_school_parent_modules/SSV_School_Mechari/attendance.php 10 17010 0 1
+/software/admin/print_daywise_techAttd.php 4 1635436 0 0
+/software/admin/task_tech_chart.php 1 25 0 0
+/software/admin/teachergraph.php 51 1345 0 0
+/terms_condition.php/ 1 7483 0 0
+/software/admin/ad_report.php 28 557901 0 0
+/software/admin/trans1_chart.php 5 1430 0 0
+/software/admin/viewAttendence.php 4 32070 0 0
+/software/admin/demo-data.php 6 2136 0 0
+/software/admin/print_studentView.php 4 1781894 0 0
+/software/nuscma_2/beta/list_teacher 2 13544 0 1
+/individual_school_parent_modules/SSV_School_Belur/exam.php 14 16936 0 1
+/general_policy.php/ 1 6357 0 0
+/software/admin 1 358 0 0
+/privacy_policy.php/ 1 7121 0 0
+/software/admin/bus_expReport.php 3 26857 0 0
+/software/individual_school_teacher_modules/srm_mechari/takeAttendance.php 12 33900 0 1
+/software/admin/secwFessGraph.php 28 15231 0 0
+/individual_school_parent_modules/SRI_SRV_MHS_School_ATTUR/workdone.php 6 8628 0 1
+/software/admin/busProfile.php 24 236838 0 0
+/software/admin/excel_admission.php 14 132224 0 0
+/individual_school_parent_modules/Meenarmpark_Mechari/appformsubmit.php 139 252446 0 0
+/software/admin/rte_student.php 29 263156 0 0
+/individual_school_parent_modules/Meenarmpark_Mechari/my_profile.php 460 956174 1 19
+/software/admin/SectionlistProfile.php 60 2373332 0 0
+/individual_school_parent_modules/Meenarmpark_Mechari/transport.php 82 105534 1 0
+/wordpress 12 0 1 0
+/individual_school_parent_modules/Meenarmpark_Mechari/notify.php 54 66042 0 1
+/software/admin/busStopsEdit.php 4 33026 0 0
+/software/admin/formSubmit.php 22 3739 0 0
+/software/admin/excel_exreport.php 344 327890 0 2
+/software/admin/trans_dashboard.php 10 135600 0 0
+/software/admin/staffAttendance.php 4 39242 0 0
+/assets/fonts/remixicon.woff2 244 29187444 9 89
+/software/admin/classwise_student.php 453 4948267 0 1
+/about.php/ 1 5207 1 0
+/individual_school_parent_modules/SSV_School_Mechari/task.php 4 4412 0 0
+/software/admin/document.php 2 36226 0 0
+/individual_school_parent_modules/SSV_School_Belur/task.php 8 8824 0 0
+/individual_school_parent_modules/Meenarmpark_Mechari/graph2.php 111 2442 0 6
+/software/admin/edit_voucher.php 20 163204 0 0
+/software/admin/section_paidfees_report.php 57 532904 0 0
+/software/individual_school_teacher_modules/srm_mechari/task.php 2 8184 0 0
+/software/admin/create_planner.php 2 21338 0 0
+/./about.php/ 1 5207 0 0
+/individual_school_parent_modules/SSV_School_Mechari/transport.php 4 7240 1 0
+/cancellation.php 18 80442 3 4
+/individual_school_parent_modules/SSV_School_Belur/my_profile.php 48 98968 0 4
+/view_school.php 458 3984908 149 105
+/individual_school_parent_modules/SSV_School_Belur/homework.php 20 30674 0 0
+/software/admin/placeOrder.php 2 16004 0 0
+/software/nuscma_2/beta/list_student 2 21556 0 0
+/software/admin/inactive_student.php 282 8979254 0 1
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/gallery.php 70 244094 1 10
+/software/admin/gl_report.php 22 192988 0 1
+/software/admin/pdf_printFeesTermwise.php 20 8236950 0 0
+/software/admin/edit_class.php 12 100850 0 0
+/software/admin/print_ad_report.php 4 902412 0 0
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/attendance.php 42 96558 0 1
+/software/admin/s_ssv.php 308 3643750 0 0
+/software/admin/excel_sectionTerm.php 2 2066 0 0
+/individual_school_parent_modules/SSV_School_Mechari/dashboard.php 48 257788 4 0
+/register_step.php 2 9498 0 0
+/cpanel 70 949520 27 28
+/./terms_condition.php/ 1 7483 0 0
+/software/admin/salary_report.php 3 24715 0 0
+/software/admin/trans_term.php 2 21616 0 0
+/individual_school_parent_modules/Meenarmpark_Mechari/exam.php 66 92994 1 2
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/homework.php 40 163394 0 1
+/bc 12 0 0 0
+/software/admin/transterm_chart.php 1 306 0 0
+/individual_school_parent_modules/Meenarmpark_Mechari/workdone.php 90 133588 0 0
+/software/nuscma_2/beta/list_examination.php 2 9938 0 0
+/software/admin/2023-24-pendingprint1.php 266 45466688 0 0
+/software/admin/busEdit.php 6 50362 0 0
+/software/admin/excel_student.php 10 702182 0 1
+/individual_school_parent_modules/SSV_School_Mechari/graph2.php 24 528 0 1
+/software_service.php 12 103734 0 0
+/individual_school_parent_modules/SRI_SRV_MHS_School_ATTUR/attendance.php 4 7532 0 0
+/wp 12 0 0 0
+/software/admin/print_collection.php 598 109463948 0 1
+/school_promotion.php 24 230264 5 5
+/software/nuscma_2/beta/dashboard_acct.php 2 16168 0 0
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/reminder.php 2 3812 0 0
+/software/admin/addBusRoot.php 22 192582 0 0
+/software/admin/attendanceList.php 2 291305 0 0
+/individual_school_parent_modules/SSV_School_Belur/notify.php 4 4892 0 0
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/ajax.php 12 384 0 1
+/bk 12 0 0 0
+/software/admin/classSectionView.php 56 893258 0 0
+/software/admin/passedout_student.php 54 1858349 0 0
+/software/individual_school_teacher_modules/srm_mechari/dashboard.php 24 109416 0 1
+/individual_school_parent_modules/SSV_School_Mechari/document.php 8 15704 0 3
+/individual_school_parent_modules/SSV_School_Mechari/homework.php 4 5648 0 0
+/software/admin/teacherCreate.php 14 123026 0 0
+/individual_school_parent_modules/SRI_SRV_MHS_School_ATTUR/ 104 149155 29 24
+/software/nuscma_2/beta/add_teacher.php 2 13796 0 0
+/software/teacher/ 37 44511 13 5
+/software/admin/set_fees.php 188 1524914 0 1
+/software/admin/twomonth_report.php 7 65322 0 0
+/individual_school_parent_modules/SSV_School_Mechari/exam.php 2 2818 0 0
+/software/nuscma_2/beta/list_staff.php 4 24696 0 0
+/software/admin/classCreate.php 42 350428 0 0
+/home2/nuscmy3y/public_html/software/admin/tcpdf/examples/images/ 90 0 1 36
+/individual_school_parent_modules/SSV_School_Mechari/fees.php 2 4604 0 0
+/software/teacher/policy/pp.php 298 172840 57 54
+/about.php 102 1159746 19 19
+/software/admin/classwiseTermfeesReport1.php 100 974917 1 0
+/software/individual_school_teacher_modules/srm_mechari/reminder.php 2 6096 0 0
+/software/admin/pdf_printClasswiseFeesReport.php 68 26906076 0 1
+/software/admin/excel_classStrength.php 6 1866 0 1
+/software/admin/task_dashboard.php 2 22214 0 0
+/individual_school_parent_modules/SSV_School_Belur/workdone.php 8 14078 0 0
+/individual_school_parent_modules/SSV_School_Belur/reminder.php 6 11430 0 0
+/individual_school_parent_modules/SSV_School_Belur/ 73 102217 29 19
+/software/admin/classwiseStudentStrengthReport.php 112 951591 0 4
+/software/admin/con_class.php 4 32796 0 0
+/software/admin/excel_yearlyReport.php 2 2876 0 0
+/software/nuscma_2/beta/list_section.php 4 31684 0 0
+/software/admin/classSectionCreate.php 6 67972 0 0
+/software/admin/addBus.php 16 132048 0 0
+/software/teacher/index.php 55 66573 0 2
+/software/admin/monthFees_chart.php 12 2545 0 0
+/individual_school_parent_modules/SRI_SRV_MHS_School_ATTUR/transport.php 2 2574 0 0
+/individual_school_parent_modules/SRI_SRV_MHS_School_ATTUR/my_profile.php 8 16720 0 1
+/software/admin/overall_dashboard.php 30 414841 0 0
+/software/admin/view_office_attendance.php 2 14198 0 0
+/software/admin/s.php 98 1143804 1 0
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/task.php 16 17648 0 0
+/individual_school_parent_modules/Meenarmpark_Mechari/homework.php 170 602510 0 5
+/software/admin/PurchaseOrder.php 2 18378 0 0
+/software/individual_school_teacher_modules/srm_mechari/student.php 16 36880 0 0
+/software/admin/teacher_dashboard.php 500 5467880 0 0
+/software/admin/create_notify.php 2 19388 0 0
+/software/nuscma_2/beta/index 4 35272 1 2
+/individual_school_parent_modules/Meenarmpark_Mechari/attendance.php 148 251748 1 4
+/software/admin/schoolProfile.php 2 19574 0 0
+/software/admin/pdf_sectionStudent.php 74 22926048 0 0
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/index.php 75 109466 0 4
+/software/admin/edit_trans_set.php 212 1869266 0 0
+/contact.php 33 279383 3 6
+/individual_school_parent_modules/SSV_School_Belur/document.php 8 15702 0 0
+/software/individual_school_teacher_modules/srm_mechari/profile.php 18 46602 0 0
+/software/admin/demo-data2.php 6 462 0 0
+/software/admin/print_trans_bill.php 374 119388644 0 1
+/software/admin/per_dashboard.php 2 26382 0 0
+/software/admin/excel_alltrans_stu.php 36 63550 0 0
+/software/admin/ai_list.php 30 242240 0 0
+/software/admin/print_discount_fees.php 2 339282 0 0
+/software/individual_school_teacher_modules/srm_mechari/css/fonts/bootstrap-iconsd862.woff2 14 674640 2 8
+/software/admin/classwiseTermfeesReport.php 14 124162 0 0
+/software/admin/s1.php 233 2373404 0 0
+/_ignition/execute-solution/ 1 358 0 1
+/individual_school_parent_modules/SRI_SRV_MHS_School_ATTUR/policy/pp.php 595 2152115 148 149
+/individual_school_parent_modules/SRI_SRV_MHS_School_ATTUR/exam.php 4 4966 0 1
+/individual_school_parent_modules/SSV_School_Belur/subject.php 6 9800 0 0
+/new 12 0 0 0
+/software/admin/school_activity.php 2 17494 0 0
+/app/new/pp.php 445 480155 111 96
+/software/admin/sara.php 34 571628 0 0
+/software/admin/staffprofile.php 4 72292 0 0
+/register_plan.php 30 203456 0 0
+/software/admin/excel_sectionPaid.php 10 8904 0 0
+/software/nuscma_2/beta/profile_school1.php 2 16786 0 0
+/software/admin/GLwise_report.php 16 5398170 0 0
+/software/admin/staffview.php 42 386256 0 0
+/software/admin/print_col_out.php 4 8132 0 1
+/software/individual_school_teacher_modules/srm_mechari/policy/pp.php 244 141520 40 49
+/software/admin/excel_stuName_class.php 354 1102500 0 5
+/software/admin/edit_gl.php 8 66210 0 0
+/software/admin/season_report.php 7 120725 0 0
+/software/admin/printclasswiseStudentStrengthReport.php 6 2493616 0 0
+/backup 12 0 0 0
+/individual_school_parent_modules/Meenarmpark_Mechari/profile_edit.php 12 25212 0 0
+/software/individual_school_teacher_modules/srm_mechari/index.php 7 8726 0 0
+/software/admin/change_password.php 2 2714 0 0
+/software/individual_school_teacher_modules/srm_mechari/notify.php 4 10068 0 0
+/software/nuscma_2/beta/list_teacher.php 4 27088 0 0
+/software/admin/yearly_stu_report.php 6 58821 1 0
+/software/admin/sectionStudentReport.php 29 310357 0 0
+/software/admin/trans_stu.php 62 610318 0 1
+/software/admin/edit_transFees_sem.php 6 58106 0 0
+/careers.php 12 43398 0 0
+/software/admin/schoolList.php 4 33832 0 0
+/individual_school_parent_modules/SRI_SRV_MHS_School_ATTUR/graph2.php 10 1070 0 0
+/software/admin/excel_sectionPending.php 2 816 0 0
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/appformsubmit.php 4 164 0 0
+/individual_school_parent_modules/SSV_School_Mechari/ 6 8392 3 0
+/software/admin/setting.php 32 641734 0 1
+/individual_school_parent_modules/SSV_School_Belur/transport.php 8 10296 0 0
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/subject.php 10 16880 0 0
+/software/nuscma_2/beta/list_student.php 4 43112 0 0
+/software/admin/s2.php 233 1961466 0 1
+/software/admin/discount_report.php 64 686903 1 0
+/software/admin/studyReport.php 6 12612 0 0
+/software/admin/api.php 16 5728 0 1
+/software/nuscma_2/beta/tab_stdprofile 2 14386 0 0
+/software/individual_school_teacher_modules/srm_mechari/viewAttendence.php 5 14378 0 0
+/software/admin/paymentExpenses.php 586 4850588 0 1
+/individual_school_parent_modules/SSV_School_Belur/fees.php 8 18148 0 0
+/software/admin/graph.php 2 1625 0 0
+/individual_school_parent_modules/Meenarmpark_Mechari/reminder.php 38 72426 0 1
+/individual_school_parent_modules/SSV_School_Mechari/my_profile.php 4 8304 0 0
+/appointment.php 18 18672 0 0
+/individual_school_parent_modules/SRI_SRV_MHS_School_ATTUR/task.php 4 4412 0 1
+/software/admin/officestaffattendance.php 2 15912 0 0
+/software/nuscma_2/beta/profile_student 4 30976 0 1
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/graph2.php 59 13033 0 1
+/css2 2 716 0 0
+/software/nuscma_2/beta/edit_school.php 2 10702 0 0
+/software/admin/PurchaseOrderItem.php 2 17840 0 0
+/social_media.php 26 219076 4 4
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/demo_tt.php 2 2156 0 0
+/software/admin/month_tech_attd.php 12 119121 0 0
+/modules.php 12 142560 1 1
+/individual_school_parent_modules/SSV_School_Mechari/reminder.php 10 20320 1 1
+/software/individual_school_teacher_modules/srm_mechari/ 51 63110 16 8
+// 2 60503 0 2
+/software/admin/ecs_dashboard.php 4 79780 0 0
+/software/admin/pdf_printFeesPaidReport.php 14 5960870 0 0
+/individual_school_parent_modules/SSV_School_Mechari/graph1.php 24 792 0 0
+/software/admin/print_section_student.php 4 266176 0 0
+/software/admin/tech_mod_chart.php 52 2660 0 0
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/transport.php 14 18922 0 0
+/cgi-sys/404.html 77 41066 46 0
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/create_post.php 24 45414 0 3
+/software/admin/takeAttendance.php 2 15124 0 0
+/software/admin/collection_out.php 32 800116 0 0
+/software/admin/studentProfileEdit.php 358 3354324 0 2
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/notify.php 4 4892 0 0
+/privacy_policy.php 24 206548 4 3
+/software/admin/season_chart.php 6 517 0 0
+/nulinz.com/ 18 98520 2 2
+/terms_condition.php 24 217758 5 6
+/software/teacher/css/fonts/bootstrap-iconsd862.woff2 13 449760 2 8
+/software/admin/staffcreate.php 14 120114 0 0
+/software/admin/expenseView.php 178 81220337 3 2
+/general_policy.php 20 127140 3 4
+/software/admin/Storeroom.php 2 16550 0 0
+/individual_school_parent_modules/Meenarmpark_Mechari/subject.php 60 84720 0 0
+/software/admin/viewBusroot.php 266 3943446 0 1
+/software/admin/excel_collection.php 66 1847118 0 1
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/exam.php 18 29820 0 0
+/software/admin/clswisePending.php 130 1225090 0 0
+/main 12 0 0 0
+/school_list.php 60 932478 5 17
+/software/admin/classwiseFeesReport.php 26 229057 0 2
+/features.php 12 145584 1 1
+/software/admin/supplierList.php 8 78276 0 0
+/software/admin/teacher_task_chart.php 52 1770 0 0
+/software/admin/print_overall_col.php 2 1001006 0 0
+/software/admin/accountNewGl.php 44 472750 0 0
+/software/admin/create_group.php 2 16628 0 0
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/my_profile.php 118 243382 0 3
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/dashboard.php 482 8016922 9 33
+/individual_school_parent_modules/SRI_SRV_MHS_School_ATTUR/document.php 6 11778 0 1
+/software/admin/view_teacher_attendance.php 4 64276 0 0
+/./general_policy.php/ 1 6357 0 1
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/document.php 14 27492 0 0
+/software/admin/print_voucher.php 360 145719786 0 3
+/individual_school_parent_modules/SRI_RAGHAVENDRA_MECHARI/library.php 6 7368 0 0
+/software/admin/teacherView.php 130 2305442 0 2
+/software/admin/insertAttendance.php 2 16754 0 0
+END_SIDER

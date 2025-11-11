@@ -1,0 +1,466 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202208 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.inventory.amxxa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2694                
+POS_VISITOR 9732                
+POS_DAY 12257               
+POS_DOMAIN 3445                
+POS_LOGIN 3774                
+POS_ROBOT 3929                
+POS_WORMS 4181                
+POS_EMAILSENDER 4312                
+POS_EMAILRECEIVER 4455                
+POS_SESSION 13083               
+POS_SIDER 13293               
+POS_FILETYPES 4590                
+POS_DOWNLOADS 4811                
+POS_OS 4859                
+POS_BROWSER 5064                
+POS_SCREENSIZE 5461                
+POS_UNKNOWNREFERER 5535                
+POS_UNKNOWNREFERERBROWSER 6117                
+POS_ORIGIN 6516                
+POS_SEREFERRALS 6656                
+POS_PAGEREFS 6800                
+POS_SEARCHWORDS 6976                
+POS_KEYWORDS 7128                
+POS_MISC 2358                
+POS_ERRORS 7187                
+POS_CLUSTER 3630                
+POS_SIDER_404 7331                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220901014100 3 330 8233523111350
+FirstTime 20220801044845
+LastTime 20220831150319
+LastUpdate 20220901185919 3 0 2 0 0
+TotalVisits 139                 
+TotalUnique 61                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 61                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+AddToFavourites 0 2 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 2693 0 8 3314
+1 12 19 1278801 0 30 12090
+2 1 1 5886 0 8 3314
+3 0 0 0 0 18 6894
+4 116 147 2383825 3 138 51152
+5 529 592 8674934 8 260 92460
+6 1722 1801 29038613 3 253 90916
+7 1613 1675 27940264 52 354 219398
+8 865 899 13182963 19 125 81739
+9 1141 1187 20089032 12 314 123810
+10 2067 2107 34590524 7 197 67718
+11 1253 1309 20209889 1 226 80284
+12 204 215 3543570 0 25 8950
+13 10 17 1224897 0 22 24086
+14 29 45 2042312 2 53 17681
+15 9 12 39019 2 34 15690
+16 0 0 0 0 0 0
+17 1 4 1761 0 7 2470
+18 8 12 42736 29 56 34399
+19 1 3 11371 1 18 6444
+20 7 7 20973 2 6 7544
+21 0 0 0 0 6 2148
+22 2 2 11772 3 16 5596
+23 0 0 0 0 4 1432
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+in 9182 9501 147323597
+us 385 523 15688777
+do 12 19 1278801
+ca 5 5 29430
+jp 3 3 7008
+ua 2 2 0
+ru 1 1 2336
+gb 1 1 5886
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+Googlebot/ 69 166017 20220831091308 0
+Go\-http\-client/ 5 22314 20220828134613 0
+no_user_agent 3 17658 20220829202441 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+png 141 1810384 0 0
+html 264 646297 0 0
+js 57 13430040 0 0
+svg 119 626291 0 0
+css 146 4821902 0 0
+jpg 1 7395 0 0
+woff2 59 3831604 0 0
+php 9268 139161922 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+androidmarshmallow 21 14
+ios_iphone 1 1
+macosx15 112 65
+android10 13 6
+androidfroyo 3 3
+android 21 8
+win7 1 1
+win10 9833 9443
+Unknown 50 50
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 17
+firefox59.0 1 1
+android 3 3
+chrome76.0.3809.71 9 3
+chrome103.0.5060.129 21 8
+Unknown 36 36
+safari14.1.2 73 41
+chrome102.0.0.0 1 1
+mozilla 14 14
+chrome84.0.4147.105 1 1
+firefox104.0 2647 2549
+firefox103.0 7120 6850
+chrome104.0.0.0 81 57
+chrome103.0.0.0 13 6
+chrome102.0.5005.78 19 12
+safari15.1 1 1
+chrome91.0.4472.114 13 6
+chrome52.0.3624.98 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220828134612
+Mozilla/5.0_(compatible;_Domains_Project/1.3.7;__https://domainsproject.org) 20220805182451
+PlayStore-Google 20220831150319
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220816022615
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220816022615
+PlayStore-Google 20220831150319
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 168 168
+From1 0 0
+From2 0 0
+From3 2 2
+From4 9421 9885
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://216.10.252.82:80 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+500 11 0
+403 2 716
+421 24 7728
+404 2044 742695
+301 3 723
+406 6 1356
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 39
+/beta/assets/js/plugins.js 29 https://inventory.amxxa.com/beta/index.php
+/apple-touch-icon-precomposed.png 5 -
+/beta/assets/img/iso.png 23 https://inventory.amxxa.com/beta/index.php
+/beta/assets/js/vandor/jquery-3.2.1.min.js 25 https://inventory.amxxa.com/beta/index.php
+/config.json 2 -
+/robots.txt 118 -
+/login.action 2 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 2 -
+/telescope/requests 2 -
+/app/assets/js/vandor/modernizr-3.5.0.min.js 11 https://inventory.amxxa.com/app/
+/beta/assets/js/popper.min.js 28 https://inventory.amxxa.com/beta/index.php
+/assets/img/iso.png 141 https://inventory.amxxa.com/index.php
+/apple-touch-icon.png 5 -
+/beta/assets/img/fixed-startup-india-logo.png 22 https://inventory.amxxa.com/beta/index.php
+/refund-policy.html 3 -
+/app/assets/js/popper.min.js 12 https://inventory.amxxa.com/app/
+/assets/js/bootstrap.min.js 223 https://inventory.amxxa.com/index.php
+/app/assets/js/vandor/jquery-3.2.1.min.js 12 https://inventory.amxxa.com/app/
+/beta/assets/js/bootstrap.min.js 29 https://inventory.amxxa.com/beta/index.php
+/app/assets/js/main.js 10 https://inventory.amxxa.com/app/
+/terms&condition.html 2 -
+/assets/js/main.js 232 https://inventory.amxxa.com/index.php
+/beta/assets/js/main.js 28 https://inventory.amxxa.com/beta/index.php
+/.git/config 4 -
+/app/assets/js/plugins.js 11 https://inventory.amxxa.com/app/
+/wp-content/uploads/2022/03/fast-logo.jpg 1 -
+/assets/js/plugins.js 228 https://inventory.amxxa.com/index.php
+/s/3231362e31302e3235322e3832/_/ 2 -
+/assets/img/fixed-startup-india-logo.png 140 https://inventory.amxxa.com/index.php
+/info.php 2 -
+/beta/assets/js/vandor/modernizr-3.5.0.min.js 24 https://inventory.amxxa.com/beta/index.php
+/assets/js/popper.min.js 228 https://inventory.amxxa.com/index.php
+/about-us.html 3 -
+/app-ads.txt 127 -
+/assets/js/vandor/modernizr-3.5.0.min.js 128 https://inventory.amxxa.com/index.php
+/assets/js/vandor/jquery-3.2.1.min.js 164 https://inventory.amxxa.com/index.php
+/privacy-policies.html 1 -
+/.DS_Store 2 -
+/app/assets/js/bootstrap.min.js 13 https://inventory.amxxa.com/app/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 61
+117.251.22.249 5315 5462 81445020 20220831073509
+103.225.125.170 3779 3892 61459327 20220831110601
+157.49.238.164 94 98 1208490 20220811090556
+157.46.111.253 31 51 2469503 20220813071956
+157.46.122.55 31 45 2655997 20220812094504
+157.51.76.21 27 29 106512 20220814060248
+157.49.202.244 26 35 446948 20220807082957
+157.49.95.176 24 33 2047650 20220810100711
+106.198.109.159 24 42 1041018 20220810104051
+157.49.200.233 20 34 1524765 20220803064709
+157.49.148.16 19 32 568236 20220823051417
+157.49.225.230 19 31 1272922 20220811114207
+106.197.111.207 17 22 386428 20220808105941
+106.217.31.128 16 32 2010746 20220825141305
+106.203.53.45 15 26 901960 20220807125838
+190.94.74.71 12 19 1278801 20220803015356
+157.51.16.65 12 20 512778 20220815100832
+157.49.85.139 11 11 88988 20220810064617
+106.197.111.196 8 17 46900 20220815102728
+74.125.150.86 8 8 21544 20220831105004
+157.49.215.113 8 14 191223 20220801090234
+74.125.150.88 7 7 18851 20220831150319
+74.125.150.90 6 6 16158 20220830141157
+106.197.111.195 6 6 28827 20220809061745
+157.49.226.255 6 13 1214839 20220808130712
+39.110.218.101 1 1 2336 20220805202343
+65.154.226.171 1 3 11371 20220826185028
+157.50.0.102 1 4 1761 20220825170620
+157.49.226.22 5 13 1196476 20220830054816
+167.94.138.44 2 2 4672 20220803151731
+74.125.151.182 1 1 2693 20220814142457
+65.154.226.167 1 3 11371 20220826190629
+205.210.31.21 1 1 5886 20220807224416
+66.249.92.86 1 1 2693 20220813140328
+167.94.138.47 2 2 4672 20220821144109
+79.104.53.14 1 1 2336 20220805183828
+198.235.24.24 1 1 5886 20220816022615
+161.35.122.84 1 1 5886 20220805182458
+65.154.226.170 1 3 11371 20220805182536
+133.242.174.119 1 1 2336 20220805202412
+66.249.92.46 1 1 2693 20220801145632
+198.235.24.31 1 1 5886 20220814225732
+167.94.138.117 2 2 4672 20220828134612
+35.212.153.217 1 1 2336 20220820101100
+51.81.167.146 1 1 5886 20220805182606
+74.125.217.118 2 2 5386 20220823115119
+106.198.109.187 2 2 3371 20220810140422
+133.242.140.127 1 1 2336 20220805202407
+167.248.133.60 2 2 4672 20220814154408
+198.235.24.13 1 1 5886 20220815100512
+66.249.89.247 1 1 2693 20220803104251
+66.249.92.84 2 2 5386 20220829200500
+66.249.87.26 1 1 2693 20220822104226
+157.51.46.125 1 4 19617 20220814152127
+198.235.24.2 1 1 5886 20220806205124
+150.136.250.6 1 1 2336 20220806102521
+167.94.138.46 2 2 4672 20220818140942
+162.142.125.221 2 2 4672 20220801151839
+82.193.104.168 2 2 0 20220805182451
+66.249.87.84 1 1 2693 20220815114311
+45.79.72.76 1 1 5886 20220805182500
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20220801 964 981 13213104 8
+20220802 1 1 2693 1
+20220803 35 56 2810931 4
+20220805 11 13 41066 10
+20220806 3 3 10915 3
+20220807 43 63 1357487 4
+20220808 640 668 13111177 7
+20220809 1301 1311 20767801 5
+20220810 424 466 7097552 7
+20220811 688 717 10394207 6
+20220812 542 567 9269700 4
+20220813 272 304 5893495 7
+20220814 81 93 910575 6
+20220815 22 39 568257 4
+20220816 107 123 1264651 4
+20220817 179 186 2274370 1
+20220818 347 365 6419504 6
+20220819 199 210 2516018 2
+20220820 348 354 3196212 4
+20220821 2 2 4672 1
+20220822 1 1 2693 1
+20220823 167 185 6231003 3
+20220824 1517 1537 28666256 4
+20220825 294 337 5616879 9
+20220826 424 437 5270682 7
+20220827 196 216 4995633 6
+20220828 3 3 7365 2
+20220829 158 168 2134732 4
+20220830 7 15 1201862 3
+20220831 615 634 9084343 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 8
+2mn-5mn 8
+30s-2mn 12
+1h+ 16
+0s-30s 66
+5mn-15mn 14
+30mn-1h 15
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 54
+/sales_add_item.php 3887 36211245 4 13
+/salesorder.php 1403 6681218 1 24
+/fitem.php 601 48477288 0 0
+/salescompany2.php 423 4826568 0 0
+/sales_shipping_details.php 399 1660316 0 0
+/addcustomers.php 368 2365102 2 4
+/customer.php 359 11421960 3 3
+/cart.php 325 1635343 0 0
+/gitem.php 313 21266 0 0
+/gcompany.php 260 20410 0 2
+/salesorderlist.php 245 20769620 3 2
+/ 203 502223 86 25
+/dashboard1.php 125 2380199 1 8
+/setsession.php 94 6674 0 0
+/purchaseorderlist.php 68 898314 0 9
+/fscompany.php 59 426210 0 1
+/shipping_details.php 51 215859 0 0
+/fonts/fa-solid-900.woff2 50 3362428 0 2
+/receive.php 50 249797 0 0
+/purchase_receive_bulk.php 48 171127 0 0
+/index.php 47 110876 0 3
+/policies.html 31 83483 31 31
+/submitreceive.php 24 1848 0 0
+/beta/index.php 18 39529 0 1
+/beta/ 17 37478 3 0
+/app/ 13 23113 4 4
+/beta/services.php 4 47410 0 0
+/app/fonts/fa-solid-900.woff2 3 78196 0 0
+/app/setsession.php 3 213 0 0
+/beta/logout.php 2 130 0 0
+/app/booking.php 1 3073 0 1
+/beta/services_shipping_details.php 3 13766 0 1
+/beta/pdf/pdf/po.php 1 2446 0 1
+/beta/salesorder.php 3 13343 0 0
+/beta/salesorderlist.php 3 15687 0 0
+/app/index.php 1 1761 0 0
+/beta/serviceorderlist.php 2 12299 0 0
+/beta/sales_add_item.php 12 49622 0 2
+/beta/service_view.php 2 9652 0 0
+/beta/gcompany.php 5 444 0 0
+/sales_view.php 2 7929 0 0
+/labour_add_item.php 3 11814 0 1
+/purchaseorder_view.php 2 7867 0 0
+/beta/salescompany2.php 6 55875 0 0
+/beta/setsession1.php 13 923 0 0
+/logout.php 1 65 0 0
+/labbourorder.php 1 3581 0 0
+/beta/sales_shipping_details.php 6 26439 0 0
+/inventory1.php 1 46398 0 0
+/beta/sales_add_item1.php 1 9223 0 0
+/beta/purchaseorderlist.php 2 23725 0 0
+/beta/dashboard1.php 14 72890 1 1
+/beta/fonts/fa-solid-900.woff2 6 390980 0 0
+/app/dashboard1.php 7 134578 0 0
+END_SIDER

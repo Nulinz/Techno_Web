@@ -1,0 +1,567 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202204 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.inventory.amxxa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2693                
+POS_VISITOR 18823               
+POS_DAY 21996               
+POS_DOMAIN 3529                
+POS_LOGIN 3841                
+POS_ROBOT 3996                
+POS_WORMS 4269                
+POS_EMAILSENDER 4400                
+POS_EMAILRECEIVER 4543                
+POS_SESSION 22770               
+POS_SIDER 22982               
+POS_FILETYPES 4678                
+POS_DOWNLOADS 4923                
+POS_OS 5013                
+POS_BROWSER 5206                
+POS_SCREENSIZE 5883                
+POS_UNKNOWNREFERER 5957                
+POS_UNKNOWNREFERERBROWSER 6449                
+POS_ORIGIN 6850                
+POS_SEREFERRALS 6992                
+POS_PAGEREFS 7136                
+POS_SEARCHWORDS 7353                
+POS_KEYWORDS 7505                
+POS_MISC 2357                
+POS_ERRORS 7564                
+POS_CLUSTER 3697                
+POS_SIDER_404 7703                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220501142253 1 0 30225259625781
+FirstTime 20220405125537
+LastTime 20220430122123
+LastUpdate 20220501183901 1 0 0 0 0
+TotalVisits 223                 
+TotalUnique 75                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 75                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 2 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 16 93336 3 13 10627
+1 47 63 315593 6 55 23240
+2 152 167 1921478 27 75 28447
+3 104 180 689699 0 86 30788
+4 681 767 12539002 11 283 106033
+5 1457 1636 27312821 8 443 154870
+6 1859 2021 29373369 10 422 150502
+7 2025 2200 24116802 24 506 184471
+8 869 988 18047294 18 426 159290
+9 1147 1320 21240921 29 431 150103
+10 2091 2233 37575315 14 436 158216
+11 1775 2020 44212169 20 441 161044
+12 1574 1658 20276882 3 396 143233
+13 88 126 2491100 171 415 157415
+14 42 47 689741 3 29 13970
+15 58 101 758358 9 116 53438
+16 211 301 2134392 9 164 61226
+17 142 205 1090629 7 76 27373
+18 66 109 449214 3 16 7003
+19 28 33 224071 2 6 6130
+20 2 3 17195 0 1 0
+21 8 14 36884 1 41 14284
+22 0 0 0 1 1 6025
+23 7 11 59229 5 11 17569
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+in 13348 14760 216343094
+us 1060 1425 28590727
+ca 12 12 72300
+gb 9 9 13745
+ru 8 9 636244
+jp 4 4 9384
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+Apache\-HttpClient/ 47 110403 20220429235547 0
+(firefox/)([0-9]\.|[0-1][0]\.) 4 8644 20220405130251 0
+no_user_agent 2 12050 20220427233541 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+svg 257 1667169 0 0
+woff2 184 10689220 0 0
+jpg 24 128944 0 0
+png 677 5566567 0 0
+html 454 1105395 0 0
+php 13803 168740718 0 0
+css 329 11009941 0 0
+csv 1 598 0 0
+js 490 46756942 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/purchase-order-import-sample.csv 1 0 598
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+win8 1 1
+win7 26 18
+win10 13244 12271
+linuxandroid 51 33
+win8.1 104 39
+linux 18 9
+Unknown 25 25
+ios_iphone 2 2
+macosx 2748 2043
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 30
+firefox98.0 1301 970
+chrome99.0.4844.84 34 27
+chrome100.0.4896.127 111 85
+chrome98.0.4758.101 4 2
+safari15.0 17 3
+firefox99.0 14011 12774
+chrome96.0.4664.55 20 5
+opera80.0.4170.63 18 8
+chrome76.0.3809.71 10 3
+firefox91.0 18 8
+msie11.0 1 1
+chrome100.0.4896.88 144 131
+safari14.1.2 36 24
+firefox21.0.1 1 1
+chrome95.0.4638.69 27 11
+chrome99.0.4844.88 7 4
+safari15.1 1 1
+Unknown 21 21
+chrome96.0.4664.45 18 5
+chrome83.0.4103.106 66 52
+safari10.0 1 1
+chrome91.0.4472.114 36 23
+chrome53.0.2785.101 1 1
+firefox45.0 8 7
+firefox52.0 8 4
+android 4 4
+chrome84.0.4147.105 1 1
+chrome100.0.4896.75 289 259
+chrome41.0.2225.0 1 1
+mozilla 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220429160337
+Go-http-client/1.1 20220405131135
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220407145814
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/1.1 20220405131135
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220429160337
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 762 859
+From1 2 2
+From2 0 0
+From3 5 5
+From4 13672 15353
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://216.10.252.82:80 4 4
+https://md-in-62.webhostbox.net:2083 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+500 46 0
+406 4 904
+404 4613 1643578
+403 102 36516
+421 39 12558
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 95
+/assets/java-script/jquery-3.4.1.js 34 https://inventory.amxxa.com/item_bulkupload.php
+/M195.08,249.77l-2.48,-0.37l-1.03,-0.45l-1.14,-0.89l0.3,-0.99l-0.24,-0.68l0.96,-1.66l2.98,-0.01l0.4,-0.37l-0.19,-1.28l-1.67,-1.4l0.51,-0.4l0.0,-1.05l3.85,0.02l-0.21,4.53l0.4,0.43l1.46,0.38l-1.48,0.98l-0.35,0.7l0.12,0.57l-2.2,1.96Z 1 -
+/customer.php 1 https://inventory.amxxa.com/addcompany.php
+/reminders.php 1 https://inventory.amxxa.com/dashboard1.php
+/terms&condition.html 1 -
+/M448.79,279.62l0.02,2.22l-4.09,0.0l0.69,-2.27l3.38,0.05Z 1 -
+/M536.99,182.33l-0.28,0.03l-1.23,-2.13l-0.93,0.01l-0.62,-0.66l-0.69,-0.07l-0.96,-0.81l-1.56,-0.62l0.19,-1.12l-0.26,-0.79l2.72,-0.36l1.09,1.01l-0.17,0.92l1.02,0.78l-0.47,0.62l0.08,0.56l2.04,1.23l0.04,1.4Z 1 -
+/srcset 1 -
+/M507.76,203.05l0.4,-0.78l0.18,0.4l-0.33,1.03l0.52,0.44l0.68,-0.22l-0.86,3.6l-1.16,-3.32l0.59,-0.74l-0.03,-0.41ZM508.73,200.34l0.37,-1.02l0.64,0.0l0.52,-0.51l-0.49,1.53l-0.56,-0.24l-0.48,0.23Z 1 -
+/M624.16,268.99l-1.82,0.48l-0.99,-1.67l-0.42,-3.46l0.95,-3.43l1.21,0.98l2.26,4.19l-0.34,2.33l-0.85,0.58Z 1 -
+/M838.78,341.24l-0.33,0.22l-2.9,-1.75l-3.26,-3.37l1.65,0.83l4.85,4.07Z 1 -
+/privacy-policies.html 1 -
+/M228.38,239.28l-0.8,0.4l-2.26,-1.06l0.84,-0.23l2.14,0.3l1.17,0.56l-1.08,0.03Z 1 -
+/assets/js/popper.min.js 655 https://inventory.amxxa.com/index.php
+/login.php 5 https://inventory.amxxa.com/cart.php
+/M485.71,115.04l2.64,0.6l2.56,0.11l-1.6,1.91l0.61,3.54l-0.81,0.87l-1.78,-0.01l-3.22,-1.76l-1.8,0.45l0.21,-1.53l-0.58,-0.41l-0.69,0.34l-1.26,-1.03l-0.17,-1.63l2.83,-0.92l3.05,-0.52Z 1 -
+/assets/Amxxa-tab-icon.svg 1 https://inventory.amxxa.com/index.php
+/M495.45,295.49l-1.08,-2.99l1.14,-0.11l0.64,-1.19l0.76,0.09l0.65,1.83l-2.1,2.36Z 1 -
+/M430.31,143.39l0.6,-0.5l2.13,-4.8l3.2,-1.33l1.74,0.08l0.33,0.8l-0.59,2.92l-0.5,0.99l-1.26,0.0l-0.4,0.45l0.33,2.7l-2.2,-1.78l-2.62,0.58l-0.75,-0.11Z 1 -
+/assets/img/Amxxa-logo.png 12 https://inventory.amxxa.com/
+/M218.53,207.02l10.1,-86.6l25.46,2.74l26.8,2.4l26.83,1.91l27.85,1.46l-3.67,87.11l-27.32,-1.41l-28.21,-1.97l-29.69,-2.63l-28.14,-3.02Z 1 -
+/assets/js/vandor/modernizr-3.5.0.min.js 375 https://inventory.amxxa.com/index.php
+/addleads.php 1 https://inventory.amxxa.com/lead.php
+/M420.53,257.51l-0.01,0.72l0.96,1.2l0.24,3.73l0.59,0.95l-0.51,2.1l0.19,1.41l1.02,2.21l-6.97,2.84l-1.8,-0.57l0.04,-0.89l-1.02,-2.04l0.61,-2.65l1.07,-2.32l-0.96,-6.47l5.01,0.07l0.94,-0.39l0.61,0.11Z 1 -
+/bulk_staffimport.php 1 https://inventory.amxxa.com/item_bulkupload.php
+/M256.17,238.73l-0.26,0.27l-2.83,0.05l-0.07,-0.55l1.95,-0.1l1.22,0.33Z 1 -
+/M839.04,322.8l0.22,1.14l-0.44,0.03l-0.2,-1.45l0.42,0.27Z 1 -
+/M520.38,246.23l3.42,2.43l3.5,3.77l0.84,0.54l-0.95,-0.01l-3.51,-3.89l-2.33,-1.15l-1.73,-0.07l-0.91,-0.51l-1.26,0.51l-1.34,-1.02l-0.61,0.17l-0.66,1.61l-2.35,-0.43l-0.17,-0.67l1.29,-5.29l0.61,-0.61l1.95,-0.53l0.87,-1.01l1.17,2.41l0.68,2.33l1.49,1.43Z 1 -
+/M486.93,129.3l0.17,1.12l-1.81,0.98l-0.72,2.02l-2.47,1.18l-2.1,-0.02l-0.73,-1.05l-1.06,-0.3l-0.09,-1.87l-3.56,-1.13l-0.43,-2.36l2.48,-0.94l4.12,0.22l2.25,-0.31l0.52,0.69l1.24,0.21l2.19,1.56Z 1 -
+/.DS_Store 4 -
+/M472.8,173.98l0.49,-0.71l3.57,-0.71l1.0,0.77l0.13,1.45l-0.65,0.53l-1.15,-0.05l-1.12,0.67l-1.39,0.22l-0.79,-0.55l-0.29,-1.03l0.19,-0.6Z 1 -
+/assets/js/vandor/jquery-3.2.1.min.js 463 https://inventory.amxxa.com/index.php
+/M463.49,163.65l2.1,0.5l1.72,-0.03l1.52,0.68l-0.36,0.78l0.08,0.45l1.04,1.02l-0.25,0.98l-1.81,1.15l-0.38,1.38l-1.67,-0.87l-0.89,-1.2l-2.11,-1.83l-1.63,-2.22l0.23,-0.57l0.48,0.38l0.55,-0.06l0.43,-0.51l0.94,-0.06Z 1 -
+/M422.7,257.63l-0.09,1.23l1.53,1.52l0.08,1.09l0.5,0.65l-0.11,5.62l0.49,1.47l-1.31,0.35l-1.02,-2.13l-0.18,-1.12l0.53,-2.19l-0.63,-1.16l-0.22,-3.68l-1.01,-1.4l0.07,-0.28l1.37,0.03Z 1 -
+/M491.06,363.48l-0.49,0.15l-1.49,-1.67l1.1,-1.43l2.19,-1.44l1.51,1.27l-0.98,1.82l-1.23,0.38l-0.62,0.93Z 1 -
+/assets/img/Amxxa-tab-icon.svg 2 https://inventory.amxxa.com/
+/about-us.html 1 -
+/M237.05,238.38l-1.16,0.43l-0.91,-0.55l0.05,-0.2l2.02,0.31ZM237.53,238.43l1.06,0.12l-0.05,0.01l-1.01,-0.12ZM239.25,238.45l0.79,-0.51l0.06,-0.62l-1.02,-1.0l0.02,-0.82l-0.3,-0.4l-0.93,-0.32l3.16,0.45l0.02,1.84l-0.48,0.34l-0.08,0.58l0.54,0.72l-1.78,-0.26Z 1 -
+/add-reminder.php 1 -
+/M707.48,273.58l0.68,-0.65l1.41,-0.91l-0.15,1.63l-0.81,-0.05l-0.61,0.58l-0.53,-0.6Z 1 -
+/editcustomer.php 13 https://inventory.amxxa.com/customer.php
+/M241.8,239.2l0.05,-0.65l-0.46,-0.73l0.42,-0.44l0.19,-1.0l-0.09,-1.53l1.66,0.01l1.99,0.63l0.33,0.67l1.28,0.19l0.33,0.76l1.0,0.08l0.8,0.62l-0.45,0.51l-1.13,-0.47l-1.88,-0.01l-1.27,0.59l-0.75,-0.55l-1.01,0.54l-0.79,1.4l-0.23,-0.61Z 1 -
+/assets/js/bootstrap.min.js 625 https://inventory.amxxa.com/index.php
+/assets/js/main.js 660 https://inventory.amxxa.com/index.php
+/.git/config 3 http://www.inventory.amxxa.com/.git/config
+/addreminder.php 1 https://inventory.amxxa.com/profile.php
+/M689.52,249.39l0.49,1.45l-0.28,2.74l-4.0,1.86l-0.16,0.6l0.68,0.95l-2.06,0.17l-2.05,0.97l-1.82,-0.32l-2.12,-3.7l-0.55,-2.85l1.4,-1.85l3.02,-0.45l2.23,0.35l2.01,0.98l0.51,-0.14l0.95,-1.48l1.74,0.74Z 1 -
+/robots.txt 1 -
+/M384.42,230.28l0.25,-0.79l1.06,-1.29l0.8,-3.51l3.38,-2.78l0.7,-1.81l0.06,4.84l-1.98,0.2l-0.94,1.59l0.39,3.56l-3.7,-0.01ZM392.01,218.1l0.7,-1.8l1.77,-0.24l2.09,0.34l0.95,-0.62l1.28,-0.07l-0.0,2.51l-6.79,-0.12Z 1 -
+/M509.21,203.07l0.1,-0.06l-0.02,0.03l-0.09,0.03ZM509.36,202.91l-0.02,-0.63l-0.33,-0.16l0.31,-1.09l0.24,0.1l-0.2,1.78Z 1 -
+/reminder.php 1 https://inventory.amxxa.com/upreminderstatus.php
+/M488.41,153.73l1.4,-0.27l1.72,0.93l1.07,0.15l0.85,0.65l-0.14,0.84l0.96,0.85l1.12,2.47l-1.15,-0.07l-0.66,-0.41l-0.52,0.25l-0.09,0.86l-1.08,1.89l-0.27,-0.86l0.25,-1.34l-0.16,-1.6l-3.29,-4.34Z 1 -
+/M596.68,420.38l-3.2,0.18l-0.05,-1.26l0.39,-1.41l1.3,0.78l2.08,0.35l-0.52,1.36Z 1 -
+/M504.36,193.47l0.43,0.28l-1.28,0.57l-0.92,-0.28l-0.24,-0.46l2.01,-0.13Z 1 -
+/M470.32,171.8l0.74,0.03l0.92,0.89l-0.17,1.95l0.36,1.28l1.01,0.82l-1.82,2.83l-0.19,-0.61l-1.25,-0.89l-0.18,-1.2l0.53,-2.82l-0.54,-1.47l0.6,-0.83Z 1 -
+/upreminderstatus.php 2 https://inventory.amxxa.com/reminders.php
+/M871.53,326.34l-2.8,1.05l-0.08,-0.23l2.97,-1.21l-0.1,0.39ZM867.58,329.25l0.43,0.37l-0.27,0.88l-1.24,0.28l-1.04,-0.24l-0.14,-0.66l0.63,-0.58l0.92,0.26l0.7,-0.31Z 1 -
+/js/datatables.js.map 13 -
+/M286.85,372.74l-0.92,1.5l-2.59,1.44l-1.69,-0.52l-1.42,0.26l-2.39,-1.19l-1.52,0.08l-1.27,-1.3l0.16,-1.5l0.56,-0.79l-0.02,-2.73l1.21,-4.74l1.19,-0.21l2.37,2.0l1.08,0.03l4.36,3.17l1.22,1.6l-0.96,1.5l0.61,1.4Z 1 -
+/M230.86,422.88l11.82,-123.66l25.67,2.24l26.1,1.86l26.12,1.45l25.74,1.02l-0.31,10.24l-0.74,0.39l-3.59,98.69l-32.38,-1.34l-33.53,-2.02l-0.44,0.76l0.54,2.31l0.44,1.26l0.99,0.76l-30.55,-2.46l-0.43,0.36l-0.82,9.46l-14.63,-1.33Z 1 -
+/assets/img/iso.png 494 https://inventory.amxxa.com/index.php
+/M384.14,88.06l-0.37,2.61l2.54,2.51l-2.9,2.75l-9.19,3.4l-9.25,-1.66l1.7,-1.22l-0.1,-0.7l-4.05,-1.47l2.96,-0.53l0.33,-0.43l-0.11,-1.2l-0.33,-0.36l-4.67,-0.85l1.28,-2.04l3.45,-0.56l3.77,2.72l0.44,0.02l3.64,-2.16l3.3,1.08l3.98,-2.16l3.58,0.26Z 1 -
+/M436.08,149.45l-0.48,-0.07l0.3,-1.28l0.27,0.4l-0.09,0.96Z 1 -
+/M540.81,207.91l0.37,0.86l-0.17,0.76l0.6,1.53l-0.95,0.04l-0.82,-1.28l-1.57,-0.18l1.31,-1.88l1.22,0.17Z 1 -
+/M650.32,213.86l0.84,0.71l-0.12,1.1l-3.76,-0.11l-1.57,0.4l-1.93,-0.87l1.48,-1.96l1.13,-0.57l1.63,0.57l1.33,0.08l0.99,0.65Z 1 -
+/assets/icons/newicons/Nuscma-tab-icon.svg 4 https://inventory.amxxa.com/item_bulkupload.php
+/M274.36,425.85l1.44,1.08l-0.47,0.73l-3.0,0.89l-0.96,-1.0l-0.52,-0.05l-1.83,1.29l-0.73,-0.88l2.46,-1.64l1.93,0.76l1.67,-1.19Z 1 -
+/assets/img/fixed-startup-india-logo.png 479 https://inventory.amxxa.com/index.php
+/M456.18,162.07l-0.51,-1.32l0.18,-1.05l1.69,0.2l1.42,-0.71l2.09,-0.07l0.62,-0.51l0.21,0.47l-1.61,0.67l-0.44,1.34l-0.66,0.24l-0.26,0.82l-1.22,-0.49l-0.84,0.46l-0.69,-0.04Z 1 -
+/refund-policy.html 2 -
+/M472.77,172.64l-1.08,-1.29l0.96,-0.77l0.29,-0.83l1.98,1.64l-0.36,0.67l-1.79,0.58Z 1 -
+/M202.33,252.67l0.81,-0.18l1.03,-1.02l-0.04,-0.88l0.68,-0.0l0.63,-0.54l0.97,0.22l1.53,-1.26l0.58,-0.99l1.17,0.34l2.41,-0.94l0.13,1.32l-0.81,1.94l0.1,2.74l-0.36,0.37l-0.11,1.75l-0.47,0.81l0.18,1.14l-1.73,-0.85l-0.71,0.27l-1.47,-0.6l-0.52,0.16l-4.01,-3.81Z 1 -
+/M518.64,201.38l-5.14,1.56l-0.19,0.65l2.16,2.39l-0.89,1.14l-1.71,0.34l-1.71,1.8l-2.34,-0.37l1.21,-4.32l0.56,-4.07l2.8,0.94l4.46,-2.71l0.79,2.66Z 1 -
+/wp-content/ 1 -
+/M364.18,239.57l-1.22,65.87l-29.29,-0.9l-29.38,-1.43l-29.35,-1.95l-32.17,-2.75l8.33,-87.15l27.79,2.4l28.23,1.92l29.58,1.46l27.95,0.87l-0.46,21.66Z 1 -
+/M211.34,258.05l0.48,0.99l1.6,1.6l-0.54,0.45l0.29,1.42l-0.25,1.19l-1.09,-0.59l-0.05,-1.25l-2.46,-1.42l-0.28,-0.77l-0.66,-0.45l-0.45,-0.0l-0.11,1.04l-1.32,-0.95l0.31,-1.3l-0.36,-0.6l0.31,-0.27l1.42,0.58l1.29,-0.14l0.56,0.56l0.74,0.17l0.55,-0.27Z 1 -
+/quill.min.js.map 14 -
+/M468.91,172.53l-1.22,-1.02l0.47,-1.81l0.89,-0.72l2.26,1.51l-0.5,0.57l-0.75,-0.27l-1.14,1.73Z 1 -
+/M476.82,151.17l-1.14,1.9l-2.73,-0.92l-0.82,0.2l-0.74,0.8l-3.46,0.73l-0.47,0.69l-1.76,0.33l-1.88,-1.0l-0.18,-0.81l0.38,-0.75l1.87,-0.32l1.74,-1.89l0.83,0.16l0.79,-0.34l1.51,1.04l1.34,-0.63l1.25,0.3l1.65,-0.42l1.81,0.95Z 1 -
+/M734.55,307.93l-0.1,-0.97l4.5,-0.86l-2.82,1.28l-1.59,0.55Z 1 -
+/addbooking.php 1 https://inventory.amxxa.com/upreminderstatus.php
+/js/app.js.map 14 -
+/M737.51,185.84l0.98,-0.1l0.87,-1.17l2.69,-0.32l0.33,-0.29l1.76,2.79l0.58,1.76l0.02,3.12l-0.8,1.32l-2.21,0.55l-1.93,1.13l-1.8,0.19l-0.2,-1.1l0.43,-2.28l-0.95,-2.56l1.43,-0.37l0.23,-0.62l-1.43,-2.06Z 1 -
+/M550.76,223.97l1.88,-0.4l3.84,0.02l4.78,-4.75l0.19,0.36l0.26,1.58l-0.81,0.01l-0.39,0.35l-0.08,2.04l-0.81,0.63l-0.01,0.96l-0.66,0.99l-0.39,1.41l-7.08,-1.25l-0.7,-1.96Z 1 -
+/M549.33,221.64l-0.76,-0.23l-0.14,-1.64l0.84,-1.29l0.47,0.52l0.04,1.34l-0.45,1.3Z 1 -
+/M379.31,251.39l0.1,-0.35l2.43,-0.07l0.74,-0.61l0.51,-0.03l0.77,0.49l-1.03,-0.3l-1.87,0.9l-1.65,-0.04ZM384.03,250.91l0.91,0.05l0.75,-0.24l-0.59,0.31l-1.08,-0.13Z 1 -
+/source/logo.jpg 1 https://inventory.amxxa.com/uploadlogo.php
+/M724.01,226.68l-0.74,1.48l-0.9,-1.52l-0.25,-1.74l1.38,-2.44l1.73,-1.74l0.64,0.44l-1.85,5.52Z 1 -
+/M429.29,144.05l1.91,0.24l2.1,-0.63l2.63,1.99l-0.21,1.66l-0.69,0.4l-0.18,1.2l-1.66,-1.13l-1.39,0.15l-2.73,-2.7l-1.17,-0.18l-0.16,-0.52l1.54,-0.5Z 1 -
+/M195.8,250.13l1.4,-1.19l2.24,1.45l0.98,-0.27l0.44,0.2l-0.27,1.05l-1.14,-0.03l-3.64,-1.21Z 1 -
+/tables-datatables-responsive.html 1 -
+/M525.13,288.48l-1.13,-1.57l-0.03,-8.86l2.66,-3.38l1.67,-0.13l2.13,-1.69l3.41,-0.23l7.08,-7.55l2.91,-3.69l0.08,-4.82l2.98,-0.67l1.24,-0.86l0.45,-0.0l-0.2,3.0l-1.21,3.62l-2.73,5.97l-2.13,3.65l-5.03,6.16l-8.56,6.4l-2.78,3.08l-0.8,1.56Z 1 -
+/M500.35,351.36l0.5,2.04l-0.38,0.89l-1.05,0.21l-1.23,-1.2l-0.02,-0.64l0.83,-1.57l1.34,0.27Z 1 -
+/assets/js/plugins.js 666 https://inventory.amxxa.com/index.php
+/M521.71,168.93l5.29,0.89l4.07,2.01l1.41,-0.44l2.07,0.56l0.68,1.1l1.07,0.55l-0.12,0.59l0.98,1.29l-1.01,-0.13l-1.81,-0.83l-0.94,0.47l-3.23,0.43l-2.29,-1.39l-2.33,0.05l0.21,-0.97l-0.76,-2.26l-1.45,-1.12l-1.43,-0.39l-0.41,-0.42Z 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 75
+103.225.125.170 11558 12115 164315802 20220430122123
+106.208.35.239 464 671 3507839 20220425164903
+42.106.185.237 299 407 3591886 20220408093237
+106.211.255.164 272 343 3726696 20220406062844
+42.106.184.27 189 372 26244470 20220421103934
+157.49.243.123 141 158 1088088 20220429095305
+157.49.241.74 141 150 625352 20220409031447
+157.49.188.143 106 113 1105316 20220412175610
+157.46.102.83 99 151 11557690 20220415103801
+157.49.95.147 98 118 3102714 20220407130155
+106.211.255.184 95 115 578520 20220413055032
+106.211.255.144 78 110 885601 20220407040801
+157.49.226.9 75 87 725200 20220428110825
+157.49.252.217 64 91 3972288 20220427121707
+223.187.112.81 58 63 514711 20220429121943
+157.49.254.43 56 65 351306 20220425121347
+157.49.253.135 52 59 1369090 20220408101420
+42.106.185.125 46 79 484411 20220414111958
+18.206.55.48 46 46 108054 20220429235549
+54.227.32.154 46 138 923036 20220430001640
+106.211.255.133 45 83 442194 20220412055159
+157.46.87.103 38 103 1405006 20220407032437
+157.49.255.130 35 39 156428 20220428145805
+42.106.185.60 35 45 229223 20220411073601
+42.106.184.182 33 64 5234959 20220408090433
+198.235.24.18 1 1 6025 20220424022201
+42.106.187.112 5 11 22419 20220409102851
+223.187.114.93 15 21 82979 20220425064344
+157.49.85.118 4 7 27252 20220408101820
+151.106.120.184 1 1 6025 20220406202232
+18.209.6.207 1 1 965 20220405130030
+157.49.252.20 9 16 133572 20220422034338
+205.169.39.53 2 7 232869 20220405130005
+205.210.31.16 1 1 6025 20220415160600
+18.204.233.163 1 2 11170 20220411083317
+205.210.31.137 1 1 6025 20220421231916
+117.247.111.56 5 8 225181 20220425043327
+42.106.184.76 28 42 1494338 20220409075645
+198.235.24.29 1 1 6025 20220429160337
+106.211.255.166 4 5 31936 20220421113526
+122.173.242.115 9 16 1212840 20220422071941
+51.81.167.146 1 1 6025 20220407065543
+34.77.162.13 1 1 6025 20220412121824
+198.235.24.15 1 1 6025 20220426004319
+44.195.244.245 3 6 33582 20220408082803
+157.49.236.170 10 16 95328 20220430115634
+89.175.184.250 1 1 2161 20220405130021
+115.110.71.146 1 4 20205 20220427080057
+35.86.68.87 1 1 2349 20220422170446
+42.106.185.239 6 12 197818 20220416074646
+205.210.31.144 1 1 6025 20220419051252
+167.248.133.46 2 2 4698 20220407145814
+157.46.114.71 7 15 1212340 20220415075212
+42.106.187.110 1 1 2349 20220426053912
+54.172.149.243 1 1 965 20220405130022
+162.142.125.8 2 2 1930 20220405131250
+42.106.184.40 17 25 1268945 20220423065409
+198.235.24.26 1 1 6025 20220422061833
+42.106.184.72 27 34 221981 20220425105412
+185.59.221.226 8 8 7720 20220405131135
+117.203.74.52 1 1 2349 20220416102318
+185.244.36.227 7 8 634083 20220405130204
+157.49.227.219 10 10 60548 20220425162751
+198.235.24.34 1 1 6025 20220421033632
+205.210.31.135 1 1 6025 20220421083546
+133.242.140.127 2 2 4692 20220405145914
+157.49.163.81 6 15 254132 20220424150915
+106.211.255.177 28 71 260055 20220410120259
+133.242.174.119 2 2 4692 20220405145914
+65.154.226.167 1 3 11384 20220426142018
+42.106.184.147 29 42 1543387 20220420074524
+35.244.90.156 1 1 6025 20220417232648
+205.210.31.19 1 1 6025 20220422072639
+198.235.24.35 1 1 6025 20220424104328
+198.235.24.11 1 1 6025 20220424171531
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20220405 95 149 2943352 12
+20220406 743 846 17367376 9
+20220407 226 358 8000966 14
+20220408 932 1138 16256047 13
+20220409 1101 1222 21421639 9
+20220410 96 112 690080 3
+20220411 65 81 382013 6
+20220412 465 582 3820799 10
+20220413 685 849 10072877 3
+20220414 1002 1046 7194924 8
+20220415 551 756 34216117 10
+20220416 1251 1359 27217394 5
+20220417 9 17 95685 5
+20220418 1040 1082 9667022 6
+20220419 642 658 8263876 7
+20220420 882 920 13753388 6
+20220421 408 447 3578972 13
+20220422 272 310 5620670 11
+20220423 651 693 5703837 9
+20220424 13 26 317037 8
+20220425 667 730 5905130 13
+20220426 234 253 4862305 11
+20220427 643 701 13492186 10
+20220428 748 786 14265912 7
+20220429 548 597 5336180 10
+20220430 472 501 5219710 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 14
+15mn-30mn 10
+5mn-15mn 17
+30mn-1h 25
+0s-30s 99
+1h+ 48
+30s-2mn 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 77
+/sales_add_item.php 3175 27529404 1 7
+/salesorder.php 1429 6043664 3 11
+/salesorderlist.php 801 5431713 12 19
+/fitem.php 782 61453670 0 2
+/salescompany2.php 712 5302051 0 0
+/sales_shipping_details.php 588 2345075 0 1
+/addcustomers.php 562 3413178 2 2
+/dashboard1.php 553 7666972 10 13
+/cart.php 525 2467514 0 1
+/gcompany.php 511 37302 0 1
+/purchaseorderlist.php 461 2293382 2 10
+/ 453 1104805 174 100
+/customer.php 453 3360231 9 7
+/gitem.php 398 23612 0 0
+/index.php 317 752648 0 11
+/setsession.php 260 15340 0 0
+/receive.php 171 806519 0 0
+/fonts/fa-solid-900.woff2 170 10556460 0 5
+/fscompany.php 154 1089206 0 0
+/lead.php 136 525176 2 6
+/salescompany1.php 135 931799 0 1
+/shipping_details.php 132 546237 0 0
+/sales_view.php 119 474211 2 4
+/purchase_receive_bulk.php 117 401900 0 0
+/pdf/pdf/so.php 98 239503 0 3
+/company.php 94 438447 0 0
+/inventory1.php 41 884861 0 0
+/additem.php 30 86287 0 0
+/homecurrency.php 6 19398 0 0
+/reminders.php 77 260437 1 2
+/addreminder.php 41 141577 0 0
+/editcompany.php 9 56611 0 0
+/payable.php 1 3988 0 0
+/feitem.php 96 7327189 0 0
+/edituser.php 1 3454 0 0
+/fonts/fa-regular-400.woff2 14 132760 0 0
+/fcompany.php 68 493401 0 0
+/warehouse.php 41 136631 1 0
+/logesticslist.php 1 3290 0 0
+/paymentvoucher.php 6 17360 0 0
+/logesticspayable.php 5 16289 0 0
+/logout.php 41 2132 0 0
+/booking.php 27 87596 0 2
+/users.php 12 40646 1 2
+/access_control.php 4 17894 0 1
+/login.php 8 18777 0 2
+/upreminderstatus.php 72 252846 2 3
+/adduser.php 3 10025 0 0
+/edit_company.php 4 27405 0 0
+/submitreceive.php 63 4221 0 0
+/warehouse_item.php 17 172582 0 0
+/ledgeraccount.php 10 34903 0 0
+/item_bulkupload.php 12 12029 0 0
+/pdf/pdf/po.php 25 84002 0 1
+/uploadlogo.php 8 25878 0 0
+/addledgeraccount.php 4 13692 0 0
+/so_paymentvoucher.php 3 9998 0 0
+/editwarehouse.php 5 16203 0 0
+/purchase-import.php 1 3163 0 0
+/updateDB.php 1 1458 0 0
+/receivesep.php 26 89483 0 0
+/addlead.php 76 321134 1 2
+/addbooking.php 2 7204 0 0
+/invoice_list.php 1 5366 0 0
+/ser.php 23 22192 0 0
+/setting.php 1 3567 0 0
+/thiscompanyaddress.php 4 23102 0 0
+/access-denied.html 1 590 0 0
+/c_po_payable.php 6 19950 0 1
+/soreceivable.php 4 15892 0 0
+/profile.php 48 236542 0 0
+/addcompany.php 51 311474 0 0
+/item.php 47 23465482 0 2
+/purchaseorder_view.php 79 314849 0 1
+/addwarehouse.php 5 16295 0 0
+/ledgerbalance.php 2 6926 0 0
+/edit_inventory.php 2 6283 0 0
+END_SIDER

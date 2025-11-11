@@ -1,0 +1,346 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202506 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/awstats.amxxa.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2048                
+POS_TIME 2709                
+POS_VISITOR 7842                
+POS_DAY 8860                
+POS_DOMAIN 3294                
+POS_LOGIN 3590                
+POS_ROBOT 3745                
+POS_WORMS 3908                
+POS_EMAILSENDER 4039                
+POS_EMAILRECEIVER 4182                
+POS_SESSION 9138                
+POS_FILESIZE 9605                
+POS_SIDER 9295                
+POS_FILETYPES 4317                
+POS_DOWNLOADS 4479                
+POS_OS 4544                
+POS_BROWSER 4656                
+POS_SCREENSIZE 4861                
+POS_UNKNOWNREFERER 4935                
+POS_UNKNOWNREFERERBROWSER 5123                
+POS_ORIGIN 5205                
+POS_SEREFERRALS 5339                
+POS_PAGEREFS 5483                
+POS_SEARCHWORDS 5631                
+POS_KEYWORDS 5783                
+POS_MISC 2373                
+POS_ERRORS 5842                
+POS_CLUSTER 3446                
+POS_SIDER_404 5958                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250613140328 2 268 16271127840865
+FirstTime 0
+LastTime 20250613140328
+LastUpdate 20250613185759 2 0 2 0 0
+TotalVisits 25                  
+TotalUnique 23                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 25                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 3 22558 0 0 0
+1 2 2 18620 0 0 0
+2 2 2 18620 0 0 0
+3 0 1 20062 0 0 0
+4 2 3 38682 0 0 0
+5 0 2 21660 0 0 0
+6 2 3 22558 198 198 44748
+7 0 0 0 0 0 0
+8 0 1 38018 0 0 0
+9 0 1 1598 0 0 0
+10 4 5 46061 0 0 0
+11 0 0 0 0 0 0
+12 0 1 38018 0 0 0
+13 4 4 37240 0 0 0
+14 13 15 175979 81 93 101168
+15 0 0 0 0 0 0
+16 14 14 165776 83 95 101884
+17 0 0 0 0 0 0
+18 2 2 18620 0 0 0
+19 0 1 8178 0 0 0
+20 0 1 24753 0 0 0
+21 4 8 84195 0 0 0
+22 8 8 74480 0 0 0
+23 15 16 27668 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+ca 34 34 316540
+us 34 37 250887
+zz 4 18 288414
+ru 2 2 18620
+be 0 1 8821
+gb 0 1 20062
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+curl 6 119396 20250611141525 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+html 61 612018 0 0
+js 15 271236 0 0
+Unknown 9 0 0 0
+svg 2 17642 0 0
+txt 2 116 0 0
+alfa 4 2332 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/ads.txt 2 0 116
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+macosx15 4 0
+linux 5 2
+Unknown 3 2
+win10 81 70
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+chrome74.0.3729.169 15 15
+mozilla 3 2
+chrome120.0.0.0 4 0
+chrome99.0.4859.172 13 13
+edge12 4 4
+chrome121.0.0.0 15 4
+firefox136.0 5 2
+chrome114.0.0.0 34 34
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250610103548
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 40 58
+From1 0 0
+From2 0 0
+From3 0 0
+From4 34 35
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 138 80004
+406 198 44748
+409 44 3652
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 37
+/coloradmin/assets/plugins/jquery-file-upload/server/php/ 4 -
+/js/jquery-file-upload/server/php/ 4 -
+/coaster/jquery/gallery-upload/server/php/ 4 -
+/assets/lib/jquery-file-upload/server/php/ 4 -
+/demo 4 -
+/wp 4 -
+/.env 4 -
+/vendor/laravel-filemanager/js/script.js 2 -
+/media/mediamgr/other/jq_fileupload/server/php/ 4 -
+/_ignition/execute-solution 4 -
+/app/webroot/global/plugins/jquery-file-upload/server/php/ 4 -
+/public/javascript/jquery.upload/server/php/ 4 -
+/blog 4 -
+/assets/libs/jquery-file-upload/server/php/ 4 -
+/public/vendor/laravel-filemanager/js/script.js 2 -
+/assets/backend/plugins/jquery-file-upload/server/php/ 4 -
+/assets/plugins/jquery.filer/php/readme.txt 4 -
+/assets/jquery-file-upload/server/php/ 4 -
+/plugins/jquery-file-upload/server/php/ 4 -
+/wordpress 4 -
+/plugins/jquery.filer/php/readme.txt 4 -
+/metronic/assets/global/plugins/jquery-file-upload/server/php/ 4 -
+/assets/global/plugins/jquery-file-upload/server/php/ 4 -
+/new 4 -
+/assets/admin/bower_components/jquery.filer/php/readme.txt 4 -
+/wordpress/wp-admin/setup-config.php 1 -
+/assets/vendor/jquery.filer/php/readme.txt 4 -
+/assets/themes/metronic/global/jquery-file-upload/server/php/ 4 -
+/.git/config 4 -
+/assets/plugins/jquery-file-upload/server/php/ 4 -
+/lib/jquery-file-upload/server/php/ 4 -
+/assets/color_admin/plugins/jquery-file-upload/server/php/ 4 -
+/formcraft/file-upload/server/php/ 4 -
+/wp-admin/setup-config.php 1 -
+/resources/global/plugins/jquery-file-upload/server/php/ 4 -
+/jquery.filer/php/readme.txt 4 -
+/assets/vendor_admin/plugins/jquery-file-upload/server/php/ 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 25
+20.37.114.46 15 15 2915 20250606233448
+143.110.182.89 7 7 91879 20250611141530
+174.138.26.245 6 6 91296 20250608161424
+170.39.218.61 4 18 288414 20250605061916
+74.50.70.222 4 4 37240 20250606145029
+47.79.98.205 4 4 37240 20250606220917
+47.82.61.80 2 2 18620 20250613140328 20250613140328 /
+47.82.60.143 2 2 18620 20250607045450
+47.79.7.122 2 2 18620 20250609131924
+47.82.60.128 2 2 18620 20250607003254
+47.79.5.178 2 2 18620 20250608025159
+47.82.61.154 2 2 18620 20250604222307
+47.82.61.98 2 2 18620 20250611162427
+47.82.61.69 2 2 18620 20250610161152
+47.82.60.64 2 2 18620 20250612132328
+137.184.126.114 2 5 27557 20250610213135
+47.82.61.79 2 2 18620 20250606101616
+47.82.60.139 2 2 18620 20250608161409
+47.82.60.199 2 2 18620 20250605164328
+185.247.137.127 2 2 18620 20250610103546
+47.82.60.95 2 2 18620 20250609220326
+47.79.3.11 2 2 18620 20250607213837
+47.82.61.100 2 2 18620 20250604183655
+87.236.176.193 0 1 8821 
+51.20.125.233 0 1 20062 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20250604 6 6 55860 3
+20250605 6 8 113940 3
+20250606 23 28 193159 4
+20250607 6 12 143476 3
+20250608 10 10 128536 3
+20250609 4 6 47016 2
+20250610 6 10 73618 3
+20250611 9 9 110499 2
+20250612 2 2 18620 1
+20250613 2 2 18620 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 2
+0s-30s 22
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 13
+/ 53 607354 24 21
+/cgi-sys/404.html 8 4664 0 0
+/alfacgiapi/perl.alfa 2 1166 0 2
+/ALFA_DATA/alfacgiapi/perl.alfa 2 1166 0 0
+/main 1 0 0 0
+/wp 1 0 0 0
+/home 1 0 0 1
+/bk 1 0 0 0
+/wordpress 1 0 1 0
+/bc 1 0 0 0
+/new 1 0 0 0
+/backup 1 0 0 0
+/old 1 0 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+500-1K 148
+100-500 200
+1K-2K 2
+0-44 12
+44-100 46
+5K+ 69
+2K-5K 2
+END_FILESIZE

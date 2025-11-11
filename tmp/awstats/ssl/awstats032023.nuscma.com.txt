@@ -1,0 +1,1016 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202303 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2695                
+POS_VISITOR 18322               
+POS_DAY 28599               
+POS_DOMAIN 3616                
+POS_LOGIN 4001                
+POS_ROBOT 4156                
+POS_WORMS 4823                
+POS_EMAILSENDER 4954                
+POS_EMAILRECEIVER 5097                
+POS_SESSION 29493               
+POS_SIDER 29706               
+POS_FILETYPES 5232                
+POS_DOWNLOADS 5526                
+POS_OS 6038                
+POS_BROWSER 6388                
+POS_SCREENSIZE 7429                
+POS_UNKNOWNREFERER 7503                
+POS_UNKNOWNREFERERBROWSER 8506                
+POS_ORIGIN 9034                
+POS_SEREFERRALS 9180                
+POS_PAGEREFS 9404                
+POS_SEARCHWORDS 9612                
+POS_KEYWORDS 9764                
+POS_MISC 2359                
+POS_ERRORS 9823                
+POS_CLUSTER 3857                
+POS_SIDER_404 10013               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230401000723 479 167051 18484705738177
+FirstTime 20230301033823
+LastTime 20230331235033
+LastUpdate 20230401185158 479 0 478 0 0
+TotalVisits 332                 
+TotalUnique 239                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 252                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 27 43 1012403 14 30 14079
+1 4 5 18032 28 38 167326
+2 2 3 80677 19 29 41416
+3 584 856 17740768 155 201 630295
+4 969 1169 253882790 180 212 412452
+5 645 837 14389725 123 148 603298
+6 575 992 27598512 159 187 455510
+7 515 779 21974994 173 228 812350
+8 295 503 14948015 141 198 822675
+9 876 1067 22657529 238 288 1183017
+10 1416 1585 23549723 224 265 570582
+11 1735 2177 28110836 365 449 813901
+12 1313 1411 9636745 241 294 886508
+13 625 768 9672267 238 356 529240
+14 267 350 6036515 113 149 291075
+15 618 879 10247380 134 176 470627
+16 663 1088 19026905 114 149 433028
+17 558 663 9487745 149 186 345672
+18 146 240 3114699 82 129 934734
+19 99 137 2149800 52 74 99023
+20 144 324 5599435 187 221 239545
+21 243 454 6125380 54 82 169349
+22 242 484 7432403 63 90 197101
+23 208 282 1728467 39 58 42911
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+in 8210 9669 174312802
+us 4469 7310 221913013
+se 24 36 79768
+ca 20 20 106610
+cn 20 29 1237308
+ru 10 10 28210
+fr 8 8 31172
+be 4 4 8416
+nz 2 2 4208
+ae 2 7 129880
+id 0 1 76469
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+Googlebot/ 171 1850750 20230331074628 0
+bingbot/ 88 1016414 20230331223552 0
+YandexBot/ 31 178524 20230330072017 0
+Applebot/ 25 501124 20230330135459 0
+bot[\s_+:,\.\;\/\\-] 24 278934 20230328203947 0
+no_user_agent 14 75856 20230327083252 0
+AdsBot\-Google[\x20]\( 8 240232 20230326185633 0
+Googlebot\-Image/ 6 16234 20230329170127 0
+curl 4 22756 20230326035052 0
+LinkedInBot/ 2 4208 20230315181655 0
+Links[\x20]\( 2 4208 20230309024621 0
+bingpreview 2 28087 20230306071013 0
+link 2 4208 20230305022923 0
+yandex 1 2446 20230314074653 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+php 11833 130111842 0 0
+Unknown 8 108522 0 0
+js 1083 18361081 0 0
+woff2 93 8244384 0 0
+svg 271 834462 0 0
+css 1177 14502902 0 0
+html 835 4879753 0 0
+png 1644 82147052 0 0
+pdf 4 870896 0 0
+jpg 46 2582193 0 0
+jpeg 102 16990880 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 5
+/Staff_Documents/VJ_AADHAR_NON_PIN_Aadhar1ff3485cf8d531731f765f40ce03449e.pdf 1 0 247950
+/Staff_Documents/Vijay_Degree_Otherb9be13462471b5511b04b6b0932d8ddd.pdf 1 0 195842
+/Staff_Documents/Vijay_Birth_birth%20certificatea71c65ad5bf364317d20bd546e164611.pdf 1 0 233684
+/Staff_Documents/Vijay_Comm_Community%20Certificatef4f4635172c4289d0e8cd8929a38c0e9.pdf 1 0 193420
+/assets/videos/How%20to%20Make%20RC%20Airplane%20at%20Home%20-%20Very%20Simple.mp4 0 2 118293889
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 18
+Unknown 74 62
+macosx11 6 6
+macosx9 2 2
+macosx8 2 2
+linux 40 36
+win10 5643 3494
+macosx 15 12
+androidnougat 2135 1404
+win7 5611 5355
+macosx13 4 4
+macosx10 2 2
+androidmarshmallow 8 4
+macosx15 1589 987
+linuxubuntu 12 12
+androidpie 2 2
+ios_iphone 201 154
+android 819 528
+android10 933 703
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 46
+chrome60.0.3112.107 2 2
+firefox21.0 2 2
+chrome87.0.4280.88 9 6
+chrome109.0.0.0 1193 774
+safari13.0.3 4 4
+chrome103.0.5060.71 742 491
+firefox111.0 4995 3866
+chrome58.0.3029.110 2 2
+chrome94.0.4606.61 2 2
+firefox110.0 5191 4196
+chrome22.0.1229.79 2 2
+chrome95.0.4638.69 2 0
+firefox50.0 2 2
+chrome107.0.0.0 2 2
+firefox58.0 5 5
+chrome99.0.4844.74 2 2
+firefox28.0 8 8
+android 2 2
+chrome63.0.3239.132 1 0
+chrome109.0.5414.117 1503 1247
+firefox77.0 1 1
+chrome83.0.4103.97 20 20
+chrome 2 2
+mozilla 22 18
+safari11.1 4 4
+chrome103.0.0.0 2 2
+chrome110.0.0.0 590 279
+chrome105.0.0.0 36 24
+firefox47.0 6 6
+chrome111.0.5563.65 6 2
+chrome45.0.2454.85 2 2
+safari 197 150
+chrome111.0.5563.116 149 63
+chrome35.0.1916.47 2 2
+chrome111.0.5563.64 22 8
+chrome91.0.4472.114 15 8
+chrome96.0.4664.110 18 14
+safari16.2 1 0
+Unknown 42 40
+chrome111.0.5563.58 173 82
+chrome71.0.3578.99 2 2
+chrome111.0.0.0 1318 791
+chrome101.0.4951.74 73 33
+chrome110.0.5481.153 706 591
+chrome68.0.3440.106 2 2
+chrome49.0.2623.112 16 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+WhatsApp/2.23.4.79_A 20230314084308
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230331040257
+panscient.com 20230308191230
+lua-resty-http/0.10_(Lua)_ngx_lua/10019 20230331172914
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230321201228
+Mozilla/5.0_(en-us)_AppleWebKit/537.36(KHTML,_like_Gecko;_Google-Adwords-DisplayAds-WebRender;)_Chrome/111.0.5563.64Safari/537.36 20230326185751
+Google-Adwords-DisplayAds 20230326185754
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230321110039
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_Mozilla/5.0,_Google-AdWords-Express)_Chrome/111.0.5563.64_Safari/537.36 20230326185441
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+panscient.com 20230308191230
+lua-resty-http/0.10_(Lua)_ngx_lua/10019 20230331172914
+WhatsApp/2.23.4.79_A 20230314084308
+Google-Adwords-DisplayAds 20230326185754
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230321110039
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1977 2152
+From1 2 2
+From2 12 14
+From3 2 3
+From4 10776 14927
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+in_images_search_yahoo_com 0 1
+www_google_com 12 12
+images_search_yahoo_com 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://trafficinstantly.co 2 2
+https://mail.nuscma.com 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+421 2 644
+301 474 113898
+404 1423 444657
+500 17 0
+206 1 1
+403 92 32936
+406 182 41132
+302 1445 6307386
+409 13 1079
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 251
+/___proxy_subdomain_webdisk/sqlbuddy/login.php 1 -
+/___proxy_subdomain_webdisk/webdisk.sql.lz 1 -
+/robots.txt 257 -
+/sitemap 4 -
+/nuscma.com.tar.bz2 1 -
+/app/styles.css 1 https://nuscma.com/app/dashboard.php
+/___proxy_subdomain_webdisk/.git/config 2 -
+/___proxy_subdomain_webdisk/TP/public/index.php 1 -
+/webdisk.nuscma.com.sql.bz2 1 -
+/webdisk.nuscma.com.gz 1 -
+/webdisk.nuscma.com.db 1 -
+/sitemap_index.xml.gz 2 -
+/app/new/manifest.json 117 https://nuscma.com/app/new/dashboard.php
+/pp.php 2 https://nuscma.com/
+/course-playlist.html 8 -
+/___proxy_subdomain_cpanel/.git/config 1 -
+/unprotected/loader.html 63 http://nuscma.com/
+/css2 206 https://nuscma.com/nuscma-v2/assets/css/style.css
+/___proxy_subdomain_webdisk/.env.local 1 -
+/webdisk.nuscma.com.tar.gz 1 -
+/.env_1 1 -
+/TP/public/index.php 1 -
+/nuscma.sql.tar.z 1 -
+/nuscma.sql.z 1 -
+/___proxy_subdomain_webdisk/sendgrid.env 1 -
+/apple-touch-icon.png 1 -
+/nuscma.com.db 1 -
+/nuscma.sql.xz 1 -
+/nuscma.tar.z 1 -
+/___proxy_subdomain_webdisk/webdisk.nuscma.com.db 1 -
+/nuscma.com.gz 1 -
+/___proxy_subdomain_webdisk/.env.dev 1 -
+/___proxy_subdomain_webdisk/nuscma.com.sqlitedb 1 -
+/webdisk.nuscma.com.rar 1 -
+/new/app 2 -
+/sitemap.txt 4 -
+/___proxy_subdomain_webdisk/400.shtml 2 -
+/___proxy_subdomain_webdisk/webdisk.nuscma.com.sqlite 1 -
+/webdisk.sql.tar.z 1 -
+/nuscma.com.sql.xz 1 -
+/app/photo/0 2 https://nuscma.com/app/new/expenses.php
+/nuscma.lz 1 -
+/webdisk.db 1 -
+/assets/images/python-icon.jpg 3 https://nuscma.com/aeromodellingBasic.php
+/___proxy_subdomain_webmail/.git/config 1 -
+/app/new/login.php 4 -
+/products 2 -
+/___proxy_subdomain_webdisk/nuscma.sql.lz 1 -
+/___proxy_subdomain_webmail/robots.txt 4 -
+/webdisk.nuscma.com.z 1 -
+/sitemap.ashx 4 -
+/.vscode/sftp.json 1 -
+/webdisk.xz 1 -
+/nuscma.com.sqlitedb 1 -
+/webdisk.nuscma.com.sql.z 1 -
+/nuscma.bz2 1 -
+/nuscma.com.sql.7z 1 -
+/___proxy_subdomain_cpanel/robots.txt 5 -
+/.env.live 1 -
+/.env.stage 1 -
+/.well-known/apple-app-site-association 4 -
+/___proxy_subdomain_webdisk/webdisk.sql.z 1 -
+/fbgvxfen.php 2 www.google.com
+/nuscma.com.sqlite 1 -
+/.env.example 3 -
+/nuscma-v2/assets/img/user/user1.jpg 6 https://nuscma.com/nuscma-v2/about.php
+/webdisk.nuscma.com.tar.z 1 -
+/java-script/jquery-3.4.1.js 14 -
+/nuscma.com.sql.tar.z 1 -
+/___proxy_subdomain_webdisk/webdisk.sqlitedb 1 -
+/config.env 1 -
+/index.php 2 -
+/___proxy_subdomain_cpcontacts/robots.txt 4 -
+/webdisk.nuscma.com.zip 1 -
+/.env.development.local 1 -
+/nuscma.com.sql.rar 1 -
+/ 61 -
+/app/new/assets/vendor/swiperjs-6.6.2/swiper-bundle.min.js.map 2 -
+/nuscma.com.z 1 -
+/nuscma.tar.gz 1 -
+/___proxy_subdomain_webdisk/.env.dev.local 1 -
+/nuscma.com.tar.z 1 -
+/.env.webdisk 1 -
+/___proxy_subdomain_webdisk/.env_sample 1 -
+/sendgrid.env 1 -
+/webdisk.z 1 -
+/yuuki 2 -
+/technology 2 -
+/___proxy_subdomain_cpcalendars/ 7 -
+/webdisk.nuscma.com.bz2 1 -
+/webdisk.nuscma.com.sql.lz 1 -
+/nuscma.sqlitedb 1 -
+/___proxy_subdomain_webdisk/webdisk.sqlite 1 -
+/webdisk.sqlite 1 -
+/webdisk.nuscma.com.sql.tar.z 1 -
+/terms.html 2 -
+/app/new/assets/vendor/bootstrap-5/js/bootstrap.bundle.min.js.map 2 -
+/webdisk.sql.rar 1 -
+/___proxy_subdomain_webdisk/.env.example 1 -
+/webdisk.lz 1 -
+/webdisk.sql.xz 1 -
+/.env.production.local 1 -
+/nuscma-v2/assets/img/user/user4.jpg 6 https://nuscma.com/nuscma-v2/about.php
+/___proxy_subdomain_webdisk/webdisk.nuscma.com.sql.z 1 -
+/___proxy_subdomain_webdisk/.env.prod.local 1 -
+/.env.local 1 -
+/nuscma.com.xz 1 -
+/nuscma.sql.gz 1 -
+/___proxy_subdomain_webdisk/webdisk.db 1 -
+/webdisk.zip 1 -
+/webdisk.sql.tar.gz 1 -
+/webdisk.sqlitedb 1 -
+/___proxy_subdomain_webdisk/.env.webdisk 1 -
+/___proxy_subdomain_webdisk/webdisk.nuscma.com.z 1 -
+/502.shtml 1 https://www.nuscma.com/admins/students/viewStudents.php
+/webdisk.nuscma.com.sqlitedb 1 -
+/nuscma.com.sql.gz 1 -
+/nuscma.com.sql.zip 1 -
+/___proxy_subdomain_webdisk/nuscma.com.sqlite 1 -
+/webdisk.sql.zip 1 -
+/nuscma.com.sql.tar.gz 1 -
+/___proxy_subdomain_webdisk/nuscma.com.sql.z 1 -
+/webdisk.nuscma.com.xz 1 -
+/___proxy_subdomain_webdisk/nuscma.lz 1 -
+/___proxy_subdomain_webdisk/nuscma.com.db 1 -
+/sqlbuddy/login.php 1 -
+/___proxy_subdomain_cpanel/unprotected/loader.html 63 http://nuscma.com/
+/nuscma.rar 1 -
+/nuscma.com.sql.bz2 1 -
+/.env.dev 1 -
+/.env.nuscma 1 -
+/___proxy_subdomain_webdisk/webdisk.nuscma.com.lz 1 -
+/___proxy_subdomain_webdisk/nuscma.sql.z 1 -
+/webdisk.nuscma.com.sql.zip 1 -
+/nuscma-v2/assets/img/partner/part4.png 2 https://nuscma.com/nuscma-v2/
+/webdisk.gz 1 -
+/admin/.env 1 -
+/webdisk.nuscma.com.sql.tar.gz 1 -
+/webdisk.nuscma.com.sql.rar 1 -
+/___proxy_subdomain_webdisk/config.env 1 -
+/___proxy_subdomain_webdisk/nuscma.com.sql.lz 1 -
+/webdisk.nuscma.com.tar.bz2 1 -
+/.env.dev.local 1 -
+/___proxy_subdomain_webdisk/webdisk.z 1 -
+/_profiler/phpinfo 4 -
+/sitemap.xml 4 -
+/app/new/assets/js/popper.min.js.map 2 -
+/nuscma.sql.zip 1 -
+/nuscma.7z 1 -
+/.env.www 1 -
+/app/new/assets/js/pwa-services.js 3 https://nuscma.com/app/new/
+/.env_sample 1 -
+/.env.prod 1 -
+/___proxy_subdomain_webdisk/.env.save.1 1 -
+/webdisk.sql.bz2 1 -
+/nuscma.zip 1 -
+/___proxy_subdomain_webdisk/nuscma.sqlitedb 1 -
+/nuscma.com.bz2 1 -
+/webdisk.nuscma.com.sqlite 1 -
+/2083 2 -
+/.env.prod.local 1 -
+/assets/js/jquery-3.4.1.js 1 https://nuscma.com/franchise.php
+/.DS_Store 18 -
+/about 2 -
+/wp-content/themes/seotheme/db.php 2 www.google.com
+/sitemap.xml.gz 2 -
+/nuscma.sql.7z 1 -
+/.env.save 1 -
+/___proxy_subdomain_webdisk/.env.production 1 -
+/___proxy_subdomain_webdisk/.env.nuscma 1 -
+/___proxy_subdomain_webdisk/.env.save 1 -
+/nuscma.com.lz 1 -
+/___proxy_subdomain_webmail/.DS_Store 2 -
+/nuscma.gz 1 -
+/___proxy_subdomain_webdisk/robots.txt 4 -
+/nuscma.sql.tar.gz 1 -
+/nuscma.z 1 -
+/___proxy_subdomain_cpcontacts/ 13 -
+/webdisk.tar.z 1 -
+/apple-touch-icon-precomposed.png 1 -
+/nuscma.com.rar 1 -
+/app/new/logut.php 2 -
+/webdisk.tar.gz 1 -
+/webdisk.sql.7z 1 -
+/solutions 2 -
+/nuscma-v2/assets/img/user/user3.jpg 6 https://nuscma.com/nuscma-v2/about.php
+/webdisk.7z 1 -
+/___proxy_subdomain_webdisk/.DS_Store 2 -
+/webdisk.nuscma.com.sql.gz 1 -
+/___proxy_subdomain_webdisk/webdisk.lz 1 -
+/nuscma.com.sql.lz 1 -
+/webdisk.tar.bz2 1 -
+/nuscma.sqlite 1 -
+/___proxy_subdomain_webdisk/.env.live 1 -
+/___proxy_subdomain_cpcalendars/robots.txt 4 -
+/login 2 -
+/webdisk.sql.lz 1 -
+/nuscma.xz 1 -
+/app-ads.txt 184 -
+/webdisk.nuscma.com.lz 1 -
+/___proxy_subdomain_webdisk/.env.stage 1 -
+/___proxy_subdomain_webdisk/admin/.env 1 -
+/.env.production 1 -
+/app/new/logut.ph 2 -
+/___proxy_subdomain_webdisk/webdisk.nuscma.com.sqlitedb 1 -
+/nuscma-v2/assets/img/user/user2.jpg 6 https://nuscma.com/nuscma-v2/about.php
+/___proxy_subdomain_webdisk/.env.production.local 1 -
+/webdisk.nuscma.com.sql.7z 1 -
+/___proxy_subdomain_webdisk/nuscma.com.z 1 -
+/nuscma.com.zip 1 -
+/webdisk.sql.z 1 -
+/___proxy_subdomain_webdisk/.env.prod 1 -
+/nuscma.com.sql.z 1 -
+/nuscma.tar.bz2 1 -
+/app/new/dashboard'=.php 2 -
+/webdisk.sql.gz 1 -
+/___proxy_subdomain_webmail/ 12 -
+/___proxy_subdomain_webdisk/.env.development.local 1 -
+/apple-app-site-association 4 -
+/ccpanel 2 -
+/nuscma.com.7z 1 -
+/webdisk.nuscma.com.7z 1 -
+/nuscma.sql.bz2 1 -
+/admins/account/inactive_fees.php 2 https://nuscma.com/admins/index.php
+/app/new/dail.php 2 -
+/sitemap_index.xml 4 -
+/features 2 -
+/admins/login.php 2 https://www.nuscma.com/admins/students/studentProfile.php
+/webdisk.rar 1 -
+/app/new/subscribe.php 14 -
+/___proxy_subdomain_webdisk/nuscma.sqlite 1 -
+/nuscma.db 1 -
+/webdisk.nuscma.com.sql.xz 1 -
+/___proxy_subdomain_cpanel/.DS_Store 2 -
+/.env.save.1 1 -
+/___proxy_subdomain_webdisk/.env_1 1 -
+/___proxy_subdomain_webdisk/.env.www 1 -
+/requestReset 2 -
+/___proxy_subdomain_webdisk/nuscma.com.lz 1 -
+/.ftpconfig 2 -
+/___proxy_subdomain_webdisk/webdisk.nuscma.com.sql.lz 1 -
+/.git/config 10 -
+/nuscma.sql.rar 1 -
+/___proxy_subdomain_webdisk/nuscma.z 1 -
+/___proxy_subdomain_cpanel/ 14 -
+/___proxy_subdomain_webdisk/nuscma.db 1 -
+/nuscma.com.tar.gz 1 -
+/app/photo/2023-02-28%2006:17:59-social_poster_2.jpeg 10 https://nuscma.com/app/new/doc.php
+/nuscma.sql.lz 1 -
+/webdisk.bz2 1 -
+/___proxy_subdomain_webdisk/ 15 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 252
+157.46.67.3 773 815 3289307 20230328134550
+157.49.136.162 686 1082 12466919 20230301070812
+157.46.89.36 628 840 7374344 20230306121148
+157.51.179.25 520 1019 11991077 20230327171833
+59.93.11.82 380 399 8367345 20230320114611
+117.206.141.51 360 384 3788858 20230318051800
+117.213.140.196 353 358 9413398 20230308060125
+117.253.93.160 343 353 4449023 20230302043255
+117.203.79.51 335 338 7206791 20230313104119
+157.51.196.149 313 522 6911318 20230307071047
+117.203.74.38 287 296 3172381 20230321174329
+59.93.8.209 284 301 7591940 20230309104443
+117.253.81.87 259 267 4704606 20230328100531
+59.93.11.2 259 274 4714552 20230314105242
+117.202.182.229 249 261 5823290 20230316123815
+117.213.143.233 239 257 5473325 20230315115614
+157.51.96.82 239 276 1826988 20230309133046
+117.241.67.187 234 251 4617570 20230329095910
+157.49.143.230 228 398 3782491 20230328234808
+117.202.180.253 222 235 5423899 20230323180239
+157.51.170.29 209 424 5184287 20230327213227
+117.206.137.8 204 206 2878032 20230330194857
+59.93.12.200 183 194 3395724 20230325103722
+110.224.95.119 181 185 711087 20230330164112
+117.203.71.100 174 174 4165643 20230307060123
+18.206.199.142 2 2 11378 20230331172914
+109.237.98.235 4 4 8416 20230329083558
+18.224.128.89 2 2 11378 20230331172916
+117.206.138.75 2 2 4136 20230320121309
+193.235.141.90 4 6 13308 20230325015059
+110.224.81.130 7 8 17818 20230330191644
+205.210.31.168 2 2 11378 20230307060543
+209.141.36.231 2 2 4208 20230323224342
+106.75.172.3 2 4 297026 20230302132511
+209.141.41.193 4 6 13308 20230323224342
+106.217.31.144 99 126 1326580 20230321164754
+66.249.83.37 0 1 566 
+223.182.203.184 146 177 1663407 20230304160818
+117.253.190.76 98 114 1846899 20230303115720
+14.116.157.23 2 2 4208 20230328133527
+107.155.122.210 1 1 5689 20230305195045
+66.249.83.3 0 1 76469 
+106.198.102.86 2 3 114620 20230321005200
+106.198.20.222 6 14 369951 20230309071828
+157.49.139.233 20 28 109133 20230329184850
+110.224.87.192 72 77 221008 20230331175332
+167.94.138.35 2 3 6654 20230321201226
+110.224.91.119 49 77 1019409 20230330121655
+157.51.120.10 2 2 12166 20230306112724
+209.141.51.222 2 2 4208 20230323224431
+223.187.117.153 24 53 963612 20230327202456
+109.237.97.227 4 4 8416 20230329143802
+103.187.4.156 1 1 2104 20230325210532
+51.254.49.110 2 2 11378 20230306140514
+110.224.82.102 52 135 2063998 20230314124826
+110.224.95.21 30 32 73196 20230331235033
+209.141.34.187 2 2 4208 20230307202833
+198.235.24.12 2 2 11378 20230310133638
+3.236.160.13 2 2 4208 20230303234812
+110.224.85.102 12 15 106810 20230314162643
+157.46.73.233 8 35 634081 20230329092514
+106.198.12.36 2 7 129808 20230323083821
+117.206.142.221 99 107 1852975 20230304122724
+205.185.121.69 0 1 110484 
+157.51.119.250 8 8 8962 20230310051331
+106.198.117.55 36 44 616811 20230325140112
+198.235.24.184 2 2 11378 20230314150917
+157.46.80.230 8 35 634081 20230330153409
+192.3.172.201 2 2 11378 20230327192234
+198.235.24.45 2 2 11378 20230321110039
+157.51.119.47 12 24 412771 20230314113810
+157.51.115.223 4 4 34760 20230306112735
+110.224.89.158 12 44 1030775 20230327202226
+34.132.145.12 2 2 4208 20230314102823
+157.51.113.81 2 2 6442 20230310035031
+110.224.93.68 3 3 19783 20230325134821
+59.93.13.102 90 98 1296688 20230317045415
+106.197.111.219 23 47 971367 20230309133352
+193.235.141.114 2 3 6654 20230322093856
+157.51.112.205 30 230 14765249 20230306073950
+87.236.176.61 2 2 4208 20230303165145
+66.249.83.88 0 1 6962 
+110.224.84.68 12 12 209098 20230325131536
+54.184.242.233 2 2 4208 20230327085401
+198.235.24.46 2 2 11378 20230304034734
+193.235.141.134 2 3 6654 20230309004130
+157.49.131.27 15 33 496671 20230329172510
+167.94.138.120 2 3 6654 20230303151255
+106.197.79.205 155 200 2933996 20230325215202
+157.51.105.224 5 79 3487523 20230314084549
+157.46.67.255 14 15 34864 20230331185645
+117.202.176.85 71 76 1607311 20230324102823
+157.51.113.179 2 2 7018 20230310035138
+223.187.116.90 31 65 1347575 20230326223911
+157.51.123.60 8 8 16832 20230304090529
+110.224.90.192 69 101 1109401 20230331115055
+117.213.134.131 128 137 2562977 20230310083951
+193.235.141.17 2 3 6654 20230314054426
+66.249.88.205 0 1 566 
+104.251.85.141 2 2 4208 20230331170232
+65.109.138.122 2 2 4208 20230319230829
+193.235.141.60 2 3 6654 20230330152251
+223.187.125.186 24 136 7265676 20230314164955
+212.83.157.255 2 2 4208 20230320162221
+117.253.81.141 8 13 167836 20230302095820
+66.249.83.98 2 2 4208 20230326185748
+157.46.69.184 120 154 1340787 20230331113829
+106.198.117.67 20 20 462016 20230327103411
+91.73.47.179 2 7 129880 20230326185426
+198.235.24.9 2 2 11378 20230318014805
+205.210.31.53 2 2 11378 20230308053035
+209.141.33.65 2 2 4208 20230323224428
+104.237.158.24 1 1 2104 20230316163542
+117.203.74.98 30 30 648640 20230306044850
+45.141.215.46 1 1 2104 20230329062615
+117.253.89.109 67 81 2176756 20230325173106
+223.187.118.96 24 55 1314856 20230309184608
+157.51.192.117 25 27 95148 20230328235752
+117.253.94.66 5 7 23964 20230318105353
+205.210.31.14 2 2 11378 20230309203059
+173.239.232.18 14 14 29456 20230308191230
+157.46.80.64 10 52 1026569 20230309061423
+110.224.83.119 7 7 18050 20230330130417
+106.75.154.252 2 4 297026 20230303093118
+106.51.81.73 2 6 127434 20230315211950
+167.94.138.36 2 2 4208 20230316215357
+117.203.69.120 139 144 2590374 20230311104159
+3.231.26.231 2 2 4208 20230313182714
+66.249.88.209 4 6 125862 20230326185440
+101.68.211.2 6 7 36580 20230323000003
+110.224.83.19 8 8 292400 20230308100826
+66.249.83.36 0 1 2446 
+193.235.141.135 2 3 6574 20230301062828
+106.195.35.92 2 6 127362 20230319051108
+18.225.25.214 2 2 11378 20230320174632
+157.46.89.88 8 35 633847 20230331202248
+106.198.102.38 2 2 4136 20230321173443
+54.149.94.85 2 2 4208 20230309031657
+167.248.133.186 2 2 4208 20230318073203
+157.46.69.108 40 67 723460 20230328105238
+35.87.106.86 2 2 4208 20230309031738
+209.141.36.112 0 1 2446 
+157.51.198.43 2 19 555522 20230314091556
+157.46.92.152 10 38 919004 20230328160133
+157.49.176.84 8 39 637638 20230328133305
+157.51.198.97 12 20 204406 20230317045447
+35.90.139.163 2 2 4208 20230327085633
+110.224.89.234 99 99 250493 20230327124435
+157.46.78.8 2 2 27130 20230331203120
+157.51.127.118 14 14 129020 20230306113717
+162.142.125.216 2 3 6654 20230319061529
+157.49.135.205 54 85 1291084 20230324115515
+157.46.75.18 15 69 6897102 20230306065611
+167.248.133.34 2 2 4208 20230319204430
+117.213.133.39 117 131 2325363 20230322174025
+106.222.111.214 42 46 816150 20230318165445
+3.238.44.255 2 2 11378 20230320174629
+106.211.255.166 41 83 1897350 20230323145601
+66.249.88.201 2 7 132648 20230326185440
+223.240.101.111 2 2 4208 20230328133430
+34.212.24.222 2 2 4208 20230328085430
+157.51.101.252 7 7 19134 20230311162257
+106.197.45.189 2 2 4136 20230305122217
+157.46.67.115 7 8 17388 20230331233954
+157.51.117.81 23 53 1032696 20230310035009
+157.46.81.91 7 9 17622 20230329161122
+106.198.29.51 28 145 7282861 20230314084430
+66.249.83.87 0 1 110484 
+110.224.90.119 2 2 8818 20230330130434
+66.102.8.201 2 4 11736 20230326185440
+119.235.25.51 0 1 76469 
+45.71.19.128 2 2 4208 20230329084652
+54.189.157.163 2 2 4208 20230317033642
+117.213.133.155 170 174 3533347 20230330104532
+223.182.223.117 2 6 127362 20230330184225
+49.44.83.9 2 6 127362 20230317071639
+117.213.136.12 4 20 58698 20230306135639
+106.197.89.17 4 5 118756 20230328064458
+117.213.140.199 48 48 926030 20230308094549
+110.226.183.17 0 1 76469 
+110.224.81.192 124 124 320321 20230331133910
+66.249.83.192 0 1 5214 
+185.236.106.197 2 2 11378 20230320144314
+157.51.113.112 8 8 8949 20230310035049
+110.224.83.192 7 7 17432 20230331125847
+3.15.162.69 2 2 4208 20230313160649
+106.217.31.160 13 17 31419 20230307125033
+34.220.185.40 2 2 4208 20230328085415
+209.141.35.128 2 3 114692 20230316230814
+16.171.41.154 2 2 4208 20230308185444
+110.224.88.96 8 8 212068 20230308100428
+157.51.126.46 8 38 1016403 20230311081112
+157.49.133.170 26 54 961151 20230331222118
+157.49.75.94 17 17 33162 20230325180840
+205.210.31.152 2 2 11378 20230317180239
+117.253.80.161 44 47 943265 20230318090426
+106.211.223.182 43 73 1262609 20230326215059
+36.143.157.97 2 2 4208 20230329000853
+110.224.84.102 14 19 78442 20230314134137
+167.248.133.52 2 3 6654 20230310212743
+104.248.203.191 0 1 2446 
+205.185.116.25 2 3 114692 20230316230742
+157.34.127.32 6 15 118523872 20230320040049
+157.46.75.213 22 102 3173013 20230307034038
+157.46.83.127 23 35 321089 20230307061343
+149.202.80.155 2 2 4208 20230330041103
+110.224.91.21 116 223 3447294 20230331222840
+117.213.142.46 59 60 952437 20230301041659
+157.49.200.105 12 14 125065 20230324180505
+35.162.117.30 2 2 4208 20230323085142
+193.235.141.19 2 3 6654 20230311152518
+45.141.215.233 2 2 1166 20230308163726
+157.51.122.152 2 2 16406 20230306112715
+157.51.124.248 10 34 1252410 20230306112645
+117.203.66.41 145 149 2359974 20230331200845
+193.235.141.21 2 3 6654 20230327191247
+106.75.164.84 2 4 297026 20230302191251
+54.224.74.118 2 2 11378 20230308105229
+51.255.62.15 2 2 11378 20230306123304
+110.224.93.192 65 83 681541 20230331151936
+117.203.79.95 95 100 2215223 20230327102857
+117.253.186.106 26 26 456394 20230302084847
+87.236.176.79 2 2 4208 20230331040257
+205.185.122.184 2 2 4208 20230307202837
+54.149.227.251 2 2 4208 20230317033609
+192.99.10.118 2 2 4208 20230330041105
+193.235.141.162 2 3 6654 20230303202700
+106.198.20.179 121 178 1204676 20230328175616
+157.51.113.71 4 8 131642 20230306085453
+157.46.74.135 9 11 22892 20230328183958
+209.141.55.120 2 3 6654 20230307202851
+117.253.88.134 149 149 473237 20230325115016
+157.51.105.63 25 25 34620 20230310035355
+193.235.141.11 4 6 13308 20230316202754
+223.187.123.90 27 57 1216915 20230326210424
+3.12.136.147 8 15 255302 20230302224342
+110.224.82.130 12 23 794671 20230331004659
+34.209.55.121 2 2 4208 20230327085707
+106.197.45.147 2 7 129808 20230304144542
+106.211.255.144 2 5 17770 20230315142826
+18.224.151.214 2 2 4208 20230307022411
+157.51.109.21 24 54 1060221 20230310045718
+157.49.73.148 39 68 930108 20230325174612
+157.49.251.100 3 73 3723592 20230315071406
+106.75.167.249 2 4 297026 20230302124359
+14.98.24.134 12 61 1813159 20230308113127
+106.211.255.187 162 272 7604249 20230307083934
+104.248.204.195 0 1 2446 
+157.51.99.103 4 9 134088 20230304090459
+157.51.112.143 13 14 48317 20230310035214
+117.203.76.64 127 128 2789398 20230314131658
+117.253.185.35 58 59 1134958 20230302114816
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20230301 1054 1453 16861474 6
+20230302 142 171 3995516 10
+20230303 191 257 8008679 10
+20230304 263 312 3819866 11
+20230305 3 3 9825 2
+20230306 923 1468 35505810 21
+20230307 668 1026 18550169 15
+20230308 287 326 7347188 12
+20230309 575 731 12606955 13
+20230310 239 309 4612677 15
+20230311 152 189 3690660 6
+20230313 353 356 7498169 5
+20230314 506 946 28391912 16
+20230315 246 341 9342121 6
+20230316 258 271 5844672 6
+20230317 438 475 5195594 8
+20230318 127 143 2040479 8
+20230319 10 16 149086 5
+20230320 398 442 245739317 10
+20230321 392 412 4124016 8
+20230322 119 134 2332017 6
+20230323 279 345 7718435 12
+20230324 361 410 5831086 10
+20230325 440 537 7989807 13
+20230326 113 228 4434140 8
+20230327 1185 1968 25479116 15
+20230328 1457 1827 15187438 21
+20230329 234 302 4882323 13
+20230330 531 602 6959575 16
+20230331 825 1096 12073623 25
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 19
+15mn-30mn 20
+30mn-1h 36
+1h+ 57
+5mn-15mn 16
+0s-30s 158
+30s-2mn 26
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 126
+/admins/students/studentProfile.php 1661 23946556 1 22
+/app/new/dashboard.php 1062 8596024 42 0
+/admins/students/viewStudents.php 1009 76091250 3 3
+/admins/students/demo_print.php 620 1193142 0 20
+/app/new/subjectwise_chart.php 577 112876 0 7
+/app/new/examwise_chart.php 577 53564 0 7
+/app/new/expensewise_chart.php 576 79732 0 26
+/admins/accounts/feesPending.php 568 4023439 1 6
+/admins/index.php 484 4151176 6 0
+/app/new/taskwise_chart.php 460 38138 2 2
+/app/new/subjectwiseTask_chart.php 460 29678 1 2
+/admins/demo-data.php 417 544907 0 46
+/admins/ 372 3282353 1 0
+/login.php 351 725898 93 15
+/ 224 654051 100 95
+/admins/accounts/dailyOperationreport.php 199 1310784 0 3
+/admins/accounts/feesPendingPrint.php 180 181040 1 0
+/app/new/ 154 268578 25 8
+/admins/staffs/validation.php 152 3192 1 1
+/app/new/profile.php 148 441856 1 2
+/app/new/expenses.php 148 569320 2 0
+/app/new/reminder.php 142 403626 1 1
+/app/new/fees.php 130 492054 1 2
+/app/new/academic.php 114 458258 0 1
+/app/new/assets/bootstrap-icons%401.5.0/font/fonts/bootstrap-icons63f3.woff2 85 7242240 0 6
+/app/new/openmoney/index.php 16 16220 0 1
+/app/new/create_expenses.php 32 90918 0 3
+/app/new/create_subject.php 50 180940 0 0
+/app/new/formsubmit.php 6 180 0 0
+/admins/accounts/admission.php 4 25156 0 0
+/admins/transport/ViewBus.php 2 12268 0 0
+/app/create_student.php 2 690 0 0
+/admins/accounts/collectionInPrint.php 6 11836 0 0
+/nuscma-v2/general_policy.php 2 12314 0 0
+/requestReset.php 4 6052 0 0
+/app/new/edit_paidfees.php 32 108198 0 0
+/wp-plain.php 1 583 0 1
+/admins/students/inactive_students.php 22 269206 0 1
+/admins/thirdtermrp.php 8 56494 0 0
+/app/create_address.php 6 1806 1 1
+/app/new/create_address.php 10 21728 0 0
+/admins/accounts/inactive_fees.php 10 64446 0 0
+/admins/students/conductReport.php 4 7980 0 0
+/aeromodellingBasic.php 6 22716 1 1
+/app/expensewise_chart.php 1 96 0 0
+/admins/attbyclass.php 2 13730 0 0
+/admins/students/bonafiedReport.php 12 24838 0 0
+/nuscma-v2/index.php 42 366782 4 4
+/app/create_father.php 2 534 0 0
+/app/new/edit_profile.php 18 58122 0 0
+/app/new/subscribe.php 40 83936 1 1
+/app/new/create_exam.php 14 45212 0 0
+/admins/reduction_list.php 8 53945 0 0
+/school/login.php 10 20350 1 2
+/app/new/create_activity.php 28 69178 0 0
+/admins/accounts/classwiseStrength.php 10 65078 0 1
+/admins/students/attendanceReport.php 4 7838 0 0
+/app/ 8 6728 1 0
+/admins/accounts/test.php 48 150344 0 0
+/admins/classwiseterm.php 6 38742 0 0
+/app/create_academic.php 2 634 0 0
+/admins/class/viewClass.php 26 211076 0 0
+/admins/accounts/classwiseStrengthReport.php 4 4800 0 1
+/admins/students/studyReport.php 4 8192 0 0
+/app/new/otp.php 31 39711 0 0
+/admins/accounts/collection.php 24 601070 0 1
+/app/new/edit_subject.php 12 29952 0 0
+/cgi-sys/404.html 1 583 1 0
+/nuscma-v2/school_blog.php 6 72504 1 1
+/app/dashboard.php 2 6314 0 0
+/index.php 54 113456 13 2
+/nuscma-v2/about.php 6 35300 0 1
+/app/new/expense_daywise.php 80 8118 0 3
+/cpanel 8 108522 3 1
+/admins/attendence/viewAttendence.php 2 13028 0 0
+/admins/accounts/print_closing_balance.php 76 200204 0 0
+/nuscma-v2/login.php 6 7410 0 1
+/app/new/event.php 82 245812 0 0
+/app/new/edit_setfees.php 10 25654 0 0
+/admins/students/itReport.php 16 32014 0 0
+/admins/staffs/1-A.php 4 3468 0 0
+/app/new/create_reminder.php 22 62174 0 0
+/app/new/create_doc.php 24 67304 0 0
+/admins/accounts/feesdetails.php 12 81116 0 0
+/admins/staffs/createStaff.php 12 113976 0 0
+/nuscma-v2/ 76 667460 11 6
+/admins/class/classProfile.php 14 131128 0 0
+/app/new/plus.php 78 243338 0 0
+/app/new/create_fees.php 18 45440 0 0
+/admins/staffs/formSubmit.php 4 243 0 0
+/app/new/create_academic.php 10 22474 0 1
+/app/new/create_mother.php 8 16914 0 0
+/nuscma-v2/school_promotion.php 8 48664 1 2
+/app/new/attendance.php 64 177338 0 1
+/admins/transport/addBus.php 1 6377 0 0
+/app/new/doc.php 66 174442 0 1
+/app/new/create_event.php 10 28292 0 0
+/app/subjectwise_chart.php 1 22 0 0
+/app/new/activity.php 70 184496 0 3
+/app/create_mother.php 2 532 0 0
+/nuscma-v2/features.php 20 239370 0 1
+/app/new/pay_fees.php 52 140490 0 0
+/app/new/edit_expense.php 40 147810 1 2
+/admins/accounts/orderStatus.php 1 6372 0 0
+/nuscma-v2/assets/fonts/remixicon.woff2 8 1002144 0 1
+/app/new/view_activity.php 18 60062 0 0
+/app/new/edit_reminder.php 12 34118 0 0
+/app/new/edit_attendance.php 24 63126 0 0
+/app/new/create_student.php 16 35908 0 0
+/admins/accounts/print_feesdetails.php 2 2788 0 0
+/app/new/index.php 56 96234 8 7
+/admins/class/classActivity.php 4 24276 0 0
+/nuscma-v2/school_list.php 10 52460 0 0
+/admins/accounts/ajax.php 1 81227 0 0
+/pp.php 8 21606 0 1
+/app/new/otpButton.php 56 55526 0 0
+/validationAjax.php 44 924 1 1
+/admins/accounts/schoolStrength.php 12 86944 0 1
+/app/examwise_chart.php 1 24 0 0
+/admins/staffs/viewStaffs.php 18 150370 0 0
+/nuscma-v2/social_media.php 24 197010 1 2
+/admins/class/formsubmit.php 3 375 0 0
+/app/new/edit_event.php 12 34318 0 0
+/admins/accounts/classViewstudnetreport.php 5 33041 0 0
+/app/new/create_father.php 8 16930 0 0
+/admins/staffs/staffProfile.php 12 112580 0 0
+END_SIDER

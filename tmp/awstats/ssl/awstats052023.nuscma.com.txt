@@ -1,0 +1,2695 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202305 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2695                
+POS_VISITOR 36462               
+POS_DAY 65387               
+POS_DOMAIN 3692                
+POS_LOGIN 4233                
+POS_ROBOT 4388                
+POS_WORMS 5053                
+POS_EMAILSENDER 5184                
+POS_EMAILRECEIVER 5327                
+POS_SESSION 66402               
+POS_SIDER 66616               
+POS_FILETYPES 5462                
+POS_DOWNLOADS 5851                
+POS_OS 6171                
+POS_BROWSER 6786                
+POS_SCREENSIZE 10354               
+POS_UNKNOWNREFERER 10428               
+POS_UNKNOWNREFERERBROWSER 11275               
+POS_ORIGIN 11929               
+POS_SEREFERRALS 12079               
+POS_PAGEREFS 12316               
+POS_SEARCHWORDS 12498               
+POS_KEYWORDS 12676               
+POS_MISC 2358                
+POS_ERRORS 12763               
+POS_CLUSTER 4089                
+POS_SIDER_404 12976               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230601000401 178 61895 11790326826547
+FirstTime 20230501001826
+LastTime 20230531231916
+LastUpdate 20230601185951 178 0 177 0 0
+TotalVisits 1098                
+TotalUnique 676                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 701                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 84 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 71 106 1359645 116 399 4050243
+1 17 43 593924 99 494 6486742
+2 37 510 10528422 96 395 5538999
+3 25 83 1148480 57 264 3222209
+4 101 227 2522053 70 185 1526392
+5 160 208 1761297 90 190 1069969
+6 84 163 1738917 52 129 310678
+7 88 444 15019174 87 177 758744
+8 419 750 16087005 161 467 1439942
+9 2430 5262 124807472 880 1437 2493298
+10 6704 8767 310734482 1934 2414 4160655
+11 6922 8779 402436283 2120 2438 2596974
+12 7355 9115 339408747 2172 2520 2684430
+13 5746 7234 257978372 2199 2648 4365648
+14 5041 7422 253646613 1694 2238 3524887
+15 5217 7161 218552777 1640 1974 2482870
+16 4145 5385 164406889 1099 1537 2058927
+17 1519 2569 79420094 694 853 1898805
+18 931 1384 20372575 241 353 1217672
+19 714 1480 25342409 307 414 785726
+20 895 1722 45618667 259 476 794902
+21 614 855 11905972 227 293 273631
+22 297 438 15119873 207 264 634593
+23 384 923 25510329 136 355 2984423
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 20
+in 41494 56368 2031400716
+us 7815 12992 275598683
+bz 104 142 1557268
+sg 97 296 7706775
+gb 64 107 1033260
+ca 62 328 4687678
+bd 56 99 820289
+mu 52 77 640436
+ru 51 51 545168
+kg 37 76 913049
+cn 33 359 16366588
+fr 13 13 505214
+se 13 21 127916
+pl 9 9 81329
+au 7 82 3967509
+be 2 3 20488
+my 2 2 358
+ir 2 2 20684
+no 2 2 18042
+ma 1 1 9021
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+bot[\s_+:,\.\;\/\\-] 981 16187304 20230531021744 0
+Googlebot/ 929 7078151 20230531133815 0
+bingbot/ 757 9520717 20230531230724 0
+bingpreview 72 585366 20230526170142 0
+Applebot/ 49 1127480 20230529004345 0
+no_user_agent 12 550196 20230529163608 0
+Googlebot\-Image/ 12 1038153 20230530221427 0
+(firefox/)([0-9]\.|[0-1][0]\.) 9 85203 20230528031210 0
+YandexBot/ 8 63766 20230520180549 0
+Go\-http\-client/ 6 39442 20230530041647 0
+curl 4 100010 20230529205839 0
+archive\.org_bot 4 31740 20230527133957 0
+scrapy 2 9552 20230519053139 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 16
+html 2766 24105750 0 0
+htm 2 17248 0 0
+css 8475 37664348 0 0
+eot 2 806456 0 0
+csv 10 2532 0 0
+pdf 2 1201954 0 0
+php 46826 1714635865 0 0
+avif 2 22752 0 0
+png 5713 408751866 0 0
+woff2 309 23543988 0 0
+js 5179 62801331 0 0
+svg 1008 2176403 0 0
+jpg 255 47930160 0 0
+Unknown 9 108522 0 0
+jpeg 470 20874892 0 0
+gif 2 1376404 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/software/assets/Downloads/product_upload.csv 4 0 252
+/software/assets/Downloads/busRoot.csv 4 0 204
+/software/assets/Downloads/student%20sample.csv 2 0 2076
+/software/Students_Documents/deepak%20santh%20820230514_20522832_8e9fb29b12f3ed2d8eb7f0321ce5f810.pdf 2 0 1201954
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 36
+ios_iphone 77 5
+winvista 4 1
+macosx9 6 2
+macosx5 88 64
+winxp 265 152
+linuxfedora 1 0
+win10 39173 30269
+android 6780 3770
+win8.1 72 6
+beos 2 0
+win98 1 0
+linux 360 112
+macosx13 20 12
+winnt 4 0
+Unknown 721 717
+macosx 59 9
+bsdopenbsd 3 0
+androidkitkat 3 3
+win2003 3 2
+linuxubuntu 35 27
+androidjellybean 2 2
+macosx15 3278 880
+win2000 9 0
+macosx7 2 0
+androidmarshmallow 18 6
+androidoreo 1063 482
+macosx11 10 10
+macosx6 135 60
+androidpie 1545 972
+winlong 20 4
+win8 21 6
+macosx14 11 4
+macosx10 11 6
+win7 13851 10901
+android10 3269 1408
+androidnougat 108 24
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 162
+msie8.0 2 2
+chrome29.0.1547.41 2 2
+chrome39.0.2171.99 2 2
+opera11.62 1 0
+chrome17.0.963.56 101 56
+chrome72.0.3626.121 2 2
+chrome4.0.219.0 77 52
+firefox40.1 2 1
+firefox60.0 8 0
+opera11.01 27 2
+chrome45.0.2454.85 1 1
+chrome100.0.4895.86 7 7
+chrome93.0.4577.82 135 97
+chrome104.0.5112.97 124 28
+firefox77.0 1 1
+chrome45.0.2427.7 2 2
+chrome63.0.3239.132 8 0
+firefox106.0 14 14
+chrome101.0.4951.41 2 2
+edge17 2 2
+chrome104.0.0.0 6 6
+chrome4.0.207.0 120 52
+chrome103.0.0.0 271 100
+chrome113.0.0.0 23004 18650
+android 3 3
+chrome105.0.0.0 20 12
+firefox47.0 8 8
+opera11.50 3 0
+edge13 10 4
+chrome3.0.195.17 101 58
+firefox60.2.2 2 2
+chrome101.0.4951.67 4 4
+opera55.0.2994.61 2 2
+chrome52.0.2743.98 2 2
+mozilla 111 34
+chrome103.0.5060.114 14 14
+chrome35.0.2117.157 3 0
+chrome109.0.0.0 11862 8695
+chrome110.0.5478.0 52 2
+chrome84.0.4147.111 1 0
+iphone 2 0
+opera12.0 5 0
+chrome113.0.5672.131 16 2
+chrome88.0.4324.181 137 74
+chrome44.0.2403.155 1 0
+chrome41.0.2228.0 5 2
+chrome0.4.154.18 2 1
+firefox113.0 11005 9174
+chrome101.0.4951.61 75 37
+chrome35.0.3319.102 2 0
+chrome87.0.4280.101 31 7
+chrome41.0.2227.0 3 0
+chrome80.0.3987.99 155 116
+chrome83.0.4103.97 30 30
+firefox36.0 6 0
+opera11.10 8 2
+chrome69.0.3497.100 2 2
+firefox27.3 3 2
+firefox68.0 2 2
+chrome100.0.4758.11 5 5
+chrome96.0.4664.104 481 317
+chrome64.0.3359.181 1 1
+chrome34.0.1847.137 3 0
+chrome111.0.0.0 959 131
+chrome113.0.5672.77 162 125
+firefox58.0 11 11
+chrome83.0.4103.116 175 21
+chrome102.0.5005.61 219 9
+firefox29.0 2 0
+firefox62.0 6 1
+chrome49.0.2623.112 27 6
+chrome73.0.3683 2 2
+chrome92.0.4515.115 37 13
+chrome99.0.4844.84 4 4
+chrome95.0.4638.74 220 96
+chrome22.0.1207.1 2 2
+firefox25.0 7 3
+Unknown 693 693
+chrome36.0.1985.67 3 0
+safari11.1 10 10
+chrome70.0.3538.77 4 0
+chrome41.0.2225.0 7 1
+chrome112.0.5615.135 916 515
+chrome113.0.5672.76 781 503
+chrome37.0.2062.124 2 0
+chrome97.0.4692.98 102 16
+chrome110.0.0.0 81 9
+chrome90.0.4430.210 1551 852
+chrome89.0.4389.90 1 1
+chrome87.0.4280.141 265 154
+msie11.0 76 4
+chrome58.0.3029.110 11 11
+chrome81.0.4044.138 153 17
+chrome10.0.648.127 4 4
+chrome113.0.5672.163 10 7
+chrome113.0.5672.132 36 8
+firefox26.0 5 0
+chrome84.0.4147.105 2 2
+firefox112.0 2875 1802
+firefox58.0.1 2 0
+opera11.51 3 0
+chrome35.0.1916.47 4 2
+chrome76.0.3809.111 148 72
+firefox63.0 6 0
+chrome110.0.5481.65 27 3
+chrome35.0.2309.372 3 0
+opera12.80 2 0
+chrome107.0.0.0 26 2
+chrome40.0.2214.93 2 0
+chrome91.0.4472.120 307 168
+chrome68.0.3440.106 2 2
+chrome4.0.223.2 34 34
+chrome18.0.1025.166 2 2
+chrome111.0.5563.116 1173 641
+firefox28.0 5 2
+opera89.0.4447.51 2 2
+firefox64.0 1 0
+opera12.16 11 2
+chrome90.0.4430.91 82 20
+chrome36.0.1944.0 2 0
+chrome34.0.1866.237 3 0
+firefox57.0.3 2 2
+chrome107.0.5304.105 125 58
+chrome110.0.5481.153 1125 786
+chrome113.0.5672.162 16 2
+opera98.0.0.0 10 4
+firefox20.0 3 2
+edge14 5 0
+chrome41.0.2224.3 1 0
+chrome83.0.4103.106 261 69
+chrome41.0.2226.0 2 0
+chrome99.0.4844.0 150 6
+chrome103.0.5060.129 108 36
+chrome52.0.2714.0 2 2
+opera12.00 6 2
+chrome106.0.0.0 13 2
+safari 77 5
+chrome66.0.3359.158 172 61
+chrome106.0.5249.126 172 110
+firefox31.0 6 0
+chrome112.0.5615.136 950 465
+chrome36.0.1985.125 1 0
+chrome100.0.4896.127 161 121
+firefox27.0 3 0
+chrome52.0.3624.98 2 2
+chrome91.0.4472.114 783 299
+opera11.52 1 0
+firefox51.0 1 0
+opera12.14 8 2
+chrome112.0.0.0 6067 3455
+chrome37.0.2049.0 8 0
+firefox96.0 2 2
+opera11.1 1 0
+chrome87.0.4280.88 277 17
+chrome4.0.222.2 86 64
+edge12 2 1
+opera97.0.0.0 12 6
+chrome96.0.4664.110 12 8
+chrome41.0.2227.1 3 2
+chrome99.0.4844.88 1011 633
+chrome108.0.0.0 12 12
+opera11.11 4 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230531022901
+PlayStore-Google 20230531213632
+Mozilliqa'_print(9347655345-4954366)_' 20230501121123
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230503060203
+Mozilliqa\ 20230501121120
+tc-lib-file 20230531121615
+Mozilliqa'{${print(9347655345-4954366)}}' 20230501121117
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230530172945
+lua-resty-http/0.10_(Lua)_ngx_lua/10019 20230530142118
+WhatsApp/2.23.7.80_A 20230523223649
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+Mozilliqa'_print(9347655345-4954366)_' 20230501121123
+Mozilliqa\ 20230501121120
+tc-lib-file 20230531121615
+Mozilliqa'{${print(9347655345-4954366)}}' 20230501121117
+lua-resty-http/0.10_(Lua)_ngx_lua/10019 20230530142118
+WhatsApp/2.23.7.80_A 20230523223649
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230531022901
+PlayStore-Google 20230531213632
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 6104 6646
+From1 0 0
+From2 221 227
+From3 24 24
+From4 43567 64133
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+www_google_com 207 211
+google_com 0 2
+in_search_yahoo_com 2 2
+www_google_co_in 4 4
+baidu 8 8
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://nplms.polite.edu.sg 24 24
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+https+//www.nuscma.com/ 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+//www.nuscma.com/ 2
+https 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 10
+301 898 226050
+409 102 8466
+302 4002 12169802
+400 24 0
+403 6645 2371518
+500 139 0
+206 18 3006528
+503 1 0
+406 302 67122
+404 7328 2872753
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1140
+/backup2023.gz 1 -
+/www.sql.zip 1 -
+/2.sql.gz 1 -
+/data_6.zip 1 -
+/my_nuscma/assets/styles/vendors/bootstrap.min.css.map 1 -
+/my_nuscma/assets/styles/style-dark.css.map 1 -
+/js/appear.min.js 18 -
+/v8.gz 1 -
+/nulinz.com/nulinzManag/employee 10 -
+/bcsjobs.com/assets/js/vendor/bootstrap.bundle.min.js.map 3 -
+/admins/students/viewStudents.php 2 -
+/js/magnific-popup.min.js 18 -
+/archive.tar.gz 1 -
+/data8.sql.zip 1 -
+/shop.zip 1 -
+/database.zip 1 -
+/repo.sql.gz 1 -
+/sqldump.sql.zip 1 -
+/wp-content2023.zip 1 -
+/public_html.sql.gz 1 -
+/postgres.zip 1 -
+/sql_data.tar.gz 1 -
+/mynuscma 4 -
+/library.sql.gz 1 -
+/configuration.sql.zip 1 -
+/root.rar 1 -
+/db_schema.tar.gz 1 -
+/data10.zip 1 -
+/wp-content/updates.php 2 www.google.com
+/repositories.sql.zip 1 -
+/backend.zip 1 -
+/___proxy_subdomain_cpanel/ 20 -
+/assets/img/user/user2.jpg 14 https://nuscma.com/about.php
+/back.tar 1 -
+/todo.tar.gz 1 -
+/___proxy_subdomain_cpcalendars/ 14 -
+/js/ajaxchimp.min.js 18 -
+/users.gz 1 -
+/2023.sql.zip 1 -
+/data_3.tar.gz 1 -
+/mysql.sql.zip 1 -
+/installation.gz 1 -
+/sql.gz 1 -
+/.well-known/assetlinks.json 27 -
+/blog.sql.zip 1 -
+/tasks.gz 1 -
+/panel.zip 1 -
+/localhost.sql.gz 1 -
+/server.zip 1 -
+/web.rar 1 -
+/data_3.rar 1 -
+/test.tar.gz 1 -
+/v6.rar 1 -
+/.git/config 11 -
+/webpanel.zip 1 -
+/v6.tar.gz 1 -
+/my_nuscma/assets/styles/style.css.map 1 -
+/www.sql.gz 1 -
+/index.php 8 -
+/file.sql.zip 1 -
+/.well-known/apple-app-site-association 16 -
+/wordpress.zip 1 -
+/sqlserver.zip 1 -
+/page.tar.gz 1 -
+/db_schema.rar 1 -
+/data3.sql.zip 1 -
+/wwww.gz 1 -
+/core.sql.gz 1 -
+/data_9.rar 1 -
+/backend.gz 1 -
+/log.gz 1 -
+/html.sql.zip 1 -
+/home.tar.gz 1 -
+/site.sql.gz 1 -
+/auth.zip 1 -
+/v6.zip 1 -
+/data_9.tar.gz 1 -
+/prod.rar 1 -
+/2021.gz 1 -
+/nulinz.com/school/ 8 -
+/8.zip 1 -
+/dbtest1.tar.gz 1 -
+/software/admin/studentProfile1php 2 -
+/___proxy_subdomain_webmail/robots.txt 4 -
+/data_2.gz 1 -
+/2023_dump.sql.gz 1 -
+/data_1.tar.gz 1 -
+/todo.rar 1 -
+/backup2023.zip 1 -
+/core.zip 1 -
+/dev.sql.zip 1 -
+/back.sql.zip 1 -
+/auth.sql.gz 1 -
+/site.zip 1 -
+/data_1.rar 1 -
+/model.gz 1 -
+/web.zip 1 -
+/data8.tar.gz 1 -
+/individual_school_parent_modules/ssv_school_mechari/policy/pp.php 146 -
+/wp-content2023.sql.zip 1 -
+/test.rar 1 -
+/db_schema.sql.zip 1 -
+/insert_data.gz 1 -
+/data_5.gz 1 -
+/home.rar 1 -
+/install.gz 1 -
+/page.rar 1 -
+/v4.tar.gz 1 -
+/v4.rar 1 -
+/s/2383e2235323e20313e2631323/_/ 2 -
+/new2023.sql.gz 1 -
+/release.sql.gz 1 -
+/user.sql.zip 1 -
+/content.tar.gz 1 -
+/public_html.rar 1 -
+/index.sql.gz 1 -
+/mysql.tar.gz 1 -
+/cms.tar.gz 1 -
+/public.gz 1 -
+/wp-upload.gz 1 -
+/js/bootstrap.bundle.min.js 18 -
+/website.tar.gz 1 -
+/installation.zip 1 -
+/app.gz 1 -
+/repositories.tar.gz 1 -
+/dev.sql.gz 1 -
+/public_html.zip 1 -
+/common.gz 1 -
+/dbconnect.gz 1 -
+/config.sql.zip 1 -
+/v8.sql.zip 1 -
+/data0.rar 1 -
+/db_mysql.zip 1 -
+/staff.gz 1 -
+/backup.zip 2 -
+/software/admin/ha.php 2 -
+/data3.tar.gz 1 -
+/root.tar.gz 1 -
+/shop.sql.gz 1 -
+/patch.gz 1 -
+/repo.zip 1 -
+/dbtest2.sql.zip 1 -
+/franchise.php 2 -
+/install.zip 1 -
+/v10.gz 1 -
+/webdisk.rar 1 -
+/cache.rar 1 -
+/data5.sql.gz 1 -
+/mysqldump.tar.gz 1 -
+/mssql.gz 1 -
+/uninstall.sql.zip 1 -
+/store.gz 1 -
+/global.zip 1 -
+/testa.rar 1 -
+/software/teacher/policy/homework.php 4 -
+/default.rar 1 -
+/data7.gz 1 -
+/assets/icons/newicons/Nuscma-tab-icon.svg 8 -
+/bin.sql.gz 1 -
+/lib.sql.zip 1 -
+/___proxy_subdomain_cpcontacts/robots.txt 6 -
+/install.sql.zip 1 -
+/css 80 https://nuscma.com/bcsjobs.com/assets/css/style.css
+/dbtest2.zip 1 -
+/2022.gz 1 -
+/data_4.zip 1 -
+/data_8.gz 1 -
+/v9.sql.gz 1 -
+/inculdes.sql.gz 1 -
+/library.tar.gz 1 -
+/backup2023.sql.gz 1 -
+/v2/_catalog 2 -
+/v2.tar.gz 1 -
+/v2.rar 1 -
+/data2.rar 1 -
+/10.gz 1 -
+/panel.tar.gz 1 -
+/login.sql.gz 1 -
+/data_7.rar 1 -
+/test1.gz 1 -
+/update.tar.gz 1 -
+/mysqldump.rar 1 -
+/v7.tar.gz 1 -
+/v7.rar 1 -
+/8.sql.gz 1 -
+/wp-admin.sql.gz 1 -
+/data_7.tar.gz 1 -
+/update.rar 1 -
+/bala.php 2 www.google.com
+/sqlserver.sql.gz 1 -
+/v0.gz 1 -
+/wordpress.sql.gz 1 -
+/3.sql.zip 1 -
+/client.zip 1 -
+/.ftpconfig 2 -
+/aeromodellingBasic.php 72 -
+/software/teacher/policy/document.php 4 -
+/repositories.sql.gz 1 -
+/assets/img/user/user1.jpg 14 https://nuscma.com/about.php
+/v7.zip 1 -
+/test2.gz 1 -
+/data/nextcloud.log 2 -
+/data1.rar 1 -
+/wp-admin/xl2023.php 1 www.google.com
+/v2.zip 1 -
+/temp.zip 1 -
+/sqlite.zip 1 -
+/setup.rar 1 -
+/localhost.zip 1 -
+/sql_data.rar 1 -
+/dbtest2.gz 1 -
+/demo.gz 1 -
+/data4.rar 1 -
+/___proxy_subdomain_cpcalendars/robots.txt 4 -
+/1.rar 1 -
+/bin.sql.zip 1 -
+/import.zip 1 -
+/data.sql.zip 1 -
+/dump.rar 1 -
+/views.gz 1 -
+/lib.sql.gz 1 -
+/export.zip 1 -
+/init.zip 1 -
+/v5.tar.gz 1 -
+/insert.rar 1 -
+/data6.sql.gz 1 -
+/data9.rar 1 -
+/v5.rar 1 -
+/debug.gz 1 -
+/admin.gz 1 -
+/new.sql.zip 1 -
+/data_0.tar.gz 1 -
+/v3.gz 1 -
+/data8.zip 1 -
+/v0.sql.zip 1 -
+/temp.sql.gz 1 -
+/1.tar.gz 1 -
+/data_0.rar 1 -
+/bcsjobs.com/manifest.json 42 https://nuscma.com/bcsjobs.com/page-register.html
+/10.sql.zip 1 -
+/sqldump.gz 1 -
+/cart.sql.zip 1 -
+/insert.tar.gz 1 -
+/testb.gz 1 -
+/init.sql.gz 1 -
+/dbtest1.sql.gz 1 -
+/inculdes.sql.zip 1 -
+/release.tar.gz 1 -
+/table.sql.gz 1 -
+/v5.zip 1 -
+/new2023.tar.gz 1 -
+/7.sql.gz 1 -
+/configuration.zip 1 -
+/data/owncloud.log 2 -
+/8.gz 1 -
+/base.sql.zip 1 -
+/mysqldump.sql.zip 1 -
+/2023_dump.zip 1 -
+/access.zip 1 -
+/application.tar.gz 1 -
+/dump.tar.gz 2 -
+/uninstall.tar.gz 1 -
+/parentsLogin.php 4 -
+/sqldump.zip 1 -
+/telescope/requests 2 -
+/wp-admin.sql.zip 1 -
+/website.sql.gz 1 -
+/panel.sql.zip 1 -
+/new.sql.gz 1 -
+/oracle.gz 1 -
+/mysql.zip 1 -
+/new2022.rar 1 -
+/content.sql.gz 1 -
+/backend.sql.zip 1 -
+/scheduling.tar.gz 1 -
+/css2 2212 https://nuscma.com/assets/css/style.css
+/backup2023.rar 1 -
+/___proxy_subdomain_webmail/TP/public/index.php 1 -
+/upgrade.rar 1 -
+/uninstall.rar 1 -
+/testdata.gz 1 -
+/scheduling.sql.zip 1 -
+/js/jquery.min.js 18 -
+/data3.zip 1 -
+/software/teacher/service-worker.js 1629 https://nuscma.com/software/teacher/service-worker.js
+/base.sql.gz 1 -
+/localhost.rar 1 -
+/data3.gz 1 -
+/staff.tar.gz 1 -
+/dbtest1.rar 1 -
+/login.rar 1 -
+/data2.sql.gz 1 -
+/patch.tar.gz 1 -
+/data_2.zip 1 -
+/wp-admin.tar.gz 1 -
+/___proxy_subdomain_webdisk/robots.txt 7 -
+/clients.zip 1 -
+/production.zip 1 -
+/mysql.gz 1 -
+/6.zip 1 -
+/users.sql.zip 1 -
+/init.sql.zip 1 -
+/assets/img/screenshots/landing-banner.png 5 https://nuscma.com/about.php
+/update.sql.zip 1 -
+/mysqldump.zip 1 -
+/administration.sql.gz 1 -
+/bcsjobs.com/assets/js/plugins/perfect-scrollbar.min.js.map 3 -
+/2023_dump.sql.zip 1 -
+/data4.sql.gz 1 -
+/data.zip 1 -
+/cart.sql.gz 1 -
+/data_7.sql.zip 1 -
+/wp-admin2023.sql.zip 1 -
+/data_5.zip 1 -
+/database_mysql.rar 1 -
+/data_10.gz 1 -
+/setup.sql.gz 1 -
+/db_schema.sql.gz 1 -
+/temp.sql.zip 1 -
+/tasks.sql.zip 1 -
+/data1.sql.gz 1 -
+/home.gz 1 -
+/testa.sql.gz 1 -
+/clients.gz 1 -
+/.vscode/sftp.json 1 -
+/bcsjobs.com/index.html 2 https://nuscma.com/bcsjobs.com/index.php
+/v8.sql.gz 1 -
+/wwww.tar.gz 1 -
+/wp-content.rar 1 -
+/wp-content2023.tar.gz 1 -
+/new.gz 1 -
+/___proxy_subdomain_cpcontacts/cgi-sys/404.html 1 -
+/localhost.tar.gz 1 -
+/page.gz 1 -
+/testdata.zip 1 -
+/content.rar 1 -
+/new2022.sql.gz 1 -
+/schema.zip 1 -
+/common.zip 1 -
+/2021.tar.gz 1 -
+/data5.rar 1 -
+/3.gz 1 -
+/cache.sql.gz 1 -
+/wp-content/themes/seotheme/mar.php 2 -
+/7.sql.zip 1 -
+/website.rar 1 -
+/public.zip 1 -
+/upgrade.sql.gz 1 -
+/data_0.sql.gz 1 -
+/testb.zip 1 -
+/application.gz 1 -
+/data_10.zip 1 -
+/todo.gz 1 -
+/insert.sql.gz 1 -
+/webdisk.tar.gz 1 -
+/inculdes.tar.gz 1 -
+/test.gz 1 -
+/backup.gz 1 -
+/data8.gz 1 -
+/admin.zip 1 -
+/debug.zip 1 -
+/wwww.rar 1 -
+/default.sql.gz 1 -
+/staff.sql.zip 1 -
+/v1.rar 1 -
+/structure.gz 1 -
+/v1.tar.gz 1 -
+/views.zip 1 -
+/test2.zip 1 -
+/uninstall.zip 1 -
+/2023_dump.tar.gz 1 -
+/production.gz 1 -
+/2021.rar 1 -
+/patch.sql.zip 1 -
+/prod.gz 1 -
+/archive.rar 1 -
+/data_6.gz 1 -
+/update.sql.gz 1 -
+/8.sql.zip 1 -
+/new2021.gz 1 -
+/blog/2022/05/23/hello-world/ 2 -
+/3.sql.gz 1 -
+/administration.gz 1 -
+/users.tar.gz 1 -
+/configuration.tar.gz 1 -
+/v1.zip 1 -
+/js/form-validator.min.js 17 -
+/bin.gz 1 -
+/data_7.sql.gz 1 -
+/test1.zip 1 -
+/data10.gz 1 -
+/root.gz 1 -
+/server.gz 1 -
+/public_html.sql.zip 1 -
+/wp-admin2023.tar.gz 1 -
+/data.sql.gz 1 -
+/2022_dump.gz 1 -
+/2023_dump.rar 1 -
+/data9.sql.gz 1 -
+/data6.rar 1 -
+/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/iedit.cfc 3 -
+/wp-content.sql.gz 1 -
+/base.zip 1 -
+/lib.gz 1 -
+/nira/demo/teacher/teacher_login.php 2 -
+/store.zip 1 -
+/data_0.sql.zip 1 -
+/data7.zip 1 -
+/assets/icons/newicons/Nuscma%20logo.svg 1 -
+/localhost.sql.zip 1 -
+/table.rar 1 -
+/insert.sql.zip 1 -
+/model.sql.zip 1 -
+/mssql.zip 1 -
+/new2021.zip 1 -
+/10.sql.gz 1 -
+/___proxy_subdomain_cpanel/TP/public/index.php 1 -
+/502.shtml 4 -
+/db_schema.zip 1 -
+/wordpress.rar 1 -
+/sqlserver.rar 1 -
+/patch.zip 1 -
+/sql_server.sql.zip 1 -
+/configuration.gz 1 -
+/test2.sql.zip 1 -
+/user.sql.gz 1 -
+/file.zip 1 -
+/6.gz 1 -
+/app.sql.zip 1 -
+/views.sql.zip 1 -
+/wp.rar 1 -
+/data_9.sql.zip 1 -
+/wp.tar.gz 1 -
+/mysqldump.sql.gz 1 -
+/web.tar.gz 1 -
+/sql_server.tar.gz 1 -
+/blog.zip 1 -
+/v0.sql.gz 1 -
+/staff.zip 1 -
+/2022.tar.gz 1 -
+/2023.zip 1 -
+/backup2022.sql.zip 1 -
+/5.tar.gz 1 -
+/auth.sql.zip 1 -
+/test1.sql.zip 1 -
+/access.gz 1 -
+/new2023.rar 1 -
+/inculdes.rar 1 -
+/release.rar 1 -
+/new2021.sql.zip 1 -
+/wp-content.zip 1 -
+/data_3.sql.zip 1 -
+/___proxy_subdomain_cpanel/sitemap.xml 1 -
+/back.sql.gz 1 -
+/html.zip 1 -
+/___proxy_subdomain_webmail/index.php 2 -
+/v10.sql.zip 1 -
+/wp.zip 1 -
+/backup2022.tar.gz 1 -
+/js/swiper-bundle.min.js 17 -
+/shop.sql.zip 1 -
+/db.zip 1 -
+/wordpress.tar.gz 1 -
+/sqlserver.tar.gz 1 -
+/oracle.zip 1 -
+/insert_data.tar.gz 1 -
+/wp-admin.rar 1 -
+/cms.zip 1 -
+/app.sql.gz 1 -
+/assets/img/user/user4.jpg 14 https://nuscma.com/about.php
+/dev.gz 1 -
+/new2022.tar.gz 1 -
+/staff 2 -
+/db_mysql.gz 1 -
+/demo.tar.gz 1 -
+/science-fest.php 28 -
+/4.tar.gz 1 -
+/model.zip 1 -
+/data_1.sql.gz 1 -
+/___proxy_subdomain_cpcontacts/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/iedit.cfc 1 -
+/v10.sql.gz 1 -
+/mssql.sql.zip 1 -
+/sql_data.sql.gz 1 -
+/database_mysql.sql.gz 1 -
+/wp-content/plugins/woocommerce/assets/images/icons/loader.svg 2 -
+/db.tar.gz 1 -
+/admin.tar.gz 1 -
+/debug.tar.gz 1 -
+/0.rar 1 -
+/db.rar 1 -
+/webdisk.sql.gz 1 -
+/administration.rar 1 -
+/data7.sql.zip 1 -
+/3.zip 1 -
+/testb.tar.gz 1 -
+/store.sql.zip 1 -
+/v9.gz 1 -
+/upgrade.tar.gz 1 -
+/wp-admin2023.sql.gz 1 -
+/production.rar 1 -
+/test2.tar.gz 1 -
+/global.gz 1 -
+/cms.rar 1 -
+/_all_dbs 2 -
+/assets/images/aeroplane.png 6 https://images.search.yahoo.com/search/images
+/sql.sql.zip 1 -
+/demo.rar 1 -
+/index.rar 1 -
+/default.tar.gz 1 -
+/0.tar.gz 1 -
+/dump.gz 2 -
+/views.tar.gz 1 -
+/2021_dump.gz 1 -
+/data_9.sql.gz 1 -
+/staffLogin.php 60 -
+/repo.sql.zip 1 -
+/wp-content.gz 1 -
+/database.gz 1 -
+/config.rar 1 -
+/panel.gz 1 -
+/data_3.sql.gz 1 -
+/tasks.zip 1 -
+/uninstall.sql.gz 1 -
+/docs/_sidebar.md 2 -
+/v9.sql.zip 1 -
+/test1.tar.gz 1 -
+/data_8.zip 1 -
+/log.sql.zip 1 -
+/postgres.gz 1 -
+/data_4.gz 1 -
+/library.rar 1 -
+/data0.sql.gz 1 -
+/data_10.sql.zip 1 -
+/___proxy_subdomain_cpcalendars/cgi-sys/404.html 1 -
+/config.tar.gz 1 -
+/___proxy_subdomain_webdisk/index.php 2 -
+/users.zip 1 -
+/site.sql.zip 1 -
+/www.gz 1 -
+/client.gz 1 -
+/backup2021.sql.zip 1 -
+/clients.sql.zip 1 -
+/nulinz.com/nulinzManag/branchs 8 -
+/production.sql.gz 1 -
+/about-us.php 18 -
+/backup2021.tar.gz 1 -
+/2022.rar 1 -
+/5.rar 1 -
+/sql.sql.gz 1 -
+/core.sql.zip 1 -
+/html.sql.gz 1 -
+/back.zip 2 -
+/admin.sql.zip 1 -
+/debug.sql.zip 1 -
+/export.gz 1 -
+/database_mysql.gz 1 -
+/data_1.sql.zip 1 -
+/user.zip 1 -
+/file.sql.gz 1 -
+/import.gz 1 -
+/webpanel.gz 1 -
+/mssql.tar.gz 1 -
+/configuration.rar 1 -
+/2.sql.zip 1 -
+/installation.rar 1 -
+/software/teacher/policy/subject.php 4 -
+/testb.sql.zip 1 -
+/store.tar.gz 1 -
+/log.sql.gz 1 -
+/sqlite.gz 1 -
+/___proxy_subdomain_webdisk/cgi-sys/404.html 1 -
+/data7.tar.gz 1 -
+/sql_data.sql.zip 1 -
+/blog.sql.gz 1 -
+/2023.sql.gz 1 -
+/sqlserver.sql.zip 1 -
+/wordpress.sql.zip 1 -
+/new2023.sql.zip 1 -
+/___proxy_subdomain_cpcontacts/TP/public/index.php 1 -
+/structure.sql.gz 1 -
+/dbconnect.rar 1 -
+/nextcloud/data/nextcloud.log 1 -
+/sql_server.sql.gz 1 -
+/data0.sql.zip 1 -
+/new2021.rar 1 -
+/release.sql.zip 1 -
+/data4.zip 1 -
+/___proxy_subdomain_cpanel/robots.txt 6 -
+/access.sql.zip 1 -
+/data_4.sql.gz 1 -
+/wp-upload.rar 1 -
+/setup.zip 1 -
+/v0.zip 1 -
+/___proxy_subdomain_webdisk/TP/public/index.php 1 -
+/data_3.gz 1 -
+/data1.zip 1 -
+/data_9.gz 1 -
+/v7.gz 1 -
+/2021_dump.zip 1 -
+/wp-admin2023.zip 1 -
+/lib.rar 1 -
+/insert_data.zip 1 -
+/repo.tar.gz 1 -
+/v2.gz 1 -
+/backup2022.sql.gz 1 -
+/___proxy_subdomain_cpcontacts/index.php 2 -
+/10.tar.gz 1 -
+/v0.rar 1 -
+/5.sql.zip 1 -
+/data2.zip 1 -
+/v0.tar.gz 1 -
+/js/contact-form-script.js 5 -
+/.git/index 2 -
+/archive.gz 1 -
+/root.zip 1 -
+/v5.sql.zip 1 -
+/cart.gz 1 -
+/insert_data.rar 1 -
+/global.sql.gz 1 -
+/db.sql.gz 1 -
+/sqlite.sql.gz 1 -
+/dbconnect.tar.gz 1 -
+/testb.sql.gz 1 -
+/site.tar.gz 1 -
+/backend.tar.gz 1 -
+/4.sql.zip 1 -
+/dbtest2.sql.gz 1 -
+/2022_dump.sql.gz 1 -
+/export.sql.gz 1 -
+/core.tar.gz 1 -
+/wp-upload.tar.gz 1 -
+/home.sql.gz 1 -
+/data6.gz 1 -
+/import.sql.gz 1 -
+/page.sql.gz 1 -
+/admin.sql.gz 1 -
+/debug.sql.gz 1 -
+/database_mysql.sql.zip 1 -
+/public_html.gz 1 -
+/testa.zip 1 -
+/auth.rar 1 -
+/prod.zip 1 -
+/backup2021.rar 1 -
+/test.sql.gz 1 -
+/archive.zip 1 -
+/table.gz 1 -
+/client.sql.gz 1 -
+/tos 2 -
+/cache.zip 1 -
+/todo.sql.gz 1 -
+/bin.rar 1 -
+/___proxy_subdomain_cpanel/index.php 2 -
+/install.tar.gz 1 -
+/public.rar 1 -
+/site.rar 1 -
+/data0.tar.gz 1 -
+/backup2022.rar 1 -
+/new.rar 1 -
+/0.sql.zip 1 -
+/nulinz.com/interns/login.php 8 -
+/common.tar.gz 1 -
+/prod.sql.gz 1 -
+/schema.tar.gz 1 -
+/test.zip 1 -
+/common.rar 1 -
+/login.gz 1 -
+/schema.rar 1 -
+/testdata.tar.gz 1 -
+/2022.sql.zip 1 -
+/library.sql.zip 1 -
+/public.tar.gz 1 -
+/todo.zip 1 -
+/data_10.rar 1 -
+/core.rar 1 -
+/data_4.sql.zip 1 -
+/access.sql.gz 1 -
+/sql_server.rar 1 -
+/mysql.rar 1 -
+/sqldump.sql.gz 1 -
+/dbtest1.gz 1 -
+/inculdes.zip 1 -
+/views.sql.gz 1 -
+/auth.tar.gz 1 -
+/website.zip 1 -
+/test2.sql.gz 1 -
+/global.sql.zip 1 -
+/bcsjobs.com/assets/css/vendors/bootstrap.min.css.map 3 -
+/home.zip 1 -
+/db_schema.gz 1 -
+/1.zip 1 -
+/ 94 -
+/page.zip 1 -
+/bin.zip 1 -
+/wp-admin2023.gz 1 -
+/content.zip 1 -
+/production.tar.gz 1 -
+/backup2021.sql.gz 1 -
+/store.sql.gz 1 -
+/application.sql.zip 1 -
+/wp-admin.zip 1 -
+/software/teacher/element-hero-blocks.html 58 https://nuscma.com/software/teacher/index.php
+/sqlite.sql.zip 1 -
+/shop.tar.gz 1 -
+/data7.sql.gz 1 -
+/v3.zip 1 -
+/data_2.rar 1 -
+/data_2.tar.gz 1 -
+/app-ads.txt 246 https://www.google.com/
+/data5.gz 1 -
+/demo.sql.zip 1 -
+/root.sql.gz 1 -
+/export.sql.zip 1 -
+/data.gz 1 -
+/data_1.gz 1 -
+/production.sql.zip 1 -
+/mssql.sql.gz 1 -
+/import.sql.zip 1 -
+/2.tar.gz 1 -
+/v3.rar 1 -
+/v3.tar.gz 1 -
+/lib.zip 1 -
+/repo.rar 1 -
+/database_mysql.zip 1 -
+/insert_data.sql.gz 1 -
+/admins/index.php 12 -
+/content.gz 1 -
+/app/new/subsribe.php 2 -
+/v5.gz 1 -
+/data_5.rar 1 -
+/clients.rar 1 -
+/wp-upload.sql.zip 1 -
+/js/owl.carousel.min.js 18 -
+/data9.zip 1 -
+/v7.sql.zip 1 -
+/website.gz 1 -
+/client.sql.zip 1 -
+/data8.rar 1 -
+/dbconnect.sql.zip 1 -
+/dbtest1.zip 1 -
+/v2.sql.zip 1 -
+/data_7.gz 1 -
+/nil 4 -
+/data10.sql.gz 1 -
+/___proxy_subdomain_webmail/ 15 -
+/www.rar 1 -
+/app/new/index 2 -
+/setup.tar.gz 1 -
+/backup2021.zip 1 -
+/data1.tar.gz 1 -
+/web.sql.gz 1 -
+/v4.sql.zip 1 -
+/database.sql.zip 1 -
+/dist/apexcharts.js 13 https://www.nuscma.com/software/admin/teacherProfile.php
+/index.gz 1 -
+/software/teacher/policy/examination.php 4 -
+/library.gz 1 -
+/repositories.rar 1 -
+/update.gz 1 -
+/data4.tar.gz 1 -
+/user.gz 1 -
+/Terms&Policy.php 2 -
+/postgres.sql.zip 1 -
+/panel.rar 1 -
+/data2.tar.gz 1 -
+/administration.sql.zip 1 -
+/data_6.sql.gz 1 -
+/patch.sql.gz 1 -
+/uninstall.gz 1 -
+/dbtest1.sql.zip 1 -
+/back.gz 1 -
+/v6.gz 1 -
+/staff.sql.gz 1 -
+/structure.zip 1 -
+/8.rar 1 -
+/model.sql.gz 1 -
+/library.zip 1 -
+/assets/img/user/user3.jpg 14 https://nuscma.com/about.php
+/sql_data.gz 1 -
+/sql_server.gz 1 -
+/cms.gz 1 -
+/backup.sql.zip 1 -
+/v8.zip 1 -
+/dbtest2.tar.gz 1 -
+/backend.sql.gz 1 -
+/web.sql.zip 1 -
+/app.tar.gz 1 -
+/cache.tar.gz 1 -
+/v8.rar 1 -
+/v8.tar.gz 1 -
+/feather-icons@4.29.0 4 -
+/content.sql.zip 1 -
+/2022_dump.zip 1 -
+/backup2022.gz 1 -
+/dump.zip 1 -
+/init.rar 1 -
+/data9.sql.zip 1 -
+/testa.tar.gz 1 -
+/data_8.rar 1 -
+/v10.tar.gz 1 -
+/website.sql.zip 1 -
+/___proxy_subdomain_cpcontacts/ 17 https://www.google.com/'+print(9347655345-4954366)+'
+/admins/ 8 -
+/server.sql.gz 1 -
+/.well-known/traffic-advice 8 -
+/bcsjobs.com/assets/css/style.css.map 3 -
+/temp.rar 1 -
+/config.zip 1 -
+/db_mysql.sql.gz 1 -
+/oracle.tar.gz 1 -
+/postgres.sql.gz 1 -
+/setup.sql.zip 1 -
+/release.gz 1 -
+/data1.sql.zip 1 -
+/tasks.sql.gz 1 -
+/backup2021.gz 1 -
+/dev.rar 1 -
+/database.sql.gz 1 -
+/new2023.gz 1 -
+/dump.sql.gz 1 -
+/data10.sql.zip 1 -
+/robots.txt 361 -
+/data4.sql.zip 1 -
+/1.gz 1 -
+/mysqldump.gz 1 -
+/data0.zip 1 -
+/oracle.rar 1 -
+/js/meanmenu.min.js 16 -
+/install.sql.gz 1 -
+/users.sql.gz 1 -
+/administration.zip 1 -
+/v1.sql.gz 1 -
+/data2.sql.zip 1 -
+/data_6.sql.zip 1 -
+/temp.tar.gz 1 -
+/8.tar.gz 1 -
+/archive.sql.zip 1 -
+/software/assets/icons/newicons/Nuscma-tab-icon.sv%20g 8 https://nuscma.com/software/admin/PurchaseOrderItem.php
+/sqldump.tar.gz 1 -
+/v4.gz 1 -
+/backup.sql.gz 1 -
+/sql_server.zip 1 -
+/sql.tar.gz 1 -
+/testdata.rar 1 -
+/webpanel.sql.gz 1 -
+/wwww.sql.zip 1 -
+/www.zip 1 -
+/about 2 -
+/insert.gz 1 -
+/software/teacher/policy/logout.php 4 -
+/bcsjobs.com/assets/js/plugins/swiper-bundle.min.js.map 3 -
+/html.gz 1 -
+/owncloud/data/owncloud.log 2 -
+/new2023.zip 1 -
+/static/admin/javascript/hetong.js 10 -
+/unprotected/loader.html 40 http://nuscma.com/
+/data_0.gz 1 -
+/release.zip 1 -
+/2021.sql.zip 1 -
+/log.tar.gz 1 -
+/db_mysql.sql.zip 1 -
+/v6.sql.zip 1 -
+/app/new/manifest.json 36 https://nuscma.com/app/new/profile.php
+/backup2022.zip 1 -
+/data9.tar.gz 1 -
+/2023.gz 1 -
+/blog.gz 1 -
+/cache.sql.zip 1 -
+/wp-content.sql.zip 1 -
+/server.sql.zip 1 -
+/wp-content.tar.gz 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 2 -
+/testa.sql.zip 1 -
+/file.gz 1 -
+/repo.gz 1 -
+/db.gz 1 -
+/2023_dump.gz 1 -
+/data_8.sql.zip 1 -
+/install.rar 1 -
+/2022_dump.rar 1 -
+/webdisk.zip 1 -
+/app.rar 1 -
+/application.sql.gz 1 -
+/v9.tar.gz 1 -
+/model.rar 1 -
+/5.zip 1 -
+/cart.tar.gz 1 -
+/v9.rar 1 -
+/structure.tar.gz 1 -
+/table.sql.zip 1 -
+/software/admin/studet_profilemay22.php 2 -
+/backup.tar.gz 2 -
+/debug/default/view 2 -
+/default.sql.zip 1 -
+/backup.rar 1 -
+/insert_data.sql.zip 1 -
+/data5.tar.gz 1 -
+/db_mysql.tar.gz 1 -
+/dump.sql.zip 1 -
+/installation.tar.gz 1 -
+/repositories.zip 1 -
+/data6.sql.zip 1 -
+/v10.rar 1 -
+/base.tar.gz 1 -
+/data.rar 1 -
+/v9.zip 1 -
+/www.tar.gz 1 -
+/wp-upload.sql.gz 1 -
+/3.tar.gz 1 -
+/backup2023.sql.zip 1 -
+/sql.zip 1 -
+/2022_dump.tar.gz 1 -
+/data_1.zip 1 -
+/software/teacher/policy/service-worker.js 2 https://nuscma.com/software/teacher/policy/pp.php
+/___proxy_subdomain_cpanel/unprotected/loader.html 40 http://nuscma.com/
+/backup2023.tar.gz 1 -
+/webdisk.gz 1 -
+/TP/public/index.php 6 -
+/structure.rar 1 -
+/dbconnect.sql.gz 1 -
+/scheduling.rar 1 -
+/wp-admin/css/colors/coffee/index.php 1 -
+/data0.gz 1 -
+/clients.tar.gz 1 -
+/v7.sql.gz 1 -
+/site.gz 1 -
+/oracle.sql.gz 1 -
+/staff.rar 1 -
+/2021.sql.gz 1 -
+/v2.sql.gz 1 -
+/4.zip 1 -
+/log.zip 1 -
+/wwww.sql.gz 1 -
+/patch.rar 1 -
+/panel.sql.gz 1 -
+/login.tar.gz 1 -
+/core.gz 1 -
+/wp.gz 1 -
+/data_8.sql.gz 1 -
+/new2021.tar.gz 1 -
+/webpanel.tar.gz 1 -
+/auth.gz 1 -
+/cms.sql.zip 1 -
+/server.rar 1 -
+/data_3.zip 1 -
+/2021.zip 1 -
+/sql.rar 1 -
+/js/aos.js 18 -
+/wwww.zip 1 -
+/server.tar.gz 1 -
+/bcsjobs.com/dashboard/manifest.json 2 https://nuscma.com/bcsjobs.com/dashboard/candidates.html
+/web.gz 1 -
+/wp-includes/xl2023.php 2 www.google.com
+/table.tar.gz 1 -
+/configuration.sql.gz 1 -
+/structure.sql.zip 1 -
+/repositories.gz 1 -
+/index 2 -
+/log.rar 1 -
+/v5.sql.gz 1 -
+/wp.sql.zip 1 -
+/data_9.zip 1 -
+/data6.tar.gz 1 -
+/database_mysql.tar.gz 1 -
+/requestReset.php 2 -
+/3.rar 1 -
+/data5.sql.zip 1 -
+/packages.php 8 -
+/dev.tar.gz 1 -
+/postgres.tar.gz 1 -
+/installation.sql.zip 1 -
+/backend.rar 1 -
+/users.rar 1 -
+/wp-content2023.rar 1 -
+/database.tar.gz 1 -
+/data_6.tar.gz 1 -
+/application.rar 1 -
+/app.zip 1 -
+/cms.sql.gz 1 -
+/tasks.rar 1 -
+/localhost.gz 1 -
+/db.sql.zip 1 -
+/upgrade.sql.zip 1 -
+/data_6.rar 1 -
+/application.zip 1 -
+/cart.rar 1 -
+/course-playlist.html 2 -
+/oracle.sql.zip 1 -
+/index.zip 1 -
+/shop.gz 1 -
+/xleet-shell.php 2 www.google.com
+/js/odometer.min.js 18 -
+/data10.tar.gz 1 -
+/2022_dump.sql.zip 1 -
+/scheduling.sql.gz 1 -
+/data10.rar 1 -
+/base.rar 1 -
+/data.tar.gz 1 -
+/ads.txt 2 -
+/new2022.sql.zip 1 -
+/login.sql.zip 1 -
+/v10.zip 1 -
+/data9.gz 1 -
+/upgrade.zip 1 -
+/2021_dump.tar.gz 1 -
+/back.tar.gz 1 -
+/wp-admin2023.rar 1 -
+/individual_school_parent_modules/ssv_school_belur/policy/pp.php 148 -
+/debug.rar 1 -
+/blog.rar 1 -
+/admin.rar 1 -
+/bcsjobs.com/relative 16 https://nuscma.com/bcsjobs.com/index.html
+/data_10.sql.gz 1 -
+/2023.rar 1 -
+/inculdes.gz 1 -
+/wp-content2023.gz 1 -
+/data_5.sql.gz 1 -
+/file.rar 1 -
+/software/teacher/policy/img/icons/Nuscma%20logo.svg 5 https://nuscma.com/software/teacher/policy/pp.php
+/testb.rar 1 -
+/Public/home/js/check.js 9 -
+/data5.zip 1 -
+/2022.sql.gz 1 -
+/html.rar 1 -
+/new2022.zip 1 -
+/user.tar.gz 1 -
+/sqldump.rar 1 -
+/bin.tar.gz 1 -
+/___proxy_subdomain_webdisk/ 25 -
+/5.gz 1 -
+/data_2.sql.gz 1 -
+/scheduling.zip 1 -
+/v1.sql.zip 1 -
+/prod.sql.zip 1 -
+/2021_dump.rar 1 -
+/testdata.sql.zip 1 -
+/data_0.zip 1 -
+/upgrade.gz 1 -
+/home2/nuscmy3y/public_html/software/admin/tcpdf/examples/images/ 210 -
+/insert.zip 1 -
+/demo.sql.gz 1 -
+/common.sql.gz 1 -
+/dbconnect.zip 1 -
+/root.sql.zip 1 -
+/schema.sql.gz 1 -
+/db_mysql.rar 1 -
+/lib.tar.gz 1 -
+/config.json 1 -
+/software/teacher/policy/profile.php 4 -
+/access.rar 1 -
+/___proxy_subdomain_cpcontacts/.git/config 1 -
+/public.sql.gz 1 -
+/wp-upload.zip 1 -
+/v6.sql.gz 1 -
+/access.tar.gz 1 -
+/new2022.gz 1 -
+/wp-admin.gz 1 -
+/index.sql.zip 1 -
+/0.sql.gz 1 -
+/clients.sql.gz 1 -
+/demo.zip 1 -
+/cache.gz 1 -
+/client.rar 1 -
+/0.gz 1 -
+/login.action 2 -
+/table.zip 1 -
+/sitemap.xml 5 -
+/v4.sql.gz 1 -
+/init.gz 1 -
+/mssql.rar 1 -
+/installation.sql.gz 1 -
+/update.zip 1 -
+/data_5.sql.zip 1 -
+/testa.gz 1 -
+/wp-content2023.sql.gz 1 -
+/postgres.rar 1 -
+/data_7.zip 1 -
+/temp.gz 1 -
+/client.tar.gz 1 -
+/database.rar 1 -
+/new2021.sql.gz 1 -
+/data7.rar 1 -
+/export.rar 1 -
+/data6.zip 1 -
+/import.rar 1 -
+/sqlite.tar.gz 1 -
+/data8.sql.gz 1 -
+/sqlite.rar 1 -
+/apple-app-site-association 16 -
+/data_2.sql.zip 1 -
+/scheduling.gz 1 -
+/2021_dump.sql.zip 1 -
+/export.tar.gz 1 -
+/4.sql.gz 1 -
+/public_html.tar.gz 1 -
+/default.gz 1 -
+/import.tar.gz 1 -
+/blog.tar.gz 1 -
+/5.sql.gz 1 -
+/data2.gz 1 -
+/js/main.js 18 -
+/new.tar.gz 1 -
+/2023.tar.gz 1 -
+/2022.zip 1 -
+/test1.rar 1 -
+/back.rar 1 -
+/todo.sql.zip 1 -
+/global.rar 1 -
+/file.tar.gz 1 -
+/webpanel.rar 1 -
+/testdata.sql.gz 1 -
+/global.tar.gz 1 -
+/webdisk.sql.zip 1 -
+/test.sql.zip 1 -
+/wordpress.gz 1 -
+/sqlserver.gz 1 -
+/dbtest2.rar 1 -
+/data3.sql.gz 1 -
+/home.sql.zip 1 -
+/6.rar 1 -
+/pp.php 14 -
+/html.tar.gz 1 -
+/default.zip 1 -
+/data_4.rar 1 -
+/test2.rar 1 -
+/common.sql.zip 1 -
+/data1.gz 1 -
+/schema.sql.zip 1 -
+/config.gz 1 -
+/setup.gz 1 -
+/page.sql.zip 1 -
+/v1.gz 1 -
+/administration.tar.gz 1 -
+/index.tar.gz 1 -
+/mysql.sql.gz 1 -
+/user.rar 1 -
+/.DS_Store 2 -
+/data4.gz 1 -
+/public.sql.zip 1 -
+/data_4.tar.gz 1 -
+/views.rar 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 701
+59.98.40.238 1381 1720 59048616 20230515135832
+117.253.179.245 1370 1479 49134854 20230522172442
+117.202.180.26 1335 1421 75436159 20230522174617
+117.253.89.144 1146 1243 40540103 20230525121555
+117.253.181.72 1114 1344 74302300 20230526111957
+117.253.89.36 1071 1080 64211919 20230527112038
+117.213.131.81 1071 1074 59982102 20230525112048
+117.206.138.92 1040 1045 62376074 20230528110130
+117.206.140.172 1026 1055 30654290 20230516141055
+117.253.188.249 1018 1270 48486943 20230530162536
+117.253.85.149 1017 1100 60555467 20230524112050
+117.253.177.64 950 1087 61085076 20230531174630
+117.251.28.80 908 959 30223566 20230524121048
+117.213.138.98 851 1046 38683480 20230517140856
+117.203.77.112 803 969 28212276 20230518160144
+117.253.92.73 782 1135 47121156 20230530111243
+117.203.74.68 710 712 39903862 20230531112217
+117.241.64.96 708 793 42650117 20230511105801
+117.253.80.119 667 955 31056737 20230530121705
+117.213.139.238 643 729 38873377 20230520110636
+117.203.75.24 636 744 15935992 20230505101723
+117.253.177.65 600 866 32179224 20230529171450
+117.253.83.71 598 601 34981778 20230515182931
+117.202.181.16 491 574 28658277 20230515104907
+117.203.78.84 466 680 15938303 20230529122759
+157.51.195.166 19 19 258815 20230526134041
+117.213.135.48 148 233 7971797 20230514150658
+42.104.130.40 11 35 12676 20230514114209
+157.51.193.149 25 25 121922 20230509153717
+49.44.83.4 3 73 3736094 20230523201937
+157.51.19.243 0 1 1198532 
+139.59.59.29 2 2 18042 20230512212132
+104.239.10.44 64 86 676516 20230507165905
+152.58.213.51 7 78 3780744 20230521204143
+157.51.197.86 53 54 246578 20230510145223
+106.195.33.27 3 3 3832 20230505131008
+110.224.83.40 2 2 2578 20230520110752
+117.253.182.173 277 360 18135096 20230501110325
+34.238.160.29 4 37 494462 20230517145403
+106.195.39.71 3 27 2506 20230522174815
+106.197.38.207 4 4 18018 20230509095521
+157.49.77.237 46 47 341318 20230504160519
+49.44.82.132 3 75 3813616 20230505113431
+157.46.115.207 2 2 10798 20230508095918
+136.185.140.209 62 144 4062011 20230508180900
+157.49.66.133 5 29 336194 20230504204910
+106.198.110.251 252 325 1412649 20230508164610
+35.90.189.12 2 2 20684 20230530200428
+59.93.15.58 227 233 7385010 20230517181000
+117.253.88.99 410 584 26446394 20230518110340
+117.202.178.140 102 203 7519262 20230502131057
+223.187.127.140 2 9 2578 20230514210409
+157.51.195.59 27 104 301824 20230527231855
+49.44.87.107 3 73 3736094 20230523124933
+110.224.83.165 25 63 859921 20230505130146
+152.58.225.104 29 57 106798 20230505130026
+106.197.93.54 10 47 24828 20230509103756
+124.237.181.143 0 1 2446 
+157.49.132.23 4 4 20334 20230505122240
+106.195.44.16 3 3 3832 20230506144817
+84.21.189.203 58 101 835328 20230524181016
+193.186.4.141 2 2 18042 20230510171545
+157.49.202.74 6 15 106877 20230526130622
+117.253.179.209 202 210 9723096 20230519110824
+157.51.18.250 6 30 6338 20230510162558
+157.51.146.63 74 74 879776 20230514211046
+195.154.56.158 2 2 18042 20230514034932
+157.46.121.193 4 5 131604 20230508094931
+223.187.126.199 10 12 522920 20230528192117
+195.216.237.72 37 76 913049 20230523163354
+162.243.186.177 2 2 88408 20230507165933
+157.51.127.75 2 2 10522 20230504161117
+51.255.62.3 2 2 88408 20230505110406
+101.68.211.2 2 4 104158 20230502061017
+42.104.129.67 5 5 6338 20230505200149
+157.51.164.76 24 24 67990 20230509101410
+209.141.41.43 12 12 108252 20230501121123
+49.44.87.133 2 49 1493822 20230524145544
+47.242.105.176 33 299 3741887 20230528055112
+157.51.193.233 6 6 23542 20230515114202
+117.203.79.108 116 117 5018850 20230510122252
+209.141.34.187 2 5 37202 20230522043531
+209.141.44.114 2 6 41609 20230522043533
+110.224.82.203 3 27 333688 20230506175337
+110.224.88.245 13 37 346364 20230505130354
+157.46.75.214 3 76 3965049 20230528195108
+117.253.190.137 92 177 2501341 20230505150641
+106.197.38.221 15 39 349016 20230508194445
+106.195.32.27 3 27 333688 20230505130954
+34.228.198.18 2 2 18094 20230517122432
+106.195.36.191 67 96 6020320 20230528090952
+157.49.68.29 189 268 3369911 20230509201117
+162.216.143.168 2 76 3911797 20230528152824
+157.51.160.87 22 82 1223954 20230530172146
+42.106.160.199 3 75 3738060 20230524151228
+83.145.36.70 1 1 0 20230528231335
+167.248.133.187 2 3 20576 20230521231559
+52.12.113.40 1 1 10342 20230528212456
+49.44.81.201 3 75 3738060 20230523125608
+35.243.2.27 3 22 519311 20230508101405
+45.115.98.4 3 73 3811650 20230515144920
+157.51.195.237 6 6 24158 20230528205136
+64.233.172.237 0 14 358486 
+54.214.212.69 2 2 20684 20230529202204
+34.76.114.110 2 2 7276 20230518032705
+59.98.40.97 98 269 13698785 20230531154418
+3.238.44.255 2 2 88640 20230524142619
+49.44.82.166 3 72 3733903 20230523200706
+42.104.142.74 9 33 341352 20230504172051
+157.49.153.132 3 27 2506 20230505194914
+117.203.72.22 99 101 2101791 20230520141910
+157.51.174.184 114 117 5627440 20230522185844
+117.202.181.168 92 217 5155351 20230511113606
+157.51.106.211 7 31 338700 20230505130017
+209.38.242.159 2 2 18042 20230512174513
+106.211.224.92 7 9 16725 20230522195029
+112.133.228.68 3 74 3737082 20230523124745
+59.93.15.103 72 74 2148641 20230510112419
+157.49.93.40 31 33 283805 20230510111006
+157.46.120.31 2 2 11066 20230508100122
+104.168.5.225 1 1 125268 20230515164647
+157.51.27.237 8 8 10170 20230504160102
+89.175.184.250 5 5 49156 20230527181041
+106.198.110.253 11 11 13856 20230509062840
+35.196.169.244 13 37 346364 20230504233718
+87.236.176.163 2 2 18042 20230503060201
+157.46.106.239 2 2 11002 20230508100043
+157.51.196.191 8 36 650684 20230501121450
+157.51.18.92 5 77 80960 20230512121109
+47.89.193.162 2 2 18130 20230525091930
+117.203.75.124 391 474 21868064 20230502162839
+153.20.91.85 26 74 1462214 20230502112038
+136.185.179.169 3 78 3967015 20230528152738
+193.186.4.142 1 1 9021 20230510173228
+117.203.75.156 21 32 115568 20230520172434
+66.249.92.12 4 4 17470 20230509050557
+157.51.193.68 19 19 24026 20230509113123
+157.49.134.193 14 28 477433 20230505121355
+117.213.131.145 307 391 7745636 20230523170316
+66.102.8.223 102 179 1641080 20230531231642
+106.221.26.9 7 31 7518 20230512184200
+117.213.130.0 251 335 4511937 20230526143543
+74.125.217.124 8 8 31980 20230524173701
+72.14.201.136 2 2 18042 20230510171203
+42.104.141.153 20 20 25206 20230506172503
+157.49.211.41 60 60 6881184 20230524121224
+54.172.96.81 2 13 165027 20230517132739
+106.220.255.215 82 152 1215715 20230505121431
+74.125.212.221 2 12 73386 20230508193629
+157.49.218.117 0 1 4119 
+74.125.210.30 0 11 46280 
+193.235.141.3 2 3 20540 20230518011347
+34.234.76.207 2 2 88640 20230523152946
+117.202.179.163 241 252 9638498 20230526142050
+66.249.88.205 4 17 84666 20230526041249
+42.109.145.227 2 2 2506 20230507181946
+223.181.208.209 5 78 3834104 20230513210122
+209.141.32.227 0 1 39060 
+167.248.133.33 2 2 18094 20230517070936
+54.198.137.221 2 2 88640 20230524170402
+198.235.24.194 2 2 98166 20230531022901
+116.74.91.4 11 49 783861 20230505210425
+54.191.35.246 1 1 9047 20230517030101
+157.51.127.52 3 3 3832 20230508094900
+223.226.4.13 103 155 972707 20230529160255
+157.51.193.80 13 50 690287 20230509082855
+223.187.117.149 5 5 7034 20230523100511
+117.253.185.70 60 71 4407614 20230523115233
+157.51.194.127 113 147 2537059 20230505113312
+223.182.240.181 63 150 657677 20230531153254
+42.104.130.103 3 27 2506 20230528171035
+157.49.149.45 12 12 31998 20230509101745
+157.51.193.154 11 48 679741 20230509082856
+112.133.228.133 3 75 3813616 20230505112958
+183.136.225.46 2 4 104516 20230517174826
+117.253.178.64 348 430 10884820 20230511154135
+157.51.197.209 0 1 90621 
+193.235.141.162 2 3 20488 20230512130725
+157.49.156.209 8 32 340026 20230505092030
+110.224.85.88 21 45 356680 20230504160005
+157.49.230.249 48 48 463194 20230517214008
+106.195.34.11 13 50 23194 20230509103722
+106.212.21.213 167 353 5123505 20230505150601
+195.211.77.140 8 8 363622 20230527181042
+192.3.142.61 2 2 18042 20230504205511
+117.253.91.64 137 198 5009672 20230513170657
+193.186.4.103 2 2 18130 20230520131310
+157.49.201.249 40 72 1006001 20230509160858
+157.46.125.41 10 11 151506 20230504160235
+119.82.126.10 3 3 20026 20230516171918
+117.202.179.108 218 304 7756942 20230524123426
+59.98.40.26 23 105 487614 20230509095416
+117.202.181.33 95 189 3933595 20230508144018
+157.51.178.21 101 102 7832180 20230522215601
+106.195.34.52 112 121 440979 20230509191145
+42.106.185.126 84 84 426194 20230508150737
+72.14.201.137 2 2 2578 20230520130022
+205.210.31.37 2 2 88408 20230512180729
+193.186.4.143 4 4 36136 20230518132937
+117.203.70.175 29 114 1400430 20230502092326
+49.44.76.170 3 73 3736094 20230524145603
+198.235.24.105 2 2 88408 20230502010148
+157.49.80.236 158 295 11339177 20230512152948
+157.51.10.165 25 32 6185358 20230519123505
+157.46.96.158 10 10 39942 20230504160310
+157.51.195.17 8 9 107710 20230527223158
+223.187.119.203 83 121 1217436 20230504161026
+106.197.38.245 10 10 53774 20230509120737
+223.182.247.179 37 121 5197554 20230525174529
+209.141.41.193 0 2 99284 
+157.49.218.15 177 181 4077504 20230524163209
+209.141.51.222 2 5 28081 20230522043531
+106.197.86.234 11 90 3870114 20230520151707
+157.51.193.242 3 27 2506 20230531142758
+110.224.86.149 2 16 2794 20230531113638
+223.187.126.61 37 75 898377 20230504161326
+209.141.33.65 0 4 57942 
+106.197.109.39 30 43 527313 20230504204001
+51.89.34.245 4 4 179802 20230524000432
+157.49.128.69 2 2 2506 20230529141828
+47.88.90.156 2 2 18130 20230523135515
+117.203.72.157 20 22 940458 20230526144618
+157.49.149.23 3 27 2506 20230507122919
+52.89.1.246 1 1 9021 20230511195244
+59.98.43.59 101 189 7732566 20230517161731
+117.203.76.39 228 310 5604064 20230518152258
+157.51.136.90 460 546 25650779 20230513194904
+74.125.210.28 2 9 41910 20230511025203
+74.125.215.121 29 44 530439 20230502165236
+106.211.237.193 67 106 1027445 20230504161056
+157.51.195.127 44 82 912319 20230508100431
+123.201.170.86 0 2 89752 
+157.49.162.2 47 71 389258 20230504160945
+101.0.63.34 2 2 27130 20230505214656
+157.51.194.13 23 103 5153823 20230504144509
+47.88.86.63 2 2 18042 20230508050208
+64.233.172.239 4 17 114316 20230522140849
+106.195.47.155 7 10 17788 20230525164735
+106.211.224.99 40 68 88745 20230518131000
+106.198.25.71 19 57 75874 20230513074105
+51.255.62.10 2 2 88640 20230521001235
+167.248.133.189 2 3 20576 20230524015131
+157.46.64.171 12 49 29892 20230522130204
+101.198.0.189 0 1 2446 
+117.213.140.60 14 69 999540 20230525173511
+106.197.127.217 6 30 6338 20230507155555
+117.213.139.161 15 17 73771 20230506164100
+49.44.78.73 3 73 3736094 20230523231359
+72.14.201.139 2 2 2578 20230518132939
+66.249.88.201 0 20 518410 
+157.49.134.80 12 12 54100 20230509123931
+51.254.49.98 2 2 88640 20230521020335
+157.46.87.182 24 62 94064 20230515110757
+54.196.226.240 2 2 18130 20230524091150
+157.49.218.157 29 149 5347054 20230510171018
+117.213.129.21 233 371 7118740 20230519162355
+47.251.11.3 4 4 36084 20230513173340
+205.185.118.120 0 3 25942 
+106.217.18.12 2 20 96004 20230531171510
+42.106.186.250 13 37 346364 20230505170445
+35.88.201.199 2 2 18042 20230505214056
+157.49.70.232 3 27 333688 20230518104416
+157.51.112.201 5 5 6338 20230508094914
+54.191.183.161 1 1 10342 20230530200454
+157.49.234.115 3 27 2506 20230528214215
+146.59.12.192 2 2 18042 20230514002835
+106.197.112.11 5 5 6338 20230509081259
+157.51.19.157 2 2 7362 20230521151947
+117.253.82.88 215 298 12368061 20230501160840
+209.141.48.154 0 2 2501 
+35.245.243.240 1 1 1441 20230527145028
+117.202.181.151 161 244 9773283 20230501125344
+152.58.204.167 22 46 357714 20230504161728
+49.43.218.97 6 100 4145338 20230502163728
+157.49.65.88 2 2 2506 20230505114100
+45.141.215.145 1 1 9065 20230523084043
+223.187.127.161 4 4 21048 20230504160514
+157.49.149.179 15 39 349016 20230504160010
+157.51.195.78 26 26 4774 20230528154533
+117.247.111.31 125 162 1430737 20230521124212
+198.235.24.116 1 1 49083 20230530143835
+157.51.192.229 8 36 650696 20230526120909
+157.51.4.123 39 122 291068 20230520103258
+124.237.181.10 2 2 20684 20230531231916
+59.98.40.83 148 241 4892211 20230506135826
+34.140.243.62 2 2 7276 20230524055251
+35.245.243.241 1 1 1441 20230527145011
+157.51.11.219 88 88 257994 20230512194344
+157.46.98.92 2 2 10872 20230508095949
+66.249.91.58 3 3 12373 20230514045311
+37.139.53.191 2 2 18094 20230517212717
+157.49.239.118 84 168 3795628 20230523083527
+205.185.116.89 4 8 124549 20230528212146
+157.51.149.81 10 10 334048 20230514100524
+223.187.125.246 5 5 7034 20230522182221
+72.14.201.138 2 2 18042 20230510171539
+35.243.2.26 3 3 6863 20230508101624
+209.141.36.231 0 3 34733 
+117.253.191.235 274 358 14223057 20230512134319
+47.254.76.138 2 2 18130 20230523135445
+157.51.79.19 38 76 173990 20230508100438
+49.44.83.42 82 119 1511889 20230502183102
+117.253.176.149 129 131 7134440 20230520180858
+223.196.44.73 3 75 3738060 20230523200811
+223.187.127.199 2 2 120094 20230528224223
+66.249.91.60 6 6 27664 20230514143221
+117.253.85.1 163 244 4974376 20230530164359
+157.51.195.29 173 176 772673 20230528201550
+167.248.133.52 2 2 20684 20230529111928
+157.49.145.217 9 47 31472 20230527101941
+74.125.217.122 10 10 44492 20230524162451
+157.51.24.93 5 79 4497584 20230520161030
+54.157.22.93 2 2 18130 20230521142118
+157.49.138.22 36 73 83736 20230505141821
+117.98.161.147 24 54 965214 20230509152546
+118.193.38.61 2 9 255212 20230501001828
+157.46.125.71 2 2 19610 20230504160138
+223.187.112.53 2 2 2578 20230515064920
+154.16.243.210 52 77 640436 20230512195245
+3.231.219.126 4 4 36084 20230501143308
+223.181.244.191 13 42 593096 20230521195448
+15.204.182.106 2 2 18130 20230524182200
+157.51.193.152 54 55 383490 20230509120712
+117.253.80.142 213 303 8390034 20230504135103
+167.71.160.161 2 2 18094 20230516062206
+3.89.119.108 2 2 98166 20230530142118
+49.44.86.101 3 77 3964569 20230529121656
+198.235.24.77 2 2 88638 20230519084649
+66.102.8.193 104 176 2832727 20230531231622
+183.136.225.44 2 4 104388 20230526000749
+104.144.139.200 1 51 3254582 20230515164636
+117.202.180.79 54 56 2730424 20230523105608
+180.149.59.5 3 75 3738060 20230521113200
+157.49.153.127 11 49 790131 20230505135726
+209.141.49.169 2 8 114797 20230512042206
+106.198.111.39 27 27 34050 20230508203142
+110.224.91.234 15 19 77117 20230505173229
+74.125.215.115 30 43 359219 20230502165232
+157.51.193.229 285 369 1384059 20230501163809
+193.235.141.142 2 3 20488 20230515080513
+193.235.141.157 1 2 11467 20230507033604
+106.198.14.33 208 279 827250 20230504161610
+104.239.42.196 4 4 41368 20230527181111
+157.51.8.213 29 72 894527 20230519155107
+157.51.193.183 50 50 256686 20230509122239
+117.253.85.40 208 273 5934476 20230520134128
+27.115.124.6 3 73 3811650 20230503021844
+157.51.193.194 16 17 175910 20230509102544
+183.87.151.68 3 75 3813616 20230505112415
+171.13.14.49 2 13 137496 20230509185504
+167.94.138.125 2 2 20684 20230529120613
+35.166.110.135 1 1 10342 20230527234142
+117.213.137.66 311 488 16468040 20230515161152
+74.125.210.29 2 12 342846 20230511025008
+54.235.25.158 5 5 128600 20230524232520
+105.154.33.66 1 1 9021 20230512000219
+20.10.174.24 1 1 9065 20230525005438
+66.249.92.14 4 4 17470 20230509125850
+157.49.196.144 8 36 650536 20230503145611
+157.51.74.92 16 36 101807 20230505131459
+167.248.133.37 2 2 20684 20230530172945
+136.185.173.76 6 32 5487923 20230512002420
+159.65.201.23 2 2 18042 20230512212522
+117.213.130.153 151 358 12119446 20230510144535
+66.249.89.128 13 13 57507 20230527131012
+157.51.22.100 54 54 28730 20230519201904
+157.49.94.159 16 18 40712 20230519215304
+157.51.13.243 17 28 291213 20230507124228
+51.254.49.110 1 1 44204 20230505125417
+157.49.178.43 7 31 7518 20230517201212
+106.195.36.133 45 67 96155 20230511083626
+49.12.227.59 51 91 1389851 20230510153820
+193.235.141.135 2 3 20488 20230504101313
+106.197.127.212 21 132 4632030 20230515113708
+157.49.173.182 3 27 333688 20230516210646
+205.210.31.101 2 2 88768 20230516160535
+157.49.86.99 6 81 5397634 20230528085455
+157.51.27.116 91 123 1209029 20230507200740
+157.49.128.203 35 49 559357 20230509081150
+223.187.114.161 16 17 194596 20230504161353
+18.225.25.214 4 4 186806 20230530142120
+198.235.24.98 2 2 88640 20230524014024
+157.46.100.251 2 3 24668 20230504160125
+106.222.120.193 8 32 8844 20230506071424
+157.49.157.43 2 16 2790 20230507211918
+107.181.152.247 52 120 1117890 20230503180737
+153.20.92.86 65 210 6056188 20230504114642
+182.79.238.135 3 73 3736094 20230525174137
+54.218.99.117 1 1 9047 20230515212509
+74.125.151.27 8 8 37216 20230515124235
+49.44.83.139 3 73 3736094 20230523125545
+27.115.124.45 2 69 3290938 20230503021722
+24.220.112.165 74 104 777802 20230503181021
+157.51.101.103 3 27 2506 20230525195946
+117.202.179.54 295 393 12181686 20230525160805
+202.71.1.5 3 75 3738060 20230524150732
+157.51.158.196 151 151 10264547 20230513222945
+35.243.2.12 13 37 346364 20230501111609
+110.224.82.242 3 27 333688 20230504155825
+157.51.69.40 2 2 2506 20230508141021
+54.244.184.171 2 2 18130 20230524204722
+42.104.129.198 6 30 6338 20230509105139
+110.224.83.76 71 110 1035233 20230504162459
+35.243.2.8 5 5 6338 20230501111632
+157.51.46.110 86 125 1114107 20230505202500
+157.51.195.135 130 130 29776 20230528131233
+42.104.130.65 3 27 2506 20230513122333
+157.51.18.83 2 16 2800 20230528114548
+66.249.88.197 4 25 349156 20230526041334
+106.197.106.5 18 42 21374 20230510103520
+157.49.92.35 6 6 25826 20230504155945
+104.155.123.66 2 2 10194 20230524051650
+157.51.197.194 8 32 8844 20230520140820
+223.182.199.63 18 18 5330 20230528162201
+157.51.198.115 4 4 13024 20230511092339
+157.49.131.121 8 32 340026 20230508152325
+117.213.130.148 328 328 16036395 20230505161515
+106.197.127.195 395 923 33378966 20230523231938
+157.46.102.100 7 44 659911 20230504155825
+117.253.85.163 459 460 23351773 20230529111805
+157.49.252.193 32 56 370244 20230508182847
+157.46.95.142 2 16 2790 20230514190946
+152.58.214.98 7 7 8844 20230505163820
+159.89.119.67 2 2 18130 20230523162117
+111.65.45.236 4 10 184303 20230502112057
+42.105.219.4 27 65 848449 20230515143512
+13.59.215.232 4 4 36260 20230519075311
+157.49.131.220 20 21 112336 20230509103112
+34.209.164.205 2 2 20684 20230527234025
+66.249.90.79 3 3 10914 20230524055939
+117.253.83.13 365 370 16757614 20230531131217
+117.203.67.224 10 13 57498 20230531094321
+157.230.15.116 1 1 9021 20230511201433
+35.243.2.28 2 2 5018 20230508101506
+110.224.88.136 2 28 254354 20230530041135
+64.227.129.238 2 2 18042 20230514005040
+34.227.197.108 2 2 18130 20230524091411
+43.245.116.105 56 99 820289 20230524183101
+209.141.36.112 2 2 20684 20230528212141
+209.85.238.16 3 3 10872 20230524210955
+66.249.90.84 5 5 24026 20230524052438
+47.88.94.161 2 2 18042 20230513173340
+93.159.230.87 4 4 38778 20230530230043
+119.161.97.202 5 80 3949467 20230516165620
+66.249.92.37 2 2 7276 20230508192117
+5.188.62.21 28 28 36792 20230531154624
+223.228.131.221 30 30 37882 20230508194446
+106.197.113.145 45 46 965044 20230506153134
+74.125.151.29 8 8 34940 20230515124728
+35.93.133.21 2 2 18130 20230521202150
+157.51.158.79 45 83 974181 20230504160901
+49.44.81.41 3 75 3813616 20230505112712
+157.51.96.72 69 108 1187166 20230504161101
+223.181.243.208 82 170 12019686 20230525235042
+193.235.141.134 1 2 11511 20230520181900
+157.49.136.47 48 48 178360 20230505145717
+106.195.35.158 0 1 90621 
+65.1.225.4 2 2 9552 20230528013136
+193.235.141.45 1 2 11467 20230501173604
+124.223.193.19 2 2 18130 20230522180800
+157.51.165.128 16 16 73716 20230509140521
+167.94.138.49 2 3 20488 20230509042255
+51.255.62.5 2 2 88640 20230522155020
+157.51.110.139 36 50 608899 20230508100541
+183.136.225.45 2 4 104158 20230511054516
+117.206.136.64 423 556 13503059 20230503131333
+157.51.78.255 18 56 45986 20230509110639
+117.213.130.110 309 479 9781339 20230504094318
+157.46.124.95 2 2 15854 20230508094949
+157.51.12.177 42 66 383066 20230505135234
+175.101.69.69 3 75 3962603 20230529140624
+35.243.2.30 10 12 181916 20230508101609
+18.224.128.89 6 6 265920 20230524142623
+66.249.84.185 0 17 338036 
+27.115.124.101 2 63 3213174 20230520174351
+106.197.96.44 8 36 80172 20230505134848
+117.213.139.5 88 198 3954534 20230526101606
+223.187.117.92 2 8 2578 20230514061101
+66.249.92.36 5 5 24026 20230520222223
+104.234.119.242 2 2 18112 20230521203556
+157.46.114.252 30 31 169662 20230508095627
+157.46.126.19 2 2 10938 20230508100014
+170.244.92.254 34 34 224378 20230522182051
+157.51.195.31 27 65 101444 20230514100445
+157.49.81.156 2 2 10524 20230504160740
+106.197.38.187 12 12 56164 20230509111104
+117.206.137.209 369 455 21824946 20230504164317
+157.51.196.11 2 2 27130 20230529171123
+157.49.234.152 3 27 2506 20230517162845
+223.187.120.145 2 2 2506 20230504211754
+157.51.127.148 15 39 348870 20230508094849
+35.245.243.244 2 16 257788 20230523135124
+117.203.77.132 64 139 3335172 20230523110301
+202.131.148.220 17 23 103768 20230506004712
+117.253.93.191 66 153 6691363 20230516153100
+35.243.2.24 1 1 1845 20230508101230
+157.49.198.137 1 1 9021 20230510173228
+157.46.75.199 30 54 367884 20230504161206
+117.202.177.233 329 331 16926417 20230512110506
+110.224.85.108 38 77 945309 20230507061843
+110.224.81.71 2 2 2506 20230505092550
+106.197.38.205 1 1 98 20230509112230
+152.58.225.223 25 25 54634 20230505140916
+35.189.215.131 2 2 9552 20230524043148
+117.213.134.157 41 61 1020431 20230508172431
+157.46.122.96 2 2 5212 20230504160332
+157.51.20.48 3 27 333688 20230504155742
+106.197.112.3 24 24 89200 20230509195123
+157.51.30.74 78 78 6520 20230520092806
+223.184.81.252 27 56 1017575 20230510150502
+106.197.106.19 2 16 2802 20230530102646
+35.90.229.223 2 2 18094 20230515212456
+117.253.82.199 243 267 9206974 20230513134457
+157.49.131.93 20 44 24172 20230509103612
+15.206.45.168 5 65 3614021 20230517110201
+106.221.21.14 94 179 8740494 20230521105654
+64.233.172.235 0 13 48394 
+117.253.184.168 162 244 1862004 20230513152719
+117.253.82.23 113 150 7061901 20230527102329
+106.195.39.95 7 31 7518 20230515122437
+49.44.82.70 3 75 3813668 20230516152555
+42.106.185.251 71 110 299270 20230523210013
+117.253.185.101 9 33 341352 20230504161504
+110.224.86.2 8 35 3885005 20230514113004
+104.239.42.99 1 2 51052 20230507165904
+117.253.177.181 400 585 14675402 20230512135755
+52.90.208.41 3 75 3813668 20230516092851
+59.93.12.84 131 247 4949270 20230509142948
+157.49.155.115 2 2 10526 20230505122322
+106.197.122.12 13 13 16362 20230511094155
+157.51.0.64 4 4 0 20230521213334
+185.202.239.20 2 2 20684 20230531164113
+157.46.121.145 26 26 142836 20230508100350
+205.185.116.25 2 5 58856 20230512042208
+205.210.31.216 2 2 88408 20230509033005
+74.125.212.217 4 22 483549 20230508040442
+157.51.157.235 48 131 1530792 20230517153436
+157.51.25.81 8 8 43953 20230519115626
+143.198.102.169 2 2 20684 20230529103647
+198.235.24.2 2 2 88408 20230505123413
+157.46.67.66 8 36 650536 20230502122412
+117.202.178.92 344 511 8565157 20230521162131
+157.46.102.63 17 55 46630 20230527102045
+209.141.35.128 0 1 3276 
+157.46.101.177 2 2 10514 20230504160320
+157.51.194.99 2 2 8266 20230505164855
+106.197.38.213 10 11 147194 20230509094914
+66.249.92.128 2 2 7276 20230520213027
+87.236.176.230 0 1 2446 
+66.249.92.13 6 6 24746 20230521133838
+49.44.76.169 3 75 3962603 20230529121655
+72.14.201.141 6 6 54214 20230520130020
+223.187.120.171 71 71 1395775 20230524105642
+157.49.217.22 3 27 2506 20230525165356
+106.195.37.101 8 36 80334 20230522152831
+223.187.119.171 77 167 11561394 20230524152437
+77.74.177.119 2 2 18042 20230502222829
+117.206.142.137 131 214 7014494 20230510104244
+35.87.208.67 2 2 18042 20230511195202
+42.106.161.71 3 73 3736094 20230523201138
+106.195.42.221 281 350 4203589 20230509203712
+169.150.248.231 2 2 18042 20230515083652
+205.185.122.184 0 3 27431 
+106.211.255.158 123 354 9344016 20230512191432
+54.213.205.65 2 2 20684 20230528212403
+157.51.195.70 21 21 88159 20230528002755
+54.162.138.30 15 125 1654327 20230516194721
+157.49.128.93 2 2 2506 20230509070943
+122.178.192.61 30 33 40200 20230522172651
+223.182.203.197 104 176 459268 20230512142455
+59.93.8.46 433 452 19950358 20230527172522
+42.236.10.125 2 15 255316 20230520174135
+122.178.199.51 95 147 2113747 20230516162851
+157.51.10.26 63 63 984231 20230520110354
+157.49.140.62 5 19 432468 20230501160643
+66.249.89.159 9 9 39395 20230526215630
+167.94.138.127 2 2 18042 20230513164213
+106.205.125.31 56 145 11691448 20230505114724
+34.207.215.119 3 75 3738024 20230517071618
+117.253.80.131 227 229 4877980 20230519162521
+106.197.38.193 6 6 28606 20230509095743
+157.49.139.10 3 76 3740506 20230520192738
+117.253.85.152 35 41 314860 20230530190324
+157.49.178.73 2 16 2800 20230503195241
+110.224.89.154 3 27 333688 20230504155903
+117.253.88.9 351 351 18205888 20230513161923
+223.182.193.243 72 110 1239696 20230510143923
+74.125.151.30 4 4 14510 20230515054257
+35.196.169.240 2 2 2886 20230523135749
+49.44.86.232 3 72 3729787 20230521112444
+49.44.86.11 2 50 1494315 20230512091730
+157.49.140.226 2 26 304305 20230514221524
+106.197.38.199 43 56 503433 20230509120337
+209.85.238.22 2 2 7276 20230524204744
+110.224.86.82 2 2 2506 20230507060955
+157.49.242.147 348 353 12671000 20230523121030
+117.202.177.149 60 92 1875604 20230509171322
+167.248.133.190 2 2 18042 20230501171611
+106.198.110.241 16 16 20048 20230508195202
+106.217.3.175 97 135 1072313 20230509084755
+42.104.120.69 3 75 3813616 20230505112334
+157.51.20.49 17 55 818183 20230505125921
+74.125.217.120 8 8 34940 20230512124213
+193.235.141.11 1 2 11467 20230509214050
+157.51.155.196 2 16 2794 20230501095202
+216.10.252.159 134 134 16907 20230531121615
+157.51.177.75 14 14 17834 20230509122609
+5.161.193.89 2 2 20684 20230528170836
+157.51.148.172 4 4 20620 20230515081554
+157.51.193.255 49 51 256752 20230501211238
+66.249.92.146 2 2 10194 20230520205653
+51.254.49.96 2 2 88640 20230522192218
+157.51.196.23 113 153 1141637 20230508095527
+59.93.8.30 250 337 16210195 20230517110805
+202.88.175.68 3 74 3737580 20230524145601
+157.49.254.22 12 12 95592 20230523211735
+49.44.85.132 3 73 3811702 20230516151114
+118.193.36.159 2 9 255212 20230501001826
+205.185.121.69 0 4 9176 
+106.195.44.121 5 29 5012 20230527073154
+117.253.80.85 154 237 14274888 20230504105924
+157.49.76.9 28 29 132017 20230504161347
+157.46.119.17 36 36 163138 20230504161157
+3.137.169.147 16 274 2098322 20230505024623
+223.187.127.185 19 33 452216 20230522135035
+35.85.61.183 2 2 18094 20230517030017
+223.181.197.64 47 85 237286 20230508141205
+72.14.199.249 134 134 590621 20230531204521
+157.49.158.70 12 12 57668 20230505122146
+35.90.213.222 2 2 18042 20230501201020
+157.49.227.7 17 55 813495 20230504161010
+205.210.31.42 2 2 88408 20230513070020
+152.58.232.146 5 79 4007858 20230528203016
+72.14.201.142 2 2 18042 20230510170908
+157.46.112.22 44 81 828283 20230508094720
+34.79.30.179 2 2 7234 20230524050759
+110.224.80.158 17 41 351376 20230509103846
+205.185.127.30 0 4 55681 
+157.51.18.107 390 475 44726285 20230511144431
+66.249.91.56 4 4 17470 20230514124434
+66.249.84.189 2 13 72819 20230508145007
+117.206.137.44 52 132 382313 20230510125908
+110.224.83.187 2 8 2578 20230504101139
+157.51.26.129 132 132 75998 20230519234214
+59.93.12.158 232 316 9519928 20230509104944
+42.106.185.207 71 110 770331 20230508100447
+111.90.145.102 2 2 358 20230510193318
+59.93.10.117 314 408 7808109 20230527163538
+157.49.92.190 7 44 660043 20230504155737
+35.245.243.246 2 16 428240 20230527144942
+59.93.9.105 36 37 2221402 20230510131005
+35.90.110.153 2 2 18042 20230509200946
+157.51.196.66 78 87 1147504 20230530055523
+157.49.137.129 3 27 2506 20230508102516
+66.249.92.129 2 2 10194 20230521050115
+64.227.148.160 2 2 18042 20230514005326
+74.125.212.219 2 21 395169 20230508193819
+118.193.37.41 2 9 264970 20230531031237
+157.51.192.168 14 14 17542 20230504135231
+223.187.123.146 50 89 980269 20230508100734
+117.203.65.115 114 116 2054345 20230525141324
+180.163.220.112 0 1 2446 
+117.253.88.21 341 425 18811042 20230513102113
+157.51.14.72 2 2 5704 20230521092917
+35.196.169.245 3 17 259231 20230523135736
+223.187.118.68 2 5 35687 20230515172731
+72.14.199.247 123 123 520285 20230531130339
+157.51.125.100 3 75 3962603 20230526231003
+146.190.138.201 2 2 20684 20230528065709
+66.249.92.153 7 7 26883 20230521051356
+157.49.181.211 3 27 2506 20230513212129
+181.41.62.228 104 142 1557268 20230527145341
+117.213.128.32 2 73 3684119 20230522100643
+157.49.214.150 11 47 917049 20230530165604
+183.93.159.194 4 76 4419248 20230525233146
+110.224.91.228 48 72 390730 20230505135602
+157.49.145.115 2 2 8324 20230505122228
+106.198.8.170 60 98 692817 20230508100509
+74.125.215.105 30 41 214707 20230502165228
+180.129.44.90 2 2 4070 20230513093400
+117.203.73.155 62 80 1572759 20230530130830
+157.245.105.7 1 1 9047 20230515214558
+157.51.196.214 42 44 416671 20230529161013
+106.203.110.62 2 53 1399591 20230511171658
+209.141.55.120 0 3 43884 
+117.213.135.205 62 154 958025 20230504154119
+117.253.191.67 131 131 3624675 20230516132442
+157.51.164.118 95 95 3502300 20230522140158
+72.14.199.251 132 132 581837 20230531213632
+223.228.129.245 39 77 944623 20230508100313
+162.142.125.14 2 2 18094 20230518012058
+223.187.120.161 11 48 690925 20230504160331
+167.248.133.188 2 2 18042 20230510141029
+66.249.89.130 9 9 38578 20230527125048
+128.199.42.232 2 2 18130 20230522061534
+223.187.112.220 18 18 74412 20230505130402
+106.197.80.130 3 27 333688 20230506022531
+66.249.84.187 2 14 110213 20230508145156
+66.102.8.195 120 202 1786975 20230531231640
+106.203.106.192 6 6 7518 20230513101144
+157.51.5.195 3 27 333688 20230504163153
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20230501 1058 1488 44115717 25
+20230502 1003 1750 48645865 31
+20230503 969 1607 35092333 23
+20230504 2525 3845 83246377 76
+20230505 1400 3010 67717764 61
+20230506 284 458 6835411 21
+20230507 253 445 3365410 18
+20230508 1566 2558 31341440 65
+20230509 1691 2538 28398259 62
+20230510 1420 2192 73349367 37
+20230511 1379 1903 94964471 33
+20230512 1612 2436 74121991 37
+20230513 1429 1869 68770958 31
+20230514 726 1010 38734382 26
+20230515 3188 4057 149090732 28
+20230516 1105 1781 55428578 28
+20230517 1458 2228 90958095 33
+20230518 1478 2098 52179825 28
+20230519 1539 1939 68539303 30
+20230520 704 1185 33551223 30
+20230521 623 1154 30893943 23
+20230522 3181 3653 147795678 36
+20230523 2329 3586 135314079 53
+20230524 3263 3961 161203526 44
+20230525 2209 3082 134201400 30
+20230526 1677 2030 81939178 29
+20230527 2368 2752 118218383 30
+20230528 665 1183 35720963 41
+20230529 2877 4226 151874567 26
+20230530 2033 2605 89240630 36
+20230531 1904 2401 111170623 27
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 74
+5mn-15mn 93
+30s-2mn 82
+1h+ 128
+0s-30s 574
+30mn-1h 86
+15mn-30mn 61
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 311
+/software/admin/studentProfile.php 7038 164091535 9 0
+/software/admin/studentView.php 3922 760734114 14 12
+/software/admin/stdPGraph.php 3548 82167 0 11
+/software/admin/markGraph.php 3545 72109 0 34
+/software/admin/ajax.php 2409 341813 1 6
+/software/admin/collect_fees.php 1984 15454028 0 3
+/software/admin/printStudentFees.php 1654 505542135 1 32
+/software/admin/studentCreate1.php 1237 14104514 0 0
+/software/teacher/dashboard.php 1040 5472170 16 50
+/login.php 936 1209304 30 27
+/software/teacher/index.php 814 1028556 7 30
+/software/admin/ 814 11527791 2 0
+/software/teacher/ 754 950748 154 45
+/software/admin/demo-data.php 751 234852 0 2
+/software/admin/graph.php 751 101288 0 12
+/software/admin/att-data.php 750 414112 0 13
+/software/admin/chart_Data.php 749 788028 0 15
+/ 735 9390895 275 169
+/software/admin/index.php 726 10136193 12 0
+/software/admin/classSectionView.php 646 8562081 0 0
+/index.php 612 5648180 149 29
+/software/admin/promote_class.php 564 7129475 2 2
+/software/admin/reportDailyFeesCollected.php 559 4026645 0 12
+/software/teacher/subject.php 504 2728474 8 24
+/software/admin/SectionlistProfile.php 504 14031888 0 0
+/software/admin/busProfile.php 2 14344 0 0
+/software/admin/print_stu_store_report1.php 52 7403046 0 0
+/software/admin/set_fees.php 344 2263896 0 0
+/software/admin/passedout_student.php 164 2602017 1 0
+/software/admin/placeOrder.php 16 103486 0 1
+/my_nuscma/ 20 103960 7 3
+/software/admin/edit_collect_fees.php 62 481520 0 0
+/software/admin/printclasswiseReport.php 2 86348 0 0
+/terms_condition.php 14 102972 0 0
+/software/admin/ha.php 253 364131 3 3
+/app/new/index.php 30 54344 0 1
+/app/new/intro_5.php 16 25696 0 0
+/software/admin/send_excel.php 258 54686 3 3
+/social_media.php 16 132704 0 0
+/individual_school_parent_modules/SSV_School_Mechari/graph2.php 31 682 0 1
+/meenampark_nuscma_backup/validationAjax.php 1 21 0 0
+/app/new/formsubmit.php 2 0 0 0
+/software/teacher/document.php 22 73188 0 1
+/software/admin/print_studentView.php 6 1200326 0 0
+/software/admin/top_teacher.php 10 69680 0 0
+/software/admin/auto_classAttendance.php 4 600 0 0
+/bcsjobs.com/dashboard/candidates.html 2 29704 0 1
+/software/admin/printFeesPaid.php 260 1473076 2 31
+/software/admin/auto_stuAttendance.php 4 6836 0 0
+/individual_school_parent_modules/SSV_School_Belur/reminder.php 6 11430 0 1
+/software/admin/clswisePending.php 185 1368378 0 0
+/software/admin/supplierProfile.php 74 635118 0 1
+/software/admin/top_student.php 9 63732 0 0
+/software/teacher/examination.php 56 167284 0 2
+/software/admin/twomonth_report.php 20 146522 0 0
+/software/admin/studentProfile1.php 24 573470 0 0
+/nulinz.com/ 22 204600 0 0
+/software/admin/expense_report.php 13 83571 0 0
+/cpanel 8 108522 3 2
+/software/admin/print_voucher.php 84 18392646 0 0
+/software/admin/pdf_printFeesPaidReport.php 4 377306 0 0
+/software/admin/setting.php 156 2416556 5 6
+/my_nuscma/assets/intro/docum.avif 1 10652 0 0
+/meenampark_nuscma_backup/ 2 4208 1 0
+/individual_school_parent_modules/SSV_School_Mechari/transport.php 8 14208 0 0
+/software/teacher/reminder.php 20 61288 0 0
+/school/login.php 94 191290 8 7
+/software/teacher/profile.php 90 235434 4 5
+/individual_school_parent_modules/SSV_School_Belur/task.php 16 35312 0 0
+/software/admin/pdf_printClasswiseFeesReport.php 166 16989034 0 1
+/software/admin/gl_report.php 23 162683 0 1
+/features.php 8 96344 0 0
+/software/admin/itemList.php 12 89892 0 2
+/app/new/assets/bootstrap-icons%401.5.0/font/fonts/bootstrap-icons63f3.woff2 32 2263200 0 0
+/software/admin/addBus.php 12 80406 0 1
+/app/new/create_address.php 10 22214 0 0
+/app/new/intro_3.php 20 32200 0 0
+/software/admin/top_50.php 12 108120 0 0
+/assets/fonts/remixicon.eot 2 806456 0 1
+/software/teacher/saleryDetails.php 18 42964 1 0
+/software/admin/student_profilemay22.php 50 1268396 0 0
+/software/admin/print_col_out.php 112 227672 0 4
+/software/admin/PurchaseOrderItem.php 6 46468 0 1
+/software/teacher/ajax.php 12 1091 0 0
+/software/admin/pdf_printSectionFeesReport.php 6 457838 1 1
+/software/admin/secwFessGraph.php 251 108535 0 0
+/software/admin/sectioneditstudents.php 6 41752 0 0
+/bcsjobs.com/page-signin.html 2 10562 0 0
+/app/new/fees.php 14 49814 0 1
+/my_nuscma/contact.php 94 260002 0 1
+/app/new/taskwise_chart.php 123 3037 0 1
+/individual_school_parent_modules/SSV_School_Belur/appformsubmit.php 11 451 0 2
+/software/admin/itReport.php 6 13304 0 0
+/individual_school_parent_modules/SSV_School_Belur/exam.php 18 25362 0 0
+/app/new/intro_4.php 20 31160 0 1
+/software/admin/supplierList.php 32 218610 0 0
+/software/admin/school_detailsEdit.php 8 82408 0 0
+/software/admin/supply.php 88 5565 0 0
+/nulinz.com/school/ 4 992 0 0
+/contact.php 4 18884 0 0
+/software/teacher/task.php 58 239306 0 1
+/software/admin/ad_report.php 71 656264 0 0
+/software/admin/attendanceCertificate.php 6 12350 0 0
+/my_nuscma/assets/fonts/remixicon.woff2 4 250536 0 0
+/my_nuscma/modules.php 4 17368 0 0
+/app/new/create_exam.php 2 5732 0 0
+/software/admin/studentProfileEdit.php 416 2905596 0 1
+/software/admin/PurchaseOrder.php 8 61336 0 0
+/app/new/additional_stu.php 2 4476 0 0
+/nulinz.com/distributorship.php 8 13456 0 0
+/app/new/otpButton.php 58 82332 0 0
+/app/new/expenses.php 10 39246 0 0
+/software/admin/send_mail.php 162 1813314 6 7
+/assets/fonts/remixicon.woff2 157 13153140 1 43
+/software/teacher/notify.php 26 63810 0 0
+/software/admin/print_allowance.php 2 812056 0 1
+/software/teacher/profilestudent.php 32 168152 0 0
+/app/new/doc.php 4 10260 0 1
+/software/admin/schoolList.php 24 164860 0 0
+/software/admin/viewBus.php 2 15282 0 0
+/software/admin/print_lowstock.php 2 165442 0 0
+/software/teacher/addworkdone.php 12 33052 0 0
+/app/new/intro_7.php 14 22834 0 0
+/school_list.php 18 118484 0 0
+/app/new/activity.php 8 21382 0 0
+/individual_school_parent_modules/SSV_School_Mechari/policy/pp.php 32 115744 12 12
+/software/admin/Storeroom.php 4 27472 0 0
+/software/admin/edit_class.php 38 255204 0 0
+/software/admin/excel_student.php 16 415860 0 0
+/nulinz.com/terms.html 8 45832 0 0
+/software/admin/excel_admission.php 2 1862 0 0
+/individual_school_parent_modules/SSV_School_Belur/graph2.php 84 1848 2 4
+/software/admin/print_ad_report.php 10 1172168 0 0
+/software/admin/classwiseTermfeesReport.php 5 37321 0 0
+/software/admin/yearly_stu_report.php 11 78566 0 0
+/my_nuscma/about.php 6 14242 0 0
+/software/admin/sectionGraphProfile.php 251 35951 0 1
+/software/admin/print_col.php 16 32440 0 2
+/app/new/dashboard.php 312 2575508 29 0
+/admin 1 0 0 1
+/software/admin/addBusfees.php 6 43482 0 0
+/software/admin/supplierCreated.php 26 173230 0 0
+/software/admin/paymentExpenses.php 28 184022 0 0
+/software/admin/classwise_student.php 4 29609 0 0
+/app/new/openmoney/index.php 16 16832 0 1
+/software/admin/expenseView.php 50 373870 0 1
+/software/admin/viewBusroot.php 6 58590 0 0
+/software/teacher/viewAttendence.php 46 436531 0 2
+/software/admin/print_stu_store_report.php 32 2648190 0 1
+/software/admin/accountNewGl.php 36 251682 0 0
+/individual_school_parent_modules/SSV_School_Belur/notify.php 10 12230 0 0
+/app/new/create_academic.php 28 71832 0 1
+/app/new/plus.php 12 37224 0 0
+/app/new/create_mother.php 10 23192 0 0
+/software/admin/print_allow_report.php 2 205298 0 0
+/software/admin/printclassSectionView.php 2 91024 0 0
+/software/admin/sectionStudentReport.php 36 292269 0 1
+/software/teacher/policy/pp.php 41 195816 14 12
+/bcsjobs.com/dashboard/index.htm 2 17248 0 0
+/individual_school_parent_modules/SSV_School_Mechari/workdone.php 4 5752 0 0
+/individual_school_parent_modules/SSV_School_Belur/subject.php 16 22592 0 0
+/software/admin/print_buswiseReport.php 240 19809864 0 2
+/software/admin/trans_stu.php 12 86983 0 0
+/software/admin/expenseCreated.php 48 330256 0 0
+/bcsjobs.com/ 46 1410164 1 0
+/app/new/ 64 120832 20 11
+/app/new/pp.php 233 1187601 98 99
+/software/teacher/homework.php 20 67150 0 0
+/software/admin/season_report.php 2 12880 0 0
+/app/new/payment_process.php 76 36124 0 2
+/software/teacher/student.php 212 788340 5 10
+/individual_school_parent_modules/SSV_School_Mechari/subject.php 4 5648 0 0
+/software/admin/ha1.php 154 28228 1 3
+/app/new/expense_daywise.php 5 110 0 0
+/app/new/view_activity.php 2 6602 0 0
+/individual_school_parent_modules/SSV_School_Belur/transport.php 18 23166 0 0
+/software/teacher/takeAttendance.php 98 711218 2 4
+/software/admin/pdf_print_expenseWorkorder.php 4 329780 0 0
+/software/admin/collection_out.php 340 4555908 0 2
+/individual_school_parent_modules/SSV_School_Mechari/exam.php 8 11272 0 0
+/software/admin/teacherView.php 30 268298 0 1
+/bcsjobs.com/assets/fonts/uicons/uicons-regular-rounded.woff2 1 59376 0 0
+/software/admin/staffcreate.php 6 41492 0 0
+/my_nuscma/index.php 16 77772 0 3
+/software/admin/print_section_student.php 4 223802 0 1
+/software/admin/trans_sem.php 22 162924 0 0
+/software/admin/print_supplier_workorder.php 36 2963016 0 0
+/app/new/profile.php 25 104569 0 1
+/individual_school_parent_modules/SSV_School_Belur/graph1.php 84 2772 1 5
+/software/teacher/daywise_Attendance.php 4 12156 0 0
+/software/admin/create_task.php 18 484178 0 0
+/software/admin/change_password.php 6 8092 0 0
+/software/admin/print_collect.php 4 414600 0 0
+/software/admin/passed_out_rep.php 18 129126 0 1
+/app/new/intro_8.php 14 23030 0 0
+/software/admin/classwiseStudentStrengthReport.php 16 119888 0 0
+/school_blog.php 16 192448 0 1
+/software/admin/reportBuswise2.php 2 14112 0 0
+/software/admin/printclasswiseStudentStrengthReport.php 2 166544 0 0
+/individual_school_parent_modules/SSV_School_Belur/homework.php 26 36712 0 0
+/app/new/event.php 6 15576 0 1
+/software/admin/inactive_student.php 48 2014042 0 0
+/software/admin/auto_conAttd.php 2 316 0 0
+/software/admin/staffview.php 18 124000 0 1
+/app/new/logout.php 2 98 0 0
+/app/new/create_subject.php 6 22260 0 0
+/software/teacher/edit_rem.php 2 5480 0 0
+/software/admin/section_paidfees_report.php 55 408408 0 0
+/software/admin/editbusroot.php 4 28204 0 0
+/software/teacher/viewResult_subject.php 4 9444 0 0
+/app/new/intro_6.php 14 21826 0 0
+/software/admin/allowanceReport.php 9 58172 0 0
+/bcsjobs.com/dashboard/ 2 17248 0 0
+/software/admin/teachergraph.php 13 803 0 0
+/app/new/otp.php 44 70051 0 0
+/individual_school_parent_modules/SSV_School_Mechari/ 21 29583 8 5
+/software/index.php 2 2540 0 0
+/software/admin/paybusfees3.php 2 15902 0 0
+/software/admin/print_collection.php 160 36101214 0 3
+/app/new/intro_9.php 14 22284 0 0
+/software/admin/classSectionCreate.php 30 225618 0 0
+/individual_school_parent_modules/SSV_School_Mechari/graph1.php 31 1023 0 0
+/individual_school_parent_modules/SSV_School_Mechari/appformsubmit.php 4 164 0 0
+/software/admin/auto_dailyTakeAttd.php 68 3738 0 0
+/software/admin/buswise_report.php 182 1287160 5 0
+/software/admin/assignTeacher.php 90 672712 0 0
+/app/new/academic.php 24 83574 0 0
+/software/admin/schoolProfile.php 8 66672 0 0
+/software/admin/sales_view.php 14 101388 0 0
+/software/admin/sec_wiseSubgraph.php 251 4930 0 0
+/software/admin/allowance.php 10 67628 0 0
+/bcsjobs.com/page-register.html 2 10726 0 1
+/software/teacher/bankdetails.php 4 12200 0 0
+/software/admin/changeStudentClass.php 2 17456 0 0
+/meenampark_nuscma_backup/admins/ 2 18490 0 0
+/software/admin/conductReport.php 246 609264 0 3
+/individual_school_parent_modules/SSV_School_Belur/fees.php 16 32792 0 0
+/meenampark_nuscma_backup/admins/demo-data.php 1 1439 0 0
+/software/admin/print_trans_bill.php 64 18310812 0 0
+/software/admin/classCreate.php 14 93702 0 0
+/software/admin/create_group.php 10 67050 0 0
+/individual_school_parent_modules/SSV_School_Belur/policy/pp.php 251 913138 104 103
+/individual_school_parent_modules/SSV_School_Mechari/task.php 4 8828 0 0
+/meenampark_nuscma_backup/admins/class/classProfile.php 2 19446 0 1
+/individual_school_parent_modules/SSV_School_Belur/document.php 6 11778 0 0
+/software/admin/teacherCreate.php 6 42596 0 1
+/software/admin/lead.php 20 135006 0 0
+/cgi-sys/404.html 33 18339 23 3
+/individual_school_parent_modules/SSV_School_Belur/dashboard.php 196 1050766 0 0
+/software/admin/print_passout_pend.php 2 127632 0 0
+/view_school.php 38 433842 1 1
+/app/new/subjectwiseTask_chart.php 123 3152 0 1
+/app/new/subscribe.php 90 210668 0 2
+/software/admin/pdf_print_FeesList.php 4 335894 0 0
+/software/teacher/css/fonts/bootstrap-iconsd862.woff2 114 7758360 2 25
+/individual_school_parent_modules/SSV_School_Mechari/notify.php 4 4892 0 0
+/app/new/reminder.php 2 5194 0 0
+/app/new/create_student.php 48 119942 2 2
+/software/admin/print_trans_stu.php 8 665286 0 0
+/individual_school_parent_modules/SSV_School_Mechari/my_profile.php 8 16332 0 1
+/app/new/examwise_chart.php 123 5588 0 3
+/privacy_policy.php 16 111848 0 0
+/app/new/create_father.php 10 23216 0 0
+/bcsjobs.com/index.php 28 1079278 1 0
+/home2/nuscmy3y/public_html/software/admin/tcpdf/examples/images/ 105 0 3 22
+/software/teacher/edit_subject.php 6 19968 0 0
+/individual_school_parent_modules/SSV_School_Mechari/attendance.php 4 6804 0 0
+/school_promotion.php 16 98844 0 2
+/bcsjobs.com/dashboard/assets/fonts/uicons/uicons-regular-rounded.woff2 1 59376 0 0
+/my_nuscma/assets/intro/attendance.avif 1 12100 0 1
+/software/teacher/formsubmit.php 7 791 1 1
+/individual_school_parent_modules/SSV_School_Mechari/dashboard.php 74 396196 0 0
+/software/admin/ent_trans_sem.php 78 601034 0 0
+/software/teacher/change_pwd.php 2 5356 0 0
+/individual_school_parent_modules/SSV_School_Mechari/fees.php 6 14200 0 0
+/about.php 33 295898 2 5
+/software/admin/print_rte.php 16 1086044 1 1
+/software/admin/bonafiedReport.php 42 92028 0 2
+/software/admin/addBusRoot.php 11 76192 0 0
+/individual_school_parent_modules/SSV_School_Belur/my_profile.php 12 24856 0 0
+/app/new/openmoney/response.php 2 1350 0 0
+/app/new/add_payment.php 43 98134 0 2
+/meenampark_nuscma_backup/admins/class/viewClass.php 2 16330 0 0
+/software/admin/formSubmit.php 20 801 1 1
+/software/admin/classwiseFeesReport.php 30 206024 1 0
+/individual_school_parent_modules/SSV_School_Belur/index.php 4 5600 0 0
+/individual_school_parent_modules/SSV_School_Belur/workdone.php 18 25884 0 2
+/software/admin/itemCreated.php 16 106290 0 0
+/software/admin/classView.php 92 807734 0 1
+/individual_school_parent_modules/SSV_School_Mechari/homework.php 6 8472 0 0
+/app/new/intro_2.php 20 32200 0 0
+/software/admin/gaudrianDetails.php 3 1074 0 0
+/nulinz.com/internship.php 8 21928 0 1
+/cancellation.php 8 56140 0 2
+/software/admin/sec_wiseExamgraph.php 251 5760 0 0
+/app/new/expensewise_chart.php 123 16919 0 14
+/software/admin/teacherProfile.php 26 580372 0 0
+/individual_school_parent_modules/SSV_School_Belur/attendance.php 14 23814 0 0
+/software/parent/ 14 18332 0 0
+/general_policy.php 14 87200 0 0
+/software/admin/collection.php 332 7608825 0 2
+/software/teacher/workdone.php 42 156896 0 1
+/software/admin/pdf_print_FeesList_discount.php 16 1327106 0 0
+/faq.php 14 97836 0 0
+/individual_school_parent_modules/SSV_School_Mechari/document.php 4 7852 0 1
+/app/new/subjectwise_chart.php 123 6724 0 4
+/app/new/intro.php 22 36784 0 0
+/individual_school_parent_modules/SSV_School_Belur/ 104 145958 30 21
+/software/admin/saleorder_item.php 18 143826 1 1
+/nulinz.com/privacy-policies.html 8 44248 0 0
+/software/ 2 2538 1 0
+END_SIDER

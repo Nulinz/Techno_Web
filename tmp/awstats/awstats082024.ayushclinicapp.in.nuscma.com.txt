@@ -1,0 +1,746 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202408 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/awstats.ayushclinicapp.in.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2026                
+POS_TIME 2699                
+POS_VISITOR 27988               
+POS_DAY 31619               
+POS_DOMAIN 3396                
+POS_LOGIN 3798                
+POS_ROBOT 3953                
+POS_WORMS 4257                
+POS_EMAILSENDER 4388                
+POS_EMAILRECEIVER 4531                
+POS_SESSION 31845               
+POS_SIDER 32034               
+POS_FILETYPES 4666                
+POS_DOWNLOADS 4789                
+POS_OS 4837                
+POS_BROWSER 5070                
+POS_SCREENSIZE 6111                
+POS_UNKNOWNREFERER 6185                
+POS_UNKNOWNREFERERBROWSER 6912                
+POS_ORIGIN 7344                
+POS_SEREFERRALS 7479                
+POS_PAGEREFS 7645                
+POS_SEARCHWORDS 7793                
+POS_KEYWORDS 7945                
+POS_MISC 2363                
+POS_ERRORS 8004                
+POS_CLUSTER 3654                
+POS_SIDER_404 8155                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240901100006 2 128 6126446074578
+FirstTime 20240824103243
+LastTime 20240831164525
+LastUpdate 20240901190103 2 0 1 0 0
+TotalVisits 90                  
+TotalUnique 79                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 99                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 7 94747 14 14 3296
+1 5 6 17046 370 621 255053
+2 13 19 490061 41 47 134451
+3 6 9 282174 13 13 2938
+4 3 4 46774 1 2 358
+5 0 0 0 0 0 0
+6 3 7 312043 9 15 3860
+7 0 0 0 10 11 2881
+8 0 0 0 6 10 3314
+9 0 0 0 1 1 358
+10 26 31 357010 76 81 25207
+11 4 4 25232 1 2 358
+12 4 6 89076 8 14 6603
+13 4 7 311902 61 61 19775
+14 6 10 177169 5 7 2506
+15 10 11 29371 49 55 60213
+16 8 11 244377 17 20 49045
+17 9 9 30429 53 53 11906
+18 6 6 20286 26 26 8888
+19 8 8 27048 44 44 9932
+20 15 20 706718 25 26 9602
+21 11 17 474139 43 47 96190
+22 5 7 17187 19 23 91247
+23 18 18 58568 218 218 56781
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+us 116 145 2300177
+gr 14 14 47334
+cn 9 17 513309
+ca 8 9 77677
+ru 7 10 240996
+in 3 4 42302
+ua 3 5 451107
+zz 2 2 174
+be 2 3 43393
+fr 2 2 6762
+au 1 2 42302
+kr 1 1 1091
+gb 1 2 42302
+hn 0 1 2431
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+Go\-http\-client/ 9 370899 20240829214440 0
+curl 7 58116 20240829151012 0
+no_user_agent 3 10143 20240831200912 0
+spider 2 1091 20240828075007 0
+survey 1 0 20240831011149 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+html 148 376003 0 0
+png 48 3433780 0 0
+Unknown 21 1574 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+win8.1 4 0
+android10 2 2
+macosx 6 2
+winnt 8 4
+linux 16 7
+Unknown 29 27
+ios_iphone 17 15
+macosx7 2 0
+win10 115 96
+linuxubuntu 6 6
+androidpie 1 1
+win7 1 1
+macosx15 10 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 50
+chrome64.0.2291 1 0
+chrome71.0.3578.98 6 2
+firefox65.0 1 1
+chrome66.0.3359.126 1 1
+chrome107.0.0.0 8 6
+chrome74.0.1544 1 1
+chrome102.0.1278 1 0
+chrome103.0.2658 1 1
+chrome96.0.400 1 0
+chrome96.0.399 1 1
+chrome105.0.0.0 1 1
+chrome127.0.0.0 4 4
+chrome126.0.0.0 10 5
+chrome83.0.4103.97 1 1
+chrome59.0.2133 1 1
+Unknown 15 15
+chrome66.0.3359.181 2 2
+chrome57.0.239 1 0
+chrome65.0.1736 1 0
+firefox109.0 6 2
+chrome17.0.963.56 2 0
+chrome89.0.4389.114 37 37
+iphone 2 2
+firefox51.0 1 1
+firefox89.0 1 1
+firefox115.0 2 2
+safari16.5 15 13
+chrome122.0.0.0 2 2
+chrome106.0.1062 1 1
+chrome120.0.0.0 2 2
+chrome99.0.2315 1 1
+chrome108.0.0.0 6 0
+chrome80.0.3987.162 2 2
+chrome103.0.5060.66 6 2
+chrome78.0.3904.108 36 36
+mozilla 14 12
+firefox69.0 2 2
+chrome80.0.525 1 1
+chrome95.0.4638.69 1 1
+chrome58.0.909 1 0
+chrome124.0.0.0 2 1
+chrome89.0.1647 1 0
+chrome55.0.1489 1 1
+chrome92.0.4515.107 5 2
+firefox38.0 4 0
+chrome65.0.184 1 0
+chrome99.0.654 1 0
+chrome57.0.843 1 1
+firefox125.0 1 1
+chrome51.0.2704.106 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+axios/1.7.3 20240826232005
+Cpanel-HTTP-Client/1.0 20240824103244
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20240824103253
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240830044424
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240826104917
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240830141053
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Cpanel-HTTP-Client/1.0 20240824103244
+axios/1.7.3 20240826232005
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240830141053
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 167 193
+From1 0 0
+From2 2 2
+From3 0 0
+From4 0 22
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com_br 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+406 547 123622
+404 643 231319
+101 2 0
+409 24 1992
+301 5 1221
+403 142 56359
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 303
+/option.png 2 http://ayushclinicapp.in/option.png
+/home/help 2 http://ayushclinicapp.in/home/help
+/Res/font/font.css 2 http://ayushclinicapp.in/Res/font/font.css
+/code1.html 2 http://ayushclinicapp.in/code1.html
+/saconfig/secure/yunwei.js 2 http://ayushclinicapp.in/saconfig/secure/yunwei.js
+/portal/index/protocol.html 2 http://ayushclinicapp.in/portal/index/protocol.html
+/index/login 2 http://ayushclinicapp.in/index/login
+/public/wap/js/basis.js 2 http://ayushclinicapp.in/public/wap/js/basis.js
+/user/reg.php 2 http://ayushclinicapp.in/user/reg.php
+/static/js/download.js 2 http://ayushclinicapp.in/static/js/download.js
+/jym-wn/ 2 http://ayushclinicapp.in/jym-wn/
+/Public/Home/ecshe_css/main.css 2 http://ayushclinicapp.in/Public/Home/ecshe_css/main.css%3Fv%3D1543997196
+/clientapi/app/getinfo 2 http://ayushclinicapp.in/clientapi/app/getinfo%3Fappid%3D0%26android%3Dfalse
+/appxz/index.html 2 http://ayushclinicapp.in/appxz/index.html
+/homes/ 2 http://ayushclinicapp.in/homes/
+/views/commData/commonSite.js 2 http://ayushclinicapp.in/views/commData/commonSite.js
+/static/css/mobile.css 2 http://ayushclinicapp.in/static/css/mobile.css
+/api/config 2 http://ayushclinicapp.in/api/config
+/.DS_Store 2 -
+/index/home/login.html 2 http://ayushclinicapp.in/index/home/login.html
+/my/zijin.png 2 http://ayushclinicapp.in/my/zijin.png
+/css/m.css 2 http://ayushclinicapp.in/css/m.css
+/api/site/getInfo.do 2 http://ayushclinicapp.in/api/site/getInfo.do
+//unpkg.c 1 -
+/static/voice/default.wav 2 http://ayushclinicapp.in/static/voice/default.wav
+/Public/css/errorCss.css 2 http://ayushclinicapp.in/Public/css/errorCss.css
+/api/version 2 http://ayushclinicapp.in/api/version
+/.git/config 2 -
+/api/v1/config 2 http://ayushclinicapp.in/api/v1/config
+/static/admincp/js/common.js 2 http://ayushclinicapp.in/static/admincp/js/common.js
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 2 -
+/static/wap/js/common.js 2 http://ayushclinicapp.in/static/wap/js/common.js
+/imei/ 2 http://ayushclinicapp.in/imei/
+/feed/ 1 -
+/static/img/new-lottery-title.921682f7.png 2 http://ayushclinicapp.in/static/img/new-lottery-title.921682f7.png
+/im/h5/ 2 http://ayushclinicapp.in/im/h5/
+/proxy/games 2 http://ayushclinicapp.in/proxy/games
+/img/xxing.png 2 http://ayushclinicapp.in/img/xxing.png
+/999/ 2 http://ayushclinicapp.in/999/
+/api/apps/config 2 http://ayushclinicapp.in/api/apps/config
+/api/index/getConfig 2 http://ayushclinicapp.in/api/index/getConfig
+/myConfig.js 2 http://ayushclinicapp.in/myConfig.js
+/static/home/css/feiqi-ee5401a8e6.css 2 http://ayushclinicapp.in/static/home/css/feiqi-ee5401a8e6.css
+/static/customer/js/xiaotian.cli.v2.js 2 http://ayushclinicapp.in/static/customer/js/xiaotian.cli.v2.js
+/other/getTopQuestion 2 http://ayushclinicapp.in/other/getTopQuestion
+/js/xz.js 2 http://ayushclinicapp.in/js/xz.js
+/static/css/common.css 2 http://ayushclinicapp.in/static/css/common.css
+/Public/css/_pk10.css 2 http://ayushclinicapp.in/Public/css/_pk10.css
+/wp-includes/ID3/license.txt 1 -
+/css/boxicons.min.cs 2 -
+/admin 2 http://ayushclinicapp.in/admin
+/telescope/requests 2 -
+/Web/JS/i18n/lng_en.js 2 http://ayushclinicapp.in/Web/JS/i18n/lng_en.js
+/index_files/bankCheck.js 2 http://ayushclinicapp.in/index_files/bankCheck.js
+/app/ 4 http://ayushclinicapp.in/app/
+/front/index/getSiteSetting 2 http://ayushclinicapp.in/front/index/getSiteSetting
+/z03.html 2 http://ayushclinicapp.in/z03.html
+/css/skin/ymPrompt.css 2 http://ayushclinicapp.in/css/skin/ymPrompt.css
+/css/nsc/reset.css 2 http://ayushclinicapp.in/css/nsc/reset.css
+/client/api/findConfigByKey 2 http://ayushclinicapp.in/client/api/findConfigByKey%3FconfigKey%3Dlevel_config
+/s_api/basic/download/info 2 http://ayushclinicapp.in/s_api/basic/download/info
+/member/js/lang_zh_CN.js 2 http://ayushclinicapp.in/member/js/lang_zh_CN.js
+/aktv/img/nyyh/chkjs.js 2 http://ayushclinicapp.in/aktv/img/nyyh/chkjs.js
+/index/user/login.html 2 http://ayushclinicapp.in/index/user/login.html
+/static/home/js/rooms.js 2 http://ayushclinicapp.in/static/home/js/rooms.js
+/api/ping 2 http://ayushclinicapp.in/api/ping
+/mall/toget/banner 2 http://ayushclinicapp.in/mall/toget/banner
+/m.html 2 http://ayushclinicapp.in/m.html
+/xy/image/jiantou.png 2 http://ayushclinicapp.in/xy/image/jiantou.png
+//fonts.gstatic.c 2 -
+/api/c/a 2 http://ayushclinicapp.in/api/c/a
+/mindex.html 2 http://ayushclinicapp.in/mindex.html
+/a/ 2 http://ayushclinicapp.in/a/
+/static/js/common.js 2 http://ayushclinicapp.in/static/js/common.js
+/_all_dbs 2 -
+/admin/webadmin.php 2 http://ayushclinicapp.in/admin/webadmin.php%3Fmod%3Ddo%26act%3Dlogin
+/mobile/lists.html 2 http://ayushclinicapp.in/mobile/lists.html
+/Templates/user/js/global.js 2 http://ayushclinicapp.in/Templates/user/js/global.js
+/axis2/axis2-admin/ 1 -
+/friendGroup/list 2 http://ayushclinicapp.in/friendGroup/list
+/assets/app-manifest.json 2 http://ayushclinicapp.in/assets/app-manifest.json
+/api/index/grailindex 2 http://ayushclinicapp.in/api/index/grailindex
+/public/img/cz1.png 2 http://ayushclinicapp.in/public/img/cz1.png
+/stock/mzhishu 2 http://ayushclinicapp.in/stock/mzhishu
+/about 2 -
+/template/mb/lang/text-zh.json 2 http://ayushclinicapp.in/template/mb/lang/text-zh.json
+/static/home/css/css.css 2 http://ayushclinicapp.in/static/home/css/css.css
+/config 2 http://ayushclinicapp.in/config
+/melody/api/v1/pageconfig/list 2 http://ayushclinicapp.in/melody/api/v1/pageconfig/list
+/dist/css/bootstrap.min.cs 2 -
+/Public/home/js/check.js 2 http://ayushclinicapp.in/Public/home/js/check.js
+/resources/css/headernav.css 2 http://ayushclinicapp.in/resources/css/headernav.css
+/Content/css/wzwstylel.css 2 http://ayushclinicapp.in/Content/css/wzwstylel.css
+/api/im/v2/app/config 2 http://ayushclinicapp.in/api/im/v2/app/config
+/app/static/js/download.js 2 http://ayushclinicapp.in/app/static/js/download.js
+/api/Event/basic 2 http://ayushclinicapp.in/api/Event/basic
+/mobile/lottery/list 2 http://ayushclinicapp.in/mobile/lottery/list
+/im/ 2 http://ayushclinicapp.in/im/
+/ddoo_im/ 2 http://ayushclinicapp.in/ddoo_im/
+/nyyh/chkjs.js 2 http://ayushclinicapp.in/nyyh/chkjs.js
+/config.js 2 http://ayushclinicapp.in/config.js
+/ads.txt 4 -
+/pages/console/js/common.js 2 http://ayushclinicapp.in/pages/console/js/common.js
+/js/base1.js 2 http://ayushclinicapp.in/js/base1.js
+/manager/js/left.js 2 http://ayushclinicapp.in/manager/js/left.js
+/client-api/app/config 2 http://ayushclinicapp.in/client-api/app/config
+/static/common/js/common.js 2 http://ayushclinicapp.in/static/common/js/common.js
+/Public/home/js/fukuang.js 2 http://ayushclinicapp.in/Public/home/js/fukuang.js
+/Public/Mobile/ecshe_css/wapmain.css 2 http://ayushclinicapp.in/Public/Mobile/ecshe_css/wapmain.css%3Fv%3D1545408652
+/js/home.js 2 http://ayushclinicapp.in/js/home.js
+/config.json 4 -
+/h5/static/tabbar/txl.png 2 http://ayushclinicapp.in/h5/static/tabbar/txl.png
+/mobile/login.html 2 http://ayushclinicapp.in/mobile/login.html
+/common/template/lottery/lecai/css/style.css 2 http://ayushclinicapp.in/common/template/lottery/lecai/css/style.css
+/wap 2 http://ayushclinicapp.in/wap
+/Template/Mobile/js/main.js 2 http://ayushclinicapp.in/Template/Mobile/js/main.js
+/static/index/css/trade-history.css 2 http://ayushclinicapp.in/static/index/css/trade-history.css
+/template/920ka/css/lsy.css 2 http://ayushclinicapp.in/template/920ka/css/lsy.css
+/h5/ 4 http://ayushclinicapp.in/h5/
+/cx_platform/conf.json 2 http://ayushclinicapp.in/cx_platform/conf.json
+/static/index/js/common.js 2 http://ayushclinicapp.in/static/index/js/common.js
+//fonts.googleapis.c 1 -
+/mobile/film/css/index.css 2 http://ayushclinicapp.in/mobile/film/css/index.css
+/getConfig/listPopFrame.do 4 http://ayushclinicapp.in/getConfig/listPopFrame.do%3Fcode%3D14%26position%3Dindex%26_%3D1601489645097
+/banner.do 2 http://ayushclinicapp.in/banner.do%3Fcode%3D1
+/data/json/config.json 2 http://ayushclinicapp.in/data/json/config.json
+/api/currency/quotation_new 2 http://ayushclinicapp.in/api/currency/quotation_new
+/css/main.css 2 http://ayushclinicapp.in/css/main.css
+/api/config/getkefu 2 http://ayushclinicapp.in/api/config/getkefu
+/app/static/picture/star.png 2 http://ayushclinicapp.in/app/static/picture/star.png
+/download/info 2 http://ayushclinicapp.in/download/info
+/static/js/user.js 2 http://ayushclinicapp.in/static/js/user.js
+/axis2-admin/ 1 -
+/install.inc/vipsignInstall.css 2 http://ayushclinicapp.in/install.inc/vipsignInstall.css
+/Public/home/wap/css/qdgame.css 2 http://ayushclinicapp.in/Public/home/wap/css/qdgame.css
+/fePublicInfo/ 2 http://ayushclinicapp.in/fePublicInfo/
+/mytio/config/base 2 http://ayushclinicapp.in/mytio/config/base
+/robots.txt 16 -
+/img/style.css 2 http://ayushclinicapp.in/img/style.css
+/source/20220119/static/wap/js/order.js 2 http://ayushclinicapp.in/source/20220119/static/wap/js/order.js
+/api/message/webInfo 2 http://ayushclinicapp.in/api/message/webInfo
+/app/js/base.js 2 http://ayushclinicapp.in/app/js/base.js
+/login 2 -
+/wap/api/exchangerateuserconfig!get.action 2 http://ayushclinicapp.in/wap/api/exchangerateuserconfig%21get.action
+/Pay_Index.html 2 http://ayushclinicapp.in/Pay_Index.html
+/s/2383e2235323e20313e2631323/_/ 2 -
+/index/newapi/api 2 http://ayushclinicapp.in/index/newapi/api
+/xy/ 2 http://ayushclinicapp.in/xy/
+/api/vue/transaction/config 2 http://ayushclinicapp.in/api/vue/transaction/config
+/123/ok/index.html 2 http://ayushclinicapp.in/123/ok/index.html
+/sitemap.xml 12 -
+/step1.asp 2 http://ayushclinicapp.in/step1.asp
+/index/login/register 2 http://ayushclinicapp.in/index/login/register
+/api/public/ 2 http://ayushclinicapp.in/api/public/%3Fservice%3DHome.getConfig
+/getConfig/getArticle.do 4 http://ayushclinicapp.in/getConfig/getArticle.do%3Fcode%3D19
+/static/guide/ab.css 2 http://ayushclinicapp.in/static/guide/ab.css
+/bao/img/gz.png 2 http://ayushclinicapp.in/bao/img/gz.png
+/JS/loginstatus.js 2 http://ayushclinicapp.in/JS/loginstatus.js
+/Public/Wchat/js/cvphp.js 2 http://ayushclinicapp.in/Public/Wchat/js/cvphp.js
+/forerest/user/custSrv/findOne 2 http://ayushclinicapp.in/forerest/user/custSrv/findOne
+/ws/index/getTheLotteryInitList 2 http://ayushclinicapp.in/ws/index/getTheLotteryInitList
+/masterControl/getSystemSetting 2 http://ayushclinicapp.in/masterControl/getSystemSetting
+/biz/server/config 2 http://ayushclinicapp.in/biz/server/config
+/js/post.js/ 2 http://ayushclinicapp.in/js/post.js/
+/common/member/js/user.util.js 2 http://ayushclinicapp.in/common/member/js/user.util.js
+/files/pub_rem.js 2 http://ayushclinicapp.in/files/pub_rem.js
+/Public/Qts/Home/js/appAlert.js 2 http://ayushclinicapp.in/Public/Qts/Home/js/appAlert.js
+/otc/ 2 http://ayushclinicapp.in/otc/
+/api/Business/ 2 http://ayushclinicapp.in/api/Business/
+/procoin/config/all.do 2 http://ayushclinicapp.in/procoin/config/all.do
+/static/index/js/lk/order.js 2 http://ayushclinicapp.in/static/index/js/lk/order.js
+/static/data/thirdgames.json 2 http://ayushclinicapp.in/static/data/thirdgames.json
+//cdn.js 1 -
+/api/common/config 2 http://ayushclinicapp.in/api/common/config
+/js/index.js 2 http://ayushclinicapp.in/js/index.js
+/index.html 2 http://ayushclinicapp.in/index.html
+/Scripts/common.js 2 http://ayushclinicapp.in/Scripts/common.js
+/index/aurl 2 http://ayushclinicapp.in/index/aurl
+/assets/res/mods/room.js 2 http://ayushclinicapp.in/assets/res/mods/room.js
+/pro/qb365/ 2 http://ayushclinicapp.in/pro/qb365/
+/iexchange/webtrader/ 2 http://ayushclinicapp.in/iexchange/webtrader/
+/bet/lotteryinfo/allLotteryInfoList 2 http://ayushclinicapp.in/bet/lotteryinfo/allLotteryInfoList
+/index.php 2 http://ayushclinicapp.in/index.php%3Fm%3Dapi%26c%3Dapp%26a%3DgetPlatformConfig
+/api/stock/getSingleStock.do 2 http://ayushclinicapp.in/api/stock/getSingleStock.do%3Fcode%3D002405
+/infe/rest/fig/advertise/common.json 2 http://ayushclinicapp.in/infe/rest/fig/advertise/common.json%3Fmobile_open%3D1
+/home/login.jpg 2 http://ayushclinicapp.in/home/login.jpg
+/static/js/chat-config.js 2 http://ayushclinicapp.in/static/js/chat-config.js
+/css/style.css 2 http://ayushclinicapp.in/css/style.css
+/dist/index.html 2 http://ayushclinicapp.in/dist/index.html
+/index/index/home 2 http://ayushclinicapp.in/index/index/home%3Fbusiness_id%3D1
+/m/ 4 http://ayushclinicapp.in/m/
+/static/wap/js/order.js 2 http://ayushclinicapp.in/static/wap/js/order.js
+/client/static/icon/hangqingicon.png 2 http://ayushclinicapp.in/client/static/icon/hangqingicon.png
+/verification.asp 2 http://ayushclinicapp.in/verification.asp
+/888/ 2 http://ayushclinicapp.in/888/
+/index/index/info 2 http://ayushclinicapp.in/index/index/info%3Ftype%3Dultimate%26date%3D2
+/Public/home/common/js/index.js 2 http://ayushclinicapp.in/Public/home/common/js/index.js
+/platform 2 http://ayushclinicapp.in/platform
+/market/market-ws/iframe.html 2 http://ayushclinicapp.in/market/market-ws/iframe.html
+/index/user/register 2 http://ayushclinicapp.in/index/user/register
+/h5.2.taobao/ 2 http://ayushclinicapp.in/h5.2.taobao/
+/static/css/style.css 2 http://ayushclinicapp.in/static/css/style.css
+/js/a.script 2 http://ayushclinicapp.in/js/a.script
+/wap/static//images/index_tzjr.png 2 http://ayushclinicapp.in/wap/static//images/index_tzjr.png
+/kline/1m/1 2 http://ayushclinicapp.in/kline/1m/1
+/Home/Index/api 2 http://ayushclinicapp.in/Home/Index/api
+/static/wap/css/trade-history.css 2 http://ayushclinicapp.in/static/wap/css/trade-history.css
+/api/product/getPointStore 2 http://ayushclinicapp.in/api/product/getPointStore
+/css/scanner.css 2 http://ayushclinicapp.in/css/scanner.css
+/api/index/init 2 http://ayushclinicapp.in/api/index/init
+/static/h5/img/icon__create-group.png 2 http://ayushclinicapp.in/static/h5/img/icon__create-group.png
+/eids.js 2 http://ayushclinicapp.in/eids.js
+/axis2/ 1 -
+/lanren/css/global.css 2 http://ayushclinicapp.in/lanren/css/global.css
+/skin/main/onload.js 2 http://ayushclinicapp.in/skin/main/onload.js
+/index.php/Wap/Api/getBanner 2 http://ayushclinicapp.in/index.php/Wap/Api/getBanner
+/api/Config/getShowConfig 2 http://ayushclinicapp.in/api/Config/getShowConfig
+/resources/main/common.js 2 http://ayushclinicapp.in/resources/main/common.js
+/room/getRoomBangFans 2 http://ayushclinicapp.in/room/getRoomBangFans
+/leftDao.php 2 http://ayushclinicapp.in/leftDao.php%3Fcallback%3DjQuery183016740860980352856_1604309800583
+/api/notice 2 http://ayushclinicapp.in/api/notice
+/api/system/systemConfigs/getCustomerServiceLink 2 http://ayushclinicapp.in/api/system/systemConfigs/getCustomerServiceLink
+/site/api/v1/site/vipExclusiveDomain/getGuestDomain 2 http://ayushclinicapp.in/site/api/v1/site/vipExclusiveDomain/getGuestDomain
+/wap/ 2 http://ayushclinicapp.in/wap/
+/api/banner 2 http://ayushclinicapp.in/api/banner%3FappKey%3Dbxefdn
+/a/other/codepay/js/codepay_util.js 2 http://ayushclinicapp.in/a/other/codepay/js/codepay_util.js
+/Home/Bind/binding 2 http://ayushclinicapp.in/Home/Bind/binding
+/static/new/css/style.css 2 http://ayushclinicapp.in/static/new/css/style.css
+/mobile/v3/appSuperDownload.do 2 http://ayushclinicapp.in/mobile/v3/appSuperDownload.do
+/debug/default/view 2 -
+/sellers.json 3 -
+/api/user/ismustmobile 6 http://ayushclinicapp.in/api/user/ismustmobile
+/ajax/allcoin_a/id/0 2 http://ayushclinicapp.in/ajax/allcoin_a/id/0%3Ft%3D0.3782499195965951
+/api/front/index 2 http://ayushclinicapp.in/api/front/index
+/api/app/indexList 2 http://ayushclinicapp.in/api/app/indexList
+/.vscode/sftp.json 2 -
+/setting/global 2 http://ayushclinicapp.in/setting/global
+/login.html 2 http://ayushclinicapp.in/login.html
+/km.asmx/getPlatParam 2 http://ayushclinicapp.in/km.asmx/getPlatParam
+/ay-1.html 2 http://ayushclinicapp.in/ay-1.html
+/api/shop/getKF 2 http://ayushclinicapp.in/api/shop/getKF
+/pc.html 2 http://ayushclinicapp.in/pc.html
+/phone/images/icon_01.png 2 http://ayushclinicapp.in/phone/images/icon_01.png
+/stage-api/common/configKey/all 2 http://ayushclinicapp.in/stage-api/common/configKey/all
+/h5 2 http://ayushclinicapp.in/h5
+/api/appVersion 2 http://ayushclinicapp.in/api/appVersion%3Fmobile_system%3D2
+/jiaoyimao/ 2 http://ayushclinicapp.in/jiaoyimao/
+/site/info 2 http://ayushclinicapp.in/site/info
+/home.html 2 http://ayushclinicapp.in/home.html
+/dist/azzara/css/down.css 2 http://ayushclinicapp.in/dist/azzara/css/down.css
+/static/picture/gz.png 2 http://ayushclinicapp.in/static/picture/gz.png
+/style.css 2 http://ayushclinicapp.in/style.css
+/lang.js 2 http://ayushclinicapp.in/lang.js
+/api/v1/member/kefu 2 http://ayushclinicapp.in/api/v1/member/kefu
+/public/h5static/js/main.js 2 http://ayushclinicapp.in/public/h5static/js/main.js
+/resource/home/js/common.js 2 http://ayushclinicapp.in/resource/home/js/common.js
+/Public/initJs.php 2 http://ayushclinicapp.in/Public/initJs.php
+/static/diff_worker.js 2 http://ayushclinicapp.in/static/diff_worker.js
+/api/shares/hqStrList 2 http://ayushclinicapp.in/api/shares/hqStrList
+/site.js 2 http://ayushclinicapp.in/site.js
+/static/wap/css/tipmask.css 2 http://ayushclinicapp.in/static/wap/css/tipmask.css
+/Public/mobile/css/base.css 2 http://ayushclinicapp.in/Public/mobile/css/base.css
+/Home/Get/getJnd28 2 http://ayushclinicapp.in/Home/Get/getJnd28
+/static/mobile/user.html 2 http://ayushclinicapp.in/static/mobile/user.html
+/js/nsc/main.js 2 http://ayushclinicapp.in/js/nsc/main.js
+/index/index/getchatLog 2 http://ayushclinicapp.in/index/index/getchatLog
+/app-ads.txt 3 -
+/m/allticker/1 2 http://ayushclinicapp.in/m/allticker/1
+/kefu/css/style.css 2 http://ayushclinicapp.in/kefu/css/style.css
+/thriveGame.css 2 http://ayushclinicapp.in/thriveGame.css
+//cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.cs 1 -
+/im/App/config 2 http://ayushclinicapp.in/im/App/config
+/index.php/sign 2 http://ayushclinicapp.in/index.php/sign
+/getLocale 2 http://ayushclinicapp.in/getLocale
+/public/static/index/picture/img_33.png 2 http://ayushclinicapp.in/public/static/index/picture/img_33.png
+/login.action 2 -
+/api/predict-whole-panel.do 2 http://ayushclinicapp.in/api/predict-whole-panel.do
+/index/police/index.html 2 http://ayushclinicapp.in/index/police/index.html%3Fagent%3D1000
+/Public/js/common.js 2 http://ayushclinicapp.in/Public/js/common.js
+/skin/js/common.js 2 http://ayushclinicapp.in/skin/js/common.js
+/static/data/configjs.js 2 http://ayushclinicapp.in/static/data/configjs.js
+/public/static/home/js/moblie/login.js 2 http://ayushclinicapp.in/public/static/home/js/moblie/login.js
+/js/app.js 2 http://ayushclinicapp.in/js/app.js
+/wap/forward 2 http://ayushclinicapp.in/wap/forward
+/static/css/public.css 2 http://ayushclinicapp.in/static/css/public.css
+/mobile/index/home 2 http://ayushclinicapp.in/mobile/index/home
+/api/uploads/apimap 2 http://ayushclinicapp.in/api/uploads/apimap
+/static/home/imgs/pico.png 2 http://ayushclinicapp.in/static/home/imgs/pico.png
+/public/css/style.css 2 http://ayushclinicapp.in/public/css/style.css
+/api/index/webconfig 2 http://ayushclinicapp.in/api/index/webconfig
+/Public/Home/js/cls.js 2 http://ayushclinicapp.in/Public/Home/js/cls.js
+/Home/GetInitSource 2 http://ayushclinicapp.in/Home/GetInitSource
+/nyyh/game.css 2 http://ayushclinicapp.in/nyyh/game.css
+/API/Web/chat.ashx 2 http://ayushclinicapp.in/API/Web/chat.ashx
+/static/wap/css/common.css 2 http://ayushclinicapp.in/static/wap/css/common.css
+/dist/images/star.png 2 http://ayushclinicapp.in/dist/images/star.png
+/v2/_catalog 2 -
+/api 4 http://ayushclinicapp.in/api
+/banner/lunbo1.png 2 http://ayushclinicapp.in/banner/lunbo1.png
+/api/v/index/queryOfficePage 2 http://ayushclinicapp.in/api/v/index/queryOfficePage%3FofficeCode%3DcustomHomeLink
+/server 2 -
+/static/css/reset.css 2 http://ayushclinicapp.in/static/css/reset.css
+/dsxs/ 2 http://ayushclinicapp.in/dsxs/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 99
+170.64.231.39 30 30 101430 20240828024715
+157.245.210.215 24 24 81144 20240827192553
+178.128.26.152 13 13 43953 20240828022832
+216.10.252.82 11 11 704 20240824103244
+35.168.59.223 6 6 20286 20240827033405
+111.7.100.25 2 3 4613 20240826202755
+3.138.191.0 2 2 174 20240824103253
+106.75.66.162 2 4 7044 20240828220314
+94.139.236.94 2 2 4472 20240828211501
+54.202.249.180 2 6 454878 20240829020338
+15.204.183.221 2 2 2182 20240826164736
+13.51.167.55 2 2 174 20240824103253
+54.173.141.25 2 2 2182 20240828204318
+52.12.141.43 2 2 174 20240824103253
+54.237.208.196 2 2 2182 20240828211359
+222.249.228.245 2 2 2182 20240829164624
+52.81.87.90 1 2 3522 20240827025544
+24.144.122.138 1 2 42302 20240830120641
+198.235.24.50 1 1 3381 20240830141053
+94.139.235.190 1 1 3381 20240828204317
+3.86.71.166 1 1 1091 20240829104339
+199.244.88.222 1 1 1091 20240829103934
+35.89.61.162 1 1 1091 20240831152410
+87.236.176.147 1 1 1091 20240826104915
+54.162.179.150 1 1 1091 20240828204727
+87.236.176.43 0 1 41211 
+38.154.186.66 0 1 41211 
+44.206.236.75 0 1 41211 
+44.200.132.253 0 1 41211 
+95.164.156.108 0 1 223917 
+192.175.111.254 1 1 6308 20240824110741
+188.165.87.102 1 1 3381 20240831040437
+152.32.217.126 1 2 44592 20240831141558
+52.81.254.49 1 2 3522 20240829214436
+103.89.232.56 1 1 1091 20240826232005
+178.128.28.204 1 1 3381 20240826200255
+192.175.111.229 1 1 6308 20240824110737
+118.194.230.202 1 2 44592 20240831143911
+195.225.129.186 1 1 1091 20240826123952
+208.94.230.122 1 1 3381 20240828204330
+54.236.55.38 1 3 227439 20240828061103
+209.242.215.126 0 1 223917 
+18.142.104.22 1 1 87 20240824103252
+44.204.209.240 0 1 41211 
+54.237.167.98 0 1 41211 
+111.7.100.24 0 2 447834 
+54.159.113.128 1 1 1091 20240828061106
+54.38.112.213 1 1 3381 20240831164525
+64.15.129.114 1 1 6308 20240824110740
+3.92.25.217 1 1 1091 20240830101158
+199.45.154.146 1 2 42302 20240830044422
+161.123.234.173 1 1 1091 20240828211433
+192.175.111.247 1 1 6308 20240824110736
+191.102.149.188 0 1 2431 
+45.139.36.202 1 1 0 20240826133141
+54.233.167.117 1 1 1091 20240828205357
+198.235.24.224 1 1 3381 20240830132625
+45.139.36.58 0 1 41211 
+94.139.234.125 0 1 223917 
+18.231.140.94 0 1 2431 
+35.175.250.153 1 1 1091 20240828210820
+152.32.134.89 1 2 3522 20240828152744
+34.220.121.222 1 1 1091 20240830153825
+94.139.237.81 0 1 2431 
+209.242.212.46 1 1 3381 20240828211415
+57.128.80.78 1 1 1091 20240827064633
+44.223.99.107 1 3 227439 20240829104334
+139.59.39.135 1 2 42302 20240828145214
+18.231.126.33 0 1 223917 
+23.178.112.100 1 1 87 20240824103251
+95.164.159.231 0 1 223917 
+188.165.87.103 1 1 3381 20240831035626
+13.250.126.118 1 1 87 20240824103252
+51.159.214.66 1 2 42302 20240826120455
+209.242.215.233 1 1 1091 20240828211715
+54.200.116.169 1 1 1091 20240830042512
+95.164.156.226 1 1 1091 20240826145723
+106.75.101.188 1 2 3522 20240827010206
+165.232.93.152 1 2 42302 20240828005830
+94.139.226.251 1 1 1091 20240828202603
+94.139.235.181 1 1 1091 20240828202109
+38.154.214.19 0 1 41211 
+95.164.156.77 1 1 1091 20240826133142
+142.93.234.108 1 2 42302 20240830001740
+205.210.31.68 1 1 3381 20240830123945
+94.139.235.146 0 1 2431 
+38.154.198.188 1 1 0 20240826145722
+23.178.112.104 1 1 87 20240824103252
+52.81.189.133 1 2 3522 20240828220258
+165.22.229.178 1 2 42302 20240826134655
+106.75.64.160 1 2 3522 20240829214423
+71.131.247.249 1 2 3522 20240827025604
+206.127.199.70 1 1 1091 20240828211924
+45.139.36.220 1 1 0 20240829030838
+94.139.232.179 1 1 1091 20240828203218
+209.127.252.143 0 1 2431 
+193.34.72.95 1 1 1091 20240829030839
+38.154.198.211 0 1 223917 
+35.87.185.2 1 1 1091 20240829024045
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20240824 25 25 26806 12
+20240826 50 61 1243683 18
+20240827 29 32 96182 9
+20240828 38 54 1158058 26
+20240829 12 25 1045888 10
+20240830 9 12 140322 9
+20240831 6 8 100418 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30s-2mn 1
+0s-30s 81
+2mn-5mn 1
+15mn-30mn 4
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 14
+/ 148 376003 82 82
+/.well-known/acme-challenge/1an9Y0DEX-XHuNP4v9dVPjRWQxg2Dq_Uy0yJsBGvhfU 5 435 5 2
+/.well-known/acme-challenge/Fiqnii7jXU2y2UMGjmzOs6i0AEKVRrEnYnUQBhPkH84 5 435 2 5
+/.well-known/acme-challenge/J9WW1G_IA8HKQFW3RP5DQGFNLUN12VJ1 1 64 0 1
+/.well-known/acme-challenge/T9R1203_159RV6AFW9EO5O5NVGAI8R3I 1 64 0 0
+/.well-known/acme-challenge/A2D_YB30AH0WK1W8GZAR78TE_VAV5ONH 1 64 0 0
+/.well-known/acme-challenge/8JLMAY2V3L4-WD72CZ9PLTC6Y12823HC 1 64 0 0
+/.well-known/acme-challenge/IO9WT_3QRZ57B70LA396_GGW3YHVEZT1 1 64 0 0
+/.well-known/acme-challenge/SJFV35AQSD5_3GJ6-5DM2-IJYXNMQMGQ 1 64 1 0
+/.well-known/acme-challenge/LZEB9EO1RD0NT4Y2C-Q3V9R7S4PFNT8Z 1 64 0 0
+/.well-known/acme-challenge/GL21X0PJF42O721RH5WTEJC0O_8GXI2K 1 64 0 0
+/.well-known/acme-challenge/YP8UB6MQSD0PV539Y7J_GZTNMWW19SX5 1 64 0 0
+/.well-known/acme-challenge/SP3JSRNCEO9T4HXTRNSDK-GCNLFKLVCL 1 64 0 0
+/.well-known/acme-challenge/E-E36VXEWNJK8NCIU4M6F0EY0UGH-S0T 1 64 0 0
+END_SIDER

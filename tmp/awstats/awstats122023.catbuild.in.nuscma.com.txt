@@ -1,0 +1,633 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202312 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/awstats.catbuild.in.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2694                
+POS_VISITOR 8501                
+POS_DAY 15339               
+POS_DOMAIN 3396                
+POS_LOGIN 3855                
+POS_ROBOT 4010                
+POS_WORMS 4237                
+POS_EMAILSENDER 4368                
+POS_EMAILRECEIVER 4511                
+POS_SESSION 16107               
+POS_SIDER 16314               
+POS_FILETYPES 4646                
+POS_DOWNLOADS 4881                
+POS_OS 4929                
+POS_BROWSER 5174                
+POS_SCREENSIZE 5823                
+POS_UNKNOWNREFERER 5897                
+POS_UNKNOWNREFERERBROWSER 6453                
+POS_ORIGIN 6820                
+POS_SEREFERRALS 6960                
+POS_PAGEREFS 7123                
+POS_SEARCHWORDS 7271                
+POS_KEYWORDS 7423                
+POS_MISC 2358                
+POS_ERRORS 7482                
+POS_CLUSTER 3711                
+POS_SIDER_404 7620                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240101043152 2 108 11506893579062
+FirstTime 20231201085059
+LastTime 20231231165543
+LastUpdate 20240101184824 2 0 1 0 0
+TotalVisits 146                 
+TotalUnique 139                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 192                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 29 642260 6 11 30388
+1 10 63 1577050 2 2 584
+2 2 19 498310 2 2 26223
+3 2 2 51730 1 1 25865
+4 2 2 61740 5 5 1790
+5 4 4 85995 1 2 583
+6 2 2 16800 2 2 25865
+7 2 2 16800 0 0 0
+8 109 126 770518 5 5 358
+9 4 4 86084 0 1 226
+10 24 134 2385463 8 9 0
+11 14 15 107727 2 4 0
+12 44 45 60424 3 4 26223
+13 35 54 46320 2 8 1714
+14 1 1 8400 2 2 25865
+15 719 721 915681 18 20 25865
+16 341 381 221234 5 7 716
+17 173 210 2117256 7 7 27655
+18 57 264 6193143 1 11 358
+19 72 93 811696 6 8 87831
+20 164 241 4866480 9 17 2963
+21 3 3 77595 1 1 25915
+22 4 4 68530 1 1 25865
+23 5 6 63160 1 2 25865
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 18
+us 1772 2354 19898786
+ca 22 23 565613
+fr 3 3 77595
+au 2 4 106201
+ph 2 19 498310
+se 1 1 8400
+gb 1 2 18699
+in 1 1 56108
+de 1 1 8439
+dk 0 1 25239
+ir 0 1 112971
+kr 0 1 119
+ru 0 3 129548
+iq 0 2 2934
+bd 0 3 31620
+ua 0 1 24753
+ro 0 4 147043
+bg 0 1 38018
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 14 372170 20231231192158 0
+survey 2 0 20231231053649 0
+curl 1 0 20231203130719 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+svg 4 17642 0 0
+jpg 1 9655 0 0
+css 211 2238000 0 0
+woff 25 1234376 0 0
+js 239 7502796 0 0
+php 1606 2075266 0 0
+png 165 6447358 0 0
+woff2 6 391824 0 0
+html 168 1833479 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+ios_iphone 59 8
+ios_ipad 18 18
+macosx 1 1
+linux 293 54
+macosx9 1 1
+android10 48 10
+unix 1 1
+win10 1841 1644
+linuxubuntu 3 3
+macosx11 40 20
+android 59 5
+macosx15 2 2
+Unknown 59 38
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 30
+chrome66.0.3359.181 12 12
+netscape5.0 1 1
+mozilla 36 15
+chrome100.0.4896.75 19 2
+safari16.1 19 2
+chrome117.0.5938.132 58 5
+safari 38 4
+chrome95.0.4638.54 2 2
+chrome106.0.0.0 3 1
+Unknown 21 21
+chrome119.0.0.0 22 4
+firefox33.0 2 2
+chrome111.0.0.0 47 9
+chrome108.0.5359.220 19 2
+safari11.0 18 18
+firefox98.0 1 1
+chrome80.0.3987.162 1 1
+chrome113.0.0.0 1 1
+firefox115.0 3 3
+safari16.5 2 2
+firefox47.0 1 1
+chrome51.0.2704.64 1 1
+firefox65.0 2 2
+chrome83.0.4103.97 23 23
+firefox52.0 40 20
+chrome112.0.0.0 2 1
+chrome76.0.3809.100 2 2
+chrome68.0.3440.106 228 24
+chrome120.0.0.0 1781 1621
+firefox119.0 20 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20231231043626
+Mozilla/5.0_(compatible;_Dataprovider.com) 20231228003242
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20231227191545
+Mozilla/5.0_Firefox/33.0 20231227092840
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20231231043626
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 252 281
+From1 0 0
+From2 1 1
+From3 0 0
+From4 1552 2143
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+406 11 2486
+404 34 13747
+301 1 231
+409 1 83
+500 12 0
+302 34 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 18
+/install.php 1 -
+/humans.txt 1 -
+/wordpress/wp-admin/setup-config.php 1 www.google.com
+/sitemap.xml 1 -
+/.git/config 6 -
+/security.txt 1 -
+/wp-admin/setup-config.php 1 www.google.com
+/util/login.aspx 1 -
+/OLD/wp-admin/setup-config.php 1 www.google.com
+/old/wp-admin/setup-config.php 1 www.google.com
+/register.html 2 -
+/magento_version 1 -
+/app/docs/2023-12-08%2008:50:02-googlelogo_color_272x92dp.png 7 http://catbuild.in/app/contractor_pay.php
+/ads.txt 1 -
+/backup/wp-admin/setup-config.php 1 www.google.com
+/.DS_Store 4 -
+/.well-known/security.txt 1 -
+/robots.txt 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 192
+157.49.233.86 874 876 922710 20231231165543
+157.51.194.219 217 256 312097 20231219172059
+157.49.211.53 134 155 2019505 20231209205850
+157.51.193.31 105 105 237066 20231220084228
+157.51.195.73 104 104 86295 20231221153131
+157.49.235.127 68 69 26756 20231230133116
+157.49.211.237 63 66 228895 20231209192825
+34.38.131.200 20 40 1296387 20231211172823
+157.51.198.129 16 53 25723 20231228110413
+157.49.79.230 15 54 2275542 20231208202952
+149.56.160.216 10 10 143911 20231228003217
+157.49.213.113 10 10 12943 20231209205704
+157.49.65.105 9 47 1856801 20231228232713
+15.228.195.255 3 3 25200 20231213124551
+45.87.9.254 2 2 16800 20231215074322
+149.56.160.184 2 19 498349 20231228003242
+184.94.240.88 2 2 35103 20231201085101
+35.93.35.243 2 19 498310 20231206200139
+35.92.56.57 2 19 498349 20231225185018
+45.87.9.175 2 2 16800 20231210013450
+44.236.207.248 2 20 508609 20231209184927
+203.118.245.36 2 19 498310 20231204105258
+8.41.221.51 2 2 34354 20231227092840
+18.237.11.36 2 19 498310 20231216175820
+52.41.21.166 2 19 498349 20231223184219
+209.170.91.200 1 9 353030 20231229082002
+157.49.205.232 1 1 6288 20231209192302
+198.235.24.56 1 1 25865 20231219220919
+34.209.191.236 1 1 8439 20231225185012
+34.219.82.115 1 1 8439 20231227184148
+35.89.205.192 1 1 8439 20231224180535
+35.88.72.186 1 1 8400 20231211180509
+188.212.142.109 0 1 101286 
+65.154.226.167 1 2 14652 20231203010329
+152.39.216.160 0 1 25239 
+34.220.148.201 1 1 8439 20231224180450
+206.204.37.180 0 1 24244 
+205.210.31.94 1 1 25915 20231226200309
+199.45.154.51 1 2 18738 20231227191544
+18.231.142.99 1 1 8400 20231201194150
+216.194.86.154 0 1 3938 
+131.202.14.152 1 1 8400 20231206055034
+198.235.24.148 1 1 25865 20231209175704
+54.71.138.18 1 1 8400 20231216175817
+161.129.174.138 0 1 8178 
+45.87.9.60 1 1 8400 20231206224305
+176.223.107.44 0 1 38018 
+168.151.126.17 0 1 35441 
+180.149.9.102 0 1 3938 
+188.165.87.103 1 1 25865 20231204211535
+34.213.197.255 1 1 8400 20231206200130
+168.151.97.14 0 1 24753 
+168.151.197.2 0 1 10943 
+54.70.118.201 1 1 8400 20231215184729
+35.166.25.94 1 1 8439 20231222183232
+193.142.103.188 0 1 25239 
+205.210.31.234 1 1 25865 20231220102619
+93.180.239.102 0 1 24753 
+45.87.9.28 1 1 8400 20231201194148
+89.34.78.187 0 1 119 
+52.10.188.224 1 1 8400 20231203183038
+35.166.114.184 1 1 8400 20231205183719
+168.151.184.235 1 1 8400 20231210025435
+45.87.9.190 1 1 8400 20231206224304
+51.159.103.13 1 2 18699 20231203130721
+198.235.24.236 1 1 25865 20231207044828
+45.87.9.188 1 1 8400 20231208114956
+54.185.57.21 1 1 8439 20231225185210
+3.93.144.124 1 1 8400 20231220192740
+198.235.24.198 1 1 25915 20231224014811
+168.151.111.22 0 1 20062 
+205.237.95.203 0 1 1598 
+152.39.139.91 0 1 2815 
+198.235.24.240 1 1 25865 20231216095305
+65.154.226.171 0 1 24753 
+34.219.216.10 2 19 498310 20231217183249
+157.49.205.136 2 20 1756 20231201135433
+157.51.195.145 2 2 0 20231221153121
+35.91.246.175 1 1 8400 20231211180446
+44.226.204.253 2 19 498369 20231229182719
+213.188.83.106 0 1 119 
+44.193.25.146 1 1 8400 20231209104953
+45.87.9.15 1 1 8400 20231204064606
+157.51.192.190 1 1 68 20231227124057
+213.188.69.196 0 1 2815 
+161.123.111.55 0 1 119 
+34.221.51.221 1 1 8400 20231207191337
+34.221.156.254 2 20 460901 20231202183807
+52.12.79.195 1 1 8400 20231201184547
+35.87.15.200 1 1 8400 20231202183553
+152.39.254.97 0 1 10325 
+157.51.194.175 2 2 10117 20231220105633
+157.46.77.208 2 2 0 20231231163320
+35.86.2.178 2 19 498310 20231204185240
+198.240.78.153 0 1 20062 
+168.151.96.75 0 1 10943 
+205.210.31.154 1 1 35875 20231231043626
+150.129.93.118 1 1 8400 20231202011111
+52.36.38.234 1 19 452501 20231202183814
+35.85.145.116 1 1 8439 20231223184211
+94.247.172.129 1 1 8400 20231202163216
+35.91.78.7 1 1 8400 20231219183835
+206.204.37.176 1 1 8400 20231217011047
+94.176.57.32 0 1 112971 
+198.235.24.100 1 1 25865 20231209195642
+119.13.202.39 0 1 35441 
+168.151.125.117 0 1 1598 
+168.151.116.249 0 1 8178 
+198.235.24.51 1 1 25865 20231201171935
+35.89.252.133 1 1 25865 20231211220828
+152.39.157.173 0 1 25239 
+34.215.72.98 1 1 8459 20231229182704
+205.210.31.224 1 1 25865 20231220203702
+154.37.97.149 0 1 38018 
+35.89.223.215 1 1 8400 20231215185112
+199.45.154.18 1 2 18699 20231213114033
+152.39.162.202 0 1 101286 
+35.160.91.209 1 1 8400 20231201184618
+34.212.32.150 1 1 8439 20231222183222
+168.151.184.111 0 1 1598 
+157.51.193.192 2 2 0 20231219165833
+52.27.15.101 2 19 498310 20231205183726
+188.241.207.88 0 1 7620 
+35.89.164.36 1 1 8400 20231211181202
+157.51.198.127 2 20 8406 20231222101157
+54.212.155.254 1 1 8400 20231217183245
+34.116.152.38 2 19 498310 20231203010239
+198.235.24.119 1 1 25865 20231205055000
+45.142.96.30 1 1 56108 20231217011050
+157.51.199.123 2 2 0 20231201114439
+180.149.18.106 0 1 7620 
+206.204.1.8 0 1 112971 
+18.237.135.196 1 1 8400 20231218181933
+35.86.234.202 2 19 498310 20231218181938
+152.39.248.107 0 1 24244 
+34.217.60.126 1 1 8439 20231227182741
+209.170.91.201 0 2 55503 
+205.210.31.171 1 1 25865 20231208034737
+15.228.181.252 1 1 8400 20231213124548
+205.210.31.108 1 1 25865 20231220092504
+206.204.38.152 0 1 7620 
+161.129.164.250 0 1 24753 
+216.109.167.110 0 1 24244 
+54.191.215.235 2 19 498349 20231224181334
+35.88.162.48 1 1 8439 20231224180611
+205.210.31.5 1 1 25865 20231220235236
+205.210.31.67 2 2 51730 20231216110044
+34.216.85.71 1 1 8400 20231211145810
+198.235.24.95 1 1 25865 20231205035143
+168.151.246.10 0 1 8178 
+54.149.38.59 1 1 8400 20231201184547
+168.151.98.18 0 1 10943 
+205.237.95.148 0 1 3938 
+188.165.87.98 1 1 25865 20231204210437
+35.90.143.197 1 1 8400 20231211181133
+199.45.155.19 2 4 37437 20231227160849
+185.246.174.83 0 1 6252 
+176.9.99.30 1 1 8439 20231224172133
+152.39.221.188 0 1 2815 
+205.210.31.59 1 1 25865 20231215133917
+180.149.7.30 0 1 20062 
+198.235.24.16 1 1 25865 20231207053349
+34.221.62.204 1 1 8400 20231212183031
+15.228.167.219 1 1 8400 20231210013449
+168.151.119.202 0 1 101286 
+119.12.206.79 1 1 56108 20231210025437
+52.67.179.39 1 1 8400 20231205154540
+45.87.9.124 2 2 16800 20231204064605
+54.70.41.104 1 1 8439 20231225185242
+54.244.197.246 1 1 8439 20231224181328
+54.185.216.223 1 1 8400 20231201184609
+152.39.137.60 0 1 10325 
+152.39.240.8 1 1 56108 20231202011115
+54.190.185.72 1 1 8400 20231219183806
+34.212.39.208 2 19 498310 20231207191344
+157.49.201.251 1 1 0 20231207153558
+185.246.175.190 0 1 112971 
+45.87.9.156 1 1 8400 20231215074320
+216.19.199.203 0 1 35441 
+205.210.31.71 1 1 25865 20231216153846
+157.49.220.26 2 2 0 20231230125620
+119.13.203.62 0 1 6252 
+45.87.9.109 1 1 8400 20231205154540
+188.165.87.97 1 1 25865 20231204211228
+34.214.23.217 2 19 498349 20231227184153
+35.87.209.85 1 1 8400 20231215185151
+34.217.62.175 1 1 8400 20231202183553
+185.246.175.181 0 1 10325 
+209.170.91.202 1 8 89816 20231229082000
+34.222.220.235 1 1 8400 20231204185234
+74.85.208.63 0 1 6252 
+91.92.20.54 0 1 38018 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20231201 13 31 113124 10
+20231202 11 64 1479577 10
+20231203 5 25 564814 4
+20231204 10 44 1099415 8
+20231205 8 26 593939 7
+20231206 6 23 531910 5
+20231207 6 23 558440 5
+20231208 18 57 2318207 4
+20231209 213 255 2836370 8
+20231210 4 21 515110 4
+20231211 26 46 1364252 7
+20231212 1 1 8400 1
+20231213 5 6 52299 3
+20231215 6 6 67865 6
+20231216 6 23 584305 5
+20231217 5 39 1005020 4
+20231218 3 20 506710 2
+20231219 222 261 354762 5
+20231220 112 112 359043 7
+20231221 106 106 86295 2
+20231222 4 22 25284 3
+20231223 3 20 506788 2
+20231224 8 25 566459 7
+20231225 5 22 523666 4
+20231226 1 1 25915 1
+20231227 9 28 587125 7
+20231228 37 129 2524784 6
+20231229 5 39 1005177 4
+20231230 70 71 26756 2
+20231231 877 879 958585 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 129
+30s-2mn 2
+1h+ 1
+30mn-1h 2
+2mn-5mn 3
+5mn-15mn 5
+15mn-30mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 84
+/build/ajax.php 1220 0 4 9
+/ 142 1713728 130 101
+/app/ajax.php 91 0 1 1
+/build/project_profile.php 57 717875 0 0
+/build/estmation_flow.php 36 282885 0 1
+/assets/fonts/themify9f24.woff 25 1234376 4 21
+/build/project_list.php 17 106206 0 0
+/build/ 12 24006 0 1
+/build/create_work.php 11 74124 0 0
+/build/dashboard.php 10 78683 0 0
+/app/project_profile.php 8 71804 0 0
+/build/print_pur.php 8 8866 0 0
+/build/quotations.php 8 55563 0 0
+/build/add_item_purchase.php 7 49010 0 0
+/build/item_usage.php 7 49264 0 0
+/app/quotations.php 6 41006 0 0
+/build/create_purchase.php 6 39837 0 0
+/build/register.php 6 10576 2 1
+/build/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2 5 261216 0 2
+/build/assign_resources.php 5 35242 0 0
+/build/function.php 5 380 3 2
+/build/pay_response.php 5 175 0 0
+/build/index.php 4 10270 0 1
+/about-us.html 4 25052 0 1
+/app/project_list.php 4 23896 0 0
+/build/contractor_list.php 1 5917 0 0
+/build/package.php 2 4708 0 1
+/app/contractor_payable.php 1 6681 0 0
+/app/collect.php 2 14838 0 0
+/build/edit_emp.php 1 7180 0 0
+/app/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2 1 130608 0 0
+/build/labour_payable.php 1 7389 0 0
+/build/project_compeleteReport.php 1 6203 0 0
+/build/client_profile.php 2 13256 0 0
+/app/vendor_profile.php 2 11949 0 0
+/app/contractor_profile.php 2 12122 0 0
+/app/edit_project.php 2 11926 0 0
+/build/contractor_profile.php 1 6769 0 0
+/build/work_collect.php 3 3285 0 0
+/build/collect.php 1 7370 0 0
+/build/print_future.php 3 2673 0 0
+/build/follow_list.php 1 5809 0 0
+/app/index.php 1 1717 0 1
+/index.php 3 42715 0 0
+/build/employee_list.php 1 6059 0 0
+/app/vendor_list.php 2 11578 0 0
+/build/project_BranchReport.php 1 6154 0 0
+/build/vendor_list.php 1 6367 0 0
+/build/edit_contractor.php 1 6497 0 0
+/app/edit_contractor.php 2 11568 0 0
+/privacy-policies.html 3 26375 0 0
+/build/contractor_pay.php 1 1802 0 0
+/build/edit_client.php 1 6288 1 1
+/login.php 3 10902 0 1
+/build/print_invent.php 1 894 0 0
+/build/contractor_payable.php 2 13436 0 0
+/app/payment_collect.php 3 4578 0 0
+/build/edit_project.php 1 6973 0 0
+/app/vendor_collect.php 1 1792 0 0
+/build/vendor_payable.php 1 7332 0 0
+/app/company.php 1 6223 0 0
+/build/client_list.php 1 6213 0 0
+/app/vendor_payable.php 2 14762 0 0
+/build/pay_gate2.php 3 138 1 1
+/build/sign_out.php 1 79 0 0
+/app/ 1 1717 0 0
+/terms&condition.html 3 26974 0 0
+/app/sign_out.php 1 79 0 0
+/build/vendor_profile.php 1 6608 0 0
+/build/edit_vendor.php 1 6577 0 0
+/app/contractor_list.php 2 11132 0 0
+/build/labour_collect.php 1 1811 0 0
+/build/payment_collect.php 2 3522 0 0
+/app/labour_payable.php 1 7437 0 0
+/refund-policy.html 3 15627 0 0
+/build/project_costReport1.php 1 6456 0 0
+/app/contractor_pay.php 1 1798 0 0
+/build/view_purchase.php 4 24830 0 0
+/app/company_profile.php 2 10903 0 0
+/app/edit_vendor.php 2 11646 0 0
+/build/vendor_collect.php 1 1792 0 0
+/build/group.php 1 6122 0 0
+/app/labour_collect.php 2 3047 0 0
+/build/user_profile.php 2 13702 0 0
+END_SIDER

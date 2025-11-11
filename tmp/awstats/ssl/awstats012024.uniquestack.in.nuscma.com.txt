@@ -1,0 +1,728 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202401 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.uniquestack.in.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2027                
+POS_TIME 2699                
+POS_VISITOR 18418               
+POS_DAY 24001               
+POS_DOMAIN 3492                
+POS_LOGIN 3986                
+POS_ROBOT 4141                
+POS_WORMS 4679                
+POS_EMAILSENDER 4810                
+POS_EMAILRECEIVER 4953                
+POS_SESSION 24772               
+POS_SIDER 24952               
+POS_FILETYPES 5088                
+POS_DOWNLOADS 5321                
+POS_OS 5369                
+POS_BROWSER 5703                
+POS_SCREENSIZE 6877                
+POS_UNKNOWNREFERER 6951                
+POS_UNKNOWNREFERERBROWSER 7526                
+POS_ORIGIN 7952                
+POS_SEREFERRALS 8089                
+POS_PAGEREFS 8248                
+POS_SEARCHWORDS 8468                
+POS_KEYWORDS 8620                
+POS_MISC 2363                
+POS_ERRORS 8679                
+POS_CLUSTER 3842                
+POS_SIDER_404 8857                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240201001800 1 0 14141023876139
+FirstTime 20240101004953
+LastTime 20240131105853
+LastUpdate 20240201184545 1 0 0 0 0
+TotalVisits 163                 
+TotalUnique 139                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 141                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 12 4943771 14 24 65744
+1 9 21 8262599 11 39 189538
+2 6 7 1681133 16 16 17805
+3 2 2 21495 11 52 16808972
+4 3 3 26057 8 26 28017
+5 5 5 80354 8 24 24364
+6 4 6 3256106 10 27 162540
+7 6 7 1648582 21 57 236970
+8 15 17 3398487 23 27 66632
+9 6 17 8217203 54 76 224611
+10 5 41 19988256 27 38 1711456
+11 8 9 1710387 7 12 19104
+12 6 9 4915744 17 22 128502
+13 9 40 448075 18 43 135316
+14 4 5 1684631 11 40 317590
+15 9 12 4917059 15 47 45615
+16 11 21 6627305 90 140 183655
+17 9 46 11628677 10 21 59906
+18 12 16 6553925 12 21 38482
+19 15 17 3347963 13 36 139775
+20 7 8 1668470 48 52 1667708
+21 19 55 20167032 24 34 39556
+22 8 9 1673019 11 14 62343
+23 8 42 16774841 4 40 12994
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 20
+us 89 214 68067886
+ca 31 65 17251136
+cn 13 45 23008904
+se 11 16 8156232
+nl 9 9 89991
+ru 9 9 35181
+gb 5 5 22810
+lv 5 7 77115
+de 4 4 18248
+at 3 3 29997
+cl 2 2 23465
+in 2 36 16732150
+ua 2 2 23465
+al 2 2 23465
+au 2 2 9124
+md 2 2 21495
+bg 1 1 16933
+es 1 1 16933
+gr 1 1 12079
+il 1 1 4562
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+Googlebot/ 126 1185123 20240131082308 0
+no_user_agent 40 779463 20240129183850 0
+bot[\s_+:,\.\;\/\\-] 36 16719779 20240124033715 0
+bingbot/ 13 136871 20240127074247 0
+unknown 8 156 20240128035123 8
+facebookexternalhit/ 3 50799 20240128001535 0
+Googlebot\-Image/ 2 3242420 20240126103905 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 4562 20240126043550 0
+curl 1 37362 20240117071014 0
+scrapy 1 4562 20240115200303 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+woff 2 24215 0 0
+jpg 65 51775311 0 0
+png 9 1121907 0 0
+css 35 304495 0 0
+js 75 973862 0 0
+php 11 71852 0 0
+html 180 1527291 0 0
+Unknown 2 24158 0 0
+jpeg 48 77818080 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+macosx7 1 1
+macosx10 1 1
+macosx9 1 1
+winlong 1 1
+winxp 3 3
+symbian 1 1
+win8 3 3
+linux 84 41
+win7 6 6
+macosx11 1 1
+ios_ipad 1 1
+android10 1 1
+win8.1 6 6
+macosx4 1 1
+androidnougat 1 1
+win10 117 48
+ios_iphone 3 3
+macosx 22 4
+linuxdebian 1 1
+macosx15 27 12
+Unknown 145 58
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 55
+chrome83.0.4103.97 6 6
+chrome99.0.4844.83 1 1
+mozilla 84 27
+chrome80.0.3987.162 1 1
+chrome119.0.6045.199 9 0
+chrome113.0.0.0 1 1
+chrome65.0.3325.181 3 3
+firefox119.0 1 1
+chrome91.0.4472.114 3 3
+chrome108.0.0.0 38 38
+chrome60.0.3112.107 1 1
+safari15.6 1 1
+nokia 1 1
+chrome102.0.0.0 3 3
+chrome120.0.0.0 9 7
+chrome96.0.4664.110 21 6
+opera11.00 1 1
+chrome117.0.0.0 1 1
+firefox38.0 1 1
+opera54.0.2952.64 3 3
+chrome67.0.3396.99 2 2
+msie7.0 1 1
+chrome85.0.4183.102 1 1
+safari16.5.2 1 1
+Unknown 61 31
+chrome100.0.4896.88 2 2
+safari15.5 2 2
+chrome109.0.0.0 1 1
+firefox20.0 1 1
+firefox63.0 2 2
+firefox117.0 1 1
+chrome74.0.3729.169 2 2
+chrome110.0.5481.100 35 1
+chrome121.0.0.0 35 1
+chrome68.0.3440.106 3 3
+firefox116.0 1 1
+chrome71.0.2623.112 2 2
+chrome87.0.4280.88 22 4
+chrome100.0.4896.127 1 1
+chrome105.0.0.0 12 7
+chrome103.0.5060.134 1 1
+chrome68.0.3440.84 2 2
+firefox52.0 1 1
+chrome117.0.5938.132 30 2
+chrome63.0.3239.132 3 3
+chrome95.0.4638.54 1 1
+safari7.2.0.0 1 1
+chrome39.0.2171.95 1 1
+firefox103.0 1 1
+netscape5.0 1 1
+chrome67.0.3396.87 3 3
+chrome103.0.5060.53 1 1
+iceweasel 1 1
+chrome114.0.0.0 1 1
+chrome49.0.2623.112 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+fasthttp 20240123024021
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240121213056
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240122155152
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240131084929
+python-httpx/0.25.2 20240101133501
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+python-httpx/0.25.2 20240101133501
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240131084929
+fasthttp 20240123024021
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 153 225
+From1 7 7
+From2 1 1
+From3 3 3
+From4 31 191
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://mail.uniquestack.in 2 2
+https://md-in-62.webhostbox.net:2083 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+500 1 0
+403 8 2416
+406 30 6780
+401 22 906
+409 15 1245
+302 4 26316
+400 33 1560
+503 37 0
+404 519 186875
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 196
+/wp-content/plugins/core/include.php 2 http://uniquestack.in/wp-content/plugins/core/include.php
+/wp-content/upgrade/iR7SzrsOUEP.php 1 -
+/wp-content/plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Batch/viewer.php 1 www.google.com
+/main 2 http://mail.uniquestack.in/main
+/xleet-shell.php 1 -
+/new/ 2 -
+/alfanew.php 2 http://uniquestack.in/alfanew.php
+/wp-includes/assets/plugins.php 1 -
+/wp-content/plugins/core-plugin/.nxd.php 1 http://uniquestack.in/wp-content/plugins/core-plugin/.nxd.php
+/wp-includes/Text/plugins.php 1 -
+/wordpress 2 http://mail.uniquestack.in/wordpress
+/wzy.php 2 www.google.com
+/wp-admin/js/widgets/iR7SzrsOUEP.php 1 -
+/.git/HEAD 2 -
+/wp-includes/SimplePie/plugins.php 2 http://uniquestack.in/wp-includes/SimplePie/plugins.php
+/wp-admin/maint/plugins.php 1 -
+/wp-content/themes/loco.php 1 www.google.com
+/wp-includes/pomo/plugins.php 1 -
+/icon-fonts/fontawesome-webfont.woff2 7 https://uniquestack.in/css/font-awesome.min.css
+/img/fact-bg.jpg 5 https://uniquestack.in/
+/old 2 http://mail.uniquestack.in/old
+/wp-includes/xl2023.php 1 -
+/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZValfadheat.php 1 http://uniquestack.in/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZValfadheat.php
+/wp-includes/customize/amaxx.php 1 http://uniquestack.in/wp-includes/customize/amaxx.php
+/cgi-bin/plugins.php 1 -
+/cjfuns.php 1 http://uniquestack.in/cjfuns.php
+/wp-admin/css/plugins.php 1 -
+/wp-includes/theme-compat/plugins.php 1 -
+/autoload_classmap.php 1 http://uniquestack.in/autoload_classmap.php
+/wp-content/plugins/wp-file-manager-pro/css/fm_common.css 1 -
+/_well-known/amaxx.php 1 http://uniquestack.in/_well-known/amaxx.php
+/wp-content/plugins/pwnd/style.php 1 www.google.com
+/backup/ 2 -
+/wp-content/themes/buddyboss-theme/style.css 1 -
+/wp-includes/js/wp-emoji-release.min.js 1 www.google.com
+/repeater.php 2 http://uniquestack.in/repeater.php
+/c.php 1 http://uniquestack.in/c.php
+/wp-admin/maint/iR7SzrsOUEP.php 1 -
+/wp-contentold/themes/plugins.php 1 -
+/robots.txt 43 -
+/_wel-known/pki-validation/883d551d-7523-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV 1 http://uniquestack.in/_wel-known/pki-validation/883d551d-7523-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV
+/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV 1 http://uniquestack.in/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV
+/wp-admin/dropdown.php 1 http://uniquestack.in/wp-admin/dropdown.php
+/css/plugins.php 1 -
+/wp-includes/ID3/wp-login.php 2 http://uniquestack.in/wp-includes/ID3/wp-login.php
+/wp-content/plugins/alfa-rex.php 2 http://uniquestack.in/wp-content/plugins/alfa-rex.php
+/.git/config 4 -
+/wp-includes/blocks/plugins.php 1 -
+/wp-includes/html-api/plugins.php 1 -
+/wp/ 2 -
+/style.php 11 -
+/sftp-config.json 1 -
+/icon-fonts/fontawesome-webfont.woff 5 https://uniquestack.in/css/font-awesome.min.css
+/sitemap.txt 4 -
+/.well-known/security.txt 1 http://www.uniquestack.in/.well-known/security.txt
+/wp-includes/random_compat/about.php 1 http://uniquestack.in//wp-includes/random_compat/about.php
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/.well-known/pki-validation/plugins.php 1 -
+/inputs.php 2 www.google.com
+/wp-includes/css/plugins.php 1 -
+/wp-pano 1 -
+/.git/ 1 -
+/jquery-3.2.1.min.js 18 -
+/temp/ 2 -
+/wp-content/plugins/backup-backup/includes/backup-heart.php 2 http://uniquestack.in/wp-content/plugins/backup-backup/includes/backup-heart.php
+/wp-includes/Requests/plugins.php 1 -
+/bk 2 http://mail.uniquestack.in/bk
+/xleet.php 1 -
+/wp-content/plugins/mw-wp-form/css/admin-common.css 1 -
+/astonishedly.php 1 -
+/bc 2 http://mail.uniquestack.in/bc
+/wp-content/wp-rocket-config/plugins.php 1 -
+/wp-includes/fonts/plugins.php 1 -
+/fm1.php 2 http://uniquestack.in/fm1.php
+/wp-includes/php-compat/plugins.php 1 -
+/sitemap.xml 5 -
+/owl.carousel.min.js 20 -
+/wp-header.php 2 http://uniquestack.in/wp-header.php
+//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js 20 -
+/wp-content/themes/aahana/json.php 1 www.google.com
+/general.php 2 www.google.com
+/blog/ 2 -
+/wp-admin/user/plugins.php 1 -
+/wp-content/uploads/xl2023.php 1 -
+/wp-head.php 1 http://uniquestack.in//wp-head.php
+/images/plugins.php 1 -
+/x.php 1 -
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 1 -
+/wp-includes/theme-compat/wp-conflg.php 1 http://uniquestack.in/wp-includes/theme-compat/wp-conflg.php
+/cgi-bin/iR7SzrsOUEP.php 1 -
+/wp-content/plugins/better-search-replace/assets/js/better-search-replace.js 1 -
+/wp-2019.php 1 http://uniquestack.in/wp-2019.php
+/.well-known/plugins.php 1 -
+/dropdown.php 2 http://uniquestack.in/dropdown.php
+/sitemap.xml.gz 2 -
+/wp-content/plugins/dummyyummy/wp-signup.php 1 www.google.com
+/wp-content/uploads/plugins.php 1 -
+/wp-content/plugins/post-smtp/style/testEmail.html 1 -
+/.vscode/sftp.json 1 -
+/sample.php 2 www.google.com
+/wp-content/plugins/core-plugin/nxd.php 1 http://uniquestack.in/wp-content/plugins/core-plugin/nxd.php
+/wp-admin/ 6 -
+/alfanew.php7 2 http://uniquestack.in/alfanew.php7
+/images/iR7SzrsOUEP.php 1 -
+/ads.txt 7 http://uniquestack.in/ads.txt
+/wp-content/themes/plugins.php 1 -
+/wp-content/plugins/backup-backup/includes/restore-batching.php 1 -
+/wp-includes/js/jquery/jquery.min.js 1 www.google.com
+/wp-includes/ID3/plugins.php 1 -
+/main.js 19 -
+/wp-admin-new/includes/plugins.php 1 -
+/jquery.countdown.js 20 -
+/wp-includes/widgets/plugins.php 1 -
+/wp-content/themes/finley/min.php 2 http://uniquestack.in/wp-content/themes/finley/min.php
+/wp-includes/ 6 -
+//oss.maxcdn.com/respond/1.4.2/respond.min.js 21 -
+/xxl.php 1 -
+/wp-includes/style-engine/plugins.php 1 -
+/wp-includes/certificates/plugins.php 1 -
+/wp-content/cache/plugins.php 1 -
+/themes.php 1 -
+/wp-admin/includes/iR7SzrsOUEP.php 1 -
+/icon-fonts/fontawesome-webfont.ttf 5 https://uniquestack.in/css/font-awesome.min.css
+/xl2023.php 1 -
+/wp-admin/images/iR7SzrsOUEP.php 1 -
+/wp-content/plugins.php 1 -
+/iR7SzrsOUEP.php 1 -
+/wp-includes/js/jquery/jquery.js 2 -
+/Wp-includes/amaxx.php 1 http://uniquestack.in/Wp-includes/amaxx.php
+/old/ 2 -
+/simple.php 3 -
+/wp-admin/images/plugins.php 1 -
+/wp-includes/IXR/plugins.php 1 -
+/wp-admin/user/about.php 1 http://uniquestack.in/wp-admin/user/about.php
+/wp-info.php 1 http://uniquestack.in/wp-info.php
+/wp-includes/customize/plugins.php 1 -
+/wp-admin/js/plugins.php 1 -
+/.well-knownold/ 6 -
+/wordpress/ 2 -
+/wp-admin/includes/plugins.php 1 -
+/test/ 2 -
+/about.php 2 uniquestack.in
+/new 2 http://mail.uniquestack.in/new
+/.well-known/acme-challenge/iR7SzrsOUEP.php 1 -
+/wp-config.php 3 -
+/admin.php 2 uniquestack.in
+/menu.php 1 http://uniquestack.in/menu.php
+/input.php 2 www.google.com
+/backup 2 http://mail.uniquestack.in/backup
+/wp-includes/plugins.php 1 -
+/wp-content/plugins/press/wp-class.php 2 http://uniquestack.in/wp-content/plugins/press/wp-class.php
+/wp-content/xl2023.php 2 -
+/wp-includes/sitemaps/plugins.php 1 -
+/wp-login.php 2 http://www.uniquestack.in.nuscma.com/wp-login.php
+/magento_version 1 -
+/wp-admin/xl2023.php 1 -
+/wp-content/plugins/about.php 2 http://uniquestack.in/wp-content/plugins/about.php
+/home 2 http://mail.uniquestack.in/home
+/wso112233.php 1 http://uniquestack.in/wso112233.php
+/wp-admin/images/admin.php 1 http://uniquestack.in/wp-admin/images/admin.php
+/wp-admin/network/iR7SzrsOUEP.php 1 -
+/security.txt 1 http://www.uniquestack.in/security.txt
+/wp 2 http://mail.uniquestack.in/wp
+/media/system/js/core.js 1 -
+/wp-content/upgrade/ 6 -
+/install.php 1 http://uniquestack.in/install.php
+/xl.php 1 -
+/shell20211028.php 1 http://uniquestack.in/shell20211028.php
+/wp-content/upgrade/edit.php 1 http://uniquestack.in/wp-content/upgrade/edit.php
+/wp-includes/ID3/about.php 2 http://uniquestack.in/wp-includes/ID3/about.php
+/admin-heade.php 1 -
+/.well-known/wso112233.php 2 http://uniquestack.in/.well-known/wso112233.php
+/wp-content/plugins/Cache/Cache.php 1 http://uniquestack.in/wp-content/plugins/Cache/Cache.php
+/wp-admin/user/iR7SzrsOUEP.php 1 -
+/class.api.php 2 http://uniquestack.in/class.api.php
+/wp-content/plugins/backup-backup/includes/ 1 http://uniquestack.in/wp-content/plugins/backup-backup/includes/
+/xl2023x.php 1 -
+/M1.php 2 http://uniquestack.in/M1.php
+/.well-known/acme-challenge/xl2023.php 1 -
+/wp-content/ 6 -
+/wp-includes/images/plugins.php 1 -
+/wp-content/shell20211028.php 1 http://uniquestack.in/wp-content/shell20211028.php
+/ioxi02.php 1 http://uniquestack.in/ioxi02.php
+/chosen.php 1 http://uniquestack.in/chosen.php
+/wp-content/uploads/ 6 -
+/humans.txt 6 http://uniquestack.in/humans.txt
+/wp-includes/IXR/themes.php 2 http://uniquestack.in/wp-includes/IXR/themes.php
+/wp-admin/network/amaxx.php 1 http://uniquestack.in/wp-admin/network/amaxx.php
+/wp-content/themes/database.php 1 www.google.com
+/wp-content/themes/about.php 2 http://uniquestack.in/wp-content/themes/about.php
+/wp-content/upgrade/plugins.php 1 -
+/magnific-popup.min.js 20 -
+/text.php 1 http://uniquestack.in/text.php
+/wp-includes/random_compat/plugins.php 1 -
+/cjfuns%20.php 1 http://uniquestack.in/cjfuns%20.php
+/masonry.pkgd.min.js 19 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 141
+195.211.77.142 8 8 18248 20240113062934
+101.68.211.2 5 5 47552 20240107072034
+52.90.67.56 5 35 402670 20240101133459
+149.56.150.219 4 4 67732 20240121213030
+185.81.128.36 4 6 72553 20240128012841
+199.45.154.51 3 6 4877316 20240122155148
+193.176.86.62 3 3 29997 20240115214210
+195.78.54.119 3 3 29997 20240124165446
+111.7.96.181 3 14 8195708 20240114161359
+199.45.154.18 3 6 4877316 20240122114717
+104.234.204.32 3 3 13686 20240107074525
+193.176.86.36 3 3 29997 20240122215134
+193.176.86.43 3 3 29997 20240103084024
+199.45.155.18 3 6 4877316 20240122085052
+198.235.24.124 2 2 33866 20240116050047
+199.45.154.16 2 4 3251544 20240120080334
+199.45.155.16 2 4 3251544 20240108153253
+192.144.39.146 2 2 33866 20240107081846
+198.235.24.111 2 2 54297 20240120004143
+199.45.155.32 2 4 3251544 20240120063516
+111.7.96.174 2 11 4948726 20240105095829
+3.235.10.33 2 2 9124 20240126043733
+3.64.130.29 2 2 9124 20240111152910
+31.171.155.3 2 2 23465 20240102000232
+15.204.182.106 2 2 9124 20240115074116
+209.160.117.207 1 1 0 20240110092543
+38.242.222.177 1 1 4562 20240116071852
+139.59.105.233 1 1 4562 20240125135154
+199.45.154.19 1 2 1625772 20240110120051
+167.99.206.174 1 1 12066 20240110222517
+142.93.1.65 1 1 4562 20240107082339
+34.221.128.26 1 1 4562 20240109183004
+71.6.134.230 1 1 12063 20240129084251
+93.158.91.31 1 2 1625772 20240131091824
+199.244.88.221 1 1 4562 20240120162243
+5.133.192.94 1 2 1625772 20240112121818
+68.183.198.58 1 1 4562 20240126182334
+104.194.192.226 1 1 4562 20240121154537
+205.210.31.198 1 1 16933 20240130115619
+205.210.31.206 1 1 16933 20240124040716
+161.35.165.255 1 1 4562 20240112194944
+64.227.155.174 1 1 4562 20240120200321
+167.94.145.56 1 2 1625772 20240118001032
+34.220.229.120 1 1 4562 20240129182511
+174.138.13.117 1 1 4562 20240116174711
+138.197.109.181 1 1 4562 20240126192930
+198.235.24.125 1 1 16933 20240119100848
+45.86.86.251 1 1 16933 20240127192416
+178.254.24.91 1 1 4562 20240125122703
+93.158.91.24 1 2 1625772 20240106062704
+198.235.24.218 1 1 16933 20240104020423
+176.123.1.195 1 1 16933 20240129082359
+64.23.145.43 1 1 4562 20240114184311
+111.7.100.32 0 1 1621210 
+93.158.91.12 1 2 1625772 20240118185508
+164.92.201.166 1 1 12070 20240124115949
+54.210.113.41 1 1 4562 20240125004913
+91.229.239.235 1 1 16933 20240115000748
+207.180.205.113 1 1 4562 20240119084748
+65.154.226.167 1 12 2869349 20240119174714
+167.71.179.127 1 1 4562 20240102023407
+164.92.253.34 1 1 4562 20240104220147
+192.99.149.111 1 35 16715217 20240109234733
+93.158.91.244 1 1 4562 20240112130251
+198.235.24.114 1 1 16933 20240117125140
+111.7.100.33 0 1 1621210 
+199.45.154.49 1 2 1625772 20240107195417
+198.235.24.158 1 1 16933 20240123192119
+130.255.166.82 1 1 4562 20240117172825
+35.90.48.21 1 1 16933 20240111172110
+198.235.24.245 1 1 16933 20240106013818
+69.167.28.143 1 1 0 20240112020359
+85.254.43.242 1 1 4562 20240121154537
+147.182.200.21 1 1 4562 20240124151652
+71.6.134.234 1 1 4562 20240117082752
+93.158.90.155 1 1 4562 20240122212942
+178.79.152.61 1 1 4562 20240114212524
+93.158.91.32 1 2 1625772 20240125021138
+64.227.132.10 1 1 4562 20240119115402
+198.235.24.81 1 1 16933 20240106140816
+205.210.31.250 1 1 37364 20240119170753
+142.93.100.241 1 1 4562 20240122192959
+198.235.24.109 1 1 16933 20240113034457
+199.45.155.35 1 2 1625772 20240106074833
+205.210.31.64 1 1 16933 20240127192309
+199.244.88.227 1 1 4562 20240111032837
+198.235.24.80 1 1 16933 20240124202157
+64.226.122.182 1 1 4562 20240112111413
+2.58.56.44 1 1 4562 20240120112120
+192.36.109.116 1 1 4562 20240106173756
+111.93.159.50 1 35 16715217 20240131105853
+185.190.42.200 1 1 16933 20240113155442
+165.22.125.9 1 1 4562 20240124183226
+167.248.133.126 1 2 1625772 20240117214747
+198.235.24.222 1 1 37364 20240123110539
+192.36.109.99 1 1 4562 20240128002022
+213.226.101.25 1 1 16933 20240129081405
+35.90.221.246 1 1 4562 20240125190626
+34.219.66.151 1 1 4562 20240101184634
+62.141.44.236 1 1 4562 20240116220156
+111.7.100.35 1 2 1625772 20240125183729
+64.225.53.69 1 1 4562 20240106010405
+159.65.174.242 1 1 4562 20240122045305
+138.197.187.173 1 1 4562 20240101004953
+54.71.218.94 1 1 4562 20240105213141
+168.151.93.198 1 1 4562 20240121154533
+205.210.31.174 1 1 16933 20240105121033
+205.210.31.43 1 1 37364 20240102140934
+165.227.44.65 1 1 4562 20240128192945
+138.68.68.251 1 1 4562 20240108184613
+128.199.63.184 1 1 4562 20240106194314
+161.97.156.209 2 2 33866 20240123024021
+181.214.218.168 2 2 23465 20240114183109
+37.19.223.35 2 2 23465 20240128082721
+198.235.24.176 1 1 37364 20240112055124
+159.89.35.232 1 1 4562 20240107212947
+149.56.160.153 1 35 16715217 20240121213052
+176.123.7.11 1 1 4562 20240123184516
+65.154.226.170 1 27 8657479 20240119173751
+156.146.62.52 1 2 1625772 20240121215921
+178.254.12.183 1 1 4562 20240108194912
+3.89.49.211 1 1 4562 20240104161618
+85.215.155.77 1 1 4562 20240107114212
+54.202.66.55 1 1 4562 20240125190613
+198.235.24.97 1 1 16933 20240131084929
+94.247.172.129 1 1 4562 20240107014813
+167.71.231.124 1 1 12072 20240111235741
+111.7.96.179 2 11 4948726 20240127013232
+45.125.67.173 1 1 16933 20240105232008
+174.138.80.235 1 1 4562 20240102193840
+178.128.148.205 1 1 12079 20240125202008
+205.210.31.192 1 1 16933 20240120234633
+199.45.155.17 1 2 1625772 20240108012743
+51.77.111.99 1 1 4562 20240103164240
+199.45.154.17 2 4 3251544 20240109155142
+139.59.190.223 1 1 4562 20240110224141
+165.22.202.215 1 1 4562 20240110201439
+198.235.24.112 1 1 16933 20240106022321
+67.205.169.229 1 1 4562 20240122052254
+51.15.222.142 2 2 9124 20240124101155
+198.235.24.122 1 1 16933 20240110221341
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240101 11 41 420918 5
+20240102 6 6 86886 5
+20240103 7 9 3303036 5
+20240104 3 3 26057 3
+20240105 11 22 8281688 7
+20240106 11 14 4950925 10
+20240107 8 9 1670077 8
+20240108 5 8 4886440 5
+20240109 4 40 19971323 4
+20240110 8 10 3306600 8
+20240111 8 12 6541217 8
+20240112 8 9 1681384 7
+20240113 4 4 38428 3
+20240114 6 15 4981315 4
+20240115 6 6 56054 3
+20240116 4 4 30619 4
+20240117 5 6 1689193 5
+20240118 2 4 3251544 2
+20240119 6 43 11590249 6
+20240120 7 9 3299096 7
+20240121 9 44 18422407 6
+20240122 11 14 4930123 9
+20240123 4 4 75792 4
+20240124 9 9 89619 7
+20240125 11 16 6569696 10
+20240126 3 3 13686 3
+20240127 4 13 4982592 3
+20240128 6 7 68861 4
+20240129 4 4 50491 4
+20240130 1 1 16933 1
+20240131 3 38 18357922 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+15mn-30mn 1
+30s-2mn 1
+0s-30s 160
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 180 1527291 161 154
+/contact.php 11 71852 0 7
+/magento_version 2 24158 1 1
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 2 24215 1 1
+END_SIDER

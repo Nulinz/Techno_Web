@@ -1,0 +1,363 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202107 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.vigoenterprise.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2027                
+POS_TIME 2686                
+POS_VISITOR 8841                
+POS_DAY 9947                
+POS_DOMAIN 3269                
+POS_LOGIN 3564                
+POS_ROBOT 3719                
+POS_WORMS 3980                
+POS_EMAILSENDER 4111                
+POS_EMAILRECEIVER 4254                
+POS_SESSION 10339               
+POS_SIDER 10486               
+POS_FILETYPES 4389                
+POS_DOWNLOADS 4471                
+POS_OS 4519                
+POS_BROWSER 4656                
+POS_SCREENSIZE 4998                
+POS_UNKNOWNREFERER 5072                
+POS_UNKNOWNREFERERBROWSER 5613                
+POS_ORIGIN 6149                
+POS_SEREFERRALS 6281                
+POS_PAGEREFS 6425                
+POS_SEARCHWORDS 6663                
+POS_KEYWORDS 6815                
+POS_MISC 2350                
+POS_ERRORS 6874                
+POS_CLUSTER 3420                
+POS_SIDER_404 6976                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210805080318 1 0 14473135257766
+FirstTime 0
+LastTime 20210726082206
+LastUpdate 20210805190600 1 0 0 0 0
+TotalVisits 32                  
+TotalUnique 28                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 28                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 314 2 2 1166
+1 0 0 0 1 2 1206
+2 4 4 2492 35 35 19691
+3 1 1 314 30 30 10740
+4 2 2 1246 1 1 623
+5 4 4 2492 20 20 10946
+6 2 2 1246 2 2 452
+7 1 1 623 0 0 0
+8 2 2 937 0 0 0
+9 5 5 3115 17 19 10720
+10 0 0 0 0 0 0
+11 1 1 623 0 3 1749
+12 1 1 623 0 0 0
+13 0 0 0 0 1 583
+14 3 3 1869 38 39 21123
+15 2 2 314 3 4 2372
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 2 2 1246 2 2 1246
+19 3 3 1869 17 18 10137
+20 4 4 1874 2 3 1035
+21 0 0 0 0 0 0
+22 0 0 0 4 4 1432
+23 1 1 314 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 24 24 12166
+gr 7 7 4361
+in 3 3 1869
+fr 2 2 1246
+pt 1 1 623
+de 1 1 623
+cn 1 1 623
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 2 1246 20210717153513 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 1246 20210702185159 0
+Baiduspider/ 1 623 20210716014118 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 39 21511 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win8 1 1
+Unknown 15 15
+macosx 2 2
+win10 17 17
+linuxandroid 2 2
+win7 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 14
+chrome76.0.3809.71 1 1
+chrome70.0.3538.80 1 1
+firefox68.0 2 2
+chrome74.0.3729.131 1 1
+chrome74.0.3729.157 1 1
+chrome89.0.4389.114 3 3
+Unknown 15 15
+firefox57.0 1 1
+chrome73.0.3683.90 1 1
+chrome78.0.3904.108 4 4
+firefox77.0 1 1
+chrome68.0.3440.106 1 1
+firefox47.0 1 1
+chrome88.0.4240.193 6 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Go_http_package 20210717040334
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210719094557
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210721091539
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Go_http_package 20210717040334
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210719094557
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210721091539
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 33 33
+From1 0 0
+From2 0 0
+From3 5 5
+From4 1 1
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://216.10.252.82:80 3 3
+https://freevpn.space/web-proxy/vigoenterprise.nuscma.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+406 12 2712
+404 168 89394
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 58
+/phpformbuilder/plugins/jQuery-File-Upload/server/php/index.php 1 -
+//2020/wp-includes/wlwmanifest.xml 5 -
+/v1/ 1 -
+//cms/wp-includes/wlwmanifest.xml 7 -
+/home/ 1 -
+/2018/ 1 -
+//wordpress/wp-includes/wlwmanifest.xml 7 -
+/bk/ 1 -
+/old-site/ 1 -
+/old/ 1 -
+/2020/ 1 -
+/test/ 1 -
+//blog/wp-includes/wlwmanifest.xml 7 -
+//wp-includes/wlwmanifest.xml 7 -
+//sito/wp-includes/wlwmanifest.xml 7 -
+//xmlrpc.php 1 -
+/temp/ 1 -
+/wp-content/plugins/ubh/up.php 2 -
+/cms/ 1 -
+/content.php 2 -
+/assets/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/wp2/ 1 -
+/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin 2 -
+/blog/ 1 -
+/wp/ 1 -
+//2018/wp-includes/wlwmanifest.xml 2 -
+/assets/jquery-file-upload/server/php/index.php 1 -
+/wp1/ 1 -
+//shop/wp-includes/wlwmanifest.xml 7 -
+//media/wp-includes/wlwmanifest.xml 2 -
+//site/wp-includes/wlwmanifest.xml 7 -
+/new-site/ 1 -
+/new/ 1 -
+/site/ 1 -
+/robots.txt 11 -
+//wp/wp-includes/wlwmanifest.xml 7 -
+/old-wp/ 1 -
+/bak/ 1 -
+//test/wp-includes/wlwmanifest.xml 7 -
+//website/wp-includes/wlwmanifest.xml 7 -
+/demo/ 1 -
+//web/wp-includes/wlwmanifest.xml 7 -
+/v2/ 1 -
+//wp1/wp-includes/wlwmanifest.xml 7 -
+/assets/plugins/jquery-file-upload/server/php/index.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin 2 -
+/wp-login.php 1 http://www.vigoenterprise.nuscma.com/wp-login.php
+/backup/ 1 -
+/2019/ 1 -
+/dev/ 1 -
+/tmp/ 1 -
+/install/ 1 -
+//news/wp-includes/wlwmanifest.xml 7 -
+//2019/wp-includes/wlwmanifest.xml 7 -
+/main/ 1 -
+/wordpress/ 1 -
+//wp2/wp-includes/wlwmanifest.xml 7 -
+/web/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 28
+20.97.186.106 4 4 2492 20210725093129
+103.144.28.107 3 3 1869 20210724143954
+138.91.162.224 2 2 1246 20210722054114
+20.85.210.112 2 2 1246 20210716023951
+34.96.130.13 2 2 1246 20210715204926
+35.224.174.1 2 2 628 20210724030915
+62.210.91.20 2 2 1246 20210706024829
+92.118.160.9 2 2 1246 20210719094557
+92.118.160.37 1 1 623 20210719051225
+3.109.17.40 1 1 314 20210726082206
+34.86.35.11 1 1 623 20210715193851
+35.174.4.139 1 1 0 20210709151018
+92.118.160.17 1 1 623 20210712185911
+35.178.47.56 1 1 314 20210715003828
+40.117.134.190 1 1 314 20210725201322
+65.154.226.109 1 1 314 20210702230739
+144.86.173.133 1 1 623 20210721091539
+35.81.77.176 1 1 314 20210724204737
+124.126.78.170 1 1 623 20210725181734
+92.118.160.61 1 1 623 20210712064229
+185.83.214.69 1 1 623 20210703042403
+144.86.173.92 1 1 623 20210721065345
+193.31.24.154 1 1 623 20210703081004
+92.118.160.41 1 1 623 20210711075258
+34.77.162.21 1 1 623 20210709201026
+92.118.160.13 1 1 623 20210711051905
+34.77.162.23 1 1 623 20210709092452
+34.96.130.20 1 1 623 20210716120234
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20210702 1 1 314 1
+20210703 2 2 1246 2
+20210706 2 2 1246 1
+20210709 3 3 1246 3
+20210711 2 2 1246 2
+20210712 2 2 1246 2
+20210713 1 1 623 1
+20210715 3 3 1560 3
+20210716 3 3 1869 2
+20210717 1 1 623 1
+20210719 2 2 1246 2
+20210721 2 2 1246 2
+20210722 2 2 1246 1
+20210723 1 1 314 1
+20210724 7 7 3743 4
+20210725 4 4 2183 3
+20210726 1 1 314 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 32
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 39 21511 32 32
+END_SIDER

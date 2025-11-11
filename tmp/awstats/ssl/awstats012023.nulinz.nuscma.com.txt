@@ -1,0 +1,2502 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202301 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.nulinz.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2700                
+POS_VISITOR 41675               
+POS_DAY 76989               
+POS_DOMAIN 3702                
+POS_LOGIN 4429                
+POS_ROBOT 4584                
+POS_WORMS 5670                
+POS_EMAILSENDER 5801                
+POS_EMAILRECEIVER 5944                
+POS_SESSION 77973               
+POS_SIDER 78186               
+POS_FILETYPES 6079                
+POS_DOWNLOADS 6484                
+POS_OS 6869                
+POS_BROWSER 7446                
+POS_SCREENSIZE 11277               
+POS_UNKNOWNREFERER 11351               
+POS_UNKNOWNREFERERBROWSER 12692               
+POS_ORIGIN 13580               
+POS_SEREFERRALS 13729               
+POS_PAGEREFS 13938               
+POS_SEARCHWORDS 14761               
+POS_KEYWORDS 14913               
+POS_MISC 2362                
+POS_ERRORS 14972               
+POS_CLUSTER 4285                
+POS_SIDER_404 15220               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230201000341 70 17200 18436859672676
+FirstTime 20230101003016
+LastTime 20230131220101
+LastUpdate 20230201184942 70 0 69 0 0
+TotalVisits 1228                
+TotalUnique 829                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 896                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 411 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 141 296 33465468 87 224 4514367
+1 92 210 23011871 94 189 1608859
+2 97 232 28017850 116 205 4849303
+3 486 819 21646770 343 493 818967
+4 3505 4436 166027377 945 1660 7245253
+5 3709 4555 170036470 793 1365 1994809
+6 4039 4679 124513094 818 1427 2529589
+7 4230 4835 138216038 746 1334 7152273
+8 4066 4600 93449469 726 1313 5212294
+9 4022 5178 224004241 715 1750 4041644
+10 4884 5695 208177641 981 1669 1656026
+11 5057 5720 116145079 1142 1719 7339879
+12 1193 1405 56102347 335 779 7798178
+13 1658 2007 99316640 345 750 2582647
+14 3300 4008 155098301 561 1249 2386318
+15 2453 2687 66587431 364 951 1617337
+16 2161 2403 61405415 269 1007 5421430
+17 835 937 34672553 160 433 723148
+18 533 577 9873046 157 589 710357
+19 206 227 1973998 238 400 3188847
+20 84 166 5164188 296 423 3104761
+21 100 194 20303708 74 154 3510501
+22 39 41 468072 71 148 545165
+23 55 58 696763 75 162 737277
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 33
+us 27971 34324 1000480441
+in 18125 20324 722878212
+cn 159 479 90518692
+ca 150 150 4404644
+ru 133 138 1451006
+ch 77 77 689238
+gb 76 100 7277052
+be 50 64 499244
+lt 33 33 1749
+nl 26 27 295404
+dk 22 23 3453440
+jp 20 20 186000
+cl 16 17 3214128
+il 10 10 93000
+sc 9 37 925708
+se 8 14 115976
+mn 7 7 65100
+pl 6 6 39738
+fr 6 6 117642
+vn 5 5 46500
+ae 4 34 2670949
+ma 4 11 247702
+sg 4 34 2670949
+de 4 4 19560
+gr 3 3 27900
+ua 2 2 18600
+hu 2 2 18600
+ro 1 1 9300
+au 3 3 89742
+hk 2 2 59828
+it 2 2 59828
+es 3 3 59828
+ar 2 3 3148506
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 24
+Googlebot/ 440 2821847 20230131204110 0
+bingbot/ 369 6739931 20230131204913 0
+no_user_agent 246 7325027 20230131204848 0
+baidu 107 11864551 20230126192003 0
+AdsBot\-Google[\x20]\( 87 3390986 20230130165157 0
+YandexBot/ 75 3962240 20230128084943 0
+crawl 74 9762 20230130103650 14
+Go\-http\-client/ 71 6786243 20230129114924 0
+bingpreview 38 6741500 20230129134321 0
+curl 23 395593 20230131124213 0
+Googlebot\-Image/ 18 41513 20230129235719 0
+link 16 73642 20230117122932 0
+(firefox/)([0-9]\.|[0-1][0]\.) 14 171428 20230131220208 0
+bot[\s_+:,\.\;\/\\-] 13 120900 20230127152433 0
+libwww\-perl 11 329054 20230130113826 0
+Baiduspider/ 10 93000 20230126192002 0
+Dalvik/ 6 1432 20230130053403 0
+YandexImages/ 5 47932 20230130045642 0
+scrapy 3 27900 20230106131108 0
+Apache\-HttpClient/ 2 16908 20230108133738 0
+DuckDuckGo\-Favicons\-Bot/ 2 18600 20230116185621 0
+TelegramBot 2 2538 20230111065200 0
+java 1 0 20230106101108 0
+Applebot/ 1 2446 20230113181106 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 17
+js 2576 83805720 0 0
+php 43013 990132485 0 0
+woff 11 4694632 0 0
+map 8 923533 0 0
+action 2 716 0 0
+png 1903 151588358 0 0
+woff2 296 49130792 0 0
+html 3489 36472192 0 0
+txt 37 2146 0 0
+xml 3 1038 0 0
+ttf 30 2101887 0 0
+svg 1282 5490395 0 0
+Unknown 93 14842 0 0
+csv 8 7934 0 0
+css 2542 22973829 0 0
+jpg 643 398356715 0 0
+apk 29 100156992 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 8
+/ads.txt 188 0 10498
+/assets/android-app/amxxa-app.apk 33 8 115806522
+/app-ads.txt 14 0 0
+/school/assets/Downloads/student%20sample.csv 2 0 2076
+/school/assets/Downloads/student_bulkupload_formate.csv 2 0 5482
+/school/assets/Downloads/student%20fees.csv 2 0 312
+/school/assets/Downloads/student%20pending.csv 2 0 64
+/readme.txt 2 0 1350
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 33
+android10 732 490
+win10 41819 35419
+androidnougat 389 212
+win2003 1 1
+androiddonut 2 2
+macosx13 13 13
+macosx11 46 46
+ios_ipad 2 2
+winlong 8 8
+androidpie 3 0
+linuxubuntu 26 24
+winxp 15 14
+androidmarshmallow 28 28
+macosx12 21 20
+ios_iphone 92 32
+macosx8 5 3
+win8 9 8
+win7 2417 2023
+win2000 1 1
+linux 730 571
+Unknown 523 411
+macosx9 13 11
+winvista 6 4
+android 6436 5800
+macosx10 24 23
+macosx 154 48
+androidlollipop 6 6
+androidkitkat 31 31
+winnt 7 3
+macosx14 10 10
+win8.1 13 8
+androidoreo 320 49
+macosx15 2066 1624
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 175
+chrome34.0.1866.237 1 1
+chrome91.0.4472.114 76 21
+firefox58.0 5 5
+chrome60.0.3112.113 200 200
+chrome101.0.4951.61 2 2
+chrome97.0.1308 1 0
+chrome86.0.4 19 18
+chrome81.0.4044.92 2 2
+chrome97.0.2316 1 0
+chrome70.0.3538.77 15 15
+chrome85.0.4183.121 2 2
+msie8.0 1 1
+chrome81.0.4044.138 462 372
+chrome83.0.4103.61 19 6
+chrome74.0.3729.131 6 6
+chrome36.0.1985.125 6 6
+firefox100.0 3 3
+firefox68.0 2 2
+opera89.0.4447.51 2 2
+firefox63.0 41 8
+firefox101.0 14 14
+chrome103.0.5060.53 33 4
+chrome35.0.1916.47 3 2
+chrome105.0.0.0 17 17
+edge17 60 8
+chrome48.0.2564.116 4 4
+Unknown 223 191
+chrome49.0.2656.18 1 0
+netscape5.0 61 61
+chrome36.0.1944.0 4 3
+chrome63.0.3239.132 38 10
+chrome101.0.4951.74 33 4
+chrome62.0.3202.97 1 0
+chrome26.0.1410.65 2 2
+chrome87.0.4280.88 441 71
+chrome35.0.2309.372 1 0
+chrome106.0.5249.119 2 2
+chrome98.0.684 1 0
+firefox28.0 2 2
+chrome47.0.2526.111 18 18
+chrome56.0.2924.87 56 56
+chrome80.0.3987.149 3 3
+chrome41.0.2227.0 4 1
+chrome37.0.2062.124 2 1
+chrome95.0.4638.69 16 0
+chrome79.0.3945.0 2 2
+chrome37.0.0.0 6 6
+safari16.0 70 12
+chrome102.0.0.0 37 7
+firefox106.0 2 2
+safari16.1 3 3
+chrome88.0.4324.190 2 2
+opera90.0.4480.117 3 3
+msie6.0 2 2
+chrome87.0.4280.67 6 6
+msie10.0 1 1
+chrome89.0.4389.82 23 17
+chrome87.0.4280.101 34 4
+chrome104.0.5112.126 3 3
+chrome94.0.22 1 0
+chrome80.0.3987.162 2 2
+chrome84.0.4147.125 8 8
+opera72.0.3815.400 2 2
+chrome36.0.1985.67 3 3
+chrome94.0.4606.85 7 2
+chrome83.0.2093 1 0
+chrome71.0.3578.98 6 6
+chrome90.0.4430.93 2 2
+firefox82.0 1 0
+chrome101.0.886 1 0
+chrome49.0.2623.75 2 2
+chrome83.0.4103.116 3 0
+chrome94.0.4590.2 74 16
+android 33 33
+chrome94.0.1471 1 0
+chrome108.0.5351.0 33 4
+chrome83.0.4103.24 2 2
+chrome45.0.2454.85 2 2
+chrome95.0.4638.74 2 2
+chrome41.0.2225.0 9 6
+chrome74.0.3729.169 112 112
+chrome57.0.2220 1 0
+chrome98.0.4758.132 1 1
+chrome54.0.2866.71 1 0
+firefox83.0 4 4
+chrome85.0.775 1 1
+chrome50.0.3069.86 2 2
+chrome99.0.4844.51 5 3
+firefox104.0 16 16
+chrome35.0.3319.102 1 1
+chrome83.0.4103.97 55 44
+chrome76.0.3809.100 14 11
+firefox102.0 38 36
+safari8.0 2 2
+firefox55.0 11 10
+safari7.2.1.0 2 2
+safari 2 2
+chrome17.0.963.84 2 2
+chrome54.0.2840.98 8 8
+msie7.0 1 1
+chrome109.0.0.0 10639 9439
+chrome103.0.5060.114 4 4
+mozilla 247 167
+chrome40.0.2214.93 1 0
+chrome55.0.1370 1 0
+chrome32.0.1664.3 1 1
+chrome70.0.3538.102 49 8
+firefox76.0 8 8
+chrome88.0.4324.150 2 2
+chrome9.1.0.0 2 2
+chrome88.0.4240.193 2 2
+chrome98.0.4758.102 16 16
+chrome57.0.2348 1 0
+chrome62.0.792 1 0
+chrome34.0.1847.116 8 8
+chrome101.0.2865 1 0
+firefox65.0 7 6
+chrome94.0.4606.71 2 2
+chrome52.0.3624.98 4 4
+firefox105.0 15 15
+chrome87.0.513 1 0
+chrome107.0.0.0 642 403
+chrome78.0.3904.108 83 79
+chrome94.0.4606.61 4 4
+chrome108.0.0.0 11672 10673
+chrome103.0.0.0 5603 5304
+firefox47.0 42 42
+chrome96.0.4664.110 269 260
+opera11.01 1 1
+chrome100.0.4895.86 2 2
+firefox103.0 10 10
+firefox84.0 2 2
+chrome52.0.2743.116 16 16
+chrome79.0.3945.130 8 8
+chrome76.0.3809.132 6 6
+chrome60.0.3112.90 7 7
+opera90.0.4480.84 6 6
+chrome106.0.0.0 732 481
+safari15.4 2 2
+opera42.0.2393.94 25 25
+firefox73.0 3 2
+chrome50.0.2661.102 4 4
+chrome41.0.2228.0 8 8
+chrome66.0.3359.117 1 1
+chrome80.0.3987.99 42 12
+chrome57.0.2987.108 2 0
+chrome96.0.4664.104 2 2
+chrome39.0.2171.95 4 4
+firefox109.0 5158 3969
+chrome54.0.3096.52 2 2
+safari11.1 10 10
+firefox80.0 8 0
+chrome44.0.2403.155 3 2
+chrome49.0.2623.112 45 10
+chrome100.0.4896.143 2 2
+chrome54.0.3028.68 2 2
+edge18 2 2
+chrome86.0.4240.198 6 6
+chrome37.0.2049.0 7 2
+safari15.5 4 2
+chrome104.0.0.0 3 3
+chrome100.0.4758.11 6 6
+firefox108.0 17679 14129
+firefox79.0 13 12
+chrome59.0.3071.115 2 2
+safari13.0.3 16 16
+chrome55.0.2919.83 1 0
+chrome60.0.3112.107 4 2
+opera84.0.4316.14 4 2
+chrome77.0.3831.6 2 2
+chrome89.0.4389.114 4 2
+safari16.2 195 140
+chrome84.0.4147.105 2 2
+chrome68.0.3440.106 3 3
+chrome96.0.4664.45 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 20
+l9tcpid/v1.1.0 20230120025038
+python-httpx/0.23.3 20230116155148
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230131110736
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230131184726
+'Cloud_mapping_experiment._Contact_research@pdrlabs.net' 20230116041752
+wp_is_mobile 20230104063901
+subjs 20230107001650
+Python/3.7_aiohttp/3.7.4.post0 20230123193122
+Mozilla/5.0_(PlayBook;_U;_RIM_Tablet_OS_2.1.0;_en-US)_AppleWebKit/536.2__(KHTML_like_Gecko)_Version/7.2.1.0_Safari/536.2_ 20230104060926
+Mozilla/5.0_(compatible;_Dataprovider.com) 20230115200856
+fasthttp 20230125010533
+HTTP_Banner_Detection_(https://security.ipip.net) 20230131103727
+lua-resty-http/0.10_(Lua)_ngx_lua/10019 20230125181106
+Download_Demon/3.5.0.11 20230120133458
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230131145804
+'Mozilla/5.0' 20230114044127
+IAB-Tech-Lab 20230130015307
+Mozilla/5.0_zgrab/0.x 20230131065122
+Python/3.9_aiohttp/3.8.3 20230118183851
+WhatsApp/2.22.23.77_A 20230110040955
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 14
+IAB-Tech-Lab 20230130015307
+subjs 20230107001650
+Python/3.7_aiohttp/3.7.4.post0 20230123193122
+WhatsApp/2.22.23.77_A 20230110040955
+Python/3.9_aiohttp/3.8.3 20230118183851
+l9tcpid/v1.1.0 20230120025038
+python-httpx/0.23.3 20230116155148
+HTTP_Banner_Detection_(https://security.ipip.net) 20230131103727
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230131184726
+fasthttp 20230125010533
+'Cloud_mapping_experiment._Contact_research@pdrlabs.net' 20230116041752
+wp_is_mobile 20230104063901
+lua-resty-http/0.10_(Lua)_ngx_lua/10019 20230125181106
+Download_Demon/3.5.0.11 20230120133458
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 7072 7423
+From1 4 4
+From2 78 86
+From3 63 155
+From4 39728 48300
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+www_google_com 45 45
+google_com 2 2
+www_bing_com 5 5
+baidu 26 34
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 21
+http://216.10.252.82:80 33 33
+http://mail.nulinz.com 10 10
+http://mail.nulinz.com/wordpress 4 4
+http://mail.nulinz.com/main 2 2
+http://mail.nulinz.com/bc 2 2
+http://mail.nulinz.com/home 2 2
+http://mail.nulinz.com/old 2 2
+http://mail.nulinz.com/backup 2 2
+http://mail.nulinz.com/bk 2 2
+http://mail.nulinz.com/new 2 2
+http://mail.nulinz.com/wp 2 2
+https://www.omsiga.nuscma.com 0 11
+https://treethirty.nuscma.com 0 11
+https://omsiga.in 0 11
+https://omsiga.com 0 11
+http://mail.nulinz.com/assets/js/main.js 0 1
+https://216.10.252.82 0 12
+https://mail.omsiga.com 0 11
+http://216.10.252.82:80/img/Nuscma-tab-icon.svg 0 2
+https://www.omsiga.in 0 11
+https://omsiga.nuscma.com 0 11
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 13
+421 131 42182
+302 3960 10039509
+502 2 559
+500 90 0
+301 882 213655
+206 31 14401490
+406 327 73676
+503 2 716
+404 10124 3692880
+400 6 694
+403 1509 540222
+504 9 3513
+409 5 415
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 622
+/schoo/ 4 -
+/Res/login.html 8 -
+/nmaplowercheck1672984999 2 -
+/wp-includes/images/css.php 2 www.bing.com
+/About/license.txt 2 -
+/___proxy_subdomain_cpcontacts/adminer-4.6.3.php 1 -
+/adminer-4.6.2.php 6 -
+/3index.php 2 www.bing.com
+/archives.php 2 www.bing.com
+/school/js/rangeslider.min.js 6 https://www.nulinz.com/school/teacher/subject.php
+/wp-reset.php 2 -
+/autodiscover/autodiscover.json 31 -
+/radio.php 2 www.bing.com
+/03/license.txt 2 -
+/school/js/internet-status.js 5 https://www.nulinz.com/school/teacher/subject.php
+/___proxy_subdomain_cpcontacts/tools/adminer.php 1 -
+/franchiseassests/js/jquery-3.4.1.js 2 https://www.nulinz.com/distributorship.php
+/___proxy_subdomain_webdisk/adminer-4.8.0/ 1 -
+/debug/default/view 6 -
+//recordings/ 2 -
+/___proxy_subdomain_cpcontacts/manager/adminer.php 1 -
+/+CSCOE+/logon.html 8 -
+/adminer-4.7.5.php 6 -
+/wp-content/themes/seotheme/db.php 4 -
+/adminer-4.7.7-mysql.php 4 -
+/___proxy_subdomain_cpcalendars/robots.txt 4 -
+/assets/images/gallery/blog_bg.jpg 1 -
+/101/license.txt 2 -
+/wp-commentin.php 8 -
+/school/assets/Downloads/student%20fees.csv 2 https://www.nulinz.com/school/admin/setting.php
+/___proxy_subdomain_cpcontacts/adminer/ 1 -
+/school/admin/assets/icons/newicons/Nuscma-tab-icon.svg 1 https://www.nulinz.com/school/admin/change_password.php
+/login.php 2 -
+/blogs/license.txt 2 -
+/___proxy_subdomain_webdisk/adminer-4.7.3.php 1 -
+/assets/js/popper.min.js 1 -
+/wp-content/uploads/cgialfa 2 www.bing.com
+/arx/license.txt 2 -
+/___proxy_subdomain_webdisk/adminer-4.7.1/ 1 -
+/license.txt 2 -
+/___proxy_subdomain_cpcontacts/adminer-4.7.2.php 1 -
+/phpmyadmin.php 6 -
+/school/parent/img/person_outline.svg 4 https://www.nulinz.com/school/parent/my_profile.php
+/avpsiddhaacademy.com 2 -
+/sql.php 6 -
+/school/teacger 2 -
+/assets/images/icon.png 1869 https://nulinz.com/school/admin/studentProfile.php
+/ups.php 2 www.bing.com
+/schoo/admin/index.php 2 -
+/version-v2/blog-list-1.html 4 https://www.nulinz.com/version-v2/
+/school/teacher/img/icons/icon-152x152.png 22 https://www.nulinz.com/school/teacher/dashboard.php
+/___proxy_subdomain_webdisk/adminer-4.7.1-mysql-en.php 1 -
+/adminer-4.7.8/ 6 -
+/school/teacher/css/sourcemaps/tiny-slider.css.map 6 -
+/2007/license.txt 2 -
+/adm/adminer.php 6 -
+/___proxy_subdomain_cpcontacts/adminer-4.7.7-mysql-en.php 1 -
+/wp-includes/css/wp-config.php 2 www.bing.com
+/adminer-4.8.0-en.php 4 -
+/test_404_page/ 6 -
+/99vu 8 -
+/assets/images/background.svg 13 https://www.nulinz.com/distributorship.php
+/wp-content/plugins/indeed-membership-pro/classes/PaymentGateways/mollie/vendor/phpunit/phpunit/phpunit.xsd 2 -
+/adminer-4.6.3/ 6 -
+/school/js/vanilla-dataTables.min.js 6 https://www.nulinz.com/school/teacher/subject.php
+/menu.cfm 2 -
+/wp-includes/ALFA_DATA 2 www.bing.com
+/wp-content/mu-plugins-old/index.php 2 www.bing.com
+/admin.shtml 2 -
+/___proxy_subdomain_webdisk/adminer-4.7.4/ 1 -
+/2003/license.txt 2 -
+/style.php 16 -
+/___proxy_subdomain_cpcontacts/adminer-mysql.php 1 -
+/school/admin/.../Teacher_Documents/google-play_transfer%20certificate4b5b2186f373c1c8311ba5ef9562365f.png 1 https://www.nulinz.com/school/admin/studentProfile.php
+/franchiseassests/css/reset%20-%20Copy.css 14 https://www.nulinz.com/distributorship.php
+/___proxy_subdomain_webdisk/adminer-4.7.4.php 1 -
+/adminer-4.7.1/ 4 -
+/___proxy_subdomain_cpcontacts/adminer-4.7.0-mysql.php 1 -
+/manager/adminer.php 6 -
+/school/admin/print_expense_workorder.php 2 -
+/ab2g 32 -
+/ReportServer 8 -
+/___proxy_subdomain_cpcontacts/adminer1.php 1 -
+/shells.php 2 www.bing.com
+/123.php 2 -
+/beence.php 2 www.bing.com
+/wp-content/plugins/imagements/images/2l027wnogen7ualqpydczpyopto.php 2 -
+/wp-json/am-member/license 1 -
+/media-admin.php 2 www.bing.com
+/wp-signin.php 2 www.bing.com
+/school/requestReset.php 10 -
+/school/parents 2 -
+/wp-content/alfacgiapi 2 www.bing.com
+/___proxy_subdomain_cpcontacts/adminer-4.8.0-en.php 1 -
+/_ignition/execute-solution 8 -
+/wp-content/plugins/ubh/up.php 2 www.bing.com
+/api/search 4 -
+/___proxy_subdomain_webdisk/adminer-4.8.0-mysql.php 1 -
+/localstart.asp 2 -
+/___proxy_subdomain_cpcontacts/adm/adminer.php 1 -
+/.well-known/apple-app-site-association 32 -
+/assets/js/fileupload/server/php/index.php 1 -
+/wp-admin/cgialfa 1 www.bing.com
+/avp/app/img/icons/icon-72x72.png 2 https://www.nulinz.com/avp/app/index.php
+/school/parent/detail.html 4 https://www.nulinz.com/school/parent/document.php
+/s/2383e2235323e20313e2631323/_/ 4 -
+/___proxy_subdomain_cpcontacts/sql.php 1 -
+/___proxy_subdomain_cpcontacts/adminer-4.7.5-en.php 1 -
+/school/teacher/js/bootstrap.bundle.min.js.map 6 -
+/___proxy_subdomain_cpcontacts/robots.txt 4 -
+//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 3 -
+/___proxy_subdomain_cpanel/robots.txt 4 -
+/wp.php 2 www.bing.com
+/old-index.php 2 www.bing.com
+/assets/icons/newicons/Nuscma-tab-icon.svg 2 -
+/wp-admin/css/ 4 binance.com
+/1index.php 2 www.bing.com
+/school/admin/formSubmit 4 https://www.nulinz.com/school/admin/view_student_attendance.php
+/solr/ 2 -
+/___proxy_subdomain_webdisk/adminer-4.7.1-mysql.php 1 -
+/chart/php-ofc-library/ofc_upload_image.php 2 -
+/base.pl 2 -
+/agc/timeclock.php 2 -
+/default.jhtml 2 -
+/adminer-4.8.0.php 4 -
+/school/js/slideToggle.min.js 5 https://www.nulinz.com/school/teacher/subject.php
+/adminer-4.7.4-mysql.php 4 -
+/___proxy_subdomain_webdisk/admin/adminer.php 1 -
+/chool/parent 2 -
+/wp-includes/class-index-wordpress.php 4 -
+/requestReset.php 2 -
+/defau1t.php 2 www.bing.com
+/school/teacher/edit_examAssign.php 8 https://www.nulinz.com/school/teacher/examAssign.php
+/102/license.txt 2 -
+/school/admin/assets/css/reset%20-%20Copy.css 1 https://www.nulinz.com/school/admin/change_password.php
+/___proxy_subdomain_webdisk/adminer-4.7.8-en.php 1 -
+/aaaaaaaaaaaaaaaaaaaaaaaaaqr 8 -
+/___proxy_subdomain_cpcontacts/adminer-4.7.8-en.php 1 -
+/200/license.txt 2 -
+/assets/img/Amxxa-tab-icon.svg 1 -
+/2002/license.txt 2 -
+/wp-includes/alfacgiapi 2 www.bing.com
+/school/img/bg-img/4.jpg 31 https://www.nulinz.com/school/teacher/document.php
+/phpmyadmin/index.php 2 -
+/a/license.txt 2 -
+/login.action 4 -
+/inicio.pl 2 -
+/epa/scripts/win/nsepa_setup.exe 1 -
+/premise/front/getPingData 2 -
+/wp-includes/class-wordpress-license.php 2 -
+/___proxy_subdomain_cpcontacts/adminer-4.7.8-mysql.php 1 -
+/teacher 2 -
+/demo/school/admin/print_assignTeacher 2 -
+/Admin/license.txt 2 -
+/adminer-4.7.5-en.php 4 -
+/___proxy_subdomain_webdisk/adm/adminer.php 1 -
+/___proxy_subdomain_cpcontacts/adminer-4.6.3/ 1 -
+/emp/assets/css/bootstrap.theme.min.css 805 https://nulinz.com/emp/task-info.php
+/___proxy_subdomain_cpcontacts/adminer-4.8.0.php 1 -
+/2000/license.txt 2 -
+/adminer-4.6.2-en.php 6 -
+/.well-known/cgialfa 2 www.bing.com
+/.git/HEAD 4 -
+/InsightPluginShowGeneralConfiguration.jspa 1 -
+/wp-content/uploads/alfacgiapi 2 www.bing.com
+/___proxy_subdomain_cpcontacts/adminer-4.7.7-en.php 1 -
+/admin/php-ofc-library/ofc_upload_image.php 2 -
+/apple-app-site-association 32 -
+/admin/index.php 12 -
+/Administration/license.txt 2 -
+/wp-includes/wp-system-cloud.php 2 -
+/adminer-4.7.7-en.php 6 -
+/dist/apexcharts.js 483 https://www.nulinz.com/school/admin/teacherProfile.php
+/___proxy_subdomain_webdisk/adminer-4.7.5.php 1 -
+/LJrT 2 -
+/joobi/inc/openflashchart/php-ofc-library/ofc_upload_image.php 2 -
+/wp-content/plugins/spamtask/chart/php-ofc-library/ofc_upload_image.php 2 -
+/cL6w 1 -
+/1999/license.txt 2 -
+/.DS_Store 6 -
+/school/img/bg-img/5.jpg 32 https://www.nulinz.com/school/teacher/document.php
+/wp-admin/admin-ajax.php 3 -
+/doc.php 2 www.bing.com
+/olux.php 2 www.bing.com
+/wp-includes/css/css.php 2 www.bing.com
+/30/license.txt 2 -
+/school/teacher/img/bg-img/3.jpg 74 https://www.nulinz.com/school/teacher/dashboard.php
+/adminer-4.7.1-mysql-en.php 6 -
+/1.php 2 www.bing.com
+/wp-content/plugins/apikey/apikey.php 2 -
+/qindex.php 2 www.bing.com
+/___proxy_subdomain_cpcontacts/adminer-4.7.6-mysql.php 1 -
+/___proxy_subdomain_cpcontacts/phpmyadmin.php 1 -
+/school/img/bg-img/2.jpg 31 https://www.nulinz.com/school/teacher/profile.php
+/s_ne.php 2 www.bing.com
+/2/license.txt 2 -
+/nulinzManag/branchs/ 42 https://www.nulinz.com/
+/___proxy_subdomain_webmail/robots.txt 4 -
+/400.shtml 291 -
+/school/parent/index%20php 6 -
+/admin/index.html 6 -
+/upload.php 2 www.bing.com
+/main.shtml 2 -
+/templates/beez3/cgialfa 2 www.bing.com
+/nuscma-v2/register.php 2 -
+/apple-touch-icon.png 2 -
+/adminer.php 10 http://nulinz.com/adminer.php
+/school/admin/formsubmit.php 4 -
+/vod/29999.html 2 /vod/29999.html
+/___proxy_subdomain_cpcontacts/adminer-4.6.1.php 1 -
+/school/admin/change_password1.php 4 https://www.nulinz.com/school/admin/formSubmit.php
+/___proxy_subdomain_cpcontacts/adminer-4.7.4.php 1 -
+/00/license.txt 2 -
+/___proxy_subdomain_webdisk/adminer-4.6.3-mysql.php 1 -
+/demo/assets/Download/student_bulkupload_formate.csv 2 https://www.nulinz.com/demo/school/admin/setting.php
+/demo/admin 2 -
+/school/admin/.../Teacher_Documents/school_Othersee023dfc3564f909f6fc3efe2ed5c14b.jpg 1 https://www.nulinz.com/school/admin/studentProfile.php
+/wp-content/uploads/ALFA_DATA 2 www.bing.com
+/blog/license.txt 2 -
+/sites/default/files/ALFA_DATA 2 www.bing.com
+/login 10 -
+/vendor/isotope-layout/isotope.pkgd.min.js 4 -
+/school/teacher/img/bg-img/31.jpg 80 https://www.nulinz.com/school/teacher/dashboard.php
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 16 -
+/2001/license.txt 2 -
+/wp-content/class-index-wordpress.php 2 -
+/adminer-4.8.0-mysql.php 4 -
+/adminer-4.7.4.php 4 -
+/AboutUs/license.txt 2 -
+/up.php 2 www.bing.com
+/adm.php 6 -
+/99vt 8 -
+/school/teacher/printStudentFees.php 2 https://www.nulinz.com/school/teacher/profilestudent.php
+/nulinzManag/branchs 32 -
+/apple-touch-icon-precomposed.png 2 -
+/___proxy_subdomain_webdisk/adminer-4.6.2/ 1 -
+/ofc/php-ofc-library/ofc_upload_image.php 2 -
+/tmp/license.txt 2 -
+/school/Teacher_Documents/school_Othersee023dfc3564f909f6fc3efe2ed5c14b.jpg 9 https://www.nulinz.com/school/admin/studentProfile.php
+/v2/_catalog 4 -
+/parent 2 -
+/config.json 5 -
+/wp-admin/style.php 8 -
+/default.cgi 2 -
+/adminer-mysql.php 4 -
+/wp-includes/wp-atom.php 2 www.bing.com
+/error.php 2 www.bing.com
+/___proxy_subdomain_webdisk/adminer-4.7.6-mysql.php 1 -
+/base.html 2 -
+/wp-admin/alfacgiapi 1 www.bing.com
+/wp-booking.php 2 www.bing.com
+/___proxy_subdomain_cpcontacts/adminer-4.6.2.php 1 -
+/admin/controller/extension/extension/ALFA_DATA 2 www.bing.com
+/schoolparent 2 -
+/___proxy_subdomain_webdisk/adminer-4.6.3-mysql-en.php 1 -
+/school/js/index.js 6 https://www.nulinz.com/school/teacher/subject.php
+/2L027ZOV3DNQV6uBJigNb5yBFOV.jsp 1 -
+/wp-login.php 2 http://nulinz.com/wp-login.php
+/wp-content/cgialfa 2 www.bing.com
+/agent/timeclock.php 2 -
+/___proxy_subdomain_webdisk/adminer-4.7.1.php 1 -
+/demo/assets/images/icon.png 334 https://www.nulinz.com/demo/school/admin/studentProfile.php
+/version-v2/img/login/bg.png 12 https://www.nulinz.com/version-v2/login.php
+/wp-content/plugins/ip-logger/chart/ofc_upload_image.php 2 -
+/school/teacher/img/user-1.png 2 https://www.nulinz.com/school/teacher/profilestudent.php
+/resetpass 2 -
+/gank.php.PhP 2 www.bing.com
+/school/teacher/img/icons/icon-167x167.png 22 https://www.nulinz.com/school/teacher/dashboard.php
+/adminer/adminer.php 6 -
+/adminer-4.7.2.php 4 -
+/interns/login.php 30 -
+/EP 2 -
+/___proxy_subdomain_webdisk/adminer-4.6.2-mysql.php 1 -
+/___proxy_subdomain_cpcontacts/adminer-4.7.7.php 1 -
+/download/file.ext 2 -
+/wp-backup-sql-302.php 2 www.bing.com
+/_adminer.php 2 -
+/10/license.txt 2 -
+/___proxy_subdomain_cpcontacts/adminer-4.7.8/ 1 -
+/vendor/venobox/venobox.min.js 4 -
+/php-ofc-library/ofc_upload_image.php 2 -
+/recordings/ 4 -
+/___proxy_subdomain_cpcontacts/adminer-4.8.0-mysql-en.php 1 -
+/wp-content/outcms.php 2 www.bing.com
+/school/admin/assets/css/custom%20-%20Copy.css 1 https://www.nulinz.com/school/admin/change_password.php
+/wp_wrong_datlib.php 2 www.bing.com
+/wp-content/plugins/backup_index.php 2 www.bing.com
+/jenkins/login 2 -
+/school/Teacher_Documents/_4e53981676612fd32548d77d662b6d8d. 16 https://www.nulinz.com/school/teacher/document.php
+/components/com_jnews/includes/openflashchart/tmp-upload-images/255test.php 2 -
+/___proxy_subdomain_webdisk/adminer-4.7.7-en.php 1 -
+/ab2h 30 -
+/phpinfo.php 2 -
+/manage/account/login 8 -
+/___proxy_subdomain_cpcontacts/adminer-4.7.3-mysql.php 1 -
+/___proxy_subdomain_cpcontacts/_adminer.php 1 -
+/demo/school/parent/index.php 18 -
+/___proxy_subdomain_cpcontacts/adminer-4.7.5-mysql.php 1 -
+/___proxy_subdomain_webdisk/adminer-4.7.7.php 1 -
+/adminer-4.6.2-mysql.php 2 -
+/___proxy_subdomain_cpcontacts/adminer-4.6.2-mysql.php 1 -
+/___proxy_subdomain_cpcontacts/adminer-4.7.4/ 1 -
+/school/admin/view_student_cl 10 https://www.nulinz.com/school/admin/view_student_attendance.php
+/main.html 2 -
+/adminer-4.7.7.php 4 -
+/nmaplowercheck1674533107 2 -
+/shell.php 2 www.bing.com
+/nulinzManag/employee 36 https://www.nulinz.com/
+/adminer-4.7.5-mysql.php 4 -
+/school/js/pwa.js 6 https://www.nulinz.com/school/teacher/subject.php
+/school/admin/Teacher_Documents/ 2 https://www.nulinz.com/school/admin/teacherProfile.php
+/___proxy_subdomain_cpcontacts/adminer-4.7.3.php 1 -
+/___proxy_subdomain_webdisk/adminer-4.7.7-mysql-en.php 1 -
+/LIsT 2 -
+/assets/Download/student_bulkupload_formate.csv 2 https://nulinz.com/school/admin/setting.php
+/base.jsp 1 -
+/___proxy_subdomain_webdisk/adminer/adminer.php 1 -
+/app-ads.txt 28 -
+/beta 2 -
+/sites/all/libraries/plupload/examples/upload.php 2 -
+/02/license.txt 2 -
+/___proxy_subdomain_cpcontacts/mysql.php 1 -
+/version-v2/img/home-3/blog/2.png 26 https://www.nulinz.com/version-v2/
+/css.php 2 www.bing.com
+/admin/adminer.php 6 -
+/wp-load.php 4 www.bing.com
+/_profiler/phpinfo 2 -
+/___proxy_subdomain_cpcontacts/adminer-4.6.3-mysql.php 1 -
+/adminer1.php 6 -
+/1/license.txt 2 -
+/___proxy_subdomain_webdisk/_adminer.php 1 -
+/01/license.txt 2 -
+/Electron/download/windows/%5CProgram%20Files%5C3CX%20Phone%20System%5CData%5CDB%5Cbase%5C16384%5C16393 4 -
+/assets/js/plugins.js 1 -
+/adminer-4.7.0-mysql.php 6 -
+/___proxy_subdomain_webdisk/adminer-4.6.3.php 1 -
+/admin/controller/extension/extension/alfacgiapi 2 www.bing.com
+/___proxy_subdomain_cpcontacts/adm.php 1 -
+/___proxy_subdomain_webdisk/adm.php 1 -
+/WuEL 2 -
+/system_log.php 2 www.bing.com
+/wp-plugins.php 2 www.bing.com
+/___proxy_subdomain_cpcontacts/adminer-4.7.0.php 1 -
+/___proxy_subdomain_cpcontacts/ 8 -
+/___proxy_subdomain_webdisk/adminer-4.7.5-en.php 1 -
+/demo/admin/ 2 -
+/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php 2 -
+/school/assets/Download/student_bulkupload_formate.csv 2 https://www.nulinz.com/school/admin/setting.php
+/x.php 2 www.bing.com
+/vendor/counterup/counterup.min.js 4 -
+/data/adminer.php 6 -
+/school/admin/assets/images/background.svg 1 https://www.nulinz.com/school/admin/change_password.php
+/php/ping.php 2 -
+/school/parent/lib/map/leaflet.markercluster.js.map 1 -
+/wp-includes/wp-class.php 2 www.bing.com
+/school/js/baguetteBox.min.js 6 https://www.nulinz.com/school/teacher/subject.php
+/school/Teacher_Documents/_Otherd999385f3db7d1abc8ae0d35d1dcee7f. 16 https://www.nulinz.com/school/teacher/document.php
+/main.cgi 2 -
+/xmrlpc.php 2 www.bing.com
+/wikindex.php 2 www.bing.com
+/adminer-4.7.4/ 6 -
+/CNhc 1 -
+/about.php 4 www.bing.com
+/school/parent/lib/bootstrap/css/bootstrap.min.css.map 367 -
+/vendor/jquery.easing/jquery.easing.min.js 4 -
+/sites/all/modules/civicrm.local/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 2 -
+/adminer-4.7.7-mysql-en.php 4 -
+/_ignition/health-check/ 10 http://nulinz.com/_ignition/health-check/
+/Portal/Portal.mwsl 6 -
+/___proxy_subdomain_webdisk/adminer-4.7.8-mysql.php 1 -
+/___proxy_subdomain_cpcontacts/adminer-4.7.1-mysql.php 1 -
+/school/parents/ 2 -
+/config.js 2 -
+/___proxy_subdomain_webdisk/adminer1.php 1 -
+/backup/license.txt 2 -
+/___proxy_subdomain_cpcontacts/adminer-4.7.1/ 1 -
+/school/admin/Teacher_Documents/google-play_transfer%20certificate4b5b2186f373c1c8311ba5ef9562365f.png 1 https://www.nulinz.com/school/admin/studentProfile.php
+/api/jsonws/ 6 -
+/___proxy_subdomain_webmail/ 14 -
+/___proxy_subdomain_webdisk/adminer-4.6.3/ 1 -
+/A/license.txt 2 -
+/humans.txt 6 http://nulinz.com/humans.txt
+/webfig/ 2 -
+/school/parent/profile.html 4 https://www.nulinz.com/school/parent/dashboard.php
+/school/js/isotope.pkgd.min.js 6 https://www.nulinz.com/school/teacher/subject.php
+/schoo/admin 8 -
+/templates/beez3/alfacgiapi 2 www.bing.com
+/school/img/bg-img/6.jpg 29 https://www.nulinz.com/school/teacher/document.php
+/___proxy_subdomain_webdisk/data/adminer.php 1 -
+/___proxy_subdomain_webdisk/adminer-4.8.0-mysql-en.php 1 -
+/info.php 8 -
+/school/Teacher_Documents/_Other9cb9a85d58d5287b35afac9203c60844. 16 https://www.nulinz.com/school/teacher/document.php
+/___proxy_subdomain_cpcontacts/adminer-4.7.1-mysql-en.php 1 -
+/___proxy_subdomain_cpcontacts/adminer-4.7.5.php 1 -
+/sites/default/files/alfacgiapi 2 www.bing.com
+/version-v2/img/home-3/blog/1.png 26 https://www.nulinz.com/version-v2/
+/___proxy_subdomain_cpcontacts/adminer-4.7.4-mysql.php 1 -
+/adminer/ 6 -
+/___proxy_subdomain_webdisk/adminer-4.6.2.php 1 -
+/___proxy_subdomain_cpcontacts/adminer-4.7.7-mysql.php 1 -
+/school/admin/continu.php 2 -
+/___proxy_subdomain_webdisk/adminer-4.8.0.php 1 -
+/___proxy_subdomain_webdisk/adminer-4.7.3-mysql.php 1 -
+/z.php 2 www.bing.com
+/vendor/bootstrap/js/bootstrap.bundle.min.js 4 -
+/cgialfa 2 www.bing.com
+/nmaplowercheck1673689205 2 -
+/___proxy_subdomain_webdisk/adminer-4.6.2-mysql-en.php 1 -
+/amxxa.com 4 -
+/adminer-4.7.3.php 6 -
+/administrator/index.php 12 -
+/wp-story.php 2 -
+/assets/js/vandor/modernizr-3.5.0.min.js 1 -
+/school/js/countdown.js 6 https://www.nulinz.com/school/teacher/subject.php
+/chool/admin 2 -
+/version-v2/img/products/Amxxa-logo.png 1 https://www.nulinz.com/version-v2/
+/typo3conf/ext/hi_surveystats/res/php-ofc-library/ofc_upload_image.php 2 -
+/config.php 2 www.bing.com
+/1998/license.txt 2 -
+/___proxy_subdomain_webdisk/adminer-4.7.5-mysql.php 1 -
+/xleet.php 2 www.bing.com
+/static/admin/javascript/hetong.js 2 -
+/adminer-4.7.7/ 6 -
+/export.php 2 www.bing.com
+/school/admin/daywise_Attendance.php 2 https://www.nulinz.com/school/admin/view_teacher_attendance.php
+/20/license.txt 2 -
+/adminer-4.6.1.php 4 -
+/shop/license.txt 2 -
+/___proxy_subdomain_webdisk/adminer-4.7.8/ 1 -
+/nf_tracking.php 2 -
+/.well-known/security.txt 18 -
+/@/license.txt 2 -
+/index.php 14 -
+/vendor/waypoints/jquery.waypoints.min.js 4 -
+/script 2 -
+/SiteLoader 2 -
+/wp-content/ 2 -
+/3/license.txt 2 -
+/___proxy_subdomain_webdisk/ 18 -
+/___proxy_subdomain_webdisk/adminer-mysql.php 1 -
+/admin/dashboard.php 2 -
+/templates/beez3/index.php 2 www.bing.com
+/school/Teacher_Documents/google-play_transfer%20certificate4b5b2186f373c1c8311ba5ef9562365f.png 25 https://www.nulinz.com/school/admin/studentProfile.php
+/idx_config/ 2 -
+/ 69 -
+/wp-admin.php 1 www.bing.com
+/adminer-4.7.8-mysql.php 6 -
+/vendor/owl.carousel/owl.carousel.min.js 4 -
+/school/parent/chat-single.html 2 https://www.nulinz.com/school/parent/dashboard.php
+/EMO 2 -
+/___proxy_subdomain_cpcontacts/adminer-4.8.0-mysql.php 1 -
+/cgi-bin/config.exp 8 -
+/school/demo 10 -
+/school/js/bootstrap.bundle.min.js 5 https://www.nulinz.com/school/teacher/subject.php
+/manager/html 2 -
+/wp-22.php 2 -
+/adminer-4.6.3-mysql.php 6 -
+/version-v2/img/products/Nuscma%20logo.svg 1 https://www.nulinz.com/version-v2/
+/lock360.php 2 www.bing.com
+/a 2 -
+/public/_ignition/health-check/ 10 http://nulinz.com/public/_ignition/health-check/
+/___proxy_subdomain_cpcontacts/adminer-4.7.1.php 1 -
+/___proxy_subdomain_cpcontacts/adminer-4.7.6.php 1 -
+/adminer-4.7.1-mysql.php 6 -
+/school/teacher/img/icons/icon-180x180.png 64 https://www.nulinz.com/school/teacher/dashboard.php
+/___proxy_subdomain_cpcontacts/adminer-4.6.3-mysql-en.php 1 -
+/___proxy_subdomain_cpcontacts/data/adminer.php 1 -
+/school/parent/lib/map/leaflet-gesture-handling.min.js.map 1 -
+/admin.php 2 -
+/admin/controller/extension/extension/cgialfa 2 www.bing.com
+/demo/school/admin/print_assignTeacher.php 6 -
+/vendor/php-email-form/validate.js 4 -
+/adminer-4.8.0-mysql-en.php 6 -
+/___proxy_subdomain_webdisk/sql.php 1 -
+/wp-content/plugins/core-stab/index.php 2 -
+/Public/home/js/check.js 2 -
+/0/license.txt 2 -
+/admin/assets/js/views/login.js 1 -
+/___proxy_subdomain_cpcontacts/adminer-4.6.2/ 1 -
+/adminer-4.7.6-mysql.php 6 -
+/pools/default/buckets 2 -
+/___proxy_subdomain_cpcalendars/ 16 -
+/actuator/gateway/routes 28 -
+/showLogin.cc 8 -
+/1x1/license.txt 2 -
+/owa/auth/x.js 6 -
+/sites/all/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 2 -
+/alfacgiapi 2 www.bing.com
+/___proxy_subdomain_cpanel/ 10 -
+/school/admin/student_attendence.php 2 https://www.nulinz.com/school/admin/viewAttendence.php
+/nulinzmanag/employee 2 -
+/xmlrpcs.php 2 www.bing.com
+/___proxy_subdomain_webdisk/adminer/ 1 -
+/console/ 6 -
+/evox/about 4 -
+/HNAP1 6 -
+/mysql.php 6 -
+/wp-admin/ALFA_DATA 1 www.bing.com
+/school/teacher/sourcemaps/tiny-slider.js.map 6 -
+/telescope/requests 6 -
+/actuator/health 42 -
+/adminer-4.7.6.php 6 -
+/cgi-bin/../../../../bin/sh 4 -
+/version-v2/img/home-3/blog/4.png 26 https://www.nulinz.com/version-v2/
+/wp-setups.php 2 -
+/Archive/license.txt 2 -
+/school/admin/assets/java-script/jquery-3.4.1.js 1 https://www.nulinz.com/school/admin/change_password.php
+/___proxy_subdomain_cpcontacts/adminer-4.7.8.php 1 -
+/wp-cc.php 4 -
+/.git/config 74 -
+/adminer-4.6.3.php 6 -
+/admin/ 4 -
+/school/teacher/service-worker.js 2015 https://www.nulinz.com/school/teacher/viewAttendence.php
+/owa/auth/logon.aspx 74 -
+/school/style.css 5 https://www.nulinz.com/school/teacher/subject.php
+/version-v2/img/home-3/blog/3.png 26 https://www.nulinz.com/version-v2/
+/.well-known/ALFA_DATA 2 www.bing.com
+/wp-content/plugins/t_file_wp/t_file_wp.php 2 -
+/adminer-4.7.1.php 6 -
+/___proxy_subdomain_webdisk/adminer-4.7.6.php 1 -
+/vendor/jquery/jquery.min.js 4 -
+/school/Students_Documents/_Other%20Certificate72de73056911b4dfaa70d3dde7fd5b1d. 16 https://www.nulinz.com/school/parent/document.php
+/school/js/tiny-slider.js 6 https://www.nulinz.com/school/teacher/subject.php
+/___proxy_subdomain_webdisk/adminer-4.7.8.php 1 -
+/adminer-4.6.2-mysql-en.php 6 -
+/___proxy_subdomain_webdisk/adminer.php 1 -
+/wordpress/license.txt 2 -
+/___proxy_subdomain_cpcontacts/adminer-4.6.2-mysql-en.php 1 -
+/300/license.txt 2 -
+/wso.php 2 www.bing.com
+/about 4 -
+/wp-content/db-cache.php 2 www.bing.com
+/js/main.js 4 -
+/.well-known/traffic-advice 6 -
+/adminer-4.7.8.php 4 -
+/___proxy_subdomain_webdisk/adminer-4.8.0-en.php 1 -
+/___proxy_subdomain_webdisk/mysql.php 1 -
+/wordpress/ 6 -
+/___proxy_subdomain_cpcontacts/adminer-4.7.7/ 1 -
+/___proxy_subdomain_cpcontacts/adminer.php 1 -
+/auth.asp 4 -
+/___proxy_subdomain_webdisk/manager/adminer.php 1 -
+/wp-content/mu-plugins/db-safe-mode.php 2 www.bing.com
+/adminer-4.6.3-mysql-en.php 4 -
+/___proxy_subdomain_webdisk/adminer-4.7.7-mysql.php 1 -
+/owa/ 16 -
+/alfa.php 2 www.bing.com
+/adminer-4.7.3-mysql.php 6 -
+/templates/beez3/ALFA_DATA 2 www.bing.com
+/school/assets/Downloads/student%20pending.csv 2 https://www.nulinz.com/school/admin/setting.php
+/___proxy_subdomain_webdisk/adminer-4.6.2-en.php 1 -
+/adminer-4.6.2/ 6 -
+/___proxy_subdomain_webdisk/adminer-4.7.0-mysql.php 1 -
+/___proxy_subdomain_webdisk/adminer-4.7.4-mysql.php 1 -
+/docs/cplugError.html/ 6 -
+/CSS/Miniweb.css 3 -
+/remote/login 4 -
+/avp/app/service-worker.js 2 https://www.nulinz.com/avp/app/index.php
+/___proxy_subdomain_webdisk/adminer-4.6.1.php 1 -
+/school/admmin 2 -
+/___proxy_subdomain_cpcontacts/adminer-4.8.0/ 1 -
+/school/teacher/element-hero-blocks.html 6 https://www.nulinz.com/school/teacher/
+/video/65788.html 2 /video/65788.html
+/movie/bCZgaGBj 2 /movie/bCZgaGBj
+/school/teacher/img/bg-img/32.jpg 73 https://www.nulinz.com/school/teacher/dashboard.php
+/school/admin/change_password.php 2 https://www.nulinz.com/school/admin/
+/franchiseassests/css/gendral.css 18 https://www.nulinz.com/distributorship.php
+/wp-includes/cgialfa 2 www.bing.com
+/xindex.php 2 www.bing.com
+/wp-content/export.php 2 www.bing.com
+/users/sign_in 2 -
+/.vscode/sftp.json 1 -
+/school/js/active.js 6 https://www.nulinz.com/school/teacher/subject.php
+/nulinzmanag/branchs 2 -
+/version-v2/img/products/logo.png 1 https://www.nulinz.com/version-v2/
+/wp-content/ALFA_DATA 2 www.bing.com
+/sites/default/files/cgialfa 2 www.bing.com
+//cdn.ampproject.org/v0/amp-ad-0.1.js 4 -
+/adminer-4.7.8-en.php 6 -
+/school/teacher/img/bg-img/33.jpg 76 https://www.nulinz.com/school/teacher/dashboard.php
+/nulinzManag/employee/ 2 -
+/2006/license.txt 2 -
+/school/admin/Teacher_Documents/school_Othersee023dfc3564f909f6fc3efe2ed5c14b.jpg 3 https://www.nulinz.com/school/admin/studentProfile.php
+/___proxy_subdomain_webdisk/adminer-4.7.2.php 1 -
+/school/js/dark-rtl.js 6 https://www.nulinz.com/school/teacher/subject.php
+/___proxy_subdomain_webdisk/adminer-4.7.0.php 1 -
+/___proxy_subdomain_webdisk/adminer-4.7.7/ 1 -
+/___proxy_subdomain_cpcontacts/adminer-4.6.2-en.php 1 -
+/demo/index.php 2 -
+/.well-known/alfacgiapi 2 www.bing.com
+/mPlayer 2 -
+/___proxy_subdomain_webdisk/robots.txt 4 -
+/robots.txt 588 -
+/___proxy_subdomain_cpcontacts/adminer/adminer.php 1 -
+/school/parent/viewResults.php 6 https://www.nulinz.com/school/parent/exam.php
+/s_e.php 2 www.bing.com
+/school/teacher/img/icons/icon-96x96.png 24 https://www.nulinz.com/school/teacher/dashboard.php
+/school/img/bg-img/7.jpg 28 https://www.nulinz.com/school/teacher/document.php
+/defau11.php 2 www.bing.com
+/___proxy_subdomain_cpcontacts/admin/adminer.php 1 -
+/Telerik.Web.UI.WebResource.axd 8 -
+/wp-content/plugins/formidable/pro/js/ofc-library/ofc_upload_image.php 2 -
+/a.php 2 www.bing.com
+/school/teacher/img/bg-img/1.jpg 73 https://www.nulinz.com/school/teacher/dashboard.php
+/school/parent/lib/bootstrap/js/bootstrap.min.js.map 67 -
+/moduless.php 2 www.bing.com
+/1000/license.txt 2 -
+/sitemap.xml 36 -
+/___proxy_subdomain_webdisk/tools/adminer.php 1 -
+/legion.php 2 www.bing.com
+/version 18 -
+/tools/adminer.php 4 -
+/adminer-4.8.0/ 6 -
+/school/js/imagesloaded.pkgd.min.js 6 https://www.nulinz.com/school/teacher/subject.php
+/___proxy_subdomain_webdisk/phpmyadmin.php 1 -
+/ALFA_DATA 2 www.bing.com
+/vendor/aos/aos.js 4 -
+/100/license.txt 2 -
+/wp-includes/pomo/umpomone.php 2 -
+/pools 2 -
+/wp-includes/class-wp-page-icon.php 2 -
+/adminer-4.7.0.php 6 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 896
+117.213.134.85 2311 2394 39502726 20230111115544
+157.49.130.139 1898 1954 44292514 20230122173645
+117.253.188.196 1612 1796 51562883 20230119041633
+157.49.201.11 1540 1611 16253312 20230106183109
+117.253.85.188 1432 1642 39273000 20230120041229
+157.51.194.75 1431 1663 56875866 20230117165507
+157.49.140.248 1289 1289 8741537 20230123084730
+117.253.88.240 1250 1255 59338360 20230109125454
+157.51.194.48 1100 1136 23220970 20230119115913
+117.253.81.158 1081 1259 38974819 20230107113459
+59.93.14.137 1058 1139 30141957 20230120112309
+157.49.137.11 1057 1223 12350074 20230109133126
+117.253.87.216 1042 1042 62053605 20230111041134
+157.49.196.198 980 1027 17764313 20230104171215
+117.202.178.168 907 911 54594077 20230107040614
+157.49.132.193 906 1077 12474607 20230108161710
+59.98.42.43 893 1043 16348737 20230109041521
+157.49.156.122 861 925 7983177 20230108121334
+157.49.158.197 801 856 10649805 20230110074425
+157.49.79.112 749 791 123606958 20230105172626
+157.51.194.67 732 822 23947065 20230116095858
+157.51.194.1 616 679 19210281 20230118170953
+157.51.194.55 551 662 2423117 20230121131045
+117.206.143.173 547 608 9609366 20230118110807
+157.49.145.67 515 635 2835614 20230110120448
+18.225.25.214 4 4 119656 20230125181130
+27.5.207.194 63 78 862913 20230123101130
+193.118.53.210 6 6 55800 20230122214135
+107.178.229.221 0 2 116 
+195.181.168.186 14 15 3214128 20230106180013
+167.94.146.60 2 3 21046 20230121163944
+42.236.10.125 0 2 6259812 
+157.49.93.22 11 21 140982 20230126075753
+157.51.194.208 293 351 3640641 20230111195349
+18.237.163.111 2 2 18600 20230122191701
+52.54.85.154 2 2 59828 20230129042817
+5.188.62.174 2 2 18600 20230127054207
+157.49.199.49 286 349 17032001 20230105075536
+66.249.83.23 0 1 14002 
+157.51.7.54 10 20 419451 20230116133002
+148.153.117.11 2 2 18600 20230127052454
+157.51.194.223 137 162 1736623 20230118140245
+18.237.152.149 3 3 89742 20230123071849
+24.199.82.7 2 13 140153 20230113022903
+20.89.88.34 2 2 59828 20230105204513
+157.46.88.82 9 19 137004 20230131162237
+34.207.151.204 2 2 59828 20230124042604
+66.94.107.177 4 33 2668503 20230111091550
+54.218.103.253 2 2 18600 20230123192327
+159.223.226.0 2 2 18600 20230103105031
+205.210.31.14 4 4 119656 20230129164801
+45.14.226.53 4 4 37200 20230118184917
+54.92.222.99 2 2 59828 20230105042456
+116.179.33.79 0 1 1513421 
+42.236.10.84 8 69 14726724 20230110001821
+192.71.3.26 2 2 18600 20230127191042
+137.184.50.178 2 2 18600 20230123065338
+217.182.192.90 1 1 29914 20230116075858
+117.253.86.198 192 192 9999261 20230104130708
+205.210.31.17 2 2 59828 20230113234956
+223.111.175.4 1 14 246270 20230104120310
+157.51.194.128 168 196 1169567 20230117034429
+37.139.128.91 1 1 0 20230122063312
+60.243.23.93 2 2 2538 20230128024454
+157.49.155.20 11 21 138586 20230130062908
+42.236.10.112 0 1 3129906 
+205.210.31.182 2 2 59828 20230110152215
+205.210.31.57 2 2 59828 20230106191250
+20.62.145.15 7 8 148155 20230115140418
+138.68.145.246 4 16 161199 20230113191716
+185.180.143.141 3 3 27900 20230115024104
+162.243.150.11 2 2 18600 20230124064206
+194.165.17.16 25 25 160286 20230122144957
+35.84.31.224 2 2 18600 20230123024207
+205.210.31.48 4 4 119656 20230130010447
+117.253.179.92 447 448 32171323 20230124041221
+35.87.179.166 1 1 9300 20230106194033
+124.156.222.254 2 2 18600 20230101043703
+157.49.196.60 114 121 14373478 20230106051513
+161.35.130.74 2 2 18600 20230105044937
+79.137.65.46 2 2 59828 20230106155343
+101.68.211.2 6 6 179484 20230118174755
+165.22.178.64 3 3 27900 20230131173536
+107.178.229.143 0 2 116 
+205.210.31.39 2 2 59828 20230106200839
+157.49.68.193 4 4 5648 20230119124718
+157.49.153.152 8 8 15914 20230119090326
+157.49.69.135 7 82 1709115 20230116054857
+164.92.144.17 2 2 59828 20230110112249
+66.249.83.19 0 4 46465 
+167.248.133.63 2 3 21046 20230119170835
+205.210.31.32 2 2 59828 20230116193013
+157.49.179.31 21 31 595051 20230111101203
+106.197.98.212 1 27 1158133 20230122171049
+167.94.146.59 2 3 21046 20230110012758
+2.57.122.233 10 10 93000 20230115142238
+157.49.89.249 2 2 4714 20230119124703
+64.62.197.64 1 1 9300 20230118113523
+157.51.66.178 13 23 143426 20230127054304
+54.82.104.157 2 2 59828 20230110042632
+66.249.83.74 0 2 16450 
+209.141.36.231 16 26 304289 20230124004613
+137.184.200.131 2 2 59828 20230102205339
+185.181.60.12 2 2 18600 20230130023932
+157.49.217.187 11 37 595766 20230117072402
+157.49.94.188 10 10 14508 20230127044241
+157.49.156.176 30 46 204350 20230120053854
+87.236.176.208 0 1 2446 
+157.49.81.138 33 43 185232 20230120035202
+87.236.176.75 0 1 2446 
+192.71.44.44 0 2 116 
+180.163.220.68 6 37 8946915 20230110001738
+54.210.190.198 2 2 59828 20230119042948
+34.224.218.75 2 2 59828 20230109211740
+157.49.151.244 11 21 138722 20230131040810
+157.51.194.151 126 174 6433263 20230111061104
+34.220.254.123 1 1 9300 20230125192349
+157.51.91.171 80 80 8158403 20230128140905
+205.210.31.176 2 2 59828 20230108070737
+35.90.148.198 2 2 18600 20230113194259
+103.149.192.151 2 2 18600 20230121014324
+89.117.20.171 11 11 583 20230119235810
+42.104.142.69 2 2 2538 20230113105534
+64.62.197.132 2 2 18600 20230114073730
+27.115.124.38 4 33 2668503 20230104023820
+117.203.66.227 2 2 1562 20230126112601
+106.195.41.35 14 20 536360 20230107035641
+141.237.27.101 2 2 18600 20230118183851
+185.180.143.138 4 4 37200 20230126151831
+172.174.86.75 1 1 9300 20230126094442
+157.49.132.232 48 51 1337177 20230107080713
+87.236.176.58 2 2 18600 20230128161521
+157.51.64.250 2 2 2442 20230123122403
+87.236.176.223 0 1 2446 
+157.49.74.72 4 4 8800 20230119124644
+157.49.87.62 2 2 1562 20230127031751
+207.246.113.16 2 2 18600 20230115181408
+198.235.24.24 2 2 59828 20230102214432
+157.51.188.72 11 21 140452 20230121043141
+87.236.176.206 2 2 18600 20230121021651
+66.249.83.218 0 2 102627 
+209.141.34.187 10 19 184284 20230124182312
+162.142.125.212 5 8 53838 20230124204002
+162.221.192.26 6 6 55800 20230127101251
+74.82.47.4 3 3 27900 20230117032658
+180.163.220.66 0 1 3129906 
+167.248.133.61 4 7 44538 20230130224446
+167.94.145.57 2 3 21046 20230109093753
+42.236.10.100 0 1 3129906 
+193.186.4.162 2 2 18600 20230112024248
+117.33.227.207 2 2 18600 20230126140738
+3.80.119.68 2 2 59828 20230117042818
+198.199.100.67 2 2 18600 20230115063243
+20.241.233.77 4 6 68981 20230126163911
+162.142.125.211 6 8 60692 20230119172803
+66.249.83.58 0 1 2191 
+185.180.143.15 1 1 9300 20230107110155
+205.210.31.31 1 1 29914 20230103171820
+209.141.55.120 24 31 299409 20230124182305
+64.62.197.173 2 2 18600 20230112071819
+157.49.192.73 4 34 2670949 20230118130244
+157.51.82.54 120 150 1128500 20230123072139
+167.94.146.58 2 3 21046 20230126172402
+180.163.220.4 2 2 18600 20230123220139
+106.195.33.255 2 2 2538 20230131161125
+34.228.53.76 2 2 59828 20230111042310
+87.236.176.128 2 2 18600 20230125122557
+64.62.197.215 1 1 9300 20230104013145
+52.91.148.6 3 33 2661649 20230104073148
+157.49.156.239 105 253 9280888 20230108105156
+54.201.164.238 2 2 18600 20230124104918
+157.49.133.88 9 19 136442 20230126035017
+34.217.209.188 2 2 18600 20230122191623
+27.4.114.110 2 3 2538 20230130184734
+167.248.133.60 1 2 11746 20230103125605
+157.49.183.95 23 33 165164 20230126040847
+106.198.37.212 18 19 331543 20230102084626
+157.49.93.36 97 142 4120351 20230107072517
+52.23.161.2 1 1 9300 20230122042416
+154.89.5.37 2 9 229102 20230105202433
+157.51.79.143 2 2 2442 20230123135728
+45.86.202.76 1 1 9300 20230111074836
+205.210.31.149 2 2 59828 20230113155630
+43.158.217.180 2 2 18600 20230121174232
+146.190.237.54 2 2 3364 20230104103708
+185.180.143.71 7 7 65100 20230126212534
+15.235.50.169 4 33 2668503 20230125110438
+138.91.161.113 1 1 9300 20230128105002
+167.248.133.118 3 5 32792 20230117023136
+8.219.185.224 2 3 21046 20230118075950
+192.241.218.45 1 1 9300 20230120063940
+209.141.49.169 24 32 305694 20230124182306
+167.248.133.119 2 3 21046 20230118165611
+107.170.232.14 2 2 18600 20230109061421
+167.172.93.200 2 2 18600 20230121192313
+184.105.247.254 3 3 27900 20230129132740
+154.3.44.233 1 1 9300 20230110011145
+167.94.138.45 2 3 21046 20230114184615
+87.236.176.245 0 1 2446 
+98.51.8.12 19 19 24686 20230129130307
+54.242.55.189 2 2 59828 20230116043129
+34.235.140.38 2 2 59828 20230112042343
+74.125.213.4 2 2 2538 20230111055414
+107.170.227.29 2 2 18600 20230104055736
+94.102.61.8 2 2 18600 20230104005926
+54.89.172.9 2 2 59828 20230108211846
+157.51.84.40 17 33 2577377 20230127175216
+192.241.226.14 2 2 18600 20230111061733
+52.91.158.176 2 2 59828 20230127042630
+60.243.68.2 12 12 15228 20230125162722
+157.49.139.100 2 2 1562 20230128150600
+158.101.23.221 1 1 9300 20230128115125
+140.246.136.252 2 2 18600 20230122130338
+54.90.87.208 2 2 59828 20230107215544
+20.55.69.176 1 1 9300 20230101024958
+157.49.73.164 26 36 164049 20230119101835
+180.163.220.5 6 34 545890 20230128014503
+157.49.140.73 70 80 203263 20230119074145
+41.92.75.112 1 1 9300 20230104150412
+74.125.215.60 2 12 1706151 20230102172414
+64.62.197.214 2 2 18600 20230124112810
+92.205.59.185 2 2 960 20230104063901
+157.49.209.164 7 7 864043 20230103151121
+87.236.176.222 4 4 37200 20230122181349
+37.139.53.81 2 2 59828 20230106093448
+157.49.141.20 10 10 14832 20230130140142
+106.197.111.193 50 79 2760269 20230115063822
+64.62.197.18 1 1 9300 20230109075255
+47.252.20.51 2 2 18600 20230113010732
+198.199.114.126 1 1 9300 20230107061404
+52.43.92.91 3 3 89742 20230130071722
+104.248.204.195 0 1 2446 
+51.158.37.180 2 2 59828 20230120025746
+64.62.197.241 1 1 9300 20230101004123
+116.203.33.1 2 2 59828 20230113103154
+64.62.197.217 1 1 9300 20230124113802
+157.49.86.112 9 19 137976 20230121040959
+103.153.254.110 6 6 55800 20230123103936
+157.49.72.199 10 10 15510 20230120041834
+198.199.76.233 2 2 59828 20230131131847
+157.51.194.64 237 345 13394636 20230119045255
+34.209.145.102 1 1 9300 20230125192622
+188.40.113.31 2 2 18600 20230110094636
+205.210.31.28 4 4 119656 20230107230830
+198.235.24.12 2 2 59828 20230114084043
+157.51.50.142 2 7 85338 20230120051416
+223.187.125.19 10 16 525391 20230121145757
+18.224.128.89 6 6 179484 20230125181109
+198.199.110.176 2 2 18600 20230128064558
+167.172.78.81 3 3 89742 20230111132835
+3.92.213.139 2 2 18600 20230104060926
+205.185.122.184 36 43 344044 20230124182306
+157.49.193.16 169 608 24862568 20230118095833
+167.94.138.44 3 5 32792 20230131110734
+106.195.32.64 6 6 7614 20230124164834
+117.213.134.241 123 191 8964509 20230113090226
+188.166.79.4 6 6 55800 20230121183606
+198.235.24.46 4 4 119656 20230131160226
+103.251.167.20 2 2 59828 20230103192740
+5.188.62.26 6 6 48462 20230110005043
+192.241.234.12 2 2 18600 20230130064816
+193.118.53.194 13 13 120900 20230126152916
+157.49.146.5 11 21 139432 20230123042418
+107.170.249.12 1 1 9300 20230110061620
+178.128.80.218 1 1 9300 20230114003720
+18.188.153.178 1 1 9300 20230123173729
+139.59.94.165 2 2 59828 20230121052935
+106.195.40.17 2 5 2538 20230126131444
+157.49.150.216 17 27 150794 20230128040654
+43.158.217.16 4 4 37200 20230127000404
+51.159.88.9 2 2 18600 20230120190649
+89.117.20.210 22 22 1166 20230103054556
+157.49.216.44 252 296 2374924 20230104053316
+106.211.244.204 2 7 128198 20230125072003
+87.229.198.219 1 1 9300 20230123193122
+157.49.153.100 8 18 119202 20230131180857
+87.236.176.152 2 2 18600 20230129021659
+170.187.155.78 1 1 0 20230120203440
+209.141.41.193 28 35 342647 20230124182255
+157.51.75.94 54 95 24501209 20230125112318
+42.106.85.192 2 30 527290 20230102082321
+20.127.119.43 1 1 9300 20230131091137
+71.6.199.23 2 3 62274 20230117051626
+50.31.21.10 1 1 0 20230114094009
+157.49.132.138 6 6 4686 20230130122059
+167.235.129.22 2 2 59828 20230113044935
+64.62.197.203 2 2 18600 20230116084318
+8.222.139.103 2 3 21046 20230104033630
+106.195.36.98 18 19 181002 20230109105443
+34.211.11.91 2 2 59828 20230116071629
+66.249.83.118 0 2 12515 
+87.236.176.195 4 4 37200 20230115060718
+193.186.4.141 2 2 18600 20230117084215
+157.49.210.198 18 27 154273 20230117104624
+157.51.194.9 108 110 320769 20230112161605
+116.179.33.85 1 1 537868 20230113115047
+157.49.150.10 134 171 4334864 20230111041928
+104.131.144.15 2 2 18600 20230125064335
+161.35.44.168 1 1 29914 20230105024330
+162.142.125.7 1 2 11746 20230126132402
+157.51.82.69 144 180 13677005 20230125161232
+157.49.199.250 9 14 52734 20230125042753
+146.190.169.85 11 11 583 20230119004124
+198.235.24.34 2 2 59828 20230121054228
+106.197.79.217 258 384 15219522 20230111205353
+157.49.196.246 477 488 5345403 20230103062823
+117.253.87.114 395 479 35591564 20230125041627
+106.198.16.50 2 2 2538 20230101021217
+157.51.89.103 17 27 148702 20230128052140
+66.249.83.76 0 1 1513421 
+106.195.38.8 2 8 105392 20230115160014
+192.241.192.13 2 2 18600 20230121063740
+116.202.235.157 8 8 20748 20230127084215
+87.236.176.184 2 2 18600 20230101095649
+164.90.218.203 2 2 18600 20230115022717
+157.245.224.139 2 3 21046 20230130071210
+157.51.194.233 2 2 2404 20230114145330
+62.210.11.22 1 1 9300 20230130104552
+220.181.51.92 2 2 18600 20230126073553
+14.161.25.249 2 2 18600 20230114090024
+54.69.16.29 2 2 18600 20230125190748
+59.93.12.104 510 558 15770602 20230106041227
+167.99.251.54 2 2 59828 20230102214620
+157.49.132.160 320 383 3663805 20230110052509
+198.235.24.51 2 2 59828 20230112220850
+185.220.101.8 4 4 68842 20230103192658
+51.89.201.226 32 34 6439220 20230120135926
+35.203.255.98 0 2 116 
+157.49.196.67 16 16 26220 20230124140103
+157.49.167.33 40 50 677349 20230123090602
+205.210.31.132 4 4 119656 20230122104020
+185.180.143.72 5 5 46500 20230131150837
+157.49.67.137 16 16 29172 20230124140207
+157.51.68.88 30 30 173594 20230128161523
+45.9.110.186 2 3 62274 20230101130919
+192.241.213.65 2 2 18600 20230108061537
+205.210.31.55 2 2 59828 20230108075648
+198.235.24.18 2 2 59828 20230127183543
+157.51.7.99 377 799 17154679 20230116114505
+54.190.11.243 2 2 18600 20230106194001
+34.212.179.111 2 2 18600 20230106194039
+106.198.35.56 2 2 2538 20230117013513
+184.105.247.252 3 3 27900 20230103121917
+157.49.177.81 11 21 139968 20230127031247
+66.249.83.77 0 3 43098 
+42.236.10.106 0 1 3129906 
+87.236.176.138 2 2 18600 20230121091654
+107.170.254.14 2 2 18600 20230129064609
+106.197.111.195 16 21 427694 20230104164636
+157.51.193.157 13 42 1349246 20230128042129
+157.49.65.149 19 19 34377 20230123143544
+42.109.148.46 177 195 2840938 20230111110531
+165.231.182.45 1 1 9300 20230127120656
+54.225.21.2 2 2 59828 20230109042441
+51.89.253.22 1 1 9300 20230121180304
+34.211.120.246 1 1 9300 20230126192256
+68.183.22.180 1 1 9300 20230122171018
+13.40.148.225 10 10 175456 20230114182216
+193.186.4.142 2 2 2538 20230127090209
+18.219.168.138 13 68 720653 20230128111312
+123.6.49.38 0 1 3129906 
+117.203.79.219 264 358 21472757 20230128040255
+157.51.83.40 75 88 921765 20230126063805
+89.248.167.131 2 3 62274 20230104112109
+52.91.133.132 3 33 2661649 20230104073151
+157.49.158.71 120 159 4706572 20230109152949
+137.184.4.127 2 2 2538 20230103132914
+202.55.135.248 1 1 9300 20230126141216
+87.236.176.194 2 2 18600 20230131145804
+117.253.81.175 96 149 9165713 20230123041640
+107.178.200.195 0 2 116 
+66.249.82.162 7 22 2426626 20230113044317
+167.99.141.145 2 2 18600 20230104123703
+66.240.236.109 4 4 37200 20230126084138
+157.46.64.48 9 19 136816 20230130061512
+154.6.12.47 1 1 9300 20230128200418
+172.104.193.53 6 6 55800 20230114000949
+167.94.138.119 4 6 42092 20230105142831
+157.51.177.13 15 25 147528 20230119130018
+128.14.133.58 5 5 46500 20230121070431
+51.195.193.170 0 22 243106 
+64.62.197.179 1 1 9300 20230131114308
+139.162.238.243 4 4 37200 20230115040210
+209.126.77.67 22 22 1166 20230128044020
+157.49.72.88 2 2 1562 20230127031631
+49.12.74.186 2 2 18600 20230127110928
+87.236.176.212 2 2 18600 20230117015203
+205.210.31.183 2 2 59828 20230103065243
+154.89.5.39 2 9 229102 20230105202309
+157.51.194.45 449 534 11765796 20230119151852
+116.179.33.149 0 1 1513421 
+42.104.141.5 2 2 2538 20230113221914
+71.6.232.20 2 2 18600 20230116103448
+157.51.66.1 148 179 12197151 20230128091159
+161.35.157.58 2 2 59828 20230124131934
+117.253.181.165 149 151 8825475 20230131115056
+110.224.88.110 2 3 113022 20230121113933
+103.203.59.1 8 8 239312 20230131103727
+192.178.10.62 0 11 309429 
+157.49.142.186 14 14 28974 20230119090406
+91.206.201.47 2 2 18600 20230117201304
+185.180.143.8 5 5 46500 20230128090053
+128.14.141.34 11 11 102300 20230127222111
+51.158.237.126 3 3 89742 20230115104933
+107.178.200.232 0 2 116 
+198.235.24.58 2 2 59828 20230113234955
+157.49.157.132 5 5 7105 20230119090242
+93.158.91.208 0 2 116 
+205.210.31.10 2 2 59828 20230131184726
+198.235.24.44 2 2 59828 20230114223139
+198.235.24.142 2 2 59828 20230107182726
+198.54.131.40 1 1 9300 20230116155148
+35.88.79.122 2 2 18600 20230123192326
+198.235.24.47 2 2 59828 20230114052155
+180.163.220.45 0 1 3129906 
+23.237.196.50 4 4 37200 20230107001650
+34.220.152.11 2 2 18600 20230126192235
+66.249.83.30 2 2 2538 20230111055410
+167.94.138.46 2 3 21046 20230103131117
+106.198.22.230 22 28 499816 20230118043230
+27.5.230.53 2 2 2538 20230131041849
+184.105.247.194 5 5 46500 20230121131102
+34.219.199.66 1 1 9300 20230126192252
+34.223.60.151 2 2 18600 20230109072625
+51.195.142.201 6 6 55800 20230111180853
+114.143.117.174 8 96 5850588 20230125114310
+117.203.64.92 205 205 12778721 20230128114446
+45.249.246.151 2 9 229102 20230105202433
+91.74.91.98 4 34 2670949 20230111051533
+198.235.24.17 2 2 59828 20230112205757
+34.209.16.101 2 2 18600 20230115191645
+185.180.143.137 5 5 46500 20230127215008
+106.195.40.221 2 3 2538 20230125164133
+107.170.226.19 2 2 18600 20230127064519
+157.230.84.15 1 1 9300 20230128050046
+43.156.25.237 2 2 18600 20230131040028
+110.40.227.238 4 4 37200 20230110074016
+35.212.26.22 2 2 18600 20230112073548
+89.108.88.240 1 1 0 20230106065809
+54.80.96.37 2 2 18600 20230123073345
+18.236.254.105 2 2 59828 20230114125027
+52.187.54.3 2 2 59828 20230128200859
+216.218.206.69 2 2 18600 20230105134840
+223.181.242.85 49 79 10847938 20230126060540
+157.49.64.99 2 2 4714 20230120041849
+152.89.196.211 77 77 689238 20230130095318
+192.241.219.19 2 2 18600 20230116063447
+128.1.248.42 16 16 148800 20230131075827
+27.5.165.193 14 24 535153 20230111144014
+183.136.225.46 5 7 92620 20230122044512
+157.49.202.77 124 131 8273048 20230105143719
+157.49.81.236 116 127 45346405 20230106054006
+185.195.71.3 6 6 67518 20230103192847
+205.210.31.40 2 2 59828 20230115011725
+106.197.79.208 173 212 1304485 20230119150546
+93.159.230.88 4 4 37200 20230125170953
+68.183.90.100 1 1 9300 20230105084200
+149.56.160.236 4 33 2668503 20230115200856
+184.94.240.88 7 7 209398 20230116175056
+157.46.94.179 17 21 44536 20230120050904
+167.172.145.182 4 4 37200 20230125112025
+157.51.74.128 336 400 26322913 20230122163458
+178.174.175.119 2 2 59828 20230127123223
+18.134.228.193 1 1 9300 20230115090824
+146.190.92.210 2 2 59828 20230123202844
+87.236.176.98 0 1 2446 
+35.91.56.127 1 1 9300 20230123192408
+157.49.79.195 14 19 206566 20230104114111
+35.91.191.174 2 2 18600 20230130191633
+157.51.185.49 19 29 148200 20230120145011
+64.62.197.23 2 2 18600 20230122162317
+157.49.156.204 442 505 18215859 20230121052427
+217.198.191.210 4 4 37200 20230110233321
+110.224.81.110 14 14 34148 20230121114013
+209.141.36.112 18 27 264388 20230124182323
+157.49.219.3 16 26 564754 20230130151521
+66.249.83.116 3 6 611967 20230102000505
+222.132.213.92 6 6 113954 20230123215404
+64.62.197.176 1 1 9300 20230131115322
+64.62.197.219 1 1 9300 20230104012132
+35.203.245.213 0 2 116 
+103.149.192.169 2 2 18600 20230114014244
+204.48.19.78 2 2 18600 20230101091601
+162.142.125.9 2 3 21046 20230130115811
+157.51.81.33 13 23 144186 20230127050839
+134.122.32.225 2 2 5482 20230101144840
+205.210.31.26 2 2 59828 20230128032049
+216.218.206.66 3 3 27900 20230119041552
+157.49.145.63 2 2 1562 20230128045351
+205.185.116.89 16 25 214054 20230124182315
+162.243.148.18 2 2 18600 20230131065122
+123.6.49.36 0 1 3129906 
+64.62.197.19 1 1 9300 20230122163256
+154.89.5.44 2 9 229102 20230105202433
+87.236.176.91 2 2 18600 20230107102925
+23.251.102.74 7 7 65100 20230126073152
+117.203.72.66 207 247 16411897 20230121110552
+170.64.133.119 1 1 29914 20230130105759
+157.49.94.54 11 21 141050 20230127015054
+159.223.210.99 2 2 18600 20230109185308
+27.115.124.45 6 35 2687103 20230124215218
+185.180.143.136 4 4 37200 20230120152833
+198.235.24.168 2 2 59828 20230120215800
+35.175.136.67 2 2 18600 20230130000845
+205.210.31.161 2 2 59828 20230108142824
+117.213.136.129 121 122 6995865 20230125115121
+213.32.122.82 8 8 239312 20230130181814
+199.244.88.228 2 2 18600 20230104040429
+162.55.81.190 24 25 3590410 20230112000945
+157.49.90.177 2 2 3260 20230121041024
+106.220.241.178 4 5 7522 20230105145352
+87.236.176.253 0 1 2446 
+157.49.75.202 95 140 6078579 20230103150938
+157.49.147.11 10 10 17370 20230127131903
+198.235.24.54 2 2 59828 20230127195835
+107.172.208.169 2 2 18600 20230129145145
+128.1.248.26 9 9 83700 20230131212335
+87.236.176.203 0 1 2446 
+20.14.84.163 2 2 18600 20230101191443
+198.235.24.182 4 4 119656 20230122204656
+167.248.133.117 9 13 93484 20230129152748
+128.14.209.170 4 4 37200 20230126151718
+167.94.138.63 1 2 11746 20230128072416
+157.49.72.96 4 4 6058 20230119124610
+162.142.125.213 4 6 42092 20230123231809
+198.235.24.57 2 2 59828 20230128031127
+117.213.135.154 310 401 9562782 20230119093440
+197.253.195.238 1 1 9300 20230103204223
+192.241.197.61 1 1 9300 20230112062704
+64.62.197.130 1 1 9300 20230114074832
+74.125.215.32 1 7 174694 20230102172419
+157.49.155.123 398 398 2211101 20230123060022
+157.46.94.60 9 15 68572 20230128151541
+93.158.90.74 0 2 116 
+190.92.238.111 0 1 3129906 
+157.51.181.224 17 27 152014 20230120041651
+167.248.133.46 4 5 39646 20230112142449
+157.49.186.3 416 639 52809072 20230104160627
+154.89.5.42 2 9 229102 20230105202433
+209.141.35.128 30 40 365897 20230124182315
+54.144.81.51 2 2 59828 20230128042602
+107.178.232.164 0 1 58 
+64.62.197.234 2 2 18600 20230101003016
+106.198.40.78 134 134 9749168 20230102064256
+157.49.183.158 12 12 16528 20230122193101
+45.134.184.165 2 2 18600 20230123022607
+103.149.192.221 2 2 18600 20230105131450
+185.180.143.79 6 6 55800 20230131220101
+87.236.176.216 2 2 18600 20230114002201
+106.195.32.98 4 5 5076 20230127063254
+205.210.31.163 2 2 59828 20230103070525
+220.181.51.88 2 2 18600 20230113115044
+34.234.84.127 2 2 59828 20230130042849
+157.49.138.222 34 44 649108 20230121095014
+157.51.15.215 12 42 2623506 20230122043632
+192.241.218.16 2 2 18600 20230126064203
+157.49.159.165 9 15 64621 20230125151939
+54.235.31.188 2 2 59828 20230123042706
+198.235.24.178 2 2 59828 20230107001027
+42.236.10.98 0 1 3129906 
+34.234.76.207 2 2 59828 20230106193301
+35.89.150.112 1 1 9300 20230125190820
+157.46.127.92 13 23 145068 20230124043142
+157.51.85.215 171 213 4022596 20230128054507
+110.224.89.98 5 10 132164 20230127090257
+58.251.56.184 2 2 18600 20230130224555
+157.49.82.153 19 29 156218 20230124034715
+205.210.31.30 4 4 119656 20230114114121
+103.12.135.123 2 2 18600 20230129063157
+157.51.164.230 2 7 85338 20230121083142
+157.51.40.189 20 30 149573 20230119122619
+87.236.176.120 2 2 18600 20230119231115
+35.90.124.96 2 2 18600 20230126192233
+223.247.178.167 2 2 18600 20230113174418
+87.236.176.92 2 2 18600 20230113163019
+34.227.193.230 2 2 18600 20230131062748
+77.68.100.210 1 1 9300 20230105061610
+205.210.31.6 2 2 59828 20230130211442
+146.190.248.202 2 2 18600 20230103042902
+144.91.106.14 17 23 171762 20230110162839
+162.142.125.210 3 4 30346 20230105143157
+128.14.134.170 5 5 46500 20230131163330
+157.46.80.92 13 24 144898 20230131020848
+87.236.176.69 2 2 18600 20230103014951
+106.222.112.216 6 10 118098 20230116093143
+68.183.121.76 2 2 59828 20230109214604
+23.90.160.114 2 2 18600 20230129213054
+170.64.129.169 1 1 9300 20230125141257
+110.224.85.110 13 13 47237 20230121105125
+198.235.24.146 4 4 119656 20230114113826
+64.62.197.90 1 1 9300 20230126155032
+205.185.121.69 20 29 325697 20230124182305
+198.235.24.56 2 2 59828 20230127223719
+184.105.139.70 5 5 46500 20230130160404
+69.10.40.142 2 2 18600 20230109025126
+68.183.4.78 2 2 59828 20230116214603
+139.59.2.239 1 1 29914 20230125033651
+170.64.176.222 2 2 18600 20230118192535
+185.180.143.6 11 11 102300 20230131085702
+162.243.137.7 2 2 18600 20230101055419
+3.210.113.78 2 2 59828 20230131153515
+165.22.39.64 0 1 2446 
+184.105.247.195 3 3 27900 20230115104447
+52.38.164.230 2 2 18600 20230115191645
+157.49.79.170 6 6 9502 20230121041016
+107.170.228.33 2 2 18600 20230113062740
+157.49.84.241 14 14 27192 20230121041046
+71.6.232.28 2 2 18600 20230130101219
+45.83.65.159 2 2 18600 20230118032424
+113.108.9.38 2 2 18600 20230103142907
+87.236.176.219 1 1 9300 20230117033655
+45.83.65.131 0 1 2446 
+42.83.147.34 6 6 55800 20230131104351
+91.90.124.30 1 1 9300 20230129060255
+157.49.175.173 16 26 147255 20230123072951
+204.48.19.95 2 2 11458 20230101225734
+106.198.34.179 2 2 2538 20230118130520
+20.203.22.11 2 2 59828 20230119064457
+165.227.145.185 2 2 18600 20230104181433
+180.149.125.159 7 7 65100 20230117150755
+162.221.192.90 2 2 18600 20230119111616
+45.43.64.216 16 17 3219610 20230124184034
+106.198.28.114 24 26 696920 20230120085043
+198.235.24.42 4 4 119656 20230121193428
+51.254.49.104 1 1 29914 20230105064057
+64.62.197.73 1 1 9300 20230118112649
+77.74.177.119 2 2 18600 20230117115818
+87.236.176.132 2 3 21046 20230122204555
+157.49.246.150 6 6 4686 20230127170041
+64.62.197.196 1 1 9300 20230108141100
+149.56.160.252 14 16 256132 20230115200835
+172.105.161.246 2 2 18600 20230119213204
+27.115.124.6 0 1 3129906 
+157.49.135.234 11 21 139630 20230125035723
+54.160.227.203 2 2 18600 20230111090941
+47.254.74.59 2 2 18600 20230120185023
+157.49.178.28 11 21 140176 20230128045219
+199.244.88.219 2 2 18600 20230128035231
+165.22.205.103 2 2 18600 20230109131622
+157.49.94.221 13 36 411173 20230111040247
+198.235.24.149 2 2 59828 20230110095621
+66.249.83.114 0 2 32936 
+35.90.46.18 1 1 9300 20230115191703
+54.221.101.2 2 2 59828 20230102042124
+45.81.39.196 2 2 18600 20230107082559
+137.184.89.107 2 2 18600 20230113132040
+223.187.116.143 4 34 2670949 20230118020850
+44.200.114.226 2 2 18600 20230113200640
+65.49.20.69 8 8 74400 20230128031517
+117.213.106.59 3 59 1045280 20230103083210
+157.51.194.253 41 51 233444 20230120051321
+164.90.202.56 2 2 18600 20230117175223
+87.236.176.29 0 1 2446 
+205.210.31.138 2 2 59828 20230104044144
+74.82.47.3 2 2 18600 20230125141408
+46.101.9.216 8 8 43102 20230114013435
+157.46.107.14 8 18 118152 20230122043112
+123.6.49.4 0 1 3129906 
+162.142.125.8 1 2 11746 20230113130108
+87.236.176.113 2 2 18600 20230110162934
+87.236.176.191 0 1 2446 
+68.183.11.93 2 2 3364 20230107044526
+54.235.50.171 2 2 59828 20230131042327
+172.104.234.47 1 1 0 20230114201030
+106.195.38.205 0 1 546782 
+157.49.211.60 248 257 8907256 20230106093845
+157.49.66.49 4 4 3124 20230121061030
+64.62.197.177 1 1 9300 20230112072833
+198.235.24.179 2 2 59828 20230114095506
+42.106.178.118 2 2 2538 20230114135443
+157.51.167.75 21 31 152884 20230119072339
+66.249.82.190 6 31 712365 20230113044326
+185.241.208.106 1 1 9300 20230127100514
+117.203.75.52 319 319 14571501 20230102112021
+185.181.60.39 6 6 55800 20230120151602
+64.62.197.204 2 2 18600 20230113102650
+207.154.208.168 2 2 18600 20230106164606
+34.216.104.207 2 2 18600 20230130191546
+4.227.140.6 1 1 9300 20230101232850
+157.49.95.53 11 21 141608 20230125051742
+178.32.197.86 2 2 59828 20230105054401
+87.236.176.182 2 2 18600 20230101124038
+157.49.189.183 5 11 107837 20230114060311
+27.115.124.101 1 1 9300 20230123220137
+106.211.223.148 75 123 4216032 20230123082844
+190.111.162.183 2 2 18600 20230104072231
+192.241.159.223 2 2 11062 20230103045544
+192.178.10.60 0 10 149362 
+167.94.138.62 4 8 46984 20230108020904
+205.210.31.162 2 2 59828 20230117151138
+104.248.192.188 2 2 18600 20230110041135
+159.89.169.44 2 2 59828 20230105090419
+183.136.225.32 34 57 1200285 20230130203138
+34.227.228.178 2 2 18600 20230107061003
+87.236.176.54 1 1 9300 20230120025929
+198.199.92.151 2 2 18600 20230102055457
+35.164.180.59 1 1 9300 20230122191736
+43.158.218.124 2 2 18600 20230107163825
+66.249.83.62 0 2 10805 
+165.227.232.121 2 2 59828 20230120134643
+93.158.91.189 2 2 18600 20230107174015
+113.160.187.199 2 2 18600 20230102000349
+157.51.124.159 4 60 1054580 20230103075155
+71.6.232.27 1 1 9300 20230109131639
+34.201.93.47 2 2 59828 20230113042220
+193.142.146.214 2 2 18600 20230131153311
+54.234.31.57 2 2 59828 20230115043322
+58.182.128.215 4 34 2670949 20230112071848
+45.154.98.220 3 3 27735 20230103192812
+42.236.10.103 0 1 3129906 
+106.197.111.215 215 250 1339656 20230114105516
+128.14.136.18 20 20 186000 20230130221029
+66.249.83.214 0 2 116950 
+185.163.109.66 4 6 124548 20230124183652
+157.51.194.214 48 106 1084939 20230119114902
+157.49.128.181 51 71 13351612 20230120131257
+185.142.236.43 2 3 62274 20230106055638
+42.104.141.138 8 8 26009 20230113010156
+71.6.158.166 2 3 62274 20230123150053
+3.239.21.245 1 1 9300 20230126140400
+167.94.145.58 4 6 42092 20230130170311
+54.213.235.87 2 2 18600 20230125190631
+93.158.90.72 2 2 18600 20230118144112
+198.235.24.175 2 2 59828 20230123231112
+87.236.176.236 0 1 2446 
+115.99.26.124 10 10 27267 20230126143159
+106.220.241.188 2 5 125186 20230104134421
+183.136.225.44 2 2 18600 20230104025542
+107.178.232.162 0 2 116 
+34.222.222.168 3 3 89742 20230102071521
+165.232.74.141 2 2 716 20230114044127
+66.249.82.165 3 21 2485473 20230113044312
+52.186.151.113 2 2 18600 20230112231203
+157.51.157.12 120 173 1217690 20230119064659
+205.185.116.25 18 26 211729 20230121181100
+81.70.9.83 2 2 18600 20230111014239
+107.21.73.116 2 2 59828 20230120042442
+43.143.60.88 10 10 93000 20230124075128
+107.20.112.177 3 32 2659203 20230104072849
+81.171.29.11 2 2 59828 20230107195502
+35.216.240.37 4 4 60544 20230120025050
+3.238.108.62 4 33 2668503 20230104072849
+198.235.24.158 2 2 59828 20230111082603
+107.178.200.215 0 2 116 
+118.123.105.86 16 16 148800 20230122022235
+157.51.84.114 12 22 142121 20230122044842
+67.205.173.74 4 4 37200 20230130231214
+107.178.239.209 0 2 116 
+198.235.24.164 4 4 119656 20230120202951
+157.46.97.166 9 65 3175575 20230111082724
+162.243.130.9 2 2 18600 20230117063533
+157.49.75.110 16 16 31582 20230119124556
+104.224.30.105 1 1 9300 20230108003753
+35.89.70.113 3 3 89742 20230109071438
+107.178.239.220 0 2 116 
+205.210.31.34 3 3 89742 20230131051347
+157.49.167.208 105 173 11614372 20230105144345
+167.94.146.57 2 3 21046 20230103234744
+103.149.192.190 2 2 18600 20230129023248
+3.6.176.214 12 13 3197090 20230128115711
+157.49.157.150 171 175 3376243 20230107102504
+167.248.133.44 8 11 81738 20230130082226
+157.51.141.229 383 488 3452690 20230119052915
+66.94.99.113 11 11 583 20230106161426
+167.71.77.2 0 1 3129906 
+64.62.197.79 1 1 9300 20230126154021
+66.249.83.21 0 3 23315 
+157.49.134.172 6 6 4686 20230130095907
+144.126.151.207 22 22 1166 20230116064828
+110.224.88.128 2 4 113022 20230129085212
+54.234.38.74 2 2 59828 20230101042237
+157.49.65.104 10 10 14114 20230120051631
+42.236.10.117 2 3 2141213 20230104023714
+157.49.216.251 170 172 915197 20230104075346
+5.165.49.47 2 2 18600 20230118081713
+36.156.28.132 2 3 21046 20230114174142
+157.46.109.194 15 25 148278 20230123124459
+42.236.10.114 8 65 3214393 20230128014451
+207.154.221.162 2 2 59828 20230109172431
+20.110.65.143 1 1 9300 20230120045913
+176.106.247.22 2 2 18600 20230127133637
+198.199.95.12 2 2 18600 20230103055640
+106.195.44.64 2 3 9509 20230124153526
+8.219.191.22 2 3 21046 20230125010531
+87.236.176.17 0 1 2446 
+88.20.249.46 2 2 59828 20230111045440
+87.236.176.179 4 5 39646 20230106062130
+157.49.189.234 278 404 4462281 20230123075914
+157.49.132.241 13 23 608122 20230121140746
+157.49.154.18 11 21 138528 20230128130545
+20.204.74.136 2 2 59828 20230112204241
+107.178.229.254 0 2 116 
+157.46.121.188 15 25 147114 20230123041456
+162.142.125.219 1 2 11746 20230109042942
+157.49.208.192 2 7 85338 20230124190931
+27.115.124.70 6 36 5817009 20230123220148
+198.235.24.29 2 2 59828 20230111030806
+74.82.47.5 6 6 55800 20230120064215
+157.49.88.142 15 25 147946 20230123042530
+183.136.225.45 3 5 32623 20230105000932
+157.49.220.113 2 2 1562 20230124152701
+106.195.47.255 2 4 2538 20230131142429
+36.40.66.38 4 4 37200 20230116141332
+198.235.24.174 10 10 299140 20230128123344
+23.97.205.210 2 2 18600 20230125141236
+185.142.236.40 4 6 124548 20230116104002
+209.141.33.65 22 29 271278 20230124182310
+167.94.145.59 2 3 21046 20230125030054
+68.183.159.229 2 3 21046 20230130030814
+157.49.164.25 6 8 8568 20230122094715
+128.14.209.162 12 12 111600 20230129114218
+198.235.24.22 1 1 29914 20230125011554
+87.236.176.105 0 1 2446 
+157.49.217.78 102 103 23674977 20230105175723
+106.197.127.220 15 17 88960 20230122083051
+185.180.143.5 2 2 18600 20230112060224
+122.178.161.167 28 30 250719 20230113102210
+47.88.90.156 2 2 18600 20230128134310
+192.241.203.6 2 2 18600 20230118063636
+66.240.236.116 2 2 18600 20230119123523
+157.49.217.87 23 42 500638 20230131072001
+198.235.24.50 4 4 119656 20230121015028
+35.92.137.46 1 1 9300 20230106194005
+66.249.83.60 1 1 89924 20230102000506
+157.51.194.85 50 90 729374 20230112061405
+157.49.75.88 229 370 3578963 20230116091233
+106.198.4.104 2 2 2538 20230103012502
+107.170.238.4 2 2 18600 20230114062710
+157.49.219.89 11 21 140924 20230125134359
+209.141.51.222 16 24 267981 20230124004806
+35.203.255.118 0 2 116 
+87.236.176.122 2 2 18600 20230116083940
+128.14.134.134 11 11 102300 20230128024424
+34.211.217.179 2 2 18600 20230113194328
+157.49.131.178 22 45 766585 20230120091753
+205.210.31.51 3 3 89742 20230110174618
+36.40.72.66 2 2 8366 20230107034617
+157.49.90.253 134 221 1709969 20230119080932
+64.227.128.99 2 2 18600 20230115220337
+157.51.135.1 5 15 131284 20230119011912
+157.51.194.154 28 49 1092498 20230120092004
+199.244.88.225 2 2 18600 20230112081922
+167.94.138.61 3 5 32792 20230126125331
+45.141.215.177 3 3 27900 20230127031601
+157.49.131.155 2 2 2958 20230119090258
+162.243.129.10 2 2 18600 20230106061250
+180.163.220.50 0 1 3129906 
+106.222.111.222 510 601 14675657 20230117162423
+157.49.82.134 116 130 37149696 20230106094901
+117.253.89.70 229 239 15014206 20230130111146
+181.214.227.18 14 15 3214128 20230118044021
+64.62.197.6 2 2 18600 20230127035148
+157.49.76.41 2 2 1562 20230119124150
+157.49.128.218 26 27 99376 20230107162451
+157.51.75.249 63 80 739149 20230126091649
+14.116.184.240 2 2 18600 20230114125015
+34.201.132.11 24 150 19141713 20230106100617
+64.62.197.190 1 1 9300 20230108135336
+159.89.193.123 2 2 59828 20230107083339
+107.178.239.194 0 2 116 
+45.33.102.90 1 1 9300 20230109234136
+107.178.238.38 0 2 116 
+157.49.132.80 472 525 4373026 20230107145405
+27.4.31.190 4 4 5076 20230124151510
+51.254.199.11 2 2 18600 20230106053927
+3.84.241.39 2 2 59828 20230126042516
+157.49.194.57 126 129 6126683 20230106102809
+164.52.25.251 2 3 62274 20230106035528
+198.235.24.15 4 4 119656 20230128092840
+64.62.197.206 1 1 9300 20230113103705
+3.237.76.170 2 2 59828 20230125181106
+192.178.10.58 4 12 2209712 20230102000504
+107.170.227.22 1 1 9300 20230111021341
+42.104.141.88 15 25 578556 20230111061456
+23.239.21.228 1 1 9300 20230101082317
+59.93.14.184 332 336 22283983 20230112105703
+3.144.174.97 2 2 18600 20230114042259
+181.214.206.186 2 2 0 20230120094420
+157.51.194.112 142 159 6147009 20230118054653
+205.210.31.134 2 2 59828 20230107081147
+20.244.42.208 1 1 9300 20230109042833
+3.84.203.174 2 2 18600 20230102150842
+34.202.205.109 2 2 59828 20230114042207
+172.105.161.142 4 4 37200 20230121035048
+103.167.92.53 1 1 9300 20230131114256
+18.134.226.5 11 11 184756 20230116041752
+66.249.83.216 0 1 31837 
+117.202.183.138 4 4 3124 20230126103853
+165.22.224.133 2 2 18600 20230128210912
+157.49.82.29 494 693 3976823 20230119092704
+157.51.194.17 78 92 204124 20230112093604
+87.236.176.217 2 2 18600 20230111024447
+71.6.232.22 1 1 9300 20230123103752
+64.62.197.13 1 1 9300 20230127040013
+64.62.197.22 1 1 9300 20230109080340
+74.125.215.62 1 14 787658 20230102172419
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20230101 44 47 503900 26
+20230102 569 812 65117376 39
+20230103 668 840 15228350 36
+20230104 2158 2689 129941459 56
+20230105 1924 2197 200930180 41
+20230106 3252 3501 205970291 42
+20230107 2003 2320 55203688 38
+20230108 2751 3247 43192084 26
+20230109 2553 2844 81386787 33
+20230110 2812 3185 106005999 33
+20230111 3351 3817 80483303 47
+20230112 648 747 30649241 35
+20230113 440 619 18780413 45
+20230114 157 180 2180970 42
+20230115 77 147 6448499 28
+20230116 1431 2176 47789779 31
+20230117 2181 2572 74073337 33
+20230118 3255 4081 115004156 37
+20230119 5216 6389 118174116 56
+20230120 1486 1756 55494121 57
+20230121 1424 1717 40691993 56
+20230122 2377 2589 75972143 35
+20230123 2923 3251 63203412 48
+20230124 576 682 53550160 50
+20230125 502 761 59113909 44
+20230126 290 391 15504900 38
+20230127 393 513 21027164 43
+20230128 832 1109 48811712 42
+20230129 48 52 517384 17
+20230130 342 405 16874400 37
+20230131 262 329 10548604 37
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 58
+2mn-5mn 34
+5mn-15mn 50
+0s-30s 944
+30mn-1h 39
+1h+ 80
+15mn-30mn 23
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 367
+/school/admin/studentProfile.php 4720 90177433 4 0
+/school/admin/markGraph.php 2357 48975 0 7
+/school/admin/stdPGraph.php 2357 48514 0 8
+/school/parent/dashboard.php 1960 12084432 0 0
+/ 1934 26334396 876 826
+/school/admin/studentView.php 1586 110693251 4 2
+/school/parent/graph1.php 1248 71256 0 3
+/school/parent/graph2.php 1005 80554 0 4
+/school/admin/supply.php 971 176580 0 0
+/school/admin/addBusfees.php 926 6007868 0 0
+/school/admin/printStudentFees.php 872 354404834 0 19
+/school/teacher/dashboard.php 778 3584796 0 6
+/school/admin/ 642 6820603 4 0
+/school/index.php 621 792899 96 54
+/emp/task-info.php 616 1775324 5 22
+/emp/attendance-info.php 522 915066 4 45
+/demo/school/admin/insertAttendance.php 520 3505342 0 2
+/school/admin/chart_Data.php 514 571280 0 0
+/school/admin/graph.php 513 67622 0 0
+/school/admin/att-data.php 513 33560 0 0
+/school/admin/demo-data.php 513 186607 0 10
+/demo/school/admin/teacherProfile.php 478 9317836 0 0
+/school/admin/teacherProfile.php 438 8125269 2 0
+/demo/school/admin/student_attendance.php 422 3412440 0 0
+/school/admin/transportbill.php 419 182261481 1 5
+/school/teacher/bankdetails.php 44 138680 0 0
+/demo/school/admin/classwiseTermfeesReport.php 6 42364 0 0
+/avp/webfonts/fa-solid-900.woff2 1 150472 1 1
+/school/teacher/addworkdone.php 48 134238 0 0
+/demo/school/admin/classwiseFeesReport.php 6 38276 0 0
+/school/admin/timeTableCreate.php 8 46280 0 0
+/school/admin/reportBuswise2.php 66 462061 0 0
+/school/admin/printclassSectionView.php 34 1519112 0 0
+/school/parent/exam.php 266 421186 0 1
+/demo/school/admin/sectioneditsubjects.php 6 35046 0 0
+/assets/vendor/boxicons/fonts/boxicons.woff2 72 6384604 7 22
+/school/admin/teacherCreate.php 26 160004 0 0
+/school/parent/index.php 175 209797 16 10
+/demo/school/admin/classSectionCreate.php 2 11508 0 1
+/school/admin/sectioneditsubjects.php 4 26656 0 0
+/demo/school/admin/testrank.php 56 4772 0 0
+/demo/school/admin/payslip1.php 10 4063442 0 0
+/school/admin/sectionaddstudents.php 10 61556 0 0
+/demo/school/admin/supply.php 2 380 0 0
+/school/admin/sectionGraphProfile.php 171 7433 0 0
+/school/admin/classView.php 38 298832 0 0
+/school/admin/SectionlistProfile.php 342 6352260 0 0
+/demo/school/admin/TeacherWokdoneReport.php 8 45550 0 0
+/demo/school/admin/viewAttendence.php 14 88056 0 0
+/demo/school/admin/print_salary_report.php 4 329646 0 0
+/Autodiscover/Autodiscover.xml 3 1038 3 3
+/wp 9 0 0 0
+/school/admin/print_allow_report.php 4 329740 0 0
+/backup 9 0 0 0
+/school/teacher/edit_work.php 6 16196 0 0
+/school/admin/sectiondeletesubjects.php 2 44 0 0
+/wordpress 9 0 0 0
+/school/admin/formsubmit.php 3 1074 0 0
+/demo/school/admin/graph.php 130 17284 0 1
+/home 9 0 0 6
+/school/admin/print_voucher.php 110 43058564 0 2
+/demo/school/admin/teacherCreate.php 40 247892 0 0
+/school/admin/expenseCreated.php 96 579078 0 0
+/cgi-sys/503.html 2 716 0 1
+/old 9 0 0 0
+/actuator/gateway/routes/2L027X5CpDfbhlpstUijdIH09rk 1 358 0 0
+/school/teacher/ajax.php 25 1971 0 0
+/demo/school/admin/addBusfees.php 2 12914 0 0
+/test.php 2 960 1 1
+/school/teacher/viewAttendence.php 122 304012 0 0
+/demo/school/admin/editexam.php 4 22646 0 0
+/demo/school/admin/staffcreate.php 4 24440 0 1
+/school/admin/classwiseFeesReport.php 30 203336 0 0
+/school/admin/sectionWokdoneReport.php 37 209256 0 0
+/school/admin/insertAttendance.php 144 964540 1 2
+/demo/school/admin/assignTeacher.php 34 209116 0 0
+/demo/school/admin/studentProfile.php 48 960470 0 0
+/school/teacher/examDetail.php 102 283662 0 0
+/demo/school/admin/ExamDetails.php 26 180262 0 0
+/emp/changePasswordForEmployee.php 19 12265 0 0
+/school/parent/fees.php 160 391512 0 0
+/school/admin/viewAttendence.php 38 238840 0 0
+/demo/school/admin/sectiondeletesubjects.php 6 132 0 0
+/demo/school/parent/index.php 8 9336 0 0
+/school/admin/printclasswisefeesreport.php 110 184386 0 1
+/demo/school/admin/allowance.php 4 24104 0 0
+/trichy.html 2 27192 1 0
+/school/parent/homework.php 310 626418 0 1
+/templates/editor-preload-container 1 358 0 0
+/school/parent/examdetails.php 70 102488 0 0
+/demo/school/admin/print_examMarks.php 8 10714 0 0
+/school/teacher/updateMark.php 14 45712 0 0
+/school/admin/viewtimeTable.php 5 35214 0 0
+/distributorship.php 30 67410 3 5
+/school/admin/classSectionView.php 402 4898424 0 1
+/internship.php 22 86318 2 5
+/emp/ 190 149416 51 4
+/school/parent/ 82 97804 5 0
+/demo/school/admin/paybusfees3.php 2 14352 0 0
+/school/admin/editbusroot.php 34 227352 0 0
+/school/admin/reportDailyFeesCollected.php 122 731562 0 0
+/school/admin/deletehomework.php 2 48 0 0
+/school/admin/section_paidfees_report.php 9 62825 0 0
+/school/admin/ExamAssignDate.php 14 94060 0 0
+/school/admin/index.php 414 4462555 0 0
+/version-v2/login.php 23 30163 0 0
+/school/teacher/edit_bank.php 20 53772 0 0
+/school/admin/feestest.php 2 3595 0 0
+/school/teacher/css/fonts/bootstrap-iconsd862.woff 1 150592 0 0
+/demo/school/admin/view_teacher_attendance.php 162 1732116 0 0
+/demo/school/admin/change_password.php 2 2658 0 0
+/demo/school/admin/transportbill.php 2 910274 0 0
+/school/admin/transport_student.php 41 277056 3 1
+/demo/school/admin/supplierProfile.php 14 94794 0 0
+/demo/school/admin/viewstaffAttendance.php 2 13902 0 0
+/demo/school/admin/off_attend_date.php 2 12546 0 0
+/demo/school/admin/secwFessGraph.php 144 24285 0 0
+/demo/school/admin/attendanceList.php 10 71168 0 0
+/emp/manage-admin.php 60 82690 0 0
+/school/admin/print_expenses_workorder.php 28 19580 0 0
+/school/admin/paymentExpenses.php 76 440556 0 0
+/school/admin/viewstaffAttendance.php 18 119800 0 0
+/school/admin/classwiseTermfeesReport.php 40 293251 0 0
+/demo/school/ 93 118431 21 6
+/demo/school/admin/formSubmit.php 107 5045 0 0
+/demo/school/admin/payslipstaff1.php 6 2436628 0 0
+/_ignition/execute-solution 1 358 0 0
+/school/parent/formSubmit.php 1 358 0 0
+/school/admin/print_section_homework.php 24 1975206 0 0
+/server-status 1 358 0 1
+/school/teacher/edit_subject.php 76 250762 0 0
+/school/admin/expenseView.php 154 1031632 0 0
+/demo/school/admin/classSectionView.php 98 862256 0 1
+/emp/update-employee.php 9 14375 0 0
+/auth/change 1 358 0 0
+/school/teacher/profile.php 96 251712 0 0
+/school/admin/view_teacher_attendance.php 74 430138 0 0
+/terms.html 28 220646 2 6
+/demo/school/admin/print_allow_report.php 6 496834 0 1
+/demo/school/admin/printclasswisefeesreport.php 2 3676 0 0
+/demo/school/admin/print_allowance.php 30 11429136 0 0
+/school/parent/attendance.php 168 267788 0 0
+/school/admin/teachergraph.php 214 4610 0 3
+/school/teacher/change_pwd.php 42 112352 0 0
+/school/admin/takeAttendance.php 54 343456 0 0
+/demo/school/admin/schoolList.php 16 96704 0 0
+/school/admin/payslip1.php 34 13439771 0 1
+/emp/daily-task-report.php 32 71648 0 0
+/school/teacher/css/fonts/bootstrap-iconsd862.woff2 26 2811000 0 0
+/assets/vendor/icofont/fonts/icofont.woff2 67 34961420 5 9
+/school/admin/print_expense_report.php 4 330902 0 0
+/school/admin/print_allowance.php 24 8121852 0 0
+/school/admin/classCreate.php 14 82956 0 0
+/login.php 2 716 0 1
+/school/admin/view_student_cl.php 38 240364 0 0
+/demo/school/admin/staffview.php 34 217252 0 0
+/school/admin/supplierList.php 44 265140 0 0
+/school/admin/classwiseStudentStrengthReport.php 14 115102 0 0
+/demo/school/admin/setting.php 68 615198 0 1
+/school/admin/print_classSection_attendance.php 28 1253782 0 0
+/school/parent/transport.php 114 170142 0 0
+/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map 2 231658 0 0
+/demo/school/admin/salary_report.php 6 34356 0 0
+/school/teacher/edit_examAssign.php 30 74558 0 0
+/school/admin/addBus.php 8 47840 0 0
+/school/admin/edithomework.php 2 10968 0 0
+/school/teacher/document.php 206 745286 0 1
+/school/teacher/analysis.php 14 32244 0 0
+/school/admin/editPayslip.php 4 22822 0 0
+/school/parent/subject.php 86 130878 0 0
+/version-v2/fonts/fontawesome-webfont3e6e.woff2 1 77160 0 0
+/school/teacher/saleryDetails.php 46 120146 0 0
+/school/admin/expense_report.php 22 126162 0 0
+/main 9 0 0 0
+/school/admin/paid_fees_report.php 4 6952 0 0
+/demo/school/admin/printFeesTermwise.php 4 5916 0 0
+/school/parent/profile_edit.php 6 12606 0 0
+/school/admin/staffAttendance.php 44 338294 1 1
+/users/user-dark-features 1 358 0 1
+/emp/admin-manage-user.php 48 107854 0 0
+/demo/school/admin/sectionWokdoneReport.php 3 17202 0 0
+/school/teacher/student.php 204 746650 0 0
+/school/admin/sec_wiseExamgraph.php 107 960 0 0
+/school/admin/printFeesTermwise.php 26 36018 0 0
+/demo/school/admin/print_expense_report.php 4 332238 0 0
+/demo/school/admin/deleteallowance.php 18 100 0 0
+/school/admin/ajax.php 268 163657 0 0
+/school/admin/student_attendance.php 94 1238064 0 0
+/apisix/batch-requests 1 358 0 0
+/school/teacher/homework.php 140 544716 0 2
+/demo/school/admin/teachergraph.php 233 5167 0 1
+/demo/school/admin/expenseCreated.php 4 24252 0 0
+/school/admin/editexam.php 8 45040 0 0
+/demo/school/admin/printclasswiseReport.php 4 255882 0 0
+/school/admin/studentclasschange.php 2 11472 0 0
+/school/parent/document.php 182 400598 0 1
+/school/admin/sectionHomework_report.php 28 149754 0 0
+/assets/vendor/icofont/fonts/icofont.woff 5 3228020 0 1
+/school/admin/classSectionCreate.php 32 218566 0 1
+/school/admin/sectioneditstudents.php 2 12052 0 0
+/demo/school/admin/takeAttendance.php 22 139138 0 0
+/school/admin/viewBusroot.php 28 243772 0 0
+/school/admin/allowanceReport.php 8 45615 0 0
+/school/admin/view_office_attendance.php 40 233106 0 0
+/school/admin/printsectionwiseFeesReport.php 14 25064 0 0
+/demo/school/admin/viewexamination.php 74 481716 0 1
+/demo/school/admin/markGraph.php 24 782 0 4
+/erode.html 4 35300 1 1
+/emp/daily-attendance-report.php 24 50366 0 0
+/school/admin/studentProfileEdit.php 20 120924 0 0
+/demo/school/admin/classView.php 14 97338 0 0
+/demo/school/admin/teacherView.php 134 943700 0 2
+/cgi-sys/403.html 1 358 0 0
+/school/admin/staffview.php 92 626230 0 0
+/demo/school/admin/print_work_report.php 2 164464 0 0
+/school/teacher/modify_Mark.php 50 147570 0 0
+/demo/school/admin/sectionaddsubjects.php 128 792198 1 0
+/school/admin/busProfile.php 62 648352 0 0
+/school/admin/officestaffattendance.php 20 137146 0 0
+/demo/school/admin/print_expenses_workorder.php 10 7020 0 0
+/demo/school/admin/att-data.php 130 14714 0 2
+/school/admin/sectionaddsubjects.php 22 148408 0 0
+/demo/school/admin/classwiseStudentStrengthReport.php 4 32996 0 0
+/school/admin/updatemarks.php 18 139116 0 0
+/userportal/Controller 1 358 0 0
+/school/admin/busStopsEdit.php 34 198340 0 1
+/demo/school/admin/editbankdetails.php 26 148516 0 0
+/demo/school/admin/expenseView.php 24 147972 0 0
+/demo/school/admin/print_voucher.php 4 1624880 0 0
+/demo/school/admin/printsectionwiseFeesReport.php 4 7160 0 2
+/school/admin/formSubmit.php 36 3086 0 0
+/demo/school/admin/sec_wiseExamgraph.php 144 3121 0 0
+/school/ 162 217874 16 5
+/demo/school/admin/index.php 118 1276926 0 0
+/demo/school/admin/staffprofile.php 168 2519024 0 1
+/demo/school/admin/view_student_attendance.php 18 117210 0 1
+/demo/school/admin/studentView.php 62 1983178 0 0
+/demo/school/admin/testfees_rank.php 102 8323314 1 3
+/school/parent/workdone.php 116 188788 0 0
+/demo/school/admin/print_classSection_attendance.php 8 353904 0 0
+/school/admin/module_permission.php 300 1152644 1 3
+/school/admin/attendanceList.php 22 139638 0 1
+/school/admin/staffprofile.php 148 2050716 0 1
+/demo/school/admin/stdPGraph.php 24 374 0 0
+/storfs-asup 1 358 0 0
+/school/admin/staffcreate.php 14 85104 0 0
+/demo/school/admin/view_student_cl.php 8 51862 0 0
+/school/admin/printclasswiseStudentStrengthReport.php 6 503966 0 0
+/demo/school/admin/printStudentFees.php 2 812910 0 0
+/school/teacher/examination.php 352 1171614 0 0
+/demo/school/admin/studentProfileEdit.php 2 12146 0 0
+/demo/school/admin/print_supplier_workorder.php 10 749990 0 0
+/demo/school/admin/sectionGraphProfile.php 145 4153 0 1
+/school/admin/ExamDetailsModify.php 10 63164 0 0
+/version-v2/fonts/font/GT-Walsheim-Pro-Bold.woff2 21 1237152 0 0
+/school/admin/addbusroute.php 18 105264 0 0
+/demo/school/admin/print_fees_list.php 22 25250 0 1
+/school/teacher/ 91 114071 10 1
+/demo/school/admin/section_paidfees_report.php 3 19951 0 0
+/demo/school/admin/chart_Data.php 130 84810 0 0
+/demo/school/admin/print_section_workdone.php 2 165160 0 0
+/school/admin/allowance.php 8 47964 0 0
+/school/admin/print_supplier_workorder.php 102 6920402 0 0
+/school/admin/sec_wiseSubgraph.php 171 9481 0 0
+/assets/vendor/boxicons/fonts/boxicons.woff 5 1316020 0 0
+/assets/vendor/bootstrap/css/bootstrap.min.css.map 1 151679 0 0
+/school/admin/clswisePending.php 84 622835 0 0
+/school/admin/print_examMarks.php 18 25176 0 0
+/demo/school/admin/allowanceReport.php 9 51716 0 0
+/school/teacher/viewResult_subject.php 74 191188 0 0
+/school/teacher/workdone.php 116 300702 0 0
+/demo/school/admin/staffAttendance.php 194 1283316 0 0
+/school/admin/paybusfees3.php 98 694960 0 0
+/school/teacher/edit_home.php 18 50434 0 0
+/admin 2 11262 0 1
+/demo/school/admin/editPayslip.php 28 161054 0 0
+/school/admin/view_student_attendance.php 122 750778 0 0
+/school/admin/continue.php 14 58832 0 1
+/demo/school/admin/sectionStudentReport.php 24 150802 0 0
+/school/parent/my_profile.php 138 285700 0 0
+/api/v1/method.callAnon/getPasswordPolicy 1 358 0 0
+/school/admin/viewexamMarks.php 54 326700 0 0
+/school/admin/createExamination.php 10 116454 0 0
+/school/teacher/subject.php 142 654658 0 1
+/school/admin/change_password.php 113 122390 0 0
+/version-v2/fonts/font/GT-Walsheim-Pro-Semi-Bold.html 6 1890 0 0
+/school/admin/supplierCreated.php 2 11796 0 0
+/demo/school/admin/paid_fees_report.php 2 1982 0 0
+/demo/school/admin/createExamination.php 14 139424 0 0
+/confluence/pages/createpage-entervariables.action 2 716 0 0
+/school/admin/assignTeacher.php 122 843602 0 0
+/demo/school/admin/ 148 1608270 1 0
+/school/parent/appformsubmit.php 406 32443 0 1
+/new 9 0 0 0
+/school/admin/viewBus.php 80 528922 0 0
+/cgi-sys/404.html 30 12765 8 0
+/school/teacher/timetable.php 6 13620 0 0
+/school/admin/schoolList.php 10 60884 0 0
+/school/admin/supplierProfile.php 290 1962334 0 2
+/school/admin/addBusRoot.php 78 469010 0 1
+/privacy-policies.html 28 210086 3 4
+/school/teacher/takeAttendance.php 176 658404 0 0
+/school/teacher/test.php 108 61462 0 1
+/school/admin/print_transport_student.php 8 15740 0 0
+/demo/school/admin/ajax.php 76 46141 0 0
+/school/admin/print_assignTeacher.php 30 1854036 0 0
+/version-v2/fonts/font/GT-Walsheim-Pro-Medium.woff2 21 1163484 0 0
+/demo/school/admin/accountNewGl.php 2 12316 0 0
+/demo/school/admin/viewexamMarks.php 20 128082 0 0
+/demo/school/admin/view_office_attendance.php 156 1585638 0 0
+/emp/assets/css/bootstrap.min.css.map 5 540196 0 0
+/school/admin/setting.php 62 579334 0 1
+/school/teacher/daywise_Attendance.php 54 139124 0 1
+/school/teacher/index.php 382 480152 9 6
+/version-v2/ 46 502374 2 1
+/school/admin/viewexamination.php 118 764822 0 0
+/demo/school/admin/clswisePending.php 3 20977 0 0
+/school/teacher/viewResult.php 178 509616 0 0
+/demo/school/admin/expense_report.php 15 86117 0 0
+/emp/task-details.php 36 54250 1 1
+/school/admin/printclasswiseReport.php 6 386530 0 0
+/school/admin/secwFessGraph.php 171 27179 0 1
+/about.php 1 358 0 0
+/bc 9 0 0 0
+/school/parent/appdubmit.php 8 2864 0 0
+/demo/school/index.php 139 176621 17 11
+/school/admin/salary_report.php 12 68489 0 0
+/school/admin/off_attend_date.php 10 61384 0 0
+/version-v2/fonts/font/GT-Walsheim-Pro-Regular.woff2 21 1191708 0 1
+/school/admin/viewMarks.php 12 71126 0 0
+/demo/school/admin/ExamAssignDate.php 12 80132 0 0
+/school/teacher/profilestudent.php 278 1382670 1 2
+/school/teacher/formsubmit.php 22 2522 0 0
+/school/admin/accountNewGl.php 10 61550 0 0
+/school/admin/TeacherWokdoneReport.php 31 176266 0 0
+/demo/school/admin/sectioneditstudents.php 24 145464 0 0
+/demo/school/admin/supplierList.php 2 12146 0 0
+/demo/school/admin/printclassSectionView.php 12 518224 0 0
+/school/admin/print_fees_list.php 28 32812 0 0
+/demo/school/admin/reportDailyFeesCollected.php 7 45891 0 1
+/school/teacher/examAssign.php 178 585300 0 0
+/admin.php 1 358 0 0
+/school/admin/printFeesPaid.php 70 165604 0 2
+/school/admin/print_section_workdone.php 30 2468510 0 0
+/emp/edit-task.php 86 178344 1 1
+/demo/school/admin/sec_wiseSubgraph.php 145 2304 0 0
+//internship.php 1 9245 0 1
+/school/admin/sectionStudentReport.php 182 1170894 1 0
+/school/admin/print_buswise_report.php 40 84928 0 2
+/school/admin/print_salary_report.php 4 329162 0 0
+/school/admin/changeStudentClass.php 58 490102 0 0
+/demo/school/admin/updatemarks.php 6 46498 0 0
+/version-v2/fonts/icomoonf3f8.ttf 30 2101887 0 0
+/demo/school/admin/SectionlistProfile.php 291 4733145 0 0
+/wp-story.php 1 358 0 1
+/school/parent/test.php 38 4318 0 0
+/emp/index.php 230 179970 34 25
+/school/admin/teacherView.php 224 1974680 0 0
+/school/parent/viewResult.php 108 158468 1 0
+/bk 9 0 0 0
+/school/admin/ExamDetails.php 44 309964 0 0
+/emp/assets/fonts/glyphicons-halflings-regular.woff2 66 1153792 0 2
+/school/admin/print_work_report.php 26 1642558 0 0
+/demo/school/admin/demo-data.php 130 28876 0 3
+/demo/school/admin/ExamDetailsModify.php 2 12740 0 0
+/demo/school/admin/officestaffattendance.php 170 1125426 0 0
+/emp/update-admin.php 19 26058 0 0
+END_SIDER

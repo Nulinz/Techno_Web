@@ -1,0 +1,681 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202009 will be lost/reset.
+# Last config file used to build this data file was /home/nuscmy3y/tmp/awstats/ssl/awstats.treethirty.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2022                
+POS_TIME 2700                
+POS_VISITOR 13500               
+POS_DAY 18600               
+POS_DOMAIN 3489                
+POS_LOGIN 4015                
+POS_ROBOT 4170                
+POS_WORMS 4691                
+POS_EMAILSENDER 4822                
+POS_EMAILRECEIVER 4965                
+POS_SESSION 19346               
+POS_SIDER 19537               
+POS_FILETYPES 5100                
+POS_DOWNLOADS 5339                
+POS_OS 5387                
+POS_BROWSER 5661                
+POS_SCREENSIZE 7096                
+POS_UNKNOWNREFERER 7170                
+POS_UNKNOWNREFERERBROWSER 7581                
+POS_ORIGIN 7838                
+POS_SEREFERRALS 7979                
+POS_PAGEREFS 8144                
+POS_SEARCHWORDS 8362                
+POS_KEYWORDS 8514                
+POS_MISC 2364                
+POS_ERRORS 8573                
+POS_CLUSTER 3871                
+POS_SIDER_404 8750                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201001025214 18 5397 11268907234320
+FirstTime 20200901030914
+LastTime 20200930215618
+LastUpdate 20201001200011 18 0 17 0 0
+TotalVisits 169                 
+TotalUnique 128                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 128                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 11 11 70040 12 35 160068
+1 5 5 62298 11 26 209949
+2 14 14 131161 48 51 43593
+3 9 12 86592 28 35 76202
+4 22 47 1497470 19 40 169081
+5 59 116 1426849 46 67 81346
+6 14 56 1079572 50 68 38256
+7 11 62 1317890 7 24 14169
+8 85 104 470186 72 90 154855
+9 29 33 179260 33 38 127667
+10 9 63 2107664 19 32 206176
+11 6 6 19235 17 21 51066
+12 11 41 43721 17 25 152838
+13 83 315 8367811 16 47 22717
+14 33 159 7192870 37 84 409602
+15 37 94 2803720 19 66 460386
+16 5 5 45189 5 14 46817
+17 8 30 1446973 6 12 12845
+18 15 39 673804 31 40 147393
+19 15 15 134773 41 56 259770
+20 11 11 147321 50 69 90440
+21 45 55 440398 4 12 125008
+22 4 4 39573 19 21 4801
+23 7 8 402192 9 20 340395
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 22
+in 158 758 23031968
+cn 121 172 1195417
+us 103 157 3875878
+id 88 106 471562
+de 19 23 185794
+gb 14 34 604651
+se 9 9 50544
+ca 9 9 127227
+ua 5 11 334914
+sr 5 5 19235
+eu 3 3 22725
+ru 2 2 45450
+fr 2 2 11232
+pt 2 6 118141
+al 1 1 22725
+ro 1 1 22725
+ir 1 1 5616
+cl 1 1 5616
+il 1 1 5616
+fi 1 1 5616
+it 1 1 22725
+hu 1 1 1185
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+Googlebot/ 153 1589208 20200930185844 0
+bingbot/ 37 606489 20200930153920 0
+bot[\s_+:,\.\;\/\\-] 33 852281 20200930150424 0
+curl 7 63904 20200929140920 0
+YandexBot/ 6 33696 20200925042157 0
+bingpreview 3 17390 20200919162321 0
+Baiduspider/ 1 5616 20200919104449 0
+no_user_agent 1 5616 20200901093553 0
+Python\-urllib/ 1 22725 20200918112405 0
+[\s_+:,\.\;\/\\-]bot 1 5616 20200902152312 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+svg 59 511669 0 0
+js 327 7758180 0 0
+jpeg 18 989130 0 0
+css 214 2754985 0 0
+png 126 8292792 0 0
+php 322 427836 0 0
+html 190 1732341 0 0
+jpg 13 165317 0 0
+woff2 36 7554312 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+linuxubuntu 5 1
+macosx9 5 5
+macosx7 1 1
+macosx12 16 16
+linux 24 24
+linuxandroid 791 273
+macosx11 1 1
+Unknown 73 53
+win8.1 2 2
+macosx 1 1
+win10 282 112
+macosx5 2 2
+macosx8 2 2
+win2003 1 1
+win7 97 52
+winxp 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 65
+firefox15.0.1 2 2
+firefox79.0 1 1
+msie11.0 1 1
+chrome79.0.3945.136 58 10
+chrome85.0.4183.83 8 3
+chrome77.0.3865.90 15 15
+opera53.0.2907.99 1 1
+firefox33.0 1 1
+chrome58.0.3029.110 6 6
+chrome85.0.4183.127 121 21
+chrome79.0.3945.88 1 1
+chrome75.0.3770.100 1 1
+netscape5.0 2 2
+firefox51.0 1 1
+chrome85.0.4183.121 27 22
+chrome73.0.3683.90 6 6
+chrome78.26.10.1974 1 1
+firefox46.0 1 1
+firefox62.0 2 2
+firefox57.0 3 3
+chrome78.0.3904.108 2 2
+chrome67.0.3396.99 2 2
+firefox55.0 1 1
+chrome69.0.3497.100 2 2
+chrome61.0.3163.79 1 1
+chrome85.0.4183.101 82 68
+chrome83.0.4103.106 304 64
+chrome74.0.3729.108 8 3
+chrome84.0.4147.105 5 5
+firefox66.0 1 1
+chrome80.0.3987.149 5 5
+chrome40.0.2214.85 13 13
+chrome16.0.912.63 1 1
+mozilla 31 11
+firefox80.0 50 26
+chrome72.0.3626.121 2 2
+chrome48.0.2564.116 2 2
+chrome67.0.3396.87 1 1
+chrome85.0.4183.81 51 38
+chrome83.0.4103.61 6 2
+chrome80.0.3987.122 3 3
+chrome21.0.1180.71 1 1
+chrome71.0.3578.141 24 2
+firefox81.0 186 37
+chrome45.0.2454.94 1 1
+msie8.0 1 1
+firefox31.0 1 1
+opera70.0.3728.133 8 2
+chrome67.0.3396.79 1 1
+firefox28.0 10 10
+chrome83.0.4103.116 27 3
+chrome26.0.1410.65 2 2
+firefox72.0 4 4
+msie6.0 1 1
+chrome35.0.1916.47 4 4
+chrome22.0.1207.1 1 1
+chrome83.0.4103.97 2 2
+Unknown 44 44
+chrome64.0.3282.167 1 1
+chrome84.0.4147.135 23 2
+firefox35.0 1 1
+chrome84.0.4147.89 78 25
+chrome84.0.4147.111 43 39
+chrome71.0.3578.98 1 1
+opera52.0.2871.64 8 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Mozilla/5.0_Firefox/35.0 20200916182740
+PageThing.com 20200929121259
+Mozilla/5.0_(compatible;_ips-agent) 20200914115246
+\ 20200929200804
+Mozilla/5.0_(compatible;_Dataprovider.com) 20200917061911
+axios/0.19.2 20200903195612
+WhatsApp/2.20.199.14_A 20200930152542
+Go-http-client/1.1 20200927051149
+panscient.com 20200921180654
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+PageThing.com 20200929121259
+\ 20200929200804
+axios/0.19.2 20200903195612
+WhatsApp/2.20.199.14_A 20200930152542
+Go-http-client/1.1 20200927051149
+panscient.com 20200921180654
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 183 183
+From1 2 2
+From2 12 12
+From3 2 2
+From4 349 1106
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 12 12
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://mail.treethirty.com 1 1
+https://mail.treethirty.com/admin/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+406 84 18984
+403 3 402
+421 1 322
+302 53 57074
+401 5 175
+301 1 250
+404 513 0
+206 4 123451
+409 27 2241
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 123
+/privacy.html 12 https://treethirty.com/
+/wordpress/ 4 -
+/bak/ 3 -
+//wp1/wp-includes/wlwmanifest.xml 6 -
+/wp-content/plugins/wp-file-manager/lib/files/x.php 8 -
+//blog/wp-includes/wlwmanifest.xml 6 -
+/2020/ 3 -
+/old/ 3 -
+//cms/wp-includes/wlwmanifest.xml 6 -
+/cms/ 3 -
+/en/wp-includes/wlwmanifest.xml 1 -
+/images/editor/separator.gif 3 -
+//media/wp-includes/wlwmanifest.xml 6 -
+//sito/wp-includes/wlwmanifest.xml 6 -
+/wp1/ 3 -
+/2019/ 3 -
+/js/header-rollup-554.js 3 -
+/v1/wp-includes/wlwmanifest.xml 1 -
+/admin/view_admin.php 1 https://treethirty.com/admin/view_admin_profile.php
+/new/ 3 -
+/wp2/ 3 -
+/pma/index.php 3 -
+/temp/ 3 -
+/wp-content/plugins/ioptimization/IOptimize.php 2 www.google.com
+/site/ 3 -
+/news/wp-includes/wlwmanifest.xml 1 -
+//wp2/wp-includes/wlwmanifest.xml 6 -
+/fore 6 -
+/wp2/wp-includes/wlwmanifest.xml 1 -
+/shop 2 -
+/wp/wp-includes/wlwmanifest.xml 1 -
+/v1/ 3 -
+//site/wp-includes/wlwmanifest.xml 6 -
+/shop/wp-includes/wlwmanifest.xml 1 -
+/wp/ 4 -
+/backup/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/js/jquery/jquery.js 3 -
+/wp-config_good 2 treethirty.com
+/2018/wp-includes/wlwmanifest.xml 1 -
+/install/ 3 -
+/home/ 3 -
+//wp/ 1 -
+/portal/wp-includes/wlwmanifest.xml 1 -
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/millenniumcrowd.in/assets/img/apple-touch-icon.png 19 https://treethirty.com/millenniumcrowd.in/index.html
+/millenniumcrowd.in/account/pages/examples/invoice.html 1 https://treethirty.com/millenniumcrowd.in/account/index.php
+/app/etc/local.xml 2 -
+//news/wp-includes/wlwmanifest.xml 6 -
+/bk/ 3 -
+/old/wp-includes/wlwmanifest.xml 1 -
+//web/wp-includes/wlwmanifest.xml 6 -
+/misc/ajax.js 3 -
+/millenniumcrowd.in/account/pages/charts/inline.html 3 https://treethirty.com/millenniumcrowd.in/account/index.php
+/admin/create_admin.php 1 https://treethirty.com/admin/view_admin_profile.php
+/main/wp-includes/wlwmanifest.xml 1 -
+//wp-content/plugins/wp-file-manager/lib/files/xxx.php 1 -
+/wp-includes/qw.php 4 -
+//shop/wp-includes/wlwmanifest.xml 6 -
+/millenniumcrowd.in/account/pages/UI/icons.html 2 https://treethirty.com/millenniumcrowd.in/account/createNewAccount.php
+/www/wp-includes/wlwmanifest.xml 1 -
+/wp-config.php_orig 2 treethirty.com
+//wordpress/ 1 -
+/dist/img/user4-128x128.jpg 13 https://treethirty.com/millenniumcrowd.in/account/profile.php
+//2018/wp-includes/wlwmanifest.xml 6 -
+/phpMyAdmin/index.php 3 -
+/test/wp-includes/wlwmanifest.xml 1 -
+//wordpress/wp-includes/wlwmanifest.xml 6 -
+/dev/ 3 -
+/blog/ 3 -
+/plugins/system/debug/debug.xml 3 -
+/oldsite/wp-includes/wlwmanifest.xml 1 -
+//wp-includes/wlwmanifest.xml 6 -
+/demo/ 3 -
+/terms.html 14 -
+/admin/view/javascript/common.js 3 -
+/admin/includes/general.js 3 -
+//website/wp-includes/wlwmanifest.xml 6 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 3 -
+/wp-config-good 1 treethirty.com
+/test/ 3 -
+/wp-admin/includes/ollx.php 1 -
+/Airbnb-Support-New-Message-To-Read/verify.php 1 -
+/wp-config.php_ 2 treethirty.com
+/wp-content/plugins/wp-file-manager/lib/files/kiri.php 1 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 21 -
+/ads.txt 6 http://treethirty.com/ads.txt
+/vendor/phpunit/phpunit/build.xml 3 -
+/plugins/jquery.filer/php/readme.txt 1 -
+/wp-james.php 1 -
+/Airbnb-Support-New-Message-To-Read 1 -
+/newsite/wp-includes/wlwmanifest.xml 1 -
+//test/wp-includes/wlwmanifest.xml 6 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+/2018/ 3 -
+/old-wp/ 3 -
+/millenniumcrowd.in/account/pages/UI/buttons.html 2 https://treethirty.com/millenniumcrowd.in/account/profile.php
+//wp/wp-includes/wlwmanifest.xml 6 -
+/new-site/ 3 -
+//2019/wp-includes/wlwmanifest.xml 6 -
+/tmp/ 3 -
+/wp-admin/includes/class2.php 1 -
+/wp-config.php_original 2 treethirty.com
+/robots.txt 81 -
+/home/wp-includes/wlwmanifest.xml 1 -
+/main/ 3 -
+/wp-config.good 2 treethirty.com
+/millenniumcrowd.in/assets/img/favicon.png 19 https://treethirty.com/millenniumcrowd.in/index.html
+/millennium.in 1 -
+/wp-content/plugins/wp-file-manager/lib/files/t3sla.php 3 -
+/v2/ 3 -
+/admin/.env 5 -
+/old-site/ 3 -
+/wp-content/plugins/wp-file-manager/lib/files/xxx.php 9 -
+/humans.txt 5 http://treethirty.com/humans.txt
+/wp-config.phporiginal 2 treethirty.com
+/web/ 3 -
+/millenniumcrowd.in/account/index3.html 1 https://treethirty.com/millenniumcrowd.in/account/profile.php
+/c.php 1 -
+//wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 -
+/staging/wp-includes/wlwmanifest.xml 1 -
+/phpmyadmin/index.php 3 -
+/sitemap.xml 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 128
+116.204.254.2 105 132 493876 20200912081343
+106.211.243.132 56 212 5743109 20200926151053
+223.255.230.52 39 43 116977 20200905212708
+125.166.2.57 24 28 116962 20200911092343
+180.254.238.139 22 27 118821 20200924132053
+223.182.209.175 19 89 3531141 20200930171734
+106.197.41.1 19 131 3529145 20200928124151
+106.198.97.27 17 39 1452281 20200930042048
+3.81.245.94 13 13 322747 20200929200804
+106.198.96.60 11 63 1393588 20200929105756
+157.50.45.162 10 58 2647450 20200926144308
+42.106.184.200 10 58 2113586 20200926135915
+34.121.185.21 9 9 34614 20200915024306
+138.246.253.15 8 8 0 20200926234313
+223.182.211.94 6 54 2098386 20200927135749
+186.179.137.120 5 5 19235 20200924183718
+51.222.43.124 5 5 75285 20200917052457
+88.79.93.114 5 5 19235 20200917025705
+45.130.147.27 5 5 19235 20200927051210
+72.79.58.112 4 4 9188 20200921180654
+46.4.21.234 4 8 138218 20200922142216
+173.234.151.125 4 4 13619 20200905004147
+13.78.132.129 4 4 90900 20200907202249
+107.175.65.145 3 3 16848 20200910002029
+180.243.76.61 3 8 118802 20200923144829
+198.27.85.233 2 2 45450 20200917011232
+52.247.234.234 2 2 45450 20200922233433
+192.77.251.162 1 1 5616 20200915114622
+192.71.2.171 1 1 5616 20200905060517
+34.215.198.239 1 1 5616 20200926212048
+106.53.82.40 1 1 5616 20200912024942
+213.217.0.184 1 1 5616 20200907232914
+51.159.23.217 1 1 22725 20200912234237
+62.210.129.161 1 1 5616 20200910124625
+54.93.198.111 1 1 5616 20200923223755
+162.253.129.108 1 1 5616 20200920192616
+69.197.177.18 1 1 5616 20200910213803
+109.252.138.201 1 1 22725 20200913071230
+192.71.224.240 1 1 5616 20200914112222
+199.244.88.132 2 2 11232 20200922165954
+44.234.151.65 1 1 5616 20200918200848
+54.184.231.159 1 1 5616 20200920202347
+84.17.60.215 1 1 22725 20200911042419
+157.50.135.150 2 8 300957 20200930152612
+107.175.129.107 3 3 8003 20200928195018
+173.211.79.57 1 1 5616 20200912053025
+192.71.44.44 1 1 5616 20200906002626
+106.198.121.56 2 23 474806 20200908063854
+51.91.219.193 1 21 467329 20200917061910
+95.217.207.28 1 1 5616 20200909012228
+42.106.184.250 2 2 7744 20200927030515
+219.143.171.36 3 27 594315 20200919182554
+44.226.204.109 1 1 5616 20200926210309
+68.168.223.191 2 2 11232 20200910054342
+54.188.35.81 1 1 5616 20200918200735
+74.210.168.36 1 1 22725 20200913024508
+198.245.61.79 1 1 1185 20200905032527
+23.108.47.29 1 1 5616 20200922073734
+192.71.36.158 2 2 11232 20200927051149
+13.239.43.208 1 1 5616 20200905202640
+178.62.214.155 1 1 22725 20200902142144
+34.222.176.185 1 1 5616 20200920202427
+107.173.85.112 2 2 11232 20200910083723
+51.158.154.133 1 1 5616 20200903083758
+106.211.232.249 1 22 469190 20200905073238
+18.192.121.246 1 1 5616 20200918055234
+178.136.123.39 1 1 22725 20200912185137
+178.173.240.10 1 1 5616 20200908042858
+106.53.83.56 1 1 5616 20200915020756
+206.127.204.198 1 1 5616 20200922125818
+107.175.148.102 1 1 5616 20200905002916
+34.69.182.149 1 1 5616 20200909201534
+51.159.30.6 1 1 5616 20200907230719
+185.117.154.235 1 1 22725 20200927222453
+106.211.238.124 2 3 7107 20200901083519
+192.36.52.37 1 1 5616 20200920164937
+14.17.70.182 2 2 11232 20200927151708
+5.62.16.32 3 3 16848 20200903085437
+95.216.113.222 1 1 5616 20200928060230
+38.122.112.147 2 2 11232 20200921223100
+40.87.92.194 3 3 16848 20200901060547
+114.67.87.60 1 1 5616 20200908014731
+34.213.11.240 1 1 22725 20200919031949
+64.21.98.47 1 1 5616 20200902013332
+82.102.27.82 2 6 118141 20200921071142
+37.111.235.83 1 1 1185 20200912124531
+3.21.171.69 1 1 22725 20200901084042
+23.96.44.252 2 2 45450 20200928060700
+34.121.83.218 1 1 5616 20200909093939
+139.155.16.233 1 1 5616 20200921142405
+31.171.152.131 1 1 22725 20200925145344
+72.13.46.5 3 3 8003 20200914115246
+192.71.10.105 1 1 5616 20200910195144
+122.13.162.31 3 3 16848 20200913190917
+198.27.65.32 1 1 1185 20200907154532
+51.89.228.207 1 1 5616 20200903143833
+106.52.240.60 2 2 11232 20200907084957
+82.80.249.212 1 1 5616 20200909160547
+106.198.116.188 2 6 1137988 20200930143323
+103.81.221.67 3 8 118802 20200902084015
+3.131.160.253 1 1 22725 20200901030914
+192.71.12.140 1 1 5616 20200922210439
+213.168.249.115 2 2 0 20200929121259
+77.120.15.43 2 8 300957 20200930215618
+192.36.53.165 1 1 5616 20200912135946
+107.150.59.82 1 1 5616 20200917185051
+107.150.169.50 1 1 5616 20200915000524
+104.245.145.6 1 1 5616 20200916072326
+50.112.39.49 1 1 22725 20200919051359
+191.101.141.206 1 1 5616 20200928054718
+106.211.225.166 1 21 467329 20200919054431
+18.194.137.25 1 1 5616 20200927103327
+185.89.36.2 1 1 5616 20200908032751
+132.232.75.2 1 1 5616 20200922095711
+206.180.178.232 1 1 5616 20200915171740
+209.242.216.71 1 1 5616 20200928195011
+47.92.84.235 1 1 22725 20200913170557
+192.95.30.137 2 2 45450 20200924024200
+103.53.52.50 2 22 468531 20200915050739
+37.120.217.220 1 1 22725 20200908153711
+62.210.92.175 1 1 5616 20200930160854
+104.248.236.204 1 1 5616 20200928135323
+148.251.123.46 1 1 22725 20200902063734
+129.226.15.208 2 2 11232 20200908040119
+3.22.120.81 1 1 5616 20200904192728
+18.188.152.77 1 1 22725 20200903195612
+124.206.180.133 1 1 22725 20200916182740
+216.41.150.118 1 1 5616 20200907152536
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20200901 7 8 69405 5
+20200902 7 12 192593 5
+20200903 7 7 50805 5
+20200904 40 53 229910 3
+20200905 48 73 617819 7
+20200906 1 1 5616 1
+20200907 12 12 148506 8
+20200908 8 29 525611 6
+20200909 5 5 28080 5
+20200910 10 10 73269 7
+20200911 29 33 156535 5
+20200912 78 92 344909 9
+20200913 7 7 107748 5
+20200914 5 5 19235 3
+20200915 9 29 519642 7
+20200916 4 4 73791 4
+20200917 15 35 590190 7
+20200918 6 6 45189 6
+20200919 8 56 1234080 6
+20200920 4 4 22464 4
+20200921 10 14 166902 5
+20200922 8 8 79146 7
+20200923 5 10 160798 3
+20200924 29 34 183506 3
+20200925 3 3 45450 3
+20200926 91 413 14036153 8
+20200927 20 74 2196941 10
+20200928 21 83 779354 11
+20200929 8 34 753975 4
+20200930 43 151 6728940 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+2mn-5mn 5
+30s-2mn 7
+0s-30s 149
+15mn-30mn 2
+5mn-15mn 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 29
+/ 160 1605409 131 124
+/validation.php 136 136 0 5
+/millenniumcrowd.in/account/index.php 30 116024 6 6
+/admin_login.php 29 36696 12 5
+/millenniumcrowd.in/ 25 80564 10 5
+/millenniumcrowd.in/account/login.php 24 20040 6 0
+/millenniumcrowd.in/account/profile.php 15 56640 0 1
+/millenniumcrowd.in/account/configration.php 13 504 0 0
+/millenniumcrowd.in/account/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 13 963936 0 2
+/millenniumcrowd.in/assets/vendor/icofont/fonts/icofont.woff2 12 6454416 0 3
+/millenniumcrowd.in/account/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 11 135960 0 4
+/admin/index.php 10 24420 0 1
+/user_login.php 9 13332 1 6
+/millenniumcrowd.in/account/createNewAccount.php 8 24084 0 1
+/admin/settings_validation.php 8 19272 0 0
+/admin/settings.php 6 13164 0 0
+/index.php 6 33696 0 0
+/admin/view_users.php 5 11055 0 0
+/millenniumcrowd.in/account/createNewPin.php 5 14971 0 0
+/admin/card.php 3 7479 0 0
+/admin/view_card.php 3 7485 0 0
+/backup/ 3 918 0 2
+/admin/view_admin_profile.php 3 8904 0 1
+/admin/view_beneficiary.php 2 4236 0 0
+/admin/select_standard_for_order.php 2 4500 0 0
+/admin/view_order.php 1 2102 0 0
+// 2 45450 1 1
+/omsiga/product-page.php 2 4610 2 2
+/admin/select_standard_for_benificary.php 2 4486 0 0
+END_SIDER

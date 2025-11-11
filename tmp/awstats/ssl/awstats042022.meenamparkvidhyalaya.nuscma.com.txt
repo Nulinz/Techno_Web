@@ -1,0 +1,609 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202204 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.meenamparkvidhyalaya.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2033                
+POS_TIME 2711                
+POS_VISITOR 10440               
+POS_DAY 16820               
+POS_DOMAIN 3498                
+POS_LOGIN 4010                
+POS_ROBOT 4165                
+POS_WORMS 4669                
+POS_EMAILSENDER 4800                
+POS_EMAILRECEIVER 4943                
+POS_SESSION 17423               
+POS_SIDER 17592               
+POS_FILETYPES 5078                
+POS_DOWNLOADS 5346                
+POS_OS 5394                
+POS_BROWSER 5614                
+POS_SCREENSIZE 6812                
+POS_UNKNOWNREFERER 6886                
+POS_UNKNOWNREFERERBROWSER 7402                
+POS_ORIGIN 7827                
+POS_SEREFERRALS 7964                
+POS_PAGEREFS 8118                
+POS_SEARCHWORDS 8335                
+POS_KEYWORDS 8487                
+POS_MISC 2375                
+POS_ERRORS 8546                
+POS_CLUSTER 3866                
+POS_SIDER_404 8671                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220501002246 12 3367 21923552905899
+FirstTime 20220407070152
+LastTime 20220430223102
+LastUpdate 20220501183901 12 0 11 0 0
+TotalVisits 163                 
+TotalUnique 134                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 175                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 30 2387845 4 7 102498
+1 3 4 75658 6 14 170232
+2 16 196 12124275 22 37 304816
+3 5 5 136897 3 7 31214
+4 7 7 233819 21 24 26482
+5 5 30 2387845 19 32 267579
+6 14 14 432502 29 34 95515
+7 28 185 7650933 8 12 164358
+8 12 92 4317979 24 29 109153
+9 7 57 4643632 24 60 860666
+10 6 49 3192217 33 73 978227
+11 7 57 3289276 7 44 844865
+12 70 268 4533911 21 34 442690
+13 30 30 523951 53 74 357535
+14 12 12 405852 48 62 415977
+15 12 62 4718743 9 42 684254
+16 9 59 4689117 10 28 268381
+17 8 8 106600 5 21 388624
+18 4 4 158708 28 58 814115
+19 2 2 26650 21 23 244920
+20 7 60 3475279 6 7 155483
+21 6 31 2366034 8 15 24811
+22 6 6 101761 17 56 1198862
+23 2 2 26650 5 13 362115
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 21
+us 165 790 37861918
+ca 29 30 1370780
+cn 23 226 13004664
+ru 15 16 391566
+gb 13 14 420757
+in 11 119 6834850
+ro 7 22 631277
+kr 6 6 26650
+jp 3 3 0
+ir 2 5 469867
+tr 2 14 364652
+fr 1 1 13325
+cr 1 1 48461
+es 1 1 13325
+ar 1 1 0
+eu 1 1 13325
+se 1 1 13325
+sc 1 1 48461
+np 0 4 44664
+bd 0 5 289724
+au 0 9 144543
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+Googlebot/ 299 6317224 20220430212247 0
+Applebot/ 63 2023903 20220430133639 0
+Apache\-HttpClient/ 28 408236 20220428163526 0
+Googlebot\-Image/ 18 170385 20220429234603 0
+baidu 2 61786 20220414043718 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 96922 20220412090647 0
+no_user_agent 2 48461 20220428013334 0
+bot[\s_+:,\.\;\/\\-] 1 13325 20220428125332 0
+java 1 13325 20220424203800 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+jpg 227 13711003 0 0
+woff 18 596460 0 0
+png 274 30367708 0 0
+eot 10 40254 0 0
+svg 4 0 0 0
+css 274 4283626 0 0
+woff2 14 702296 0 0
+ttf 5 58480 0 0
+js 195 7307528 0 0
+gif 13 25428 0 0
+html 236 4913351 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+winxp 3 3
+linuxandroid 220 18
+Unknown 47 43
+macosx 81 11
+linux 45 14
+win10 703 171
+win7 4 4
+ios_iphone 162 14
+winnt 2 2
+macosx9 1 1
+win8 1 1
+macosx11 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 55
+chrome96.0.4664.55 39 1
+chrome89.0.4389.114 1 1
+chrome91.0.4472.114 2 2
+chrome88.0.4472.114 1 1
+chrome71.0.3624.88 1 1
+chrome15.0.874.106 1 1
+firefox60.0 2 2
+Unknown 41 37
+chrome32.0.2019.89 1 1
+opera80.0.4170.63 32 1
+opera8.50 1 1
+safari 113 7
+firefox45.0 1 1
+safari15.0 33 1
+chrome99.0.4844.84 1 1
+chrome100.0.4896.88 1 1
+chrome83.0.4103.97 7 7
+safari10.0 4 4
+chrome90.0.4430.72 3 3
+firefox73.0 1 1
+chrome99.0.4844.74 2 2
+firefox55.0 1 1
+chrome58.0.3029.110 2 1
+chrome79.0.3945.130 2 2
+chrome96.0.4664.45 32 2
+chrome 1 1
+chrome100.0.4896.127 62 6
+firefox47.0 1 1
+chrome49.0.2623.87 1 1
+chrome61.0.3163.128 162 8
+chrome79.0.3945.88 1 1
+safari11.0 44 2
+safari15.4 1 1
+chrome78.0.3904.108 13 12
+chrome83.0.4103.116 6 6
+chrome80.0.3987.149 27 27
+chrome72.0.3626.121 2 2
+chrome94.0.4606.61 11 11
+firefox91.0 26 0
+chrome99.0.4844.51 1 1
+firefox83.0 1 1
+firefox99.0 55 4
+chrome35.0.1916.47 1 1
+chrome90.0.4430.93 1 1
+chrome83.0.4103.106 52 20
+chrome84.0.4147.89 3 3
+chrome76.0.3809.71 58 5
+chrome76.0.3888.88 1 1
+firefox57.0 1 1
+chrome75.0.3765.0 51 3
+chrome95.0.4638.69 123 10
+mozilla 7 7
+chrome76.0.3809.132 4 4
+edge12 227 58
+chrome60.0.3112.101 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Go-http-client/1.1 20220412132810
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220428135744
+fasthttp 20220417013105
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220430183108
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Go-http-client/1.1 20220412132810
+fasthttp 20220417013105
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220430183108
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 187 443
+From1 2 2
+From2 4 4
+From3 2 2
+From4 88 819
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+baidu 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://md-in-62.webhostbox.net:2083 1 1
+http://216.10.252.82:80 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+409 14 1162
+404 297 146161
+406 59 12430
+400 1 52
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 32
+/css/ytplayer/raster_dot.png 1 https://meenamparkvidhyalaya.com/css/css-plugin-collections.css
+//cms/wp-includes/wlwmanifest.xml 11 -
+//site/wp-includes/wlwmanifest.xml 11 -
+/css/ytplayer/raster.png 1 https://meenamparkvidhyalaya.com/css/css-plugin-collections.css
+/css/ytplayer/ytp-regular.ttf 2 -
+//2020/wp-includes/wlwmanifest.xml 1 -
+//2019/wp-includes/wlwmanifest.xml 11 -
+//wordpress/wp-includes/wlwmanifest.xml 11 -
+//test/wp-includes/wlwmanifest.xml 11 -
+/archivarix.cms.php 1 -
+/color-switcher/style-switcher.html 26 https://www.meenamparkvidhyalaya.com/
+/.git/config 3 -
+//wp2/wp-includes/wlwmanifest.xml 11 -
+//shop/wp-includes/wlwmanifest.xml 11 -
+//blog/wp-includes/wlwmanifest.xml 11 -
+/css/ytplayer/raster_dot@2x.png 1 https://meenamparkvidhyalaya.com/css/css-plugin-collections.css
+//website/wp-includes/wlwmanifest.xml 11 -
+//media/wp-includes/wlwmanifest.xml 10 -
+/ajax-load/bootstrap-parent-modal.html 25 https://www.meenamparkvidhyalaya.com/
+//web/wp-includes/wlwmanifest.xml 11 -
+//2018/wp-includes/wlwmanifest.xml 10 -
+/css/ytplayer/raster@2x.png 1 https://meenamparkvidhyalaya.com/css/css-plugin-collections.css
+/humans.txt 1 http://meenamparkvidhyalaya.com/humans.txt
+/sitemap.xml 2 -
+//sito/wp-includes/wlwmanifest.xml 11 -
+/.DS_Store 4 -
+/robots.txt 52 -
+/ads.txt 1 http://meenamparkvidhyalaya.com/ads.txt
+/aaa9 1 -
+//wp1/wp-includes/wlwmanifest.xml 11 -
+//wp/wp-includes/wlwmanifest.xml 11 -
+//news/wp-includes/wlwmanifest.xml 11 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 175
+139.99.61.171 85 254 1857423 20220408135048
+54.227.32.154 10 260 22775980 20220430093956
+54.237.250.240 7 7 93275 20220430093930
+185.59.221.226 6 6 79950 20220407071038
+115.110.71.146 6 62 3399503 20220427080324
+89.175.184.250 4 4 193844 20220407065812
+42.236.10.106 4 57 3400168 20220428024002
+42.106.185.237 4 55 3390595 20220407070203
+65.154.226.169 4 57 3400168 20220428201544
+95.177.174.212 4 4 193844 20220423075419
+167.172.79.222 3 3 145383 20220429061310
+171.13.14.48 3 51 3164610 20220424114210
+162.142.125.213 3 3 39975 20220428134011
+209.145.55.127 3 3 39975 20220412150730
+58.20.36.88 3 3 58810 20220428163207
+58.33.94.134 2 2 26650 20220430181333
+205.210.31.135 2 2 96922 20220427103356
+18.206.55.48 2 2 26650 20220428163527
+205.210.31.32 2 2 96922 20220430183108
+123.60.83.110 2 2 26650 20220430074638
+20.53.236.82 2 2 96922 20220430130443
+95.105.124.92 2 2 26650 20220411151114
+167.248.133.119 2 2 26650 20220428135744
+205.210.31.34 2 2 96922 20220424043326
+120.35.11.210 2 2 26650 20220430223102
+203.212.122.179 1 1 0 20220409022836
+60.108.217.120 1 1 0 20220420155022
+42.236.10.114 0 53 3038118 
+188.241.15.76 1 5 122691 20220410071035
+168.151.121.52 0 3 91382 
+188.212.136.224 1 5 122691 20220408071020
+152.39.168.139 0 1 272292 
+119.202.67.80 1 1 13325 20220413061131
+45.129.18.54 1 1 0 20220429155328
+205.210.31.134 1 1 48461 20220424144634
+152.39.220.223 0 14 468139 
+20.70.171.184 1 1 48461 20220428045807
+138.186.141.157 1 1 48461 20220407070204
+119.13.192.60 0 1 9639 
+54.212.84.149 1 1 13325 20220423173235
+176.53.223.77 1 1 13325 20220409060336
+176.53.223.153 1 1 13325 20220408220051
+198.235.24.30 1 1 48461 20220418224816
+178.33.144.178 1 1 13325 20220407070223
+205.210.31.11 1 1 48461 20220421182245
+20.40.96.208 1 1 48461 20220428055213
+52.25.254.239 1 1 13325 20220419171243
+66.56.78.204 0 1 10272 
+80.44.20.108 1 1 48461 20220407070202
+58.33.94.133 1 1 13325 20220430060224
+42.236.10.84 0 1 108492 
+74.85.209.184 1 5 68306 20220408080203
+176.53.219.39 1 1 13325 20220408143331
+23.88.45.220 1 1 13325 20220428202250
+168.151.174.109 1 9 580829 20220411122945
+45.90.62.202 1 1 13325 20220410212347
+198.235.24.5 1 1 48461 20220420063954
+167.99.127.156 1 1 13325 20220429124840
+205.210.31.14 1 1 48461 20220427031348
+59.9.26.190 1 1 13325 20220428052837
+34.210.88.193 1 1 13325 20220423173304
+121.184.96.59 1 1 0 20220428052835
+116.212.191.97 0 1 44752 
+180.149.9.16 0 3 15024 
+181.110.62.153 1 1 0 20220414150230
+8.218.69.175 1 2 13872 20220415112140
+91.90.121.254 1 1 13325 20220412033918
+167.248.133.44 1 1 13325 20220407140358
+188.212.142.126 0 1 34840 
+206.204.62.217 0 1 18339 
+216.19.220.218 0 1 1459596 
+180.149.19.135 0 1 229948 
+205.210.31.159 1 1 48461 20220421045620
+198.235.24.147 1 1 48461 20220419165411
+205.210.31.156 1 1 48461 20220423112202
+152.39.150.111 1 9 96526 20220421071104
+34.77.162.13 1 1 48461 20220412004233
+188.241.207.170 0 1 2506 
+168.151.123.43 0 5 180728 
+188.119.118.249 0 6 153934 
+188.240.49.75 0 1 64657 
+185.189.113.44 1 1 48461 20220408050844
+185.229.250.72 0 1 29336 
+24.239.34.76 1 1 13325 20220411041608
+34.126.168.81 1 1 48461 20220428023125
+205.210.31.140 1 1 48461 20220423130741
+23.229.42.233 1 1 13325 20220419043328
+8.218.14.15 1 2 13872 20220414082845
+91.230.107.202 1 1 13325 20220423063241
+205.210.31.12 1 1 48461 20220423153009
+109.249.181.99 1 1 48461 20220407070202
+75.101.181.255 0 1 108492 
+8.210.48.144 1 2 13872 20220417013100
+198.240.126.166 0 1 586 
+185.181.60.12 1 1 13325 20220428195915
+205.237.94.239 0 1 1580 
+94.176.91.68 1 3 302819 20220411122945
+198.46.251.80 1 1 13325 20220427013106
+198.235.24.20 1 1 48461 20220415044322
+162.43.234.127 1 6 94454 20220411122939
+198.235.24.23 1 1 48461 20220423093127
+54.200.252.167 1 1 13325 20220419171416
+45.90.62.173 1 1 13325 20220409140157
+206.204.15.214 0 1 20209 
+34.222.122.68 1 1 13325 20220420171859
+168.151.125.47 1 5 403940 20220407072344
+199.244.60.51 0 3 16654 
+137.184.140.204 1 1 13325 20220407070135
+198.235.24.18 1 1 48461 20220422023151
+58.189.96.185 1 1 0 20220419164830
+198.235.24.153 1 1 48461 20220421141736
+164.70.157.39 1 1 0 20220410212342
+45.90.62.176 1 1 13325 20220409215854
+42.236.10.78 1 49 3039430 20220428023738
+198.235.24.35 1 1 48461 20220424114458
+192.3.142.54 1 1 13325 20220410173139
+168.151.115.169 0 5 367952 
+93.158.91.252 1 1 13325 20220430032358
+168.151.175.255 0 5 323238 
+52.128.4.119 1 1 13325 20220425101654
+167.160.54.214 0 1 18844 
+198.235.24.138 1 1 48461 20220425022457
+104.192.108.9 1 43 2876556 20220413100203
+34.96.130.0 1 1 48461 20220412103404
+42.236.10.75 1 1 13325 20220428023801
+206.204.45.110 1 12 471217 20220410071053
+47.243.15.50 1 2 13872 20220415112142
+221.130.37.170 1 1 48461 20220407143637
+167.71.235.30 1 1 13325 20220407070057
+20.213.112.13 1 1 48461 20220429144004
+123.233.115.26 1 1 13325 20220429235803
+176.53.220.234 1 1 13325 20220408143423
+119.13.197.19 0 1 24017 
+211.185.46.19 1 1 0 20220430093923
+119.13.206.70 0 4 96900 
+176.53.221.225 1 1 13325 20220411222745
+188.212.136.78 0 1 27554 
+78.138.50.98 0 1 1580 
+98.114.87.223 1 1 13325 20220418033501
+161.129.165.33 1 7 369518 20220407072338
+168.151.97.15 0 2 19827 
+198.235.24.6 1 1 48461 20220416035748
+54.78.37.115 1 1 13325 20220407093934
+149.19.255.207 0 7 167484 
+51.104.39.111 2 2 96922 20220428104918
+119.13.206.234 0 3 13987 
+205.210.31.158 1 1 48461 20220422020153
+188.119.117.15 2 8 210718 20220408080215
+107.174.148.210 1 1 13325 20220410200415
+58.227.90.128 1 1 0 20220409002118
+198.240.101.144 0 5 87918 
+45.90.61.221 1 1 13325 20220408231002
+152.39.226.148 0 1 34840 
+42.236.10.117 2 2 26650 20220428023929
+94.176.90.97 1 2 167048 20220407072344
+54.172.90.51 1 1 48461 20220409004043
+45.90.61.2 1 1 13325 20220410060414
+203.78.170.71 0 4 44664 
+104.198.59.164 1 1 13325 20220413023207
+93.114.9.91 0 2 39530 
+54.218.142.9 1 1 13325 20220420171824
+82.223.29.20 1 1 13325 20220414045623
+34.219.222.91 1 1 13325 20220419171457
+45.142.96.121 0 1 44752 
+205.210.31.31 1 1 48461 20220427100719
+84.39.114.92 1 1 13325 20220412065956
+89.108.88.240 1 1 0 20220427224514
+152.39.244.47 0 1 2216 
+205.210.31.139 2 2 96922 20220424150959
+45.90.62.128 1 1 13325 20220409223341
+188.241.0.143 0 1 9639 
+206.189.146.90 2 2 96922 20220428133502
+196.196.216.200 1 1 48461 20220407070202
+162.43.239.251 0 2 35426 
+205.210.31.22 1 1 48461 20220423141055
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20220407 28 108 5469470 17
+20220408 95 310 3532965 10
+20220409 11 62 4792099 11
+20220410 9 57 3128485 9
+20220411 6 35 2939970 6
+20220412 7 7 163547 6
+20220413 3 45 2903206 3
+20220414 5 31 2318120 5
+20220415 4 6 124666 4
+20220416 1 1 48461 1
+20220417 1 2 13872 1
+20220418 2 2 61786 2
+20220419 8 33 2392684 8
+20220420 6 31 2366034 6
+20220421 4 35 913382 4
+20220422 2 2 96922 2
+20220423 14 14 573046 11
+20220424 8 56 3406915 6
+20220425 2 2 61786 2
+20220427 14 95 5897595 9
+20220428 34 292 18099509 22
+20220429 8 8 233819 7
+20220430 11 36 2467795 11
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30mn-1h 1
+0s-30s 161
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 37
+/ 181 4535765 155 150
+/fonts/fontawesome-webfont3295.woff2 11 666240 4 4
+/fonts/Pe-icon-7-strokebb1d.woff 10 527004 3 5
+/mv-contact.html 6 96505 0 1
+/mv-about.html 5 80832 1 0
+/mv-login.html 4 22842 0 0
+/mv-facilites.html 4 57225 0 0
+/css/fonts/flexslider-icond41d.html 4 945 0 0
+/css/bxslider/images/arrow-left.html 4 945 0 1
+/css/owl.video.play.html 4 945 0 0
+/js/revolution-slider/fonts/revicons/revicons90c6.woff 4 22608 0 2
+/academic.html 4 59412 0 0
+/fonts/glyphicons-halflings-regular.woff2 3 36056 0 0
+/fonts/glyphicons-halflings-regular.eot 3 40254 0 0
+/fonts/glyphicons-halflings-regular.woff 3 46848 0 0
+/mv-gallery.html 2 30102 0 0
+/css/bxslider/images/bx_loader.html 2 315 0 0
+/css/bxslider/images/arrow-right.html 2 315 0 0
+/js/revolution-slider/css/closedhand.html 2 325 0 0
+/css/fonts/flexslider-icon-3.html 2 315 0 0
+/css/fonts/flexslider-icon.html 2 315 0 0
+/css/fonts/flexslider-icon-2.html 2 315 0 0
+/fonts/Pe-icon-7-strokebb1d.ttf 2 58480 0 0
+/mv-events.html 2 25294 0 0
+/js/revolution-slider/css/openhand.html 2 324 0 0
+/js/revolution-slider/fonts/revicons/revicons90c6.ttf 1 0 0 0
+/fonts/fontawesome-webfont3295.eot 1 0 0 0
+/fonts/glyphicons-halflings-regulard41d.eot 1 0 0 0
+/fonts/fontawesome-webfont3295.woff 1 0 0 0
+/js/revolution-slider/fonts/revicons/revicons90c6.eot 1 0 0 0
+/fonts/Pe-icon-7-strokebb1d.eot 1 0 0 0
+/css/ytplayer/ytp-regular.eot 1 0 0 0
+/fonts/fontawesome-webfont3295.ttf 1 0 0 0
+/fonts/glyphicons-halflings-regular.ttf 1 0 0 0
+/fonts/fontawesome-webfontd41d.eot 1 0 0 0
+/fonts/Pe-icon-7-stroked41d.eot 1 0 0 0
+/css/fonts/flexslider-icon-4.html 2 315 0 0
+END_SIDER

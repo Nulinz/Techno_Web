@@ -1,0 +1,735 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202406 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/awstats.readersmenu.com.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2024                
+POS_TIME 2703                
+POS_VISITOR 14831               
+POS_DAY 21816               
+POS_DOMAIN 3455                
+POS_LOGIN 3976                
+POS_ROBOT 4131                
+POS_WORMS 4547                
+POS_EMAILSENDER 4678                
+POS_EMAILRECEIVER 4821                
+POS_SESSION 22542               
+POS_SIDER 22720               
+POS_FILETYPES 4956                
+POS_DOWNLOADS 5112                
+POS_OS 5160                
+POS_BROWSER 5385                
+POS_SCREENSIZE 6430                
+POS_UNKNOWNREFERER 6504                
+POS_UNKNOWNREFERERBROWSER 7378                
+POS_ORIGIN 7950                
+POS_SEREFERRALS 8086                
+POS_PAGEREFS 8230                
+POS_SEARCHWORDS 8378                
+POS_KEYWORDS 8530                
+POS_MISC 2366                
+POS_ERRORS 8589                
+POS_CLUSTER 3832                
+POS_SIDER_404 8716                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240701023347 20 4692 20043222664427
+FirstTime 20240601032549
+LastTime 20240630195202
+LastUpdate 20240701190340 20 0 19 0 0
+TotalVisits 199                 
+TotalUnique 177                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 180                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+AddToFavourites 0 24 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 28851 12 18 95912
+1 9 9 85345 8 28 63715
+2 11 11 91338 7 29 107156
+3 12 12 132066 36 40 28245
+4 17 20 192022 21 37 78155
+5 5 5 26830 9 24 47446
+6 8 12 120745 3 6 64242
+7 17 17 122097 17 28 45736
+8 4 4 21932 2 6 12100
+9 8 19 938349 9 29 81428
+10 13 24 985993 2 9 17421
+11 6 6 36810 20 25 35277
+12 14 26 1270363 4 21 183588
+13 12 12 168315 34 45 23580
+14 12 12 128247 235 241 165039
+15 10 10 89342 16 21 49710
+16 7 8 78876 11 27 108104
+17 11 11 83221 11 22 116835
+18 8 8 44998 2 4 48816
+19 8 8 90012 22 27 81496
+20 19 31 1389439 10 20 18222
+21 6 6 30029 8 14 120155
+22 16 20 233428 43 59 118982
+23 12 12 108380 6 9 21874
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 23
+us 123 173 5376302
+cn 39 42 315549
+jp 22 22 126410
+ca 11 11 157750
+eu 6 6 30029
+au 6 6 99714
+it 4 4 19940
+se 4 4 21804
+ru 4 4 18666
+be 4 4 21997
+de 4 4 30089
+gb 4 4 30095
+bg 3 3 41007
+lu 3 3 50506
+ro 2 2 10997
+nl 2 2 11770
+in 2 2 32732
+es 1 5 71443
+fr 1 1 5943
+gr 1 1 4221
+pa 1 1 5943
+tw 1 1 5943
+zz 0 1 8178
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+Googlebot/ 76 823606 20240630170541 0
+no_user_agent 14 218177 20240629090244 0
+Go\-http\-client/ 8 17226 20240630170327 0
+curl 3 35156 20240617191604 0
+bot[\s_+:,\.\;\/\\-] 2 11884 20240614115608 0
+Applebot/ 1 5165 20240609044335 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 0 20240621073440 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+js 28 488025 0 0
+jpg 26 3676484 0 0
+php 26 194446 0 0
+css 4 197092 0 0
+html 222 1940981 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+androidkitkat 1 1
+Unknown 58 46
+winnt 3 3
+win7 11 11
+macosx 9 5
+ios_iphone 48 48
+win10 97 81
+android 1 1
+macosx15 28 28
+linux 19 15
+win2000 1 1
+android10 30 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 48
+chrome78.0.3904.108 22 22
+chrome106.0.0.0 3 3
+firefox122.0 2 2
+chrome71.0.3578.98 5 1
+chrome108.0.0.0 1 1
+chrome126.0.0.0 14 3
+chrome101.0.4951.67 1 1
+chrome95.0.4638.69 1 1
+chrome71.0.2623.112 2 2
+firefox108.0 4 4
+chrome58.0.3029.110 1 1
+chrome122.0.0.0 2 2
+chrome112.0.0.0 1 1
+chrome78.0.3927.88 1 1
+chrome120.0.0.0 3 3
+safari13.0.3 47 47
+chrome86.0.584 1 1
+chrome80.0.3987.162 1 1
+chrome55.0.2317 1 1
+chrome87.0.4280.88 5 1
+chrome91.0.4472.114 3 3
+firefox115 1 1
+chrome114.0.0.0 9 9
+chrome124.0.0.0 15 12
+chrome61.0.817 1 1
+chrome105.0.0.0 1 1
+firefox114.0 1 1
+chrome50.0.1089 1 1
+chrome125.0.0.0 31 8
+Unknown 24 24
+chrome115.0.0.0 1 1
+firefox125.0 1 1
+chrome99.0.4844.84 1 1
+chrome73.0.3683.105 1 0
+android 1 1
+chrome100.0.4896.60 12 12
+chrome75.0.3770.100 2 2
+chrome74.0.3729.169 5 5
+chrome88.0.4240.193 3 3
+firefox118.0 1 1
+mozilla 34 22
+chrome79.0.3825.88 1 1
+chrome100.0.4896.127 5 5
+chrome121.0.0.0 21 21
+chrome96.0.4664.110 1 1
+chrome83.0.4103.97 7 7
+safari17.1.2 1 1
+firefox98.0 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+got_(https://github.com/sindresorhus/got) 20240624013058
+NetAPI_v1 20240618002319
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240620201500
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240625222708
+Mozilla/5.0_(compatible;_ips-agent) 20240625143410
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240629033836
+Python/3.8_aiohttp/3.8.4 20240630102604
+panscient.com 20240629202934
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240623014421
+Chrome 20240601193654
+GlobalWebSearchx 20240624223647
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+NetAPI_v1 20240618002319
+got_(https://github.com/sindresorhus/got) 20240624013058
+GlobalWebSearchx 20240624223647
+Chrome 20240601193654
+Python/3.8_aiohttp/3.8.4 20240630102604
+panscient.com 20240629202934
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240629033836
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 231 235
+From1 0 0
+From2 0 0
+From3 0 0
+From4 17 71
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+409 27 2241
+403 2 492
+404 461 221063
+406 160 36160
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 177
+/about.php 2 -
+/wp-content/themes/seotheme/mar.php 2 -
+/assets/js/plugins.js 8 http://readersmenu.com/refund.php
+/alfanew.php7 2 -
+/img/about.php 2 -
+/wp-content/about.php 2 -
+/404.php 2 -
+/wp-content/updraft/about.php 2 -
+/images/cloud.php 2 -
+/images/about.php 2 -
+/dropdown.php 2 -
+/wp-content/updates.php 2 -
+/cgi-bin/xmrlpc.php 2 -
+/wp-includes/blocks/about.php 2 -
+/ads.txt 3 -
+/wp-content/plugins/seoplugins/db.php 2 -
+/wp-includes/about.php 2 -
+/privacy-policies.html 1 -
+/assets/js/main.js 7 http://readersmenu.com/refund.php
+/wp-content/themes/bricks/assets/js/feedback.min.js 1 -
+/wp-admin/install.php 2 -
+/about.php7 2 -
+/wp-includes/Requests/about.php 2 -
+/wp-content/blogs.dir/about.php 2 -
+/wp-includes/style-engine/about.php 2 -
+/axis2/axis2-admin/ 1 -
+/img/cloud.php 2 -
+/alfa-rex.php7 2 -
+/pages/sign-up.html 1 -
+/wp-admin/js/widgets/cloud.php 2 -
+/wp-admin/cloud.php 2 -
+/wp-includes/pomo/about.php 2 -
+/wp-content/plugins/uncode-core/includes/assets/js/uncode-featured-images.js 1 -
+/wp-content/themes/pridmag/db.php 2 -
+/wp-content/fw.php 2 -
+/wp-admin/user/cloud.php 2 -
+/wp-admin/user/xmrlpc.php 2 -
+/pages/dashboard.html 1 -
+/wp-content/banners/about.php 2 -
+/img/xmrlpc.php 2 -
+/humans.txt 1 -
+/css/subscription_style.css 7 http://readersmenu.com/subscription.php
+/assets/css/themify-icons-min.css 9 http://readersmenu.com/terms&condition.php
+/wp-admin/images/about.php 2 -
+/wp-includes.bak/html-api/about.php 2 -
+/wp-admin/network/xmrlpc.php 2 -
+/robots.txt 47 -
+/assets/js/bootstrap.min.js 10 http://readersmenu.com/refund.php
+/wp-consar.php 2 -
+/wp-admin/css/colors/cloud.php 2 -
+/wp-includes/Text/about.php 2 -
+/wp-admin/css/about.php 2 -
+/.well-known/pki-validation/xmrlpc.php 2 -
+/wp-admin/setup-config.php 2 -
+/security.txt 1 -
+/up.php 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/wsoyanz.php 2 -
+/xleet.php 2 -
+/wp-admin/xmrlpc.php 2 -
+/wp-includes/ID3/license.txt 1 -
+/cgi-bin/about.php 2 -
+/cgi-bin/php-cgi.exe 1 -
+/assets/js/vandor/modernizr-3.5.0.min.js 10 http://readersmenu.com/refund.php
+/.git/HEAD 1 -
+/libraries/phpmailer/updates.php 2 -
+/wp-content/plugins/seoo/wsoyanz.php 2 -
+/wp-content/gallery/about.php 2 -
+/.well-known/about.php 2 -
+/ws.php7 2 -
+/about-us.html 1 -
+/wp-admin/images/xmrlpc.php 2 -
+/.well-known/acme-challenge/xmrlpc.php 2 -
+/css/xmrlpc.php 2 -
+/wp-admin/network/cloud.php 2 -
+/xmrlpc.php 2 -
+/terms&condition.html 1 -
+/wp-admin/includes/xmrlpc.php 2 -
+/assets/css/reset.css 8 http://readersmenu.com/terms&condition.php
+/wp-content/languages/about.php 2 -
+/php-cgi/php-cgi.exe 1 -
+/wp-admin/css/colors/xmrlpc.php 2 -
+/wp-admin/repeater.php 2 -
+/wp-content/repeater.php 2 -
+/css/cloud.php 2 -
+/wp-admin/Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php%20=%20%3E%3E%20shell%20no%20work 2 -
+/assets/css/style.css 7 http://readersmenu.com/refund.php
+/wp-p.php7 2 -
+/ajax-actions.php 2 -
+/wp-admin/css/colors/blue/cloud.php 2 -
+/wp-admin/css/colors/coffee/xmrlpc.php 2 -
+/wp-includes/SimplePie/about.php 2 -
+/sitemap.xml 6 -
+/xl.php 2 -
+/cloud.php 2 -
+/updates.php 2 -
+/wp-content/plugins/seoplugins/mar.php 2 -
+/wp-content/themes/xstore/js/portfolio.min.js 1 -
+/cgi-bin/cloud.php 2 -
+/yanz.php 2 -
+/images/xmrlpc.php 2 -
+/wp-content/themes/about.php 2 -
+/403.php 1 -
+/axis2/ 1 -
+/wp-admin/js/about.php 4 -
+/.well-known/pki-validation/cloud.php 2 -
+/wp-json/ 1 -
+/wp-content/upgrade-temp-backup/about.php 2 -
+/wp-includes/block-patterns/about.php 2 -
+/wp-content/plugins/Cache/Cache.php 2 -
+/alfanew.php 2 -
+/wp-includes/images/about.php 2 -
+/admin-post.php 2 -
+/index.html 2 -
+/wp-includes/repeater.php 2 -
+/wp-content/Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php%20=%20%3E%3E%20shell%20no%20work 2 -
+/wp-content/plugins/linkpreview/db.php 2 -
+/wp-includes/ID3/about.php 2 -
+/sym.php 2 -
+/libraries/vendor/updates.php 2 -
+/libraries/legacy/updates.php 2 -
+/wp-admin/images/index.php 2 -
+/.well-known/acme-challenge/cloud.php 4 -
+/new 1 -
+/wp-admin/css/colors/coffee/cloud.php 2 -
+/assets/css/plugins.css 11 http://readersmenu.com/terms&condition.php
+/wp-content/plugins/acf-frontend-form-element/assets/js/try-pro-min.js 1 -
+/repeater.php 2 -
+/wp-includes/Requests/Text/admin.php 2 -
+/cache-compat.php 2 -
+/axis2-admin/ 1 -
+/wp-content/plugins/ht-mega-for-elementor/assets/css/htbbootstrap.css 1 -
+/wp-admin/images/cloud.php 2 -
+/wp-admin/ajax-actions.php 2 -
+/wp-includes/IXR/about.php 2 -
+/adminfuns.php7 2 -
+/.well-known/pki-validation/about.php 2 -
+/sym403.php 2 -
+/theme/v2board/assets/umi.css 2 -
+/admin/ 1 -
+/wp-admin/includes/about.php 2 -
+/.git/config 6 -
+/wp-includes/widgets/about.php 2 -
+/wp-admin/includes/cloud.php 2 -
+/wp.php 2 -
+/wp-admin/maint/maint/ajax-actions.php 2 -
+/wp-includes/rest-api/about.php 2 -
+/wordpress 1 -
+/feed/ 1 -
+/.well-known/security.txt 1 -
+/archivarix.cms.php 2 http://readersmenu.com/archivarix.cms.php
+/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js 2 -
+/wp-ver.php 1 www.google.com
+/symlink.php 2 -
+/alfa-rex2.php7 2 -
+/assets/css/style_sheet.css 1 http://readersmenu.com/refund.php
+/wp-admin/js/widgets/xmrlpc.php 2 -
+/assets/js/vandor/jquery-3.2.1.min.js 8 http://readersmenu.com/terms&condition.php
+/css/aboutus_style.css 7 http://readersmenu.com/aboutus.php
+/avaa.php 2 -
+/wp-admin/css/colors/blue/xmrlpc.php 2 -
+/.DS_Store 2 -
+/admin.php 2 -
+/wp-admin/js/widgets/about.php7 2 -
+/0byte.php 2 -
+/alfanew2.php7 2 -
+/wp-admin/css/index.php 2 -
+/wp-content/themes/seotheme/db.php 2 -
+/Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php%20=%20%3E%3E%20shell%20no%20work 2 -
+/wp-admin/dropdown.php 2 -
+/wp-content/plugins/seoo/wsoyanz1.php 2 -
+/ebs.php7 2 -
+/assets/css/bootstrap.min.css 9 http://readersmenu.com/refund.php
+/wp-includes/customize/about.php 2 -
+/assets/js/popper.min.js 5 http://readersmenu.com/terms&condition.php
+/wp-admin/css/colors/index.php 2 -
+/wp 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 180
+54.88.179.33 8 8 127108 20240622033932
+149.56.160.170 7 7 106285 20240620201438
+178.62.82.141 6 6 30029 20240627211102
+157.254.221.165 4 4 22274 20240626234738
+157.49.219.90 4 16 1192781 20240607125716
+34.0.206.151 4 7 73297 20240623043530
+152.58.252.186 4 15 914999 20240612104437
+212.102.57.67 4 4 19940 20240610071755
+139.59.42.168 3 3 48504 20240610130534
+64.227.135.24 3 3 50256 20240611150955
+46.17.174.173 3 3 50506 20240628131722
+72.13.62.26 3 3 20876 20240625143410
+139.59.91.76 3 3 51210 20240627130206
+104.248.153.196 3 3 51210 20240623223906
+43.135.149.154 3 3 17480 20240623051417
+91.92.247.203 3 3 41007 20240601032551
+159.65.147.126 3 3 51210 20240630195202
+45.43.68.166 2 2 5943 20240629114422
+36.134.147.75 2 2 11108 20240629194125
+115.231.78.4 2 2 32513 20240625140109
+45.145.41.146 2 2 32732 20240614223035
+84.239.47.137 2 2 10997 20240629202934
+43.130.62.164 2 2 11886 20240625045532
+43.163.3.58 2 2 11886 20240621171054
+157.49.244.186 2 13 907558 20240627091034
+125.94.144.102 1 1 5937 20240617154948
+178.254.12.183 1 1 5165 20240608220710
+162.142.125.210 1 1 5943 20240623151416
+43.134.190.89 1 1 5943 20240626182353
+134.122.108.138 1 1 5912 20240613062830
+167.172.49.155 1 1 5943 20240627061000
+182.40.104.255 1 1 5943 20240629082908
+149.56.160.146 1 13 1181587 20240620201457
+43.159.129.209 1 1 5943 20240625163221
+135.148.195.6 1 1 4179 20240603223026
+178.254.29.124 1 1 5937 20240617233604
+113.219.218.197 1 1 5165 20240609061723
+199.45.155.104 1 1 5943 20240619121219
+5.133.192.184 1 1 5937 20240616025812
+147.185.132.243 1 1 17081 20240616231611
+24.144.92.197 1 1 5937 20240616103911
+93.158.90.68 1 1 5943 20240621171832
+185.12.251.124 1 1 4338 20240605011941
+145.220.91.19 1 1 5827 20240612034846
+43.133.77.208 1 1 5937 20240618073548
+128.90.170.5 1 1 5937 20240618091745
+87.236.176.191 1 1 5943 20240619152401
+157.49.239.240 1 1 5943 20240627103932
+182.42.111.156 1 1 4221 20240602044755
+106.75.101.188 1 1 5943 20240630170321
+52.80.187.17 1 1 5937 20240617160032
+49.51.179.103 1 1 4366 20240607121323
+159.89.118.18 1 1 4338 20240605073543
+36.99.136.128 1 3 44249 20240613222119
+147.185.132.88 1 1 17070 20240623011241
+135.148.195.10 1 1 5943 20240625150707
+188.166.86.78 1 1 5943 20240623100621
+51.89.151.128 1 1 5165 20240609174314
+35.90.5.232 1 1 5943 20240621180836
+163.5.160.222 1 1 5943 20240625174316
+50.114.45.65 1 1 17070 20240629141318
+129.226.158.26 1 1 4270 20240606230942
+43.130.39.101 1 1 5912 20240613012355
+205.169.39.25 1 1 5943 20240630120215
+52.81.60.5 1 1 5600 20240611053957
+65.154.226.170 1 1 5165 20240609162558
+135.148.195.8 1 1 5827 20240611145637
+54.236.58.84 1 1 17070 20240624233704
+117.62.235.53 1 1 5766 20240614123832
+146.190.147.47 1 1 5943 20240626153235
+147.185.132.90 1 1 17081 20240618013257
+52.201.248.92 0 1 38059 
+182.42.104.32 1 1 4358 20240606102643
+199.45.155.89 1 1 5943 20240625222708
+199.244.88.226 1 1 5943 20240626164049
+43.163.6.124 1 1 5943 20240624044342
+147.185.132.27 1 1 17070 20240625203317
+199.45.155.84 1 1 5943 20240623023253
+198.235.24.255 1 1 16752 20240612074418
+46.228.199.158 1 1 5937 20240616111709
+162.55.132.97 1 1 17081 20240618002319
+185.77.220.229 1 1 6045 20240614090149
+64.64.123.38 2 2 30886 20240610032821
+138.197.79.55 1 1 5937 20240617080321
+43.130.32.224 1 1 5943 20240620040620
+174.138.95.110 1 1 4322 20240607095435
+207.228.53.139 1 1 4221 20240601193654
+43.134.170.46 2 2 11210 20240614014716
+58.53.218.148 2 2 33779 20240612135231
+198.235.24.169 1 1 17070 20240629033836
+138.68.143.143 1 1 5165 20240609055254
+123.60.68.42 2 2 11988 20240629173825
+34.214.126.202 1 1 5943 20240627182003
+42.83.147.56 2 2 11108 20240625142453
+128.90.170.25 1 1 5943 20240623023355
+114.96.103.33 1 1 6046 20240613123129
+87.236.176.89 1 1 5811 20240615074223
+134.122.63.24 1 1 5943 20240628001513
+143.198.1.154 1 1 6026 20240612130331
+36.99.136.137 1 1 6045 20240613222118
+147.185.132.126 1 1 17070 20240629011704
+147.182.158.203 1 1 5943 20240625072436
+198.235.24.124 1 1 13957 20240604042950
+111.172.249.49 1 1 5827 20240612004611
+198.235.24.183 1 1 16511 20240614121839
+147.185.132.10 1 1 16291 20240611070836
+5.188.62.26 1 1 4179 20240604074730
+87.236.176.168 1 1 5943 20240623014421
+121.229.185.160 1 1 5943 20240626055326
+182.44.67.97 1 1 5937 20240616023508
+199.45.155.105 1 1 5943 20240620163717
+205.210.31.58 1 1 17070 20240627044810
+205.210.31.40 1 1 17081 20240616232743
+38.154.217.234 2 2 5943 20240629200612
+179.43.191.18 1 1 5943 20240624223647
+100.25.77.39 1 1 17070 20240626041958
+223.244.35.77 1 1 5943 20240622060819
+23.145.40.147 0 1 8178 
+42.83.147.54 2 2 11770 20240619011040
+51.89.228.207 1 1 5937 20240618114046
+110.166.71.39 1 1 5017 20240608020516
+164.92.185.52 1 1 5943 20240626020704
+36.99.136.129 0 1 20882 
+65.154.226.168 1 1 5827 20240612060246
+205.210.31.92 1 1 14888 20240607234744
+114.80.36.40 1 1 5943 20240623162803
+43.128.100.206 1 1 5943 20240621042331
+52.33.202.40 1 1 4343 20240605174656
+14.215.163.132 1 1 5966 20240615133601
+198.235.24.54 1 1 17070 20240621025039
+35.89.236.66 1 1 4221 20240601180352
+43.131.248.209 1 1 5943 20240618220707
+199.45.154.24 1 1 5811 20240615021126
+87.236.176.113 1 1 4300 20240604120923
+51.161.84.56 1 1 13050 20240623112915
+203.75.213.2 1 1 5943 20240630102604
+34.221.95.248 1 1 5017 20240607183012
+50.114.45.93 2 2 34140 20240629141316
+124.226.222.66 1 1 4179 20240604044246
+165.22.186.76 1 1 5165 20240609072922
+117.33.163.216 1 1 5021 20240608155618
+43.163.0.99 2 2 10340 20240612123056
+203.2.64.59 1 1 5827 20240611123454
+42.83.147.53 1 1 4179 20240603230359
+159.65.184.226 1 1 5943 20240630112332
+43.131.44.218 1 1 4221 20240603042311
+43.159.128.172 1 1 5943 20240628193010
+106.227.49.113 1 1 4358 20240605220540
+158.69.25.39 1 1 5943 20240628195958
+15.204.182.106 2 2 11874 20240617081822
+165.22.235.172 1 1 5943 20240627203715
+44.203.51.20 1 1 5943 20240624013058
+128.90.170.12 1 1 4179 20240604050636
+35.160.251.163 1 1 5943 20240619181541
+182.44.9.147 1 1 5943 20240628074619
+128.90.157.31 1 1 5943 20240628161725
+178.128.224.166 1 1 4221 20240603061920
+35.94.162.107 1 1 16752 20240611193645
+205.210.31.185 1 1 17070 20240618170108
+159.203.24.172 1 1 5943 20240623072055
+49.51.206.130 1 1 4115 20240601045057
+46.4.84.237 1 1 13050 20240623043531
+3.215.183.225 1 1 4269 20240605105402
+93.158.91.237 1 1 5586 20240610131444
+135.148.195.11 1 1 5937 20240618020403
+167.99.32.48 1 1 5943 20240625200002
+45.55.69.15 1 1 4221 20240602093544
+81.36.138.222 1 5 71443 20240604065126
+35.240.166.116 1 1 13975 20240606071714
+199.45.155.57 1 1 5548 20240610175820
+35.90.145.40 1 1 6045 20240613184311
+5.188.62.140 2 2 8442 20240603035813
+199.45.154.53 1 1 5937 20240617170300
+35.171.144.152 2 2 33436 20240621202056
+147.185.132.99 1 1 17070 20240621221629
+223.15.245.170 1 1 5943 20240627071919
+157.245.215.195 1 1 4115 20240601081323
+43.133.66.151 1 1 5937 20240617032224
+223.113.128.138 1 1 4221 20240603093043
+147.185.132.58 1 1 17070 20240619131001
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20240601 7 7 57679 5
+20240602 2 2 8442 2
+20240603 8 8 33819 7
+20240604 6 10 102237 6
+20240605 5 5 21646 5
+20240606 4 4 36578 4
+20240607 9 21 1235199 6
+20240608 4 5 68703 4
+20240609 8 8 51598 8
+20240610 13 13 121229 7
+20240611 9 9 116844 7
+20240612 13 24 1000848 10
+20240613 6 10 103269 6
+20240614 9 9 105876 8
+20240615 4 4 33954 4
+20240616 7 7 63847 7
+20240617 8 8 47496 7
+20240618 8 8 80923 8
+20240619 7 7 63855 7
+20240620 10 22 1299758 4
+20240621 9 9 109122 9
+20240622 3 3 28956 3
+20240623 18 21 215221 13
+20240624 4 4 34899 4
+20240625 13 13 102560 11
+20240626 10 10 69059 7
+20240627 17 28 1035582 9
+20240628 6 6 46785 6
+20240629 14 14 126062 10
+20240630 7 7 74982 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+2mn-5mn 1
+30s-2mn 2
+0s-30s 195
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/ 220 1925834 197 189
+/aboutus.php 9 69474 2 4
+/index.php 4 33979 0 2
+/privacy_policy.php 4 53139 0 2
+/login.php 3 5866 0 1
+/subscription.php 3 8013 0 1
+/refund.php 2 8890 0 0
+/article.html 1 3736 0 0
+/terms&condition.php 1 15085 0 0
+/docs.html 1 11411 0 0
+END_SIDER

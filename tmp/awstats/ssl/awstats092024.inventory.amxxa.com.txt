@@ -1,0 +1,434 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202409 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.inventory.amxxa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2682                
+POS_VISITOR 17942               
+POS_DAY 19363               
+POS_DOMAIN 3318                
+POS_LOGIN 3621                
+POS_ROBOT 3776                
+POS_WORMS 4101                
+POS_EMAILSENDER 4232                
+POS_EMAILRECEIVER 4375                
+POS_SESSION 19795               
+POS_SIDER 19942               
+POS_FILETYPES 4510                
+POS_DOWNLOADS 4610                
+POS_OS 4658                
+POS_BROWSER 4824                
+POS_SCREENSIZE 5146                
+POS_UNKNOWNREFERER 5220                
+POS_UNKNOWNREFERERBROWSER 5878                
+POS_ORIGIN 6245                
+POS_SEREFERRALS 6378                
+POS_PAGEREFS 6522                
+POS_SEARCHWORDS 6670                
+POS_KEYWORDS 6822                
+POS_MISC 2346                
+POS_ERRORS 6881                
+POS_CLUSTER 3477                
+POS_SIDER_404 6992                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20241001145607 2 219 11943620851920
+FirstTime 0
+LastTime 20240930233610
+LastUpdate 20241001184509 2 0 1 0 0
+TotalVisits 36                  
+TotalUnique 32                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 36                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 1 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 2 10810 1 3 2347
+1 0 0 0 2 2 2347
+2 1 2 10810 4 12 9823
+3 3 5 23609 1 7 7111
+4 6 9 38397 6 43 17363
+5 3 5 23609 0 1 0
+6 1 2 10810 1 1 358
+7 1 1 1989 1 1 4963
+8 1 2 10810 0 0 0
+9 1 1 1989 3 24 19214
+10 2 2 6952 2 4 2931
+11 1 2 10810 0 0 0
+12 1 2 10810 0 4 358
+13 1 1 1989 19 33 21152
+14 2 3 15773 47 102 64576
+15 1 2 10810 8 15 10263
+16 1 2 10810 3 29 14837
+17 3 5 23609 91 97 34726
+18 1 2 10810 2 3 5321
+19 1 1 4963 0 0 0
+20 2 3 12799 1 15 6782
+21 3 5 23609 0 8 2148
+22 0 0 0 0 0 0
+23 2 3 15773 1 13 5708
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 17 29 142639
+cn 13 21 99399
+be 3 6 32430
+ca 2 2 9926
+in 2 2 3978
+gb 1 1 1989
+zz 1 1 1989
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+Googlebot/ 42 72438 20240930134233 0
+no_user_agent 6 29778 20240925091908 0
+bot[\s_+:,\.\;\/\\-] 2 3978 20240913040619 0
+bingbot/ 2 2128 20240928042738 0
+Googlebot\-Image/ 2 0 20240927185709 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+svg 23 202883 0 0
+html 39 89467 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+win7 1 1
+macosx 3 3
+macosx13 1 1
+win10 11 7
+android 1 1
+macosx15 18 10
+Unknown 26 15
+androidoreo 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 13
+chrome99.0.4859.172 1 1
+Unknown 3 3
+chrome71.0.2623.112 1 1
+chrome76.0.3809.111 1 1
+chrome101.0.4951.41 1 1
+sonyericsson 1 1
+chrome126.0.0.0 8 4
+chrome96.0.4664.110 16 8
+chrome87.0.4280.88 3 3
+chrome114.0.0.0 2 2
+chrome127.0.0.0 2 2
+chrome76.0.3809.100 1 1
+mozilla 22 11
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+SonyEricssonK550i/R1JD_Browser/NetFront/3.3_Profile/MIDP-2.0_Configuration/CLDC-1.1 20240919072033
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240915174715
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240921142734
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240930005132
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240921142734
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 33 52
+From1 0 0
+From2 0 0
+From3 0 0
+From4 6 10
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 2 268
+406 2 452
+404 344 123152
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 118
+/assets/plugins/tinymce/plugins/filemanager/dialog.php 1 http://inventory.amxxa.com/assets/plugins/tinymce/plugins/filemanager/dialog.php
+/resources/plugins/tiny_mce/plugins/filemanager/dialog.php 1 http://inventory.amxxa.com/resources/plugins/tiny_mce/plugins/filemanager/dialog.php
+/asset/kcfinder/upload.php 1 http://inventory.amxxa.com/asset/kcfinder/upload.php
+/admin/blueimp-jQuery-File-Upload/server/php/ 1 http://inventory.amxxa.com/admin/blueimp-jQuery-File-Upload/server/php/
+/assets/responsive_filemanager/filemanager/dialog.php 1 http://inventory.amxxa.com/assets/responsive_filemanager/filemanager/dialog.php
+/assets/plugins/js/server/php/ 1 http://inventory.amxxa.com/assets/plugins/js/server/php/
+/filemanager/dialog.php 1 http://inventory.amxxa.com/filemanager/dialog.php
+/assets/filemanager/dialog.php 1 http://inventory.amxxa.com/assets/filemanager/dialog.php
+/js/plugins.js 4 -
+/plugin/server/php/ 1 http://inventory.amxxa.com/plugin/server/php/
+/assets/jquery-file-upload/server/php/ 1 http://inventory.amxxa.com/assets/jquery-file-upload/server/php/
+/assets/js/frontend/jquery-file-upload/server/php/ 1 http://inventory.amxxa.com/assets/js/frontend/jquery-file-upload/server/php/
+/assets/kcfinder/upload.php 1 http://inventory.amxxa.com/assets/kcfinder/upload.php
+/app/webroot/kcfinder/upload.php 1 http://inventory.amxxa.com/app/webroot/kcfinder/upload.php
+/vendor/laravel-filemanager/js/script.js 1 http://inventory.amxxa.com/vendor/laravel-filemanager/js/script.js
+/sitemap.xml 6 -
+/js/jquery-file-upload/server/php/ 1 http://inventory.amxxa.com/js/jquery-file-upload/server/php/
+/kcfinder/upload.php 2 http://inventory.amxxa.com/kcfinder/upload.php
+/responsive_filemanager/filemanager/dialog.php 1 http://inventory.amxxa.com/responsive_filemanager/filemanager/dialog.php
+/js/kcfinder/upload.php 1 http://inventory.amxxa.com/js/kcfinder/upload.php
+/admin/jquery-file-upload/server/php/ 1 http://inventory.amxxa.com/admin/jquery-file-upload/server/php/
+/ckeditor/plugins/kcfinder/upload.php 1 http://inventory.amxxa.com/ckeditor/plugins/kcfinder/upload.php
+/assets/js/plugins.js 14 https://inventory.amxxa.com/
+/sitemaps.xml 6 -
+/static/lib/jquery-file-upload/server/php/ 1 http://inventory.amxxa.com/static/lib/jquery-file-upload/server/php/
+/assets/server/php/ 1 http://inventory.amxxa.com/assets/server/php/
+/assets/tinymce/plugins/filemanager/dialog.php 1 http://inventory.amxxa.com/assets/tinymce/plugins/filemanager/dialog.php
+/public/js/libraries/filemanager/dialog.php 1 http://inventory.amxxa.com/public/js/libraries/filemanager/dialog.php
+/assets/vendor/jquery.filer/php/readme.txt 1 http://inventory.amxxa.com/assets/vendor/jquery.filer/php/readme.txt
+/assets/js/main.js 15 https://inventory.amxxa.com/
+/robots.txt 72 -
+/admin/responsive_filemanager/filemanager/dialog.php 1 http://inventory.amxxa.com/admin/responsive_filemanager/filemanager/dialog.php
+/js/bootstrap.min.js 4 -
+/phpformbuilder/plugins/filemanager/dialog.php 1 http://inventory.amxxa.com/phpformbuilder/plugins/filemanager/dialog.php
+/libs/kcfinder/upload.php 1 http://inventory.amxxa.com/libs/kcfinder/upload.php
+/assets/global/plugins/server/php/ 1 http://inventory.amxxa.com/assets/global/plugins/server/php/
+/admin/events/lib/external/responsive_filemanager/filemanager/dialog.php 1 http://inventory.amxxa.com/admin/events/lib/external/responsive_filemanager/filemanager/dialog.php
+/plugins/kcfinder/upload.php 1 http://inventory.amxxa.com/plugins/kcfinder/upload.php
+/jquery-file-upload/server/php/ 1 http://inventory.amxxa.com/jquery-file-upload/server/php/
+/jquery.filer/php/readme.txt 1 http://inventory.amxxa.com/jquery.filer/php/readme.txt
+/sitemap.txt 4 -
+/assets/admin/tinymce/plugins/filemanager/dialog.php 1 http://inventory.amxxa.com/assets/admin/tinymce/plugins/filemanager/dialog.php
+/core/scripts/kcfinder/upload.php 1 http://inventory.amxxa.com/core/scripts/kcfinder/upload.php
+/asset/server/php/ 1 http://inventory.amxxa.com/asset/server/php/
+/upload/server/php/ 1 http://inventory.amxxa.com/upload/server/php/
+/.git/config 2 -
+/assets/scripts/filemanager/dialog.php 1 http://inventory.amxxa.com/assets/scripts/filemanager/dialog.php
+/components/kcfinder/upload.php 1 http://inventory.amxxa.com/components/kcfinder/upload.php
+/assets/plugins/jquery.filer/php/readme.txt 1 http://inventory.amxxa.com/assets/plugins/jquery.filer/php/readme.txt
+/assets/plugins/filemanager/dialog.php 1 http://inventory.amxxa.com/assets/plugins/filemanager/dialog.php
+/application/themes/admin/assets/js/kcfinder/upload.php 1 http://inventory.amxxa.com/application/themes/admin/assets/js/kcfinder/upload.php
+/app/ 2 -
+/js/tinymce/kcfinder/upload.php 1 http://inventory.amxxa.com/js/tinymce/kcfinder/upload.php
+/assets/admin/bower_components/jquery.filer/php/readme.txt 1 http://inventory.amxxa.com/assets/admin/bower_components/jquery.filer/php/readme.txt
+/ckeditor/kcfinder/upload.php 1 http://inventory.amxxa.com/ckeditor/kcfinder/upload.php
+/media/filemanager/dialog.php 1 http://inventory.amxxa.com/media/filemanager/dialog.php
+/resources/js/tinymce/plugins/filemanager/dialog.php 1 http://inventory.amxxa.com/resources/js/tinymce/plugins/filemanager/dialog.php
+/assets/plugins/jQuery-File-Upload/server/php/ 1 http://inventory.amxxa.com/assets/plugins/jQuery-File-Upload/server/php/
+/media/kcfinder/upload.php 1 http://inventory.amxxa.com/media/kcfinder/upload.php
+/assets/admin/js/tinymce/plugins/filemanager/dialog.php 1 http://inventory.amxxa.com/assets/admin/js/tinymce/plugins/filemanager/dialog.php
+/admin/filemanager/dialog.php 1 http://inventory.amxxa.com/admin/filemanager/dialog.php
+/policies.html 29 -
+/filemanager/filemanager/dialog.php 1 http://inventory.amxxa.com/filemanager/filemanager/dialog.php
+/asset/filemanager/dialog.php 1 http://inventory.amxxa.com/asset/filemanager/dialog.php
+/plugins/js/jquery-file-upload/server/php/ 1 http://inventory.amxxa.com/plugins/js/jquery-file-upload/server/php/
+/assets/js/kcfinder/upload.php 1 http://inventory.amxxa.com/assets/js/kcfinder/upload.php
+/assets/js/vandor/jquery-3.2.1.min.js 14 https://inventory.amxxa.com/
+/sitemap_index.xml 6 -
+/tinymce/plugins/filemanager/dialog.php 1 http://inventory.amxxa.com/tinymce/plugins/filemanager/dialog.php
+/admin/js/kcfinder/upload.php 1 http://inventory.amxxa.com/admin/js/kcfinder/upload.php
+/login/ 2 -
+/js/fileManager/filemanager/dialog.php 1 http://inventory.amxxa.com/js/fileManager/filemanager/dialog.php
+/js/popper.min.js 4 -
+/jquery/kcfinder/upload.php 1 http://inventory.amxxa.com/jquery/kcfinder/upload.php
+/assets/plugins/kcfinder/upload.php 1 http://inventory.amxxa.com/assets/plugins/kcfinder/upload.php
+/libraries/jsupload/server/php/ 1 http://inventory.amxxa.com/libraries/jsupload/server/php/
+/public/filemanager/dialog.php 1 http://inventory.amxxa.com/public/filemanager/dialog.php
+/app/webroot/js/kcfinder/upload.php 1 http://inventory.amxxa.com/app/webroot/js/kcfinder/upload.php
+/fileupload/server/php/ 1 http://inventory.amxxa.com/fileupload/server/php/
+/assets/global/plugins/jquery-file-upload/server/php/ 1 http://inventory.amxxa.com/assets/global/plugins/jquery-file-upload/server/php/
+/js/tinymce4/plugins/filemanager/dialog.php 1 http://inventory.amxxa.com/js/tinymce4/plugins/filemanager/dialog.php
+/lib/kcfinder/upload.php 1 http://inventory.amxxa.com/lib/kcfinder/upload.php
+/plugins/responsive_filemanager/filemanager/dialog.php 1 http://inventory.amxxa.com/plugins/responsive_filemanager/filemanager/dialog.php
+/admin/ckeditor/plugins/kcfinder/upload.php 1 http://inventory.amxxa.com/admin/ckeditor/plugins/kcfinder/upload.php
+/admin/ckeditor/kcfinder/upload.php 1 http://inventory.amxxa.com/admin/ckeditor/kcfinder/upload.php
+/admin/core/kcfinder/upload.php 1 http://inventory.amxxa.com/admin/core/kcfinder/upload.php
+/js/server/php/ 1 http://inventory.amxxa.com/js/server/php/
+/public/server/php/ 1 http://inventory.amxxa.com/public/server/php/
+/lib/filemanager/dialog.php 1 http://inventory.amxxa.com/lib/filemanager/dialog.php
+/cms/tinymce/filemanager/filemanager/dialog.php 1 http://inventory.amxxa.com/cms/tinymce/filemanager/filemanager/dialog.php
+/plugins/server/php/ 1 http://inventory.amxxa.com/plugins/server/php/
+/arquivos/javascript/responsive_filemanager/filemanager/dialog.php 1 http://inventory.amxxa.com/arquivos/javascript/responsive_filemanager/filemanager/dialog.php
+/admin/server/php/ 1 http://inventory.amxxa.com/admin/server/php/
+/editor/filemanager/dialog.php 1 http://inventory.amxxa.com/editor/filemanager/dialog.php
+/tinymce/filemanager/dialog.php 1 http://inventory.amxxa.com/tinymce/filemanager/dialog.php
+/assets/js/bootstrap.min.js 15 https://inventory.amxxa.com/
+/core/scripts/wysiwyg/kcfinder/upload.php 1 http://inventory.amxxa.com/core/scripts/wysiwyg/kcfinder/upload.php
+/assets/plugins/server/php/ 1 http://inventory.amxxa.com/assets/plugins/server/php/
+/js/main.js 4 -
+/asset_admin/assets/plugins/jquery-file-upload/server/php/ 1 http://inventory.amxxa.com/asset_admin/assets/plugins/jquery-file-upload/server/php/
+/assets/js/popper.min.js 16 https://inventory.amxxa.com/
+/admin/galerie/server/php/ 1 http://inventory.amxxa.com/admin/galerie/server/php/
+/admin/kcfinder/upload.php 1 http://inventory.amxxa.com/admin/kcfinder/upload.php
+/js/vandor/modernizr-3.5.0.min.js 4 -
+/admin/tools/assets/jquery-file-upload/server/php/ 1 http://inventory.amxxa.com/admin/tools/assets/jquery-file-upload/server/php/
+/plugins/jQuery-File-Upload/server/php/ 1 http://inventory.amxxa.com/plugins/jQuery-File-Upload/server/php/
+/cms/vendor/responsive_filemanager/filemanager/dialog.php 1 http://inventory.amxxa.com/cms/vendor/responsive_filemanager/filemanager/dialog.php
+/scripts/filemanager/dialog.php 1 http://inventory.amxxa.com/scripts/filemanager/dialog.php
+/plugins/jquery.filer/php/readme.txt 1 http://inventory.amxxa.com/plugins/jquery.filer/php/readme.txt
+/assets/app-assets/data/jquery-file-upload/server/php/ 1 http://inventory.amxxa.com/assets/app-assets/data/jquery-file-upload/server/php/
+/blueimp-jQuery-File-Upload/server/php/ 1 http://inventory.amxxa.com/blueimp-jQuery-File-Upload/server/php/
+/sitemap.xml.gz 6 -
+/js/vandor/jquery-3.2.1.min.js 4 -
+/assets/plugins/jquery-file-upload/server/php/ 1 http://inventory.amxxa.com/assets/plugins/jquery-file-upload/server/php/
+/assets/plugins/js/jquery-file-upload/server/php/ 1 http://inventory.amxxa.com/assets/plugins/js/jquery-file-upload/server/php/
+/js/fileManager/dialog.php 1 http://inventory.amxxa.com/js/fileManager/dialog.php
+/public/scripts/filemanager/dialog.php 1 http://inventory.amxxa.com/public/scripts/filemanager/dialog.php
+/assets/js/vandor/modernizr-3.5.0.min.js 14 https://inventory.amxxa.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 36
+123.160.223.73 4 5 16777 20240919171432
+118.24.97.156 2 2 3978 20240919132705
+34.30.40.22 2 2 3978 20240918041034
+45.148.10.59 2 2 3978 20240921094525
+111.7.96.169 2 3 12799 20240922214949
+167.94.145.96 1 2 10810 20240913044324
+167.94.146.59 1 2 10810 20240930005132
+147.185.132.192 1 1 4963 20240913100223
+87.236.176.52 1 1 1989 20240903122736
+146.190.152.184 1 2 10810 20240909115123
+167.94.146.53 1 2 10810 20240927043945
+162.142.125.197 1 2 10810 20240927024853
+115.231.78.2 1 1 4963 20240930233610
+111.7.96.178 1 2 10810 20240909160003
+167.94.146.61 1 2 10810 20240929235720
+159.65.179.247 1 2 10810 20240923081615
+137.184.90.95 1 2 10810 20240923181642
+87.236.176.6 1 1 1989 20240915142945
+198.235.24.226 1 1 4963 20240921142734
+128.199.160.243 1 1 1989 20240906171727
+192.200.113.156 1 1 1989 20240929100512
+107.181.244.204 1 1 1989 20240926054835
+23.145.40.147 1 1 1989 20240921032005
+198.235.24.98 1 1 4963 20240917194303
+87.236.176.111 1 1 1989 20240915174711
+87.236.176.218 0 1 8821 
+87.236.176.202 0 1 8821 
+123.160.223.74 0 2 17642 
+199.45.155.108 1 2 10810 20240928214706
+206.168.34.115 1 2 10810 20240927041249
+199.45.154.127 1 2 10810 20240913051221
+123.160.223.72 1 2 10810 20240930033319
+87.236.176.235 0 1 8821 
+68.183.32.216 1 2 10810 20240909150315
+123.160.223.75 1 2 10810 20240921031919
+111.7.96.167 1 2 10810 20240917053419
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20240903 1 2 10810 1
+20240905 2 3 12799 1
+20240906 1 1 1989 1
+20240909 3 6 32430 3
+20240913 3 5 26583 3
+20240915 2 4 21620 2
+20240916 1 2 10810 1
+20240917 2 3 15773 2
+20240918 2 2 3978 1
+20240919 4 5 16777 4
+20240921 4 5 19751 4
+20240922 2 3 12799 1
+20240923 2 4 21620 2
+20240926 1 1 1989 1
+20240927 3 6 32430 3
+20240928 1 2 10810 1
+20240929 2 3 12799 2
+20240930 3 5 26583 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 36
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 39 89467 36 36
+END_SIDER

@@ -1,0 +1,967 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202504 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/awstats.rootments.in.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2055                
+POS_TIME 2727                
+POS_VISITOR 18214               
+POS_DAY 24417               
+POS_DOMAIN 3548                
+POS_LOGIN 4065                
+POS_ROBOT 4220                
+POS_WORMS 4672                
+POS_EMAILSENDER 4803                
+POS_EMAILRECEIVER 4946                
+POS_SESSION 25181               
+POS_FILESIZE 26390               
+POS_SIDER 25372               
+POS_FILETYPES 5081                
+POS_DOWNLOADS 5370                
+POS_OS 5507                
+POS_BROWSER 5778                
+POS_SCREENSIZE 6763                
+POS_UNKNOWNREFERER 6837                
+POS_UNKNOWNREFERERBROWSER 7473                
+POS_ORIGIN 7877                
+POS_SEREFERRALS 8016                
+POS_PAGEREFS 8202                
+POS_SEARCHWORDS 8350                
+POS_KEYWORDS 8502                
+POS_MISC 2390                
+POS_ERRORS 8561                
+POS_CLUSTER 3921                
+POS_SIDER_404 8768                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250501014834 1 0 6448273250225
+FirstTime 20250401013157
+LastTime 20250430161108
+LastUpdate 20250501185228 1 0 0 0 0
+TotalVisits 157                 
+TotalUnique 147                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 159                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 26 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 14 18 467666 78 80 118857
+1 18 23 539015 127 139 833973
+2 10 11 163109 24 26 52697
+3 14 15 132481 49 51 116770
+4 36 40 1851981 903 1008 2177368
+5 22 25 4284103 385 409 691078
+6 16 22 630934 503 509 139793
+7 18 23 563207 25 31 63141
+8 8 12 413616 28 34 62482
+9 19 26 667833 28 30 9007
+10 39 53 2238618 406 448 913825
+11 16 48 3279015 59 63 109318
+12 16 20 477662 34 42 95373
+13 6 6 27034 81 81 125016
+14 24 33 1834910 16 38 972884
+15 20 59 8353520 34 115 346044
+16 24 36 1092144 2 14 32726
+17 41 45 965158 426 452 160256
+18 10 15 480304 15 17 22740
+19 14 27 926120 2 4 5725
+20 34 47 1218725 111 115 199742
+21 22 25 302986 100 102 57702
+22 42 75 4055326 235 252 501703
+23 6 7 126889 2 7 103123
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 21
+us 235 363 13159100
+sc 74 82 7622352
+ca 46 50 666598
+in 30 101 11853540
+za 14 14 28504
+se 12 12 31742
+fr 12 12 100660
+ro 10 10 87104
+ru 8 16 806222
+ge 6 6 10934
+it 6 6 39222
+nl 6 6 54156
+pt 6 6 54156
+tr 4 4 10784
+de 4 4 10738
+bg 4 4 10542
+be 4 6 206808
+kr 2 2 5224
+gb 2 3 103549
+cl 2 2 18052
+id 2 2 18052
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+Googlebot/ 48 6478 20250430145529 46
+no_user_agent 24 206252 20250427060735 0
+unknown 10 240 20250430011951 10
+BW/ 8 10864 20250426002751 4
+bot[\s_+:,\.\;\/\\-] 8 5508 20250430172059 6
+archive\.org_bot 5 203496 20250401152128 0
+nutch 4 5374 20250414153357 2
+survey 2 16624 20250405142323 0
+java 1 98171 20250407235042 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+jfif 10 2127488 0 0
+log 8 7556260 0 0
+css 60 72757 0 0
+html 357 1480990 0 0
+pdf 1 405958 0 0
+env 32 44192 0 0
+png 83 7776938 0 0
+json 10 11770 0 0
+Unknown 80 1245942 0 0
+js 6 2937 0 0
+jpg 48 12356119 0 0
+jpeg 16 1816688 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/storage/logs/laravel.log 8 0 7556260
+/assets/images/Employee/25-YTPKLYJX.pdf 1 2 405958
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+androidnougat 4 4
+win7 13 13
+androidmarshmallow 4 4
+win10 406 247
+linuxubuntu 18 12
+linux 55 38
+android 2 2
+macosx10 6 6
+ios_iphone 12 6
+Unknown 147 111
+winxp 2 2
+macosx9 2 2
+macosx15 16 16
+ios_ipad 26 26
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 47
+chrome134.0.0.0 61 20
+chrome125.0.6422.60 20 8
+Unknown 37 37
+chrome79.0.3945.79 15 6
+chrome52.0.1731.98 4 4
+chrome78.0.3904.108 36 36
+firefox130.0 15 12
+chrome117.0.5938.132 60 24
+chrome135.0.0.0 100 38
+chrome122.0.0.0 4 4
+chrome81.0.4044.129 10 10
+firefox57.0 1 1
+chrome133.0.0.0 5 2
+firefox77.0 6 6
+chrome104.0.0.0 12 12
+chrome131.0.0.0 4 4
+netscape5.0 2 2
+chrome75.0.3770.142 2 2
+firefox123 2 2
+chrome120.0.0.0 2 2
+firefox83.0 4 4
+chrome129.0.0.0 7 2
+chrome83.0.4103.97 2 2
+firefox60.0 4 4
+chrome95.0.4638.69 4 4
+firefox128.0 2 2
+chrome60.0.3112.107 4 4
+chrome91.0.4472.114 8 8
+firefox136.0 2 2
+safari11.0 26 26
+chrome83.0.4103.61 8 8
+firefox134.0 3 0
+safari16.5 2 2
+mozilla 110 74
+chrome24.0.1493.7 2 2
+firefox126.0 2 2
+msie6.0 12 12
+chrome128.0.6613.186 2 2
+chrome128.0.0.0 2 2
+firefox50.0 2 2
+edge14 2 2
+chrome91.0.4472.124 83 75
+firefox115 2 2
+chrome79.0.3945.130 2 2
+chrome39.0.2171.95 6 6
+safari 10 4
+chrome116.0.5845.96 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250429111025
+Mozilla/5.0_(compatible) 20250428073309
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250426140541
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250428063435
+PostmanRuntime/7.43.3 20250414171356
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20250429111025
+PostmanRuntime/7.43.3 20250414171356
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 429 459
+From1 4 4
+From2 20 20
+From3 0 0
+From4 36 230
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_co_jp 2 2
+www_google_com 18 18
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 10
+302 5 1006
+406 407 91982
+503 2 4880
+301 186 42388
+404 2251 6250351
+419 1 24222
+403 66 27228
+409 996 76443
+405 9 837513
+500 8 2323
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 392
+/.git/refs/heads 6 -
+/admin/controllers/merchant.js 3 -
+/database.json 5 -
+/var/logs/dev.log 5 -
+/.git/hooks/post-commit 6 -
+/cms/.git/config 2 -
+/api/config.env 6 -
+/.git 6 -
+/.vscode/.env 4 -
+/wp/wp-json/wp/v2/users 11 -
+/dashboard/phpinfo.php 6 -
+/sites/default/files 8 binance.com
+/function.php 2 -
+/api/v1/.env 6 -
+/rootments 4 www.google.com
+/wp-includes/Text/network.php 8 -
+/swagger.js 3 -
+/controllers/settings.js 3 -
+/api/config/config.yml 6 -
+/website/.git/config 2 -
+/xmlrpc.php 25 -
+/.git/objects 16 -
+/app/config/.env 6 -
+/wp-content/index.php 2 -
+/config.json 6 -
+/wp-includes/style-engine/about.php 2 -
+/aws/credentials 6 -
+/latest/meta-data 6 -
+/wordpress/xmlrpc.php 25 -
+/simple.php 2 -
+/nova-api/styles 10 -
+/internal/api 6 -
+/.git/packed-refs 16 -
+/wp-includes/makeasmtp.php 2 -
+/prod.env 10 -
+/lara/phpinfo.php 6 -
+/alfanew.php 2 -
+/shared/config/config.js 3 -
+/wp-admin/css/colors/blue/index.php 1 -
+/app/etc/local.xml 10 -
+/app/etc/env.php 6 -
+/wp-content/languages/index.php 2 -
+/css/index.php 2 -
+/dist/js/bootstrap.bundle.min.js 3 -
+/mailer/.env 4 -
+/yarn.lock 10 -
+/latest/user-data 6 -
+/public/.env 10 -
+/old/wp-json/wp/v2/users 11 -
+/wp-includes/autoload_classmap.php 2 -
+/.git/refs/tags 6 -
+/wp-info.php 2 -
+/website/.env 4 -
+/settings.py 6 -
+/app_dev.php/_profiler/phpinfo 6 -
+/secrets.json 5 -
+/sitemap.xml 2 -
+/lock.php 2 -
+/bootstrap/cache/config.php 6 -
+/dev/.git/config 2 -
+/old/xmlrpc.php 23 -
+/sites/all/themes 10 -
+/new/xmlrpc.php 25 -
+/wp-includes/IXR/about.php 2 -
+/.git/refs 16 -
+/wp-admin/setup-config.php 2 -
+/.gitkeep 6 -
+/laravel/.env 8 -
+/wp-content/.git/config 2 -
+/new/wp-json/wp/v2/users 11 -
+/var/log/system.log 3 -
+/internal/proxy 6 -
+/.git/logs/refs/heads/master 6 -
+/blog/.git/config 2 -
+/zwso.php 2 www.google.com
+/admin/proxy 6 -
+/wp-config.php 6 -
+/laravel/info.php 6 -
+/web.config 5 -
+/wp-content/radio.php 2 -
+/jp.php 2 -
+/bitrix/php_interface/dbconn.php 6 -
+/static/js/2.ca066a4b.chunk.js 3 -
+/awstats/.env 4 -
+/_profiler/phpinfo/info.php 6 -
+/phpmyadmin/index.php 6 -
+/config/production.json 5 -
+/typo3conf/localconf.php 6 -
+/sms.py 6 -
+/uploads 8 binance.com
+/cgi-bin/about.php 2 -
+/home/.git/config 2 -
+/wp-content/autoload_classmap.php 2 -
+/sites/default/settings.php 6 -
+/wp-content/plugins/hellopress/wp_filemanager.php 10 -
+/index/function.php 2 -
+/config/secrets.yml 6 -
+/.travis.yml 6 -
+/local/.env 4 -
+/js/main.js 3 -
+/about.php 4 www.google.com
+/my_env/newsletter.py 6 -
+/var/logs/prod.log 5 -
+/dist/sweetalert2.min.js 2 -
+/.env_sample 6 -
+/blog/xmlrpc.php 15 -
+/config/routes.yaml 6 -
+/images 8 binance.com
+/config/constants.js 3 -
+/backend/config/development.yml 6 -
+/makeasmtp.php 2 -
+/administrator/index.php 6 -
+/web/wp-json/wp/v2/users 3 -
+/bak.php 2 -
+/wp-json/wp/v2/users 14 -
+/_phpinfo.php 6 -
+/style.php 2 www.google.com
+/.vscode/sftp.json 2 -
+/credentials.env 10 -
+/.well-known/acme-challenge/index.php 2 -
+/wp-trackback.php 2 -
+/xampp/.env 4 -
+/apis/config/config.js 3 -
+/main/.env 4 -
+/wordpress/wp-json/wp/v2/users 11 -
+/db.ini 10 -
+/docker/.env 10 -
+/wp-mail.php 2 -
+/wp 8 www.google.com
+/beta_mob/auth/login 4 -
+/themes/zMousse/otuz1.php 2 -
+/file.php 2 -
+/.npmrc 10 -
+/dev/.env 4 -
+/helper/EmailHelper.js 3 -
+/about/function.php 2 -
+/staging.env 10 -
+/wp-content/cong.php 2 -
+/api/shared/config.env 6 -
+/config/application.yml 6 -
+//www.gstatic.com/firebasejs/11.4.0/firebase-app-compat.js 2 -
+/config.js 8 -
+/radio.php 2 -
+/info.php 12 -
+/wordpress/wp-admin/setup-config.php 2 -
+/wp-includes/IXR/index.php 2 -
+/api/objects/codes.php.save 6 -
+/config/aws.yml 6 -
+/wp-content/themes/twenty/twenty.php 2 -
+/.env.dev 10 -
+/.well-known 8 binance.com
+/conf/.env 4 -
+/_profiler/phpinfo 6 -
+/Dockerfile 10 -
+/item.php 2 -
+/.remote 2 https://www.google.com/
+/settings.yaml 10 -
+/.local 2 https://www.google.com/
+/main.js 3 -
+/helm/values.yaml 10 -
+/user/config/config.js 3 -
+/var/log/exception.log 5 -
+/test.php 12 -
+/helper.js 3 -
+/.dockerignore 10 -
+/config/default.json 5 -
+/admin/internal/api 6 -
+/13.php 2 -
+/.git/index 16 -
+/cgi-bin/phpinfo.php 6 -
+/index.html 4 -
+/.git/logs/refs/remotes/origin/HEAD 6 -
+/api/v1/proxy 6 -
+/_all_dbs 4 -
+/config/settings.prod 6 -
+/cloud/Scraper.js 3 -
+/api/shared/.env 4 -
+/.aws/config 6 -
+/development.env 10 -
+/app.py 6 -
+/api/v2/proxy 6 -
+/getcpuutil.php-bakworking 6 -
+//www.gstatic.com/firebasejs/11.4.0/firebase-messaging-compat.js 4 -
+/env.txt 10 -
+/admin/config 6 -
+/wp-includes/ID3/license.txt 4 -
+/app.js 8 -
+/wp-admin/install.php 3 -
+/sftp-config.json 2 -
+/.circleci/configs/development.yml 6 -
+/wp-content/debug.log 5 -
+/wp-config 6 -
+/wp-admin/images/index.php 1 -
+/frontend/.git/config 2 -
+/.git/hooks/pre-commit 6 -
+/wp-signup.php 2 -
+/config/settings.local 6 -
+//ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js 4 -
+/admin/server_info.php 6 -
+/env/.env 4 -
+/.svn/entries 10 -
+/site/wp-json/wp/v2/users 3 -
+/502.shtml 1 -
+/.git/info/exclude 6 -
+/.env.production.local 6 -
+/.well-known/index.php 2 -
+/sites/all/modules 10 -
+/api/config.js 3 -
+//admin/.env 1 https://www.google.com/
+/config/config.json 3 -
+/test 4 www.google.com
+/backup/wp-json/wp/v2/users 3 -
+/as.php 2 -
+/cron/.env 4 -
+/admin/.git/config 2 -
+/backend/config/default.yml 6 -
+/cong.php 2 -
+/.git/ORIG_HEAD 6 -
+/joomla/configuration.php-dist 6 -
+/api/shared/config/.env 4 -
+/wp-config-sample.php 6 -
+/s3.js 3 -
+/new/.env.production 6 -
+/crm/.env 4 -
+/.env.stage 6 -
+/web/.env 4 -
+/mail/.env 4 -
+/mytest/astech_robot.js 3 -
+/config/parameters.yml 6 -
+/app/.git/config 2 -
+/docker/app/.env 4 -
+/wp-content/themes/index.php 2 -
+/backend/.git/config 2 -
+/controller/admin/post.js 3 -
+/auth.json 5 -
+/.production 2 https://www.google.com/
+/server/config/database.js 3 -
+/latest/meta-data/iam/security-credentials 6 -
+/kyc/.env 4 -
+/aws-secret.yaml 6 -
+/.well-known/security.txt 10 -
+/scripts/nodemailer.js 3 -
+/wp-includes/ID3/admin.php 2 -
+/alfa.php 2 -
+/server.js 8 -
+/development/.env 4 -
+/text.php 2 -
+/.env.test 10 -
+/site/.env 4 -
+/core/install.php 6 -
+/new 4 www.google.com
+/application/.env 4 -
+/config/local.yml 6 -
+/mah.php 2 -
+/wp-admin/maint/about.php 1 -
+/admin/function.php 2 -
+/controller/api/post.js 3 -
+/secure-config.json 5 -
+/prod/.env 4 -
+/xampp/phpinfo.php 6 -
+/old 4 www.google.com
+/wp-admin/includes/about.php 1 -
+/wp-links.php 2 -
+/config/packages 10 -
+/api/.env 10 -
+/config.env 6 -
+/config/secrets.json 5 -
+/gatsby-config.js 3 -
+/autoload_classmap.php 2 -
+/configs/routes.js 3 -
+/admin.php 2 -
+/swagger.json 8 -
+/admin/controller/extension/extension 8 binance.com
+/src/config.js 5 -
+/logs/error.php 6 -
+/.aws/credentials 16 -
+/backend/.env 4 -
+/apps/.env 4 -
+/wp-includes/blocks/about.php 2 -
+/.git/refs/remotes 6 -
+/.git/HEAD 38 -
+/config/storage.yml 6 -
+/js/.env 4 -
+/portal/.git/config 2 -
+/main.yml 6 -
+/uploaded_script.php 4 www.google.com
+/_profiler/phpinfo/phpinfo.php 6 -
+/appsettings.json 3 -
+/.git/refs/stash 6 -
+/metadata/computeMetadata/v1 6 -
+/api-docs 10 -
+/web/config.php 6 -
+/laravel/core/.env 4 -
+/settings/.env 6 -
+/admin/.env 7 https://www.google.com/
+/.git/logs/HEAD 16 -
+/.git/FETCH_HEAD 6 -
+/debug.php 6 -
+/.env.production 10 -
+/1.php 2 -
+/secured/phpinfo.php 6 -
+/files 8 binance.com
+/api/credentials 10 -
+/application.properties 6 -
+/local_settings.py 10 -
+/my_env/chakaash.py 6 -
+/.well-known/acme-challenge/file 2 -
+/computeMetadata/v1beta1 6 -
+/configs/s3_config.json 3 -
+/aws.yml 6 -
+/.git/logs 10 -
+/server_info.php 6 -
+/admin/controllers/partner.js 3 -
+/openapi.json 5 -
+/backup.env 10 -
+/wp-admin/maint/index.php 1 -
+/doc.php 2 -
+/firebase-messaging-sw.js 3 -
+/gallery 2 -
+/apis/controllers/users.js 3 -
+/temp 4 www.google.com
+/config.php 2 -
+/inputs.php 2 -
+/.git/hooks/pre-push 6 -
+/phpinfo2.php 6 -
+/update/.git/config 2 -
+/api/proxy 6 -
+/wp-admin/css 4 binance.com
+/app-ads.txt 92 -
+/.env.prod 6 -
+/helpers/utility.js 3 -
+/production/.git/config 2 -
+/.git/branches 10 -
+/swagger-ui.html 10 -
+/service/email_service.py 6 -
+/ads.txt 10 -
+/blog/wp-json/wp/v2/users 11 -
+/core/.env 4 -
+/computeMetadata/v1 6 -
+/config/settings.json 3 -
+/wp-content/plugins/index.php 2 -
+/api/shared/config/config.env 6 -
+/wp-admin/includes/index.php 1 -
+/portal/.env 4 -
+/wp-includes/images/about.php 2 -
+/new/.env.staging 6 -
+/new/.env.local 6 -
+/api/.git/config 2 -
+/.git/COMMIT_EDITMSG 6 -
+/backend/config/settings.yml 6 -
+/config.inc.php 6 -
+/server/s3.js 3 -
+/backup/config.php 6 -
+/.env.local 16 -
+/wp/xmlrpc.php 25 -
+/wordpress 8 www.google.com
+/src/.git/config 2 -
+/atomlib.php 2 -
+/lara/info.php 6 -
+/.AWS_/credentials 6 -
+/node/.env_example 6 -
+/user/controllers/index.js 3 -
+/app/.env 4 -
+/backup 4 www.google.com
+/config/database.yml 10 -
+/CHANGELOG.txt 6 -
+//cdn.js 4 -
+/shell20211028.php 2 -
+/nginx/.env 4 -
+/stage.env 10 -
+/partner/config/config.js 3 -
+/configs/routes-4aug.js 3 -
+/old/.env 6 -
+/node_modules/.env 4 -
+/lv.php 2 -
+/wp-admin/js/index.php 1 -
+/.git/description 6 -
+/chosen 2 -
+/wp-includes/Requests/about.php 2 -
+/blog 4 www.google.com
+/index.js 3 -
+/backup/.git/config 2 -
+/phpinfo1.php 6 -
+/new/.env 4 -
+/.git/config 28 -
+/api/config.json 5 -
+/private/.git/config 2 -
+/dashboard/.git/config 2 -
+/config/.env 6 -
+/.gitmodules 6 -
+/phpinfo.php 12 -
+/.conf.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 159
+154.83.103.102 28 31 1732740 20250404040055
+154.83.103.10 28 31 1725658 20250402222246
+49.47.219.122 20 61 8598389 20250404173049
+154.83.103.210 18 20 4163954 20250427051354
+157.46.166.145 18 46 3045793 20250419223007
+47.129.242.83 14 14 33134 20250402211855
+196.251.72.127 10 10 22980 20250402171320
+152.58.251.150 9 9 623 20250414171356
+152.58.251.115 8 12 1288272 20250414145617
+82.102.18.124 6 6 54156 20250428221407
+213.152.162.178 6 6 54156 20250428020953
+85.204.70.116 6 6 54156 20250429003443
+143.244.57.84 6 6 50718 20250406174735
+49.47.217.235 6 35 2995081 20250410114256
+212.72.142.4 6 6 10934 20250422183836
+34.72.176.129 6 14 665164 20250424160535
+91.151.95.70 4 4 10784 20250428012831
+205.169.39.204 4 7 260058 20250409205601
+85.204.70.90 4 4 32948 20250404094525
+143.198.155.199 4 4 5524 20250405193840
+132.145.29.111 4 4 5524 20250413151716
+205.169.39.187 4 7 259734 20250404215409
+34.105.90.22 4 4 10740 20250430161014
+13.39.48.63 4 4 10788 20250423032435
+172.111.15.49 4 4 10630 20250414095049
+199.45.154.156 2 3 103237 20250401070452
+205.169.39.76 2 2 5360 20250425093312
+172.111.15.2 2 2 5250 20250412073824
+205.169.39.17 2 5 255014 20250430095313
+165.22.120.228 2 3 103237 20250404065810
+34.47.224.115 2 2 5040 20250402133519
+5.135.58.198 2 2 17056 20250406175201
+205.169.39.14 2 5 254982 20250430161108
+192.175.111.240 2 2 17016 20250406144833
+165.227.46.4 2 3 103249 20250402062740
+91.196.152.84 0 1 98171 
+159.203.97.98 2 3 103541 20250412200945
+217.160.202.182 2 2 5368 20250421121725
+205.169.39.53 2 5 255016 20250428103738
+143.110.185.70 2 3 103585 20250428073309
+34.123.170.104 0 2 198240 
+138.68.93.100 2 3 103427 20250412060700
+205.169.39.38 2 5 255024 20250428095843
+199.45.154.125 2 3 103591 20250426034016
+198.235.24.249 2 2 18052 20250429111025
+206.168.34.219 2 3 103539 20250420071844
+205.169.39.21 2 5 254618 20250402195410
+199.45.154.117 2 3 103547 20250426140538
+5.135.58.194 2 2 16906 20250406175238
+91.196.152.47 0 1 98171 
+184.73.146.41 2 2 5206 20250410145223
+146.190.77.169 2 3 103201 20250401013157
+161.35.75.96 2 3 103419 20250410085609
+196.251.115.37 2 2 2762 20250402111807
+18.230.192.105 2 2 5242 20250406094658
+172.111.15.144 2 2 5064 20250404194740
+34.122.147.229 2 4 155708 20250411220725
+91.196.152.228 0 1 98171 
+192.36.109.73 2 2 5036 20250403214539
+185.247.137.111 2 2 5374 20250428063434
+167.99.218.227 2 3 103545 20250425011725
+172.111.15.241 2 2 5068 20250401164153
+159.89.11.203 2 3 103395 20250407005808
+5.133.192.184 2 2 5210 20250410043522
+172.111.15.112 2 2 5256 20250410203925
+152.58.216.13 2 5 254976 20250426183555
+87.236.176.231 2 2 5072 20250402053845
+172.111.15.177 2 2 5406 20250420104723
+199.45.154.114 2 3 103543 20250415025221
+147.185.132.249 2 2 16474 20250402120137
+64.15.129.116 2 2 17016 20250406144832
+147.185.132.63 2 2 16906 20250412103934
+159.65.57.122 2 3 103595 20250426223239
+15.228.33.108 2 2 5062 20250401164024
+64.15.129.105 0 1 98171 
+54.157.209.103 2 7 451166 20250408195245
+205.169.39.47 2 5 254976 20250424160310
+198.235.24.53 2 2 17214 20250415151110
+185.247.137.21 0 1 98171 
+5.135.58.192 2 2 16624 20250402124604
+192.175.111.228 2 2 17016 20250406144836
+164.92.244.132 2 2 16474 20250404204625
+192.36.207.10 2 2 5364 20250425122213
+44.193.11.208 2 2 5082 20250405210330
+205.169.39.13 2 5 255016 20250430105832
+205.210.31.249 2 2 17056 20250409070848
+142.93.235.4 2 3 103255 20250404082455
+64.23.178.232 2 3 103497 20250415002155
+5.135.58.196 2 2 16474 20250402124443
+172.111.15.80 2 2 5358 20250416114858
+205.169.39.54 2 5 254990 20250429102907
+198.235.24.123 2 2 16624 20250404171221
+54.204.99.126 2 2 5232 20250408034419
+205.169.39.0 2 5 255000 20250429110742
+5.135.58.193 2 2 17016 20250406175100
+5.135.58.206 2 2 16584 20250402124237
+167.172.162.35 2 3 103549 20250427013305
+143.110.225.181 2 3 103503 20250412235052
+147.185.132.52 2 2 17016 20250408141334
+159.89.12.166 2 2 16584 20250404204625
+87.236.176.24 2 2 5394 20250426191916
+205.169.39.5 2 5 254670 20250404202607
+191.96.227.191 2 2 18052 20250423181325
+84.17.60.251 4 4 33812 20250406154223
+110.172.98.2 2 2 5224 20250407235041
+172.111.15.194 2 2 5072 20250403164827
+205.169.39.4 2 5 255006 20250428103852
+91.196.152.60 0 1 98171 
+54.218.106.242 2 2 5372 20250427175202
+157.230.89.8 2 3 103583 20250426073403
+142.93.233.170 2 3 103547 20250414070219
+81.88.53.43 2 2 5410 20250428020658
+185.247.137.127 0 1 98171 
+159.203.9.126 2 3 103393 20250407085813
+91.196.152.224 0 1 98171 
+172.111.15.226 2 2 5408 20250418104855
+159.203.141.52 2 3 103223 20250405004155
+54.233.83.26 2 2 5064 20250402154451
+152.58.200.66 2 5 5370 20250427195002
+198.235.24.232 2 2 17016 20250411201752
+93.158.90.42 2 2 5386 20250430011951
+3.238.147.168 4 4 10444 20250411040248
+35.94.50.87 2 2 5326 20250413064929
+149.102.230.133 4 4 36104 20250419102059
+206.168.34.196 2 3 103585 20250417010613
+46.228.199.158 2 2 5370 20250429130314
+87.236.176.82 0 1 98171 
+147.185.132.78 2 2 16624 20250401131203
+205.210.31.235 2 2 18162 20250422070123
+49.44.83.164 2 5 254822 20250410170543
+205.169.39.15 2 5 254824 20250409165157
+143.244.132.94 2 3 103395 20250409000114
+147.185.132.18 2 2 16906 20250408055957
+102.129.252.149 2 2 18052 20250417223957
+162.142.125.204 2 3 103543 20250418060751
+206.168.34.122 2 3 103587 20250418042913
+87.236.176.226 0 1 98171 
+205.210.31.224 2 2 18162 20250424170256
+46.8.225.111 4 4 10066 20250405201518
+15.204.183.221 4 4 10100 20250402202436
+5.133.192.192 2 2 5366 20250417201009
+68.183.61.107 2 3 103549 20250421080949
+206.168.34.66 2 3 103535 20250426095250
+91.196.152.55 0 1 98171 
+172.111.15.113 2 2 5248 20250407204502
+104.248.39.97 2 3 103547 20250416064005
+94.247.172.129 2 2 5380 20250425011812
+68.183.8.67 2 2 5060 20250402061251
+205.169.39.183 4 7 259680 20250402205847
+199.241.137.110 2 2 2762 20250411124647
+45.140.42.96 2 2 5248 20250411072831
+198.235.24.88 2 2 18162 20250418231917
+109.199.118.129 4 4 10542 20250414094744
+192.175.111.245 2 2 17016 20250406144836
+196.251.67.143 2 2 2762 20250402115216
+209.38.199.212 2 3 103575 20250424191226
+54.242.75.251 2 2 0 20250412101128
+206.168.34.121 2 3 103499 20250414121357
+185.247.137.48 2 2 5414 20250424014425
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20250401 10 12 233192 5
+20250402 84 98 2894019 19
+20250403 6 9 264742 3
+20250404 74 127 11591464 14
+20250405 10 11 121133 4
+20250406 26 30 601498 10
+20250407 10 12 222474 5
+20250408 9 14 490320 5
+20250409 12 19 640581 5
+20250410 16 49 3368994 6
+20250411 12 15 290298 5
+20250412 11 14 332627 6
+20250413 6 6 10850 2
+20250414 25 31 1506651 6
+20250415 6 8 224254 3
+20250416 4 5 108905 2
+20250417 6 7 127003 3
+20250418 8 10 230700 4
+20250419 22 50 3081897 2
+20250420 4 5 108945 2
+20250421 4 5 108917 2
+20250422 8 8 29096 2
+20250423 6 6 28840 2
+20250424 10 18 735282 5
+20250425 8 9 119649 4
+20250426 14 23 876392 7
+20250427 24 30 4278245 4
+20250428 28 39 1096682 9
+20250429 16 22 592936 6
+20250430 10 19 775770 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+15mn-30mn 1
+2mn-5mn 2
+5mn-15mn 1
+0s-30s 151
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 28
+/ 348 1449190 143 143
+/.env 32 44192 11 6
+/.gitignore 16 3536 0 0
+/.env.example 16 17104 0 0
+/beta_mob/api/leave_weekoff 8 377 0 1
+/dashboard 8 110240 0 1
+/.gitattributes 6 1116 0 0
+/cgi-sys/403.html 5 1790 0 0
+/composer.json 5 10345 0 0
+/package.json 5 1425 0 3
+/server-status 5 1790 0 0
+/hr-dashboard 4 78956 0 0
+/payroll-list 2 21380 0 0
+/monthly-attendance 2 18920 0 0
+/beta_mob/api/auth/login 2 433 1 0
+/assets/images/Employee/25-FBTIAALR.jfif 2 317424 0 0
+/beta/hr-dashboard 2 35408 0 0
+/assets/images/Employee/25-KHCVFM8U.jfif 2 901848 0 0
+/beta_mob/_debugbar/assets/stylesheets 2 716996 0 0
+/assets/images/Employee/25-E2MGVVII.jfif 2 154130 0 0
+/individual-attendance 2 22302 0 1
+/beta/assets/images/Employee/25-FBTIAALR.jfif 2 283226 0 1
+/beta/ 2 5044 1 0
+/assets/images/Employee/25-AMLH14AB.jfif 2 470860 0 0
+/beta_mob/ 2 24966 1 0
+/beta_mob/api/task_cby 1 336 0 1
+/daily-attendance 2 19036 0 0
+/beta_mob/_debugbar/assets/javascript 2 198012 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+5K+ 492
+100-500 683
+500-1K 30
+0-44 202
+44-100 925
+1K-2K 94
+2K-5K 2354
+END_FILESIZE

@@ -1,0 +1,422 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202407 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.meenambooks.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2024                
+POS_TIME 2696                
+POS_VISITOR 9488                
+POS_DAY 11279               
+POS_DOMAIN 3299                
+POS_LOGIN 3658                
+POS_ROBOT 3813                
+POS_WORMS 4193                
+POS_EMAILSENDER 4324                
+POS_EMAILRECEIVER 4467                
+POS_SESSION 11696               
+POS_SIDER 11843               
+POS_FILETYPES 4602                
+POS_DOWNLOADS 4736                
+POS_OS 4836                
+POS_BROWSER 5215                
+POS_SCREENSIZE 6071                
+POS_UNKNOWNREFERER 6145                
+POS_UNKNOWNREFERERBROWSER 6827                
+POS_ORIGIN 7194                
+POS_SEREFERRALS 7326                
+POS_PAGEREFS 7470                
+POS_SEARCHWORDS 7618                
+POS_KEYWORDS 7770                
+POS_MISC 2360                
+POS_ERRORS 7829                
+POS_CLUSTER 3514                
+POS_SIDER_404 7949                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240801023445 1 0 14802681125866
+FirstTime 20240701134430
+LastTime 20240731114903
+LastUpdate 20240801184921 1 0 0 0 0
+TotalVisits 48                  
+TotalUnique 44                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 44                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 1 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 1 13061
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 3 3 22629 0 5 1790
+5 1 1 13061 0 0 0
+6 2 7 126708 2 9 43691
+7 3 7 273228 0 3 583
+8 2 2 9568 0 0 0
+9 11 12 101511 18 37 41457
+10 2 9 178127 0 5 38191
+11 1 1 4784 0 2 0
+12 0 0 0 0 0 0
+13 2 2 17845 0 2 0
+14 7 7 41765 31 46 18048
+15 1 1 4784 0 0 0
+16 1 1 4784 2 2 13419
+17 5 12 27201777 5 13 3580
+18 3 3 14352 2 4 13287
+19 1 1 13061 1 1 226
+20 1 3 56203 0 1 358
+21 5 5 23920 0 12 2864
+22 0 0 0 5 5 1790
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+us 22 34 13918419
+ca 6 8 96677
+gb 5 5 23920
+cr 4 4 19136
+cn 3 7 281505
+sc 3 3 14352
+in 2 9 178127
+be 2 2 9568
+ru 2 2 4784
+ua 1 1 4784
+az 1 2 41901
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+no_user_agent 4 52244 20240721182923 0
+Go\-http\-client/ 2 9568 20240708141007 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 37117 20240715102040 0
+facebookexternalhit/ 1 14302 20240730095425 0
+Googlebot/ 1 37117 20240718064656 0
+link 1 4784 20240718064752 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 3 31907 0 0
+html 50 308909 0 0
+js 23 719395 0 0
+woff2 1 18028 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/bootstrap/video/meenambooks-video.mp4 0 1 13514934
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 23
+os/2 1 0
+androidlollipop 1 1
+macosx9 1 1
+macosx14 1 0
+winxp 1 0
+blackberry 1 0
+android 1 1
+ios_iphone 7 7
+linuxgentoo 1 0
+psp 1 0
+macosx10 1 0
+androidnougat 1 0
+win8 1 0
+win10 13 11
+android10 2 2
+win7 8 3
+androidmarshmallow 1 1
+androidpie 2 0
+Unknown 11 11
+linux 11 4
+androidoreo 2 1
+macosx15 8 8
+linuxubuntu 1 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 40
+chrome41.0.2227.0 1 0
+chrome121.0.0.0 6 6
+chrome124.0.0.0 1 1
+chrome100.0.4896.58 1 0
+opera28.0.1750.40 1 0
+safari17.3.1 2 2
+chrome102.0.0.0 1 1
+blackberry 1 0
+chrome103.0.5060.114 1 1
+chrome49.0.2623.112 6 2
+chrome76.0.3809.111 2 1
+chrome11.0.696.65 1 1
+safari17.4.1 2 2
+chrome52.0.3624.98 1 1
+chrome76.0.3809.100 1 0
+chrome69.0.3497.100 1 0
+chrome79.0.3945.130 1 1
+chrome33.0.1750.152 1 1
+firefox83.0 1 1
+firefox31.0 1 0
+safari17.2 2 2
+chrome120.0.0.0 5 5
+firefox49.0 1 0
+chrome110.0.0.0 1 1
+galeon 1 0
+chrome79.0.3945.136 1 0
+chrome119.0.0.0 1 1
+chrome10.0.601.0 1 0
+chrome45.0.2454.95 1 1
+chrome100.0.4896.60 1 1
+Unknown 4 4
+safari10.1.0.2342 1 1
+netscape5.0 1 0
+mozilla 9 7
+chrome71.0.2623.112 1 1
+chrome126.0.0.0 8 2
+chrome101.0.4951.41 1 0
+safari17.0 2 2
+chrome76.0.3809.89 1 0
+chrome108.0.0.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(BB10;_Touch)_AppleWebKit/537.10__(KHTML,_like_Gecko)_Version/10.1.0.2342_Mobile_Safari/537.10_ 20240728203043
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240730045511
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240731114903
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240719190849
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240719190849
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 50 71
+From1 0 0
+From2 0 0
+From3 0 0
+From4 1 7
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+406 11 2486
+503 1 0
+404 112 33877
+403 3 850
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 47
+/_all_dbs 1 -
+/.git/HEAD 1 -
+/bootstrap/img/MEENAMBOOKS_LOGO.png 1 https://www.meenambooks.nuscma.com/
+/robots.txt 1 -
+/Public/home/js/check.js 1 -
+/login.action 1 -
+/bootstrap/img/meenam-book.jpg 1 https://www.meenambooks.nuscma.com/
+/wp-config.php 1 -
+/secrets.json 1 -
+/s/2383e2235323e20313e2631323/_/ 1 -
+/config.xml 1 -
+/backup.tar.gz 1 -
+/.git/config 6 -
+/v2/_catalog 1 -
+/docker-compose.yml 3 -
+/.env.production 1 -
+/.DS_Store 1 -
+//connect.facebook.net/en_US/fbevents.js 9 -
+/.ssh/id_ecdsa 1 -
+/wp-admin/setup-config.php 1 -
+/.kube/config 1 -
+/.aws/credentials 1 -
+/./bootstrap/img/MEENAMBOOKS_LOGO.png 12 -
+/.svn/wc.db 1 -
+/about 1 -
+/img/logo.png 13 https://www.meenambooks.nuscma.com/
+/../bootstrap/img/meenabooks_tabicons.png 18 -
+/server.key 1 -
+/bootstrap/img/meenabooks_tabicons.png 8 -
+/phpinfo.php 1 -
+/config.json 2 -
+/backup.zip 1 -
+/.git-credentials 2 -
+/config.yml 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 1 -
+/server 1 -
+/feed 1 -
+/.vscode/sftp.json 1 -
+/config.php 1 -
+/.ssh/id_ed25519 1 -
+/telescope/requests 1 -
+/config/production.json 1 -
+/config.yaml 1 -
+/static/admin/javascript/hetong.js 1 -
+/debug/default/view 1 -
+/config/database.php 1 -
+/codebuild.yml 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 44
+34.248.137.227 4 10 13630640 20240708172623
+138.186.141.156 3 3 14352 20240713145422
+154.47.30.163 2 2 9568 20240708215027
+45.148.10.59 2 9 178127 20240728203043
+47.242.224.70 1 3 56203 20240708175020
+31.6.10.134 1 1 4784 20240710093129
+81.151.157.109 1 1 4784 20240708214952
+143.198.3.8 1 1 4784 20240711185339
+144.126.204.79 1 1 4784 20240709182236
+106.75.137.66 1 3 134222 20240731073255
+35.171.144.152 1 1 13061 20240718050918
+87.236.176.119 1 1 4784 20240707043214
+47.254.74.59 1 1 4784 20240708215658
+71.6.134.233 1 1 4784 20240718074428
+147.185.132.76 1 1 13061 20240702131103
+167.99.209.195 1 1 4784 20240718160857
+162.142.125.213 1 1 4784 20240721180102
+193.36.118.251 1 1 4784 20240713145420
+195.211.77.140 1 1 0 20240708094943
+165.231.141.126 1 1 4784 20240713145420
+115.231.78.4 1 1 13061 20240713044246
+138.197.164.55 1 1 4784 20240704084231
+159.223.31.193 1 1 4784 20240718142213
+35.213.229.218 1 1 4784 20240726155229
+109.205.213.18 1 2 41901 20240730095411
+146.70.173.86 1 1 4784 20240708101926
+199.45.154.125 1 1 4784 20240701134430
+198.235.24.65 1 1 13061 20240719190849
+18.142.177.70 1 8 173343 20240715101935
+87.236.176.235 1 1 4784 20240730045511
+147.185.132.177 1 1 13061 20240719091641
+31.6.10.151 1 1 4784 20240713145420
+198.235.24.207 1 1 13061 20240702144012
+159.89.125.40 1 1 4784 20240704081911
+95.217.18.177 1 1 4784 20240708142811
+157.245.204.205 1 1 13061 20240708094931
+199.45.154.112 1 1 4784 20240728060335
+165.231.193.116 1 1 4784 20240710093129
+165.231.141.133 1 1 4784 20240708094955
+138.186.141.157 1 1 4784 20240708214953
+106.75.181.50 1 3 134222 20240731073251
+162.142.125.193 1 1 4784 20240731114903
+71.19.252.159 1 1 4784 20240708214959
+195.211.77.142 1 1 4784 20240708095004
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20240701 1 1 4784 1
+20240702 2 2 26122 2
+20240704 2 2 9568 2
+20240707 1 1 4784 1
+20240708 18 25 27267462 15
+20240709 1 1 4784 1
+20240710 3 3 14352 3
+20240711 1 1 4784 1
+20240713 5 5 32197 5
+20240715 1 8 173343 1
+20240718 5 10 149337 5
+20240719 2 2 26122 2
+20240721 1 1 4784 1
+20240726 1 1 4784 1
+20240728 2 4 60987 2
+20240730 2 3 46685 2
+20240731 3 7 273228 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 48
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 50 308909 48 48
+/bootstrap/fonts/glyphicons-halflings-regular.woff2 1 18028 0 0
+END_SIDER

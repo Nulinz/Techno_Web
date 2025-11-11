@@ -1,0 +1,2740 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202211 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/ssl/awstats.nulinz.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2698                
+POS_VISITOR 55306               
+POS_DAY 88954               
+POS_DOMAIN 3706                
+POS_LOGIN 4576                
+POS_ROBOT 4731                
+POS_WORMS 5715                
+POS_EMAILSENDER 5846                
+POS_EMAILRECEIVER 5989                
+POS_SESSION 89920               
+POS_SIDER 90134               
+POS_FILETYPES 6124                
+POS_DOWNLOADS 6546                
+POS_OS 6787                
+POS_BROWSER 7345                
+POS_SCREENSIZE 10870               
+POS_UNKNOWNREFERER 10944               
+POS_UNKNOWNREFERERBROWSER 12426               
+POS_ORIGIN 13265               
+POS_SEREFERRALS 13418               
+POS_PAGEREFS 13626               
+POS_SEARCHWORDS 14407               
+POS_KEYWORDS 14559               
+POS_MISC 2361                
+POS_ERRORS 14618               
+POS_CLUSTER 4432                
+POS_SIDER_404 14863               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20221201000016 84 20714 6712968362713
+FirstTime 20221101001436
+LastTime 20221130233335
+LastUpdate 20221201185611 84 0 83 0 0
+TotalVisits 1161                
+TotalUnique 773                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 853                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 70 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 59 68 10153816 100 155 3823194
+1 289 379 5546090 128 223 337064
+2 368 561 11526311 214 316 3516998
+3 678 823 15496373 280 567 514499
+4 1954 2753 63486525 398 1077 1451684
+5 3885 4333 103321334 701 2145 15249796
+6 4706 5264 212965933 974 2687 7733921
+7 4695 5332 199276563 712 1827 6845273
+8 3751 4120 104188417 654 1536 7711913
+9 3592 4125 154135768 795 1676 1846402
+10 2972 3580 112276103 538 1311 7774495
+11 2461 2786 51475622 595 1215 3023701
+12 1657 2339 26802021 614 1964 4727670
+13 2144 2356 32205617 487 959 1138776
+14 2497 2602 45723266 517 1072 4339618
+15 1537 1764 22942800 585 1106 936937
+16 1585 1689 22259296 350 687 1351596
+17 1372 1507 16257411 529 758 1410994
+18 663 708 15432219 210 374 2790888
+19 494 528 6450085 199 486 761633
+20 135 138 2304026 85 166 3277942
+21 58 63 3918224 136 185 6824563
+22 77 114 9290358 323 386 849827
+23 71 142 7892095 116 157 505271
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 43
+us 23629 28776 460775512
+in 17239 18160 664336185
+ca 159 162 7275450
+cn 142 360 52231373
+ru 96 103 10502424
+ch 74 74 652384
+de 74 74 283508
+gb 67 69 3673264
+nl 22 27 9784736
+be 17 27 182560
+il 16 26 3291126
+ao 16 16 478624
+sa 14 15 3201010
+jp 14 14 130200
+eu 14 14 140130
+se 14 25 138002
+sc 14 16 6385262
+fr 11 11 207384
+au 8 8 136242
+cl 7 7 55800
+bg 7 7 57762
+dk 7 7 209398
+zz 6 7 3185706
+kr 5 5 46500
+ae 4 34 2670949
+ma 1 1 9300
+az 2 2 18600
+cv 2 2 18600
+it 1 1 9300
+np 0 1 3129906
+no 2 2 18600
+pl 2 2 18600
+es 1 1 9300
+br 2 2 18600
+ro 0 2 6259812
+at 1 1 406
+bd 0 1 3129906
+vg 0 1 3129906
+by 2 2 59828
+sg 2 2 18600
+gr 4 4 37200
+cy 2 2 18600
+ua 0 1 3129906
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 21
+Googlebot/ 468 24822092 20221130183612 0
+bingbot/ 388 7139736 20221130192807 0
+no_user_agent 199 8885509 20221130160111 0
+curl 121 697716 20221130045307 0
+AdsBot\-Google[\x20]\( 104 3772033 20221130160533 0
+baidu 93 7949709 20221123200734 0
+bot[\s_+:,\.\;\/\\-] 69 5364906 20221130125941 0
+crawl 68 27888 20221130223544 12
+Go\-http\-client/ 64 6733526 20221129142625 0
+YandexBot/ 49 425118 20221128004807 0
+bingpreview 29 8099542 20221127105511 0
+Googlebot\-Image/ 16 17122 20221130171508 0
+CFNetwork 15 36785 20221129054210 0
+(firefox/)([0-9]\.|[0-1][0]\.) 12 111600 20221125160619 0
+Baiduspider/ 8 74400 20221123200731 0
+libwww\-perl 4 119656 20221124231711 0
+Screaming[\x20]Frog[\x20]SEO[\x20]Spider/ 2 18600 20221108202252 0
+link 2 18600 20221129012523 0
+ng/1\. 2 59828 20221115042437 0
+java 1 0 20221128133008 0
+Applebot/ 1 2446 20221110072048 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 18
+php 38106 825756277 0 0
+pdf 4 30077596 0 0
+Unknown 79 96333 0 0
+jpg 173 33189028 0 0
+gif 8 33424 0 0
+png 1076 55453195 0 0
+css 2175 21425425 0 0
+alfa 10 5830 0 0
+js 2180 46073141 0 0
+woff 1 645604 0 0
+webp 124 7637347 0 0
+svg 544 2133443 0 0
+html 3352 34339988 0 0
+txt 39 2262 0 0
+ttf 2 795456 0 0
+xml 4 1384 0 0
+woff2 146 28645616 0 0
+apk 51 162755112 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/ads.txt 206 0 11600
+/assets/android-app/amxxa-app.apk 65 4 197184078
+/app-ads.txt 12 0 0
+/school/Teacher_Documents/DOC-20220912-WA0011._Aadhara5b7f6fef0d561bc92b596ae13d49eeb.pdf 4 0 30077596
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 32
+winnt 6 0
+win10 40214 35768
+macosx 165 52
+macosx6 2 2
+androidjellybean 2 2
+os/2 1 1
+win8 17 17
+winunknown 4 4
+android 808 460
+macosx15 4384 3797
+ios_iphone 103 46
+macosx13 18 18
+macosx12 20 19
+wince 2 2
+winxp 12 10
+macosx10 15 14
+androidkitkat 21 18
+macosx8 4 4
+winlong 10 10
+linux 198 128
+androidlollipop 2 2
+win7 135 53
+Unknown 649 484
+macosx14 14 14
+win8.1 47 7
+android10 856 555
+androidoreo 139 18
+linuxubuntu 28 24
+androidnougat 57 57
+androidmarshmallow 54 26
+macosx7 1 0
+macosx11 88 88
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 163
+chrome66.0.3359.117 2 2
+chrome107.0.5304.91 34 4
+netscape5.0 144 144
+firefox25.0 2 0
+firefox102.0 35 33
+opera11.52 1 1
+chrome87.0.4280.88 130 20
+firefox76.0 2 2
+firefox65.0 6 4
+chrome103.0.5060.114 10 6
+chrome57.0.3039.107 2 2
+chrome87.0.416 1 0
+mozilla 234 157
+chrome26.0.1410.65 2 2
+chrome57.0.2987.132 3 0
+chrome31.0.1650.63 4 2
+chrome68.0.3440.91 137 16
+chrome89.0.4389.90 1 1
+chrome60.0.3112.107 57 57
+chrome106.0.5249.119 116 12
+chrome104.0.0.0 19 0
+chrome36.0.1985.67 2 2
+safari4.0.4 4 4
+chrome91.0.4472.114 142 32
+firefox47.0 84 84
+firefox73.0 8 5
+chrome93.0.4577.63 3 0
+chrome48.0.2564.116 2 2
+chrome81.0.4044.92 31 2
+chrome67.0.252 1 0
+chrome51.0.2723.44 2 2
+firefox83.0 2 2
+chrome106.0.5249.126 34 4
+opera35.0.2066.37 2 2
+chrome35.0.1916.153 1 0
+firefox91.0 4 4
+chrome59.0.3004.58 2 2
+chrome57.0.2669 1 0
+chrome94.0.4606.61 4 4
+chrome56.0.2924.87 2 2
+firefox104.0 15 15
+chrome40.0.2214.111 2 2
+safari14.0 26 26
+chrome99.0.4844.84 2 2
+chrome90.0.131 1 0
+chrome39.0.2171.95 2 2
+chrome107.0.0.0 34602 33301
+chrome96.0.4664.55 1 0
+chrome54.0.2840.98 8 8
+msie6.0 5 5
+chrome93.0.2018 1 0
+chrome54.0.3090.103 2 2
+msie9.0 6 4
+safari11.1 16 16
+chrome97.0.4692.71 6 5
+safari10.1.2 1 0
+chrome103.0.0.0 377 296
+safari13.0.3 11 10
+chrome98.0.4758.132 2 2
+chrome40.0.2214.93 1 1
+opera90.0.4480.100 2 2
+chrome94.0.4606.81 6 6
+Unknown 251 210
+chrome101.0.4951.67 4 4
+chrome34.0.1847.116 8 8
+chrome99.0.4844.88 6 2
+firefox68.0 2 2
+chrome85.0.34 1 0
+safari15.5 2 0
+chrome27.0.1453.93 3 3
+firefox103.0 7 5
+chrome100.0.4896.127 1 0
+chrome64.0.186 1 0
+lynx 2 2
+chrome52.0.2743.116 12 12
+chrome106.0.0.0 2156 1604
+chrome35.0.2117.157 1 1
+msie11.0 1 0
+chrome50.0.2661.102 4 4
+chrome41.0.2228.0 7 7
+chrome79.0.3945.130 19 18
+firefox98.0 6 6
+firefox58.0 6 6
+chrome83.0.4103.97 65 65
+chrome90.0.4430.210 6 2
+chrome93.0.4577.0 34 4
+firefox27.0 2 2
+firefox63.0 4 4
+chrome83.0.4103.116 2 0
+chrome85.0.4183.121 6 6
+chrome76.0.3809.132 6 6
+chrome60.0.3112.113 176 176
+chrome90.0.4430.93 2 2
+chrome93.0.1542 1 0
+chrome44.0.2403.157 2 2
+chrome27.0.1500.55 4 4
+firefox26.0 9 6
+chrome107.0.404 1 1
+chrome74.0.3729.169 79 79
+chrome79.0.3945.88 2 2
+chrome26.0.1410.63 2 2
+chrome89.0.4389.114 4 4
+safari14.1.2 170 83
+chrome88.0.4240.193 2 2
+chrome96.0.4664.110 216 206
+chrome88.0.4324.190 13 13
+chrome100.0.4758.11 2 2
+firefox79.0 8 8
+msie10.0 4 2
+chrome102.0.2996 1 0
+chrome63.0.3239.132 42 2
+safari15.6.1 64 8
+chrome87.0.4280.141 14 2
+chrome104.0.5112.101 2 0
+chrome49.0.2623.112 45 10
+chrome85.0.4164.0 1 1
+firefox105.0 10 10
+chrome76.0.3809.100 13 0
+chrome90.0.4430.85 2 2
+chrome52.0.3624.98 8 8
+chrome102.0.5005.63 4 2
+chrome45.0.2454.94 2 2
+chrome71.0.3578.98 27 27
+arora 1 1
+firefox55.0 12 11
+chrome41.0.2272.104 2 2
+chrome86.0.4 13 12
+chrome42.0.2307.2 2 2
+chrome74.0.3729.131 6 6
+firefox107.0 4249 1739
+chrome72.0.1327 1 0
+chrome81.0.4044.138 12 12
+chrome105.0.0.0 62 30
+chrome17.0.963.84 2 2
+opera34.0.2036.41 2 2
+firefox80.0 6 0
+chrome84.0.4147.89 3 0
+chrome85.0.4183.83 1 0
+chrome88.0.4324.181 98 81
+chrome93.0.4577.82 3 3
+firefox40.0 2 2
+chrome58.0.3029.110 2 2
+safari5.0.2 2 2
+chrome 2 2
+firefox78.0 4 4
+chrome100.0.4895.86 2 2
+chrome80.0.3987.149 5 5
+firefox106.0 3441 2606
+firefox101.0 12 12
+chrome98.0.4758.102 14 14
+chrome95.0.4638.69 12 2
+chrome78.0.3904.108 108 106
+safari15.4 35 33
+chrome83.0.4103.61 1 0
+chrome37.0.2049.0 1 1
+chrome67.0.3396.99 2 2
+chrome60.0.3098.69 2 2
+safari13.1 2 2
+chrome70.0.3538.77 5 4
+chrome57.0.438 1 0
+chrome88.0.396 1 0
+firefox24.0 2 2
+android 18 18
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 21
+Lynx/2.9.0dev.5_libwww-FM/2.14_SSL-MM/1.4.1_GNUTLS/3.6.13 20221130174433
+Mozilla/5.0_(compatible;_ips-agent) 20221125014833
+lua-resty-http/0.10_(Lua)_ngx_lua/10019 20221124112637
+Mozilla/5.0_(compatible;_Dataprovider.com) 20221110172423
+IAB-Tech-Lab 20221130045630
+WhatsApp/2.2244.7_W 20221121074943
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20221130074236
+python-httpx/0.23.0 20221120013016
+ALittle_Client 20221120001259
+'Cloud_mapping_experiment._Contact_research@pdrlabs.net' 20221119114255
+fasthttp 20221130160114
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_Mozilla/5.0,_Google-AdWords-Express)_Chrome/106.0.5249.119_Safari/537.36 20221130082607
+xfa1 20221130053012
+Mozilla/5.0_zgrab/0.x 20221130045335
+l9tcpid/v1.1.0 20221112133144
+Mozilla/5.0_(en-us)_AppleWebKit/537.36(KHTML,_like_Gecko;_Google-Adwords-DisplayAds-WebRender;)_Chrome/106.0.5249.119Safari/537.36 20221130131646
+url 20221113001458
+Google-Adwords-DisplayAds 20221130131804
+Report_Runner 20221127175523
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20221129222050
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20221130065038
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 14
+Microsoft_Windows_Network_Diagnostics 20221130060831
+'Cloud_mapping_experiment._Contact_research@pdrlabs.net' 20221119114255
+ALittle_Client 20221120001259
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20221130074236
+python-httpx/0.23.0 20221120013016
+WhatsApp/2.2244.7_W 20221121074943
+IAB-Tech-Lab 20221130045630
+lua-resty-http/0.10_(Lua)_ngx_lua/10019 20221124112637
+Report_Runner 20221127175523
+Google-Adwords-DisplayAds 20221130131804
+url 20221113001458
+l9tcpid/v1.1.0 20221112133144
+xfa1 20221130053012
+fasthttp 20221130160114
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 11167 11541
+From1 34 34
+From2 38 42
+From3 60 140
+From4 30401 36319
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+baidu 8 12
+www_bing_com 4 4
+google_com 1 1
+www_google_com 25 25
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 20
+http://216.10.252.82:80 32 32
+http://mail.nulinz.com 7 7
+https://m.meendoru.net 4 4
+https://l.instagram.com 4 4
+http://mail.nulinz.com/wordpress 2 2
+https://216.10.252.82 2 16
+http://mail.nulinz.com/wp 2 2
+http://mail.nulinz.com/backup 1 1
+http://mail.nulinz.com/new 1 1
+http://mail.nulinz.com/old 1 1
+http://mail.nulinz.com/bc 1 1
+http://mail.nulinz.com/main 1 1
+http://mail.nulinz.com/bk 1 1
+http://mail.nulinz.com/home 1 1
+https://meenamvidhayalaya.com 0 11
+https://mail.nulinz.com 0 11
+https://mail.solviersolutions.in 0 11
+https://www.solviersolutions.in 0 11
+https://solviersolutions.in 0 11
+https://nuclasses.nuscma.com 0 11
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 13
+409 25 2075
+302 3018 7426504
+500 907 0
+504 1 569
+403 94 33652
+421 150 48300
+406 844 190518
+400 1 347
+416 1 599
+301 823 198154
+404 14499 5362961
+503 3 716
+206 22 881408
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1009
+/dev.php 2 -
+/school/teacher/app/img/demo-img/bootstrap.png 7 https://www.nulinz.com/school/teacher/app/dashboard.php
+/phpformbuilder/plugins/jQuery-File-Upload/server/php/index.php 2 -
+/showLogin.cc 4 -
+/school/staff_app/php/img/demo-img/code.png 8 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/cron/ 2 -
+/school/teacher/app/service-worker.js 24 -
+/source/config 2 -
+/login.action 8 -
+/school/admin/classwiseStrenght.php 2 -
+/server/s3.js 1 -
+/build.php 2 -
+/adminer-4.7.1-mysql.php 1 -
+/school/js/vanilla-dataTables.min.js 90 https://www.nulinz.com/school/teacher/addstudent.php
+/ZDRl 1 -
+/.s3cfg 2 -
+/uploads 2 -
+/%C0 1 -
+/agent/timeclock.php 4 -
+/assets/ckeditor/kcfinder/js/helper.js 1 -
+/inc/config 2 -
+/school/js/rangeslider.min.js 89 https://www.nulinz.com/school/teacher/addstudent.php
+/adminer-4.6.3.php 1 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.1-mysql-en.php 1 -
+/lib/ 2 -
+/phpsysinfo/phpsysinfo.php 2 -
+/school/teacher/app/img/demo-img/pwa.png 7 https://www.nulinz.com/school/teacher/app/dashboard.php
+/school/staff_app/php/img/bg-img/user1.png 8 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/admin/adminer.php 1 -
+/admin/index.html 14 -
+/school/staff_app/php/img/bg-img/31.jpg 8 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/wp-admin/rss.php 1 http://nulinz.com//wp-admin/rss.php
+/includes/ 2 -
+/test2.php 2 -
+/privacy-policies.html/assets/vendor/jquery.easing/jquery.easing.min.js 1 -
+/wp-content/plugins/wpputty/wpputty.php 2 -
+/service/.git/config 2 -
+/school/parent/favourite-ads.html 4 https://www.nulinz.com/school/parent/
+/old-site 6 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.1-mysql.php 1 -
+/dms/aastra/000000000000.cfg 2 -
+/CFIDE/administrator/enter.cfm 2 -
+/easyshoppy/shopping/admin/app/checksetting.php 54 -
+/time.php 2 -
+/___proxy_subdomain_cpcalendars/adm.php 1 -
+//level/15/exec/-/sh/run/CR 1 -
+/libs/.git/config 2 -
+/phpinfo.php5 2 -
+/adminer-4.7.5-mysql.php 1 -
+/whsrfytp.php 2 www.google.com
+/wp-2020.php 2 http://nulinz.com//wp-2020.php
+/phpinfo2.php 2 -
+/adminer-4.7.7-mysql-en.php 1 -
+/prov/000000000000.cfg 2 -
+/school/js/imagesloaded.pkgd.min.js 90 https://www.nulinz.com/school/teacher/addstudent.php
+/autodiscover/autodiscover.json 22 -
+/phptest.php 2 -
+/school/admin/paybusfees2.php.php 2 -
+/rest/ 2 -
+/developer.php 2 -
+/new 12 -
+/.DS_Store 8 -
+/evox/about 2 -
+/lib/config 2 -
+/___proxy_subdomain_cpcalendars/adminer1.php 1 -
+/school/staff_app/php/img/demo-img/npm.png 8 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/school/admin/viewAttendanve.php 2 -
+/inc/ 2 -
+/school/admin/$url 2 https://nulinz.com/school/admin/staffprofile.php
+/data 2 -
+/openam/XUI/ 2 -
+/web.php 2 -
+/oldsite 6 -
+/3index.php 8 http://nulinz.com//3index.php
+/agc/astguiclient.php 2 -
+/school/teacher/app/img/bg-img/1.jpg 7 https://www.nulinz.com/school/teacher/app/dashboard.php
+/temp/config 2 -
+/school/teacher/img/icons/icon-152x152.png 6 https://nulinz.com/school/teacher/dashboard.php
+/kvzkbjon.php 2 www.google.com
+/school/admin/reportDailyFeesCollection.php 2 -
+/school/admin/classwiseStudentStrength.php 2 -
+/school/admin/teacherProfile.php&tid=1 2 https://nulinz.com/school/admin/teacherProfile.php
+/manage/account/login 16 -
+/devs.php 2 -
+/admin/js/swfupload/upload.php 2 -
+/testing 12 -
+/school/staff_app/php/js/baguetteBox.min.js 4 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/admin/info.php 2 -
+/school/teacher/img/demo-img/bootstrap.png 87 https://www.nulinz.com/school/teacher/dashboard.php
+/payout.php 2 http://nulinz.com//payout.php
+/makhdamx.php 6 -
+/sms.py 2 -
+/school/parent/profile.html 2 https://www.nulinz.com/school/parent/
+/school/staff_app/php/img/demo-img/pwa.png 8 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/avp/app/img/product/2.png 14 https://www.nulinz.com/avp/app/dashboard.php
+/___proxy_subdomain_cpcalendars/adminer-4.7.4.php 1 -
+/school/admin/pdf/print_classwithsec_wisestrength.php 4 -
+/good.php 2 http://nulinz.com//good.php
+/wp-god.php 2 http://nulinz.com//wp-god.php
+/school/js/countdown.js 89 https://www.nulinz.com/school/teacher/addstudent.php
+/school/admin/staffView.php 2 https://nulinz.com/school/admin/teacherView.php
+/deploy.php 2 -
+/a.php 2 -
+/wp-x.php 2 http://nulinz.com//wp-x.php
+/adminer.php 1 -
+/wp-includes/ID3/license.txt 1 -
+/feed/ 1 -
+/school/staff/app/img/demo-img/dark.png 12 https://www.nulinz.com/school/staff/app/dashboard.php
+/priv8.php 2 http://nulinz.com//priv8.php
+/school/admin/deleteallwoance.php 14 https://www.nulinz.com/school/admin/staffprofile.php
+/test9.php 2 -
+/school/js/internet-status.js 89 https://www.nulinz.com/school/teacher/addstudent.php
+/phpsysinfo/phpinfo.php 2 -
+/___proxy_subdomain_cpcalendars/robots.txt 4 -
+/___proxy_subdomain_webdisk/ 9 -
+/adminer-4.7.7-mysql.php 1 -
+/backup/.git/config 2 -
+/franchiseassests/css/gendral.css 13 https://www.nulinz.com/distributorship.php
+/admin/.env 2 -
+/school/teacher/img/bg-img/3.jpg 83 https://www.nulinz.com/school/teacher/dashboard.php
+/school/admin/classwiseFeesReport.php 1 https://www.nulinz.com/school/admin/clswisePending.php
+/school/admin/paybusfeed1.php 2 -
+/assets/java-script/jquery-3.4.1.js 60 https://nulinz.com/school/admin/classwiseFeesReport.php
+/school/staff_app/php/img/demo-img/dark.png 8 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/dms/polycom331/000000000000.cfg 2 -
+/.phpinfo 2 -
+/test8.php 2 -
+/avp/img/core-img/schedule.png 4 https://www.nulinz.com/avp/app/dashboard.php
+/svc/.git/config 2 -
+/school/js/pwa.js 90 https://www.nulinz.com/school/teacher/addstudent.php
+/schoo 2 -
+/1.php 2 http://nulinz.com//1.php
+/___proxy_subdomain_cpcontacts/robots.txt 4 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.7.php 1 -
+/adminer-4.7.8-en.php 1 -
+/school/parent/assets/images/background.svg 27 https://nulinz.com/school/parent/1ndex.php
+/sitemap.xml 38 -
+/ReportServer 10 -
+/school/staff_app/php/img/bg-img/1.jpg 8 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/defau1t.php 2 -
+/502.shtml 8 https://www.nulinz.com/school/admin/clswisePending.php
+/adminer1.php 1 -
+/apache/i.php 2 -
+/assets/css/custom%20-%20Copy.css 1 https://nulinz.com/school/admin/classwiseFeesReport.php
+/adminer-4.7.3.php 1 -
+/franchiseassests/css/reset%20-%20Copy.css 14 https://www.nulinz.com/distributorship.php
+/admin/config 2 -
+/CSS/Miniweb.css 2 -
+/data/.git/config 2 -
+/test/config 2 -
+/vendor/venobox/venobox.min.js 1 -
+/v2/_catalog 8 -
+/static../.git/config 4 -
+/___proxy_subdomain_cpcalendars/adminer-4.6.3.php 1 -
+/cgi-bin/config.exp 6 -
+/school/staff_app/php/js/active.js 4 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/school/staff_app/php/js/vanilla-dataTables.min.js 4 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/log 2 -
+/school/admin/deletebus.php 18 https://nulinz.com/school/admin/studentProfile.php
+/___proxy_subdomain_cpcontacts/ 11 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.4/ 1 -
+/.env.example 6 -
+/s3.js 1 -
+/humans.txt 8 http://nulinz.com/humans.txt
+/actuator/env 2 -
+/old/ 4 -
+/school/img/bg-img/2.jpg 37 https://www.nulinz.com/school/teacher/profile.php
+/school/staff/app/img/demo-img/npm.png 12 https://www.nulinz.com/school/staff/app/dashboard.php
+/01.php 2 http://nulinz.com//01.php
+/static/admin/javascript/hetong.js 1 -
+/school/parent/assets/css/custom%20-%20Copy.css 27 https://nulinz.com/school/parent/1ndex.php
+/about 8 -
+/start.cfm 2 -
+/02.php 2 http://nulinz.com//02.php
+/remote/login 6 -
+/ab2g 98 -
+/blog 12 -
+/include 2 -
+/adminer-4.6.2-mysql.php 1 -
+/privacy-policies.html/assets/vendor/php-email-form/validate.js 1 -
+/wp-includes/class-wp-page-icon.php 7 -
+/school/admin/addbusroute.php 2 https://www.nulinz.com/school/admin/busProfile.php
+/wp-includes/wp-class.php 2 -
+/99vu 6 -
+/admin.php 8 http://nulinz.com//admin.php
+/config/cache.php 2 -
+/tmp/.git/config 2 -
+/school/teacher/js/bootstrap.bundle.min.js.map 12 -
+/school/admin/teacherView.ph 2 -
+/schoo/ 2 -
+/school/staff/app/img/demo-img/code.png 12 https://www.nulinz.com/school/staff/app/dashboard.php
+/config/config 2 -
+/ab2h 82 -
+/school/staff/app/img/bg-img/3.jpg 12 https://www.nulinz.com/school/staff/app/dashboard.php
+/school/parent/parent/dashboard.php 2 https://nulinz.com/school/parent/index.php
+/adminer-4.7.6-mysql.php 1 -
+/school/staff_app/php/js/index.js 4 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/school/staff/app/img/bg-img/1.jpg 12 https://www.nulinz.com/school/staff/app/dashboard.php
+/apache.php 2 -
+/adminer-mysql.php 1 -
+/school/teacher/app/img/demo-img/rtl.png 7 https://www.nulinz.com/school/teacher/app/dashboard.php
+/mad.php 2 http://nulinz.com//mad.php
+/___proxy_subdomain_cpcalendars/wp-includes/class-wordpress-license.php 1 -
+/wp-commentin.php 8 -
+/school/parent/admin/index.php 16 -
+/wp-2021.php 2 http://nulinz.com//wp-2021.php
+/403.php 2 http://nulinz.com//403.php
+/wp-login.php 2 http://nulinz.nuscma.com/wp-login.php
+/school/staff_app/php/js/slideToggle.min.js 2 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/sites/all/libraries/plupload/examples/upload.php 2 -
+/wp-config.txt 2 -
+/www/js/kcfinder/js/helper.js 1 -
+/site 6 -
+/sources/.git/config 2 -
+/___proxy_subdomain_cpcalendars/adminer-4.8.0-en.php 1 -
+/wp-customize.php 2 -
+/wp-blog.php 4 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 30 -
+/services 2 -
+/___proxy_subdomain_cpanel/robots.txt 4 -
+/php-info.php 2 -
+/school/admin/printpadifees.php 2 -
+/simpla/ 2 -
+/school/admin/edihomework.php 2 -
+/provision/000000000000.cfg 2 -
+/old-index.php 2 http://nulinz.com//old-index.php
+/webfig/ 4 -
+/sites/all/libraries/elfinder/src/connectors/php/connector.php 2 -
+/school/requestReset.php 4 http://www.nulinz.com/school/
+/app.cfg 2 -
+/bak 2 -
+/includes/.git/config 2 -
+/lufix.php 2 http://nulinz.com//lufix.php
+/libs 2 -
+/a.txt 2 -
+/include/config 2 -
+/___proxy_subdomain_cpcalendars/adminer/adminer.php 1 -
+/school/teacher/img/demo-img/code.png 85 https://www.nulinz.com/school/teacher/dashboard.php
+/school/teacher/img/bg-img/31.jpg 83 https://www.nulinz.com/school/teacher/dashboard.php
+/adminer-4.6.3/ 1 -
+/school/staff_app/php/style.css 2 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/school/teacher/img/demo-img/sass.png 85 https://www.nulinz.com/school/teacher/dashboard.php
+/avp/app/home.html 2 https://www.nulinz.com/avp/app/dashboard.php
+/school/staff/app/img/bg-img/33.jpg 12 https://www.nulinz.com/school/staff/app/dashboard.php
+/Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php 2 http://nulinz.com//Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php
+/school/staff_app/php/img/icons/icon-180x180.png 6 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/adminer-4.8.0-mysql.php 1 -
+/wp-info.php 2 http://nulinz.com//wp-info.php
+/school/admin/viewmarks.php 2 -
+/resolve 4 -
+/screenshot_1.php 2 http://nulinz.com//screenshot_1.php
+/nulinzManag/branchs 20 http://www.nulinz.com/
+/school/admin/payBusfees1.php 8 -
+/dms/vvx300/000000000000.cfg 2 -
+/index1.php 2 -
+/files 2 -
+/wp_wrong_datlib.php 4 http://nulinz.com//wp_wrong_datlib.php
+/cfg 2 -
+/script/ 2 -
+/console/ 6 -
+/service 2 -
+/assets/kcfinder/js/helper.js 1 -
+/_profiler/phpinfo 8 -
+/cron 2 -
+/login 12 -
+/___proxy_subdomain_cpcalendars/adminer-4.8.0-mysql.php 1 -
+/___proxy_subdomain_webmail/ 1 -
+/wp-admin/xleet.php 1 http://nulinz.com//wp-admin/xleet.php
+/test_phpinfo.php 2 -
+/__Additional 8 -
+/downloads/ 2 -
+/school/teacher/app/index 2 -
+/aaaaaaaaaaaaaaaaaaaaaaaaaqr 2 -
+/adminer-4.7.7.php 1 -
+/.gitlab-ci.yml 2 -
+/_adminer.php 1 -
+/avp/app/img/icons/icon-72x72.png 67 https://www.nulinz.com/avp/app/dashboard.php
+/c.php 2 http://nulinz.com//c.php
+/___proxy_subdomain_webmail/robots.txt 4 -
+/tmp/ 2 -
+/teacher/ 4 -
+/school/admin/studentclasschange.php 4 https://nulinz.com/school/admin/studentProfile.php
+/apache/phpinfo.php 2 -
+/xleet.php 4 http://nulinz.com//xleet.php
+/wordpress 12 -
+/admin/public/js/uploadify/uploadify.css 1 -
+/sendgrid.env 2 -
+/infophp.php 4 -
+/asdf.php 2 -
+/openam/css/main.css 1 -
+/sitemap.xml.gz 4 -
+/___proxy_subdomain_cpcalendars/adminer-4.6.3-mysql-en.php 1 -
+/wikindex.php 10 http://nulinz.com//wikindex.php
+/school/admin/Sectioneditprofile.php 2 -
+/school/admin/pdf/print__classwithsec_wisestrength.php 4 -
+/lock360.php 2 http://nulinz.com//lock360.php
+/apache/info.php 2 -
+/xltavrat.php 4 -
+/phone1.cfg 2 -
+/phpinfo1.php 2 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.4-mysql.php 1 -
+/school/parent/post-ad.html 4 https://www.nulinz.com/school/parent/dashboard.php
+/wp-content/.git/config 4 -
+/Yr2_ 1 -
+/wxo.php 2 http://nulinz.com//wxo.php
+/assets/images/gallery/blog_bg.jpg 1 -
+/adminer-4.6.2/ 1 -
+/alfa.php 2 http://nulinz.com//alfa.php
+/rest 2 -
+/avp/css/bootstrap.min.css.map 134 -
+/baindex.php 2 http://nulinz.com//baindex.php
+/source/.git/config 2 -
+/school/assets/icons/newicons/Nuscma-tab-icon.sv%20g 8 https://nulinz.com/school/admin/PurchaseOrderItem.php
+/admin/assets/js/views/login.js 1 -
+/school/admis 2 -
+/api/search 8 -
+/phpinfo.php4 2 -
+/adminer-4.7.2.php 1 -
+/nmaplowercheck1667687816 2 -
+/400.shtml 294 -
+/services/.git/config 2 -
+/backend/ 2 -
+/service/config 2 -
+/adm/adminer.php 1 -
+/ALFA_DATA/alfacgiapi/ups.php 2 http://nulinz.com//ALFA_DATA/alfacgiapi/ups.php
+/data/ 2 -
+/school/teacher/app/img/bg-img/36.png 9 https://www.nulinz.com/school/teacher/app/index.php
+/privacy-policies.html/assets/vendor/aos/aos.js 1 -
+/adminer/ 1 -
+/adminer-4.7.5.php 1 -
+/solr/ 6 -
+/wp-easy.php 2 http://nulinz.com//wp-easy.php
+/ 43 -
+/1index.php 4 http://nulinz.com//1index.php
+/tmp/config 2 -
+/reminder.php 2 http://nulinz.com//reminder.php
+/backup/config 2 -
+/privacy-policies.html/assets/js/main.js 1 -
+/menu.shtml 2 -
+/linusadmin-phpinfo.php 2 -
+/___proxy_subdomain_cpcalendars/adminer-4.8.0-mysql-en.php 1 -
+/wp-content/themes/seotheme/mar.php 2 -
+/WKJp 1 -
+/cache.php 2 -
+/tz.php 2 -
+/owa/auth/logon.aspx 88 -
+/aws.env 2 -
+//feed/ 1 -
+/about.php 2 http://nulinz.com//about.php
+/school/staff_app/php/js/imagesloaded.pkgd.min.js 4 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/school/img/bg-img/7.jpg 22 https://nulinz.com/school/teacher/document.php
+/config.json 4 -
+/school/admin/termPaid 2 -
+/xl.php 4 http://nulinz.com//xl.php
+/media-admin.php 2 http://nulinz.com//media-admin.php
+/school/staff/app/login.php 2 -
+/adminer-4.8.0/ 1 -
+/school/img/bg-img/6.jpg 22 https://nulinz.com/school/teacher/document.php
+/index.html/assets/vendor/aos/aos.js 1 -
+/src 2 -
+/1337.php 2 http://nulinz.com//1337.php
+/vendor/jquery/jquery.min.js 1 -
+/C.php 2 http://nulinz.com//C.php
+/test123.php 2 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.7/ 1 -
+/school/admin/classProfile.php 48 https://www.nulinz.com/school/admin/classView.php
+/main.php 2 -
+/.travis.yml 2 -
+/autoload_classmap.php 2 http://nulinz.com//autoload_classmap.php
+/adminer-4.6.3-mysql.php 1 -
+/avp/img/core-img/profile.png 1 https://www.nulinz.com/avp/app/dashboard.php
+/server.cfg 2 -
+/wp-admin/style.php 1 -
+/_ignition/health-check/ 10 http://nulinz.com/_ignition/health-check/
+/adminer-4.7.1.php 1 -
+/school/teacher/examDetail.php 4 -
+/image/screenshot_1.php 2 http://nulinz.com//image/screenshot_1.php
+/app 2 -
+/3x.php 2 http://nulinz.com//3x.php
+/___proxy_subdomain_cpcalendars/adminer-4.6.2-mysql.php 1 -
+/includes 2 -
+/404.php 4 -
+/dashboard/test.php 2 -
+/school/staff_app/php/js/pwa.js 4 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/school/teacher/viewMark.php 2 -
+/school/teacher/dashboard.php 12 -
+/school/staff_app/style.css 3 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/php_info.php 2 -
+/adminer-4.8.0.php 1 -
+/___proxy_subdomain_cpcalendars/tools/adminer.php 1 -
+/assets/icons/newicons/Nuscma-tab-icon.svg 5 -
+/vendor/bootstrap/js/bootstrap.bundle.min.js 1 -
+/docker-compose.yml 16 -
+/privacy-policies.html/assets/vendor/waypoints/jquery.waypoints.min.js 1 -
+/dashboard/phpinfo.php 2 -
+/avp/app/img/bg-img/9.jpg 1 https://www.nulinz.com/avp/app/edit_profile.php
+/include/.git/config 2 -
+/token.php 2 -
+/config/.git/config 2 -
+/admin/ 8 -
+/school/teacher/img/icons/icon-180x180.png 30 https://nulinz.com/school/teacher/dashboard.php
+/privacy-policies.html/assets/vendor/jquery/jquery.min.js 1 -
+/svc/config 2 -
+/school/teacher/img/icons/icon-96x96.png 8 https://nulinz.com/school/teacher/dashboard.php
+/school/admin/SectioneditProfile.php 2 -
+/services/ 2 -
+/school/js/index.js 90 https://www.nulinz.com/school/teacher/addstudent.php
+/phpinfo.html 2 -
+/adminer-4.7.1/ 1 -
+/school/admin/printc2 2 -
+/git 2 -
+/school/parent/assets/css/reset%20-%20Copy.css 27 https://nulinz.com/school/parent/1ndex.php
+/school/staff/app/index.php 2 -
+/x.php 6 -
+/tools/adminer.php 1 -
+//wp-includes/ID3/license.txt 1 -
+/assets/jquery-file-upload/server/php/index.php 2 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.7-mysql-en.php 1 -
+/fw.php 4 -
+/privacy-policies.html/assets/vendor/counterup/counterup.min.js 1 -
+/conf/config 2 -
+/info2.php 2 -
+/phpversion.php 2 -
+/school/admin/print__classwithsec_wisestrength.php 2 https://nulinz.com/school/admin/classwiseStudentStrengthReport.php
+/___proxy_subdomain_cpcalendars/_adminer.php 1 -
+/main 12 -
+/xx.php 2 http://nulinz.com/xx.php
+/cgi-bin/../../../../bin/sh 5 -
+/nulinzManag/branchs/ 52 http://www.nulinz.com/
+/aastra.cfg 2 -
+/blog/ 4 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.7-mysql.php 1 -
+/school/js/tiny-slider.js 89 https://www.nulinz.com/school/teacher/addstudent.php
+/school/staff/ 2 -
+/wallets 2 -
+/phpinfodev.php 2 -
+/school/teacher/ViewAttendance.php 2 -
+/___proxy_subdomain_cpcalendars/adminer.php 1 -
+/sources/config 2 -
+/index.html/assets/vendor/owl.carousel/owl.carousel.min.js 1 -
+/owa/ 6 -
+/templates/beez5/index.php 2 -
+/SCHOOL 2 -
+/p.php 2 -
+/phpsysinfo.php 2 -
+/sip3.cfg 2 -
+/api 2 -
+/inf.php 2 -
+/0z.php 4 -
+/app-ads.txt 24 -
+/school/staff_app/php/js/countdown.js 4 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/lib/.git/config 2 -
+/xleet-shell.php 4 -
+/wp-content/languages/index.php 2 -
+/mysql.php 1 -
+/school/staff_app/php/img/bg-img/32.jpg 8 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/school/admin/priny1.php 2 -
+/defaul1.php 2 -
+/wp-content/mu-plugins-old/index.php 6 -
+/env.template 2 -
+/school/pdf/printclasswiseReport.php 24 https://nulinz.com/school/admin/classView.php
+/adminer-4.7.6.php 1 -
+/panel/kcfinder/js/helper.js 1 -
+/rest.php 2 -
+/cpznel 2 -
+/school/teacher/img/demo-img/rtl.png 85 https://www.nulinz.com/school/teacher/dashboard.php
+/pps/aastra/000000000000.cfg 2 -
+/phpinfo.php 2 -
+/pi.php5 2 -
+/ewotlmxh.php 2 www.google.com
+/nuclasses.in 2 -
+/phpsysinfo 2 -
+/files/ 2 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.5-mysql.php 1 -
+/school/teacher/img/bg-img/32.jpg 83 https://www.nulinz.com/school/teacher/dashboard.php
+/assets/css/frame-work%20-%20Copy.css 1 https://nulinz.com/school/admin/classwiseFeesReport.php
+/index.pl 2 -
+/avp/img/bg-img/9.jpg 26 https://www.nulinz.com/avp/app/dashboard.php
+/___proxy_subdomain_cpcalendars/adminer-mysql.php 1 -
+/school/staff/app/service-worker.js 40 https://www.nulinz.com/school/staff/app/dashboard.php
+/school/teacher/app/img/bg-img/33.jpg 7 https://www.nulinz.com/school/teacher/app/dashboard.php
+/adminer-4.6.2.php 1 -
+/downloads 2 -
+/.env.php 2 -
+/___proxy_subdomain_cpcalendars/wp-includes/wp-system-cloud.php 1 -
+/svc/ 2 -
+/wordpress/ 6 -
+/school/admin/Reciver.php 2 -
+/phpinfo/info.php 2 -
+/wp-content/plugins/wpyii2/wpyii2.php 2 -
+/test_phpinfo4.php 2 -
+/public/_ignition/health-check/ 10 http://nulinz.com/public/_ignition/health-check/
+/adminer-4.6.1.php 1 -
+/school/admin/Sectionstudent.php 2 -
+/wp-includes/1index.php 2 http://nulinz.com//wp-includes/1index.php
+/app/webroot/js/kcfinder/js/helper.js 1 -
+/libs/ 2 -
+/wp-admin/setup-config.php 1 http://nulinz.com//wp-admin/setup-config.php
+/school/admin/SectionlistProfile.php 2 https://www.nulinz.com/school/admin/SectionlistProfile.php
+/cgi-bin/../../../../../../../../../etc/hosts 2 -
+/actuator/gateway/routes 36 -
+/inc/.git/config 2 -
+/adminer-4.7.1-mysql-en.php 1 -
+/test_info3.php 2 -
+/school/teacher/service-worker.js 1156 https://www.nulinz.com/school/teacher/student.php
+/sources 2 -
+/explore 66 -
+/utchiha.php 2 http://nulinz.com//utchiha.php
+/.git/config 96 -
+/upload.php 4 http://nulinz.com//upload.php
+/adminer-4.7.7/ 1 -
+/mini.php 4 -
+/in.php 2 -
+/school/js/slideToggle.min.js 88 https://www.nulinz.com/school/teacher/addstudent.php
+/school/admin/classView.php 1 -
+/adminer/adminer.php 1 -
+/rest/.git/config 2 -
+/x.cfg 2 -
+/a 2 -
+/xmlrqc.php 2 http://nulinz.com//xmlrqc.php
+/adminer-4.7.3-mysql.php 1 -
+/aws-secret.yaml 2 -
+/polycom/000000000000.cfg 2 -
+/privacy-policies.html/assets/vendor/isotope-layout/isotope.pkgd.min.js 1 -
+/class-wp-widget-archives.php 4 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.1/ 1 -
+/of.php 2 -
+/git/ 2 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.8.php 1 -
+/test4.php 2 -
+/Portal/Portal.mwsl 6 -
+/js/kcfinder/js/helper.js 1 -
+/api/public_login_new/b25seXNjYW5z/3ce00749dd913534 2 -
+/___proxy_subdomain_cpcalendars/adminer-4.8.0.php 1 -
+/nmaplowercheck1669783982 2 -
+/kcfinder/js/helper.js 1 -
+/Nva7 2 -
+/wp-content/themes/wp-pridmag/init.php 2 http://nulinz.com//wp-content/themes/wp-pridmag/init.php
+/DKIZ.php 2 http://nulinz.com//DKIZ.php
+/resetpass 4 -
+/i.php 4 -
+/___proxy_subdomain_cpcalendars/adminer-4.6.2-en.php 1 -
+/school/admin/studentcreate.php 2 -
+/___proxy_subdomain_cpcalendars/manager/adminer.php 1 -
+/wp-admin/fx.php 1 http://nulinz.com//wp-admin/fx.php
+/wp-2022.php 2 http://nulinz.com//wp-2022.php
+/___proxy_subdomain_cpcalendars/adminer-4.7.8-en.php 1 -
+/school/js/isotope.pkgd.min.js 90 https://www.nulinz.com/school/teacher/addstudent.php
+/2index.php 4 http://nulinz.com//2index.php
+/bthzfpds.php 2 www.google.com
+/school/staff_app/php/img/bg-img/3.jpg 8 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/school/teacher/app/img/demo-img/sass.png 7 https://www.nulinz.com/school/teacher/app/dashboard.php
+/phpsysinfo/info.php 2 -
+/school/teacher/css/sourcemaps/tiny-slider.css.map 12 -
+/wso.php 2 http://nulinz.com//wso.php
+/school/teacher/app/img/icons/icon-180x180.png 2 https://www.nulinz.com/school/teacher/app/dashboard.php
+/assets/css/media-queries%20-%20Copy.css 1 https://nulinz.com/school/admin/classwiseFeesReport.php
+/index.html/assets/vendor/venobox/venobox.min.js 1 -
+/temp/ 6 -
+/HNAP1/ 2 https://216.10.252.82/
+/api/ 2 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.7-en.php 1 -
+/.git/HEAD 2 -
+/assets/plugins/jquery-file-upload/server/php/index.php 2 -
+/YaG[ 1 -
+/mininew.php 2 http://nulinz.com//mininew.php
+/___proxy_subdomain_cpcalendars/adminer-4.7.5-en.php 1 -
+/wp.php 4 http://nulinz.com//wp.php
+/admin/phpinfo.php 2 -
+/school/teacher/img/demo-img/npm.png 85 https://www.nulinz.com/school/teacher/dashboard.php
+/school/teacher/app/img/bg-img/user1.png 7 https://www.nulinz.com/school/teacher/app/dashboard.php
+/php1.php 2 -
+/school/teacher/app/img/demo-img/js.png 7 https://www.nulinz.com/school/teacher/app/dashboard.php
+/hehe.php 2 http://nulinz.com//hehe.php
+/backend/.git/config 2 -
+/wp-22.php 4 http://nulinz.com//wp-22.php
+/q.php 2 -
+/upload/ 2 -
+/conf/.git/config 2 -
+/srx.php 2 http://nulinz.com//srx.php
+/adminer-4.8.0-en.php 1 -
+/school/parent/my-chats.html 4 https://www.nulinz.com/school/parent/
+/crypted.php 2 http://nulinz.com//crypted.php
+/wp-admin/css/ 8 binance.com
+/download 2 -
+/school/js/baguetteBox.min.js 89 https://www.nulinz.com/school/teacher/addstudent.php
+/school/js/bootstrap.bundle.min.js 86 https://www.nulinz.com/school/teacher/addstudent.php
+/base.shtml 2 -
+/marijuana.php 2 http://nulinz.com//marijuana.php
+/sip.cfg 2 -
+/school/staff_app/php/js/internet-status.js 4 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/school/admin/parent 2 -
+/school/staff_app/php/js/dark-rtl.js 4 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/svc 2 -
+/school/staff/app/img/demo-img/rtl.png 12 https://www.nulinz.com/school/staff/app/dashboard.php
+/uploads/ 2 -
+/bw/000000000000.cfg 2 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.0-mysql.php 1 -
+/adminphp.php/configuration.php 2 -
+/git/config 2 -
+/_ignition/execute-solution 8 -
+/alwso.php 2 -
+/admin.cfg 2 -
+/pools/default/buckets 4 -
+/rest/config 2 -
+/school/staff/app/img/bg-img/36.png 11 https://www.nulinz.com/school/staff/app/index.php
+/radio.txt 2 -
+/wp-content/plugins/core-stab/index.php 2 -
+/school/teacher/img/demo-img/js.png 85 https://www.nulinz.com/school/teacher/dashboard.php
+/SiteLoader 2 -
+/school/staff/app/img/demo-img/bootstrap.png 12 https://www.nulinz.com/school/staff/app/dashboard.php
+/amxxa.com 2 -
+/google.php 2 http://nulinz.com//google.php
+/test3.php 2 -
+/settings.py 2 -
+/haxor.php 2 http://nulinz.com//haxor.php
+/school/admin/deletePayslip.php 2 https://nulinz.com/school/admin/teacherProfile.php
+/school/teacher/img/bg-img/36.png 82 https://www.nulinz.com/school/teacher/index.php
+/radio.php 6 -
+/action_page.php 2 https://nulinz.com/school/admin/reportBuswise.php
+/school/staff_app/php/js/bootstrap.bundle.min.js 2 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/school/staff_app/php/js/rangeslider.min.js 4 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/school/admin/sectioneditsubject.php 2 -
+/adminer-4.6.2-en.php 1 -
+/school/teacher/app/style.css 1 https://www.nulinz.com/school/teacher/app/
+/services/config 2 -
+/dqgqoeCXckuwPtxov 8 -
+/config 4 -
+/api/config 2 -
+/school/admin/viewMark.php 4 -
+/debug/default/view 8 -
+/school/teacher/img/icons/icon-167x167.png 6 https://nulinz.com/school/teacher/dashboard.php
+/school/staff_app/php/js/isotope.pkgd.min.js 4 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/test7.php 2 -
+/vendor/waypoints/jquery.waypoints.min.js 1 -
+/school/staff_app/php/img/demo-img/sass.png 8 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/___proxy_subdomain_cpcalendars/adminer-4.6.1.php 1 -
+/school/parent/lib/bootstrap/js/bootstrap.min.js.map 26 -
+/school/admin/PurchaseOrderitem.php 4 -
+/wp-includes/class-index-wordpress.php 7 -
+/wp-content/fw.php 2 http://nulinz.com//wp-content/fw.php
+/l.php 2 -
+/xml.php 2 http://nulinz.com//xml.php
+/w.php 2 -
+/___proxy_subdomain_cpcalendars/adminer-4.6.2.php 1 -
+/p/000000000000.cfg 2 -
+/___proxy_subdomain_cpcalendars/adminer-4.8.0/ 1 -
+/u.php 4 -
+/CBqf 2 -
+/assets/images/icon.png 3772 https://www.nulinz.com/school/admin/studentProfile.php
+/vendor/counterup/counterup.min.js 1 -
+/.well-known/traffic-advice 4 -
+/tmp 2 -
+/school/admin/staffCreate.php 4 https://nulinz.com/school/admin/teacherCreate.php
+/wallet 2 -
+/index.html/assets/vendor/counterup/counterup.min.js 1 -
+/school/style.css 69 https://www.nulinz.com/school/teacher/addstudent.php
+/robots.txt 606 -
+/js/mage/cookies.js 1 -
+/wp-2018.php 2 http://nulinz.com//wp-2018.php
+/dms/000000000000.cfg 2 -
+/control/main 2 -
+/school/admin/viewmark.php 2 -
+/school/teacher/img/bg-img/33.jpg 83 https://www.nulinz.com/school/teacher/dashboard.php
+/cfg/ 2 -
+/dms/vvx400/000000000000.cfg 2 -
+/style.php 6 -
+/school/js/dark-rtl.js 90 https://www.nulinz.com/school/teacher/addstudent.php
+/PNdZ 2 -
+/school/js/active.js 90 https://www.nulinz.com/school/teacher/addstudent.php
+/.env.dev 2 -
+/Polycom.cfg 2 -
+/___proxy_subdomain_cpcalendars/sql.php 1 -
+/backup/ 6 -
+/infos.php 2 -
+/public/carn.jsp 1 -
+/dep.php 2 -
+/school/admin/pdf/printclasswiseReport.php 2 https://nulinz.com/school/admin/classView.php
+/school/parent/document.phpstudentid=1001 4 https://nulinz.com/school/parent/dashboard.php
+/src/config 2 -
+/info.php 12 -
+/school/staff_app/php/img/bg-img/33.jpg 8 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/phpinfo.txt 2 -
+/x/000000000000.cfg 2 -
+/main.cgi 4 -
+/school/staff_app/php/img/demo-img/rtl.png 8 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/adminer-4.7.7-en.php 1 -
+/mPlayer 2 -
+/school/staff/img/bg-img/2.jpg 2 https://www.nulinz.com/school/staff/app/profile.php
+/app/config 2 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.3-mysql.php 1 -
+/phpinfo 2 -
+/school/parent/examdetails.php 4 https://nulinz.com/school/parent/exam.php
+/school/parent/assets/java-script/jquery-3.4.1.js 27 https://nulinz.com/school/parent/1ndex.php
+/avp/app/img/bg-img/make-up.png 153 https://www.nulinz.com/avp/app/dashboard.php
+/adminer-4.7.8-mysql.php 1 -
+/admin/ckeditor/kcfinder/js/helper.js 1 -
+/school/parents 2 -
+/wp 12 -
+/apache2.php 2 -
+/gists/cache 2 -
+/assets/images/background.svg 12 https://www.nulinz.com/distributorship.php
+/cfg/config 2 -
+/teacher/index.php 4 -
+/nuscma.com 6 -
+/adminer-4.7.4-mysql.php 1 -
+/dashboard/i.php 2 -
+/school/teacher/img/demo-img/dark.png 84 https://www.nulinz.com/school/teacher/dashboard.php
+/school/admin/graph.php 2 -
+/dms/polycom7000/000000000000.cfg 2 -
+/boot.cfg 2 -
+/ocp.php 2 -
+/up.php 4 http://nulinz.com//up.php
+/agc/timeclock.php 4 -
+/school/img/bg-img/4.jpg 22 https://nulinz.com/school/teacher/document.php
+/source 2 -
+/isadmin.php 2 -
+/test6.php 2 -
+/school/staff/app/img/demo-img/pwa.png 12 https://www.nulinz.com/school/staff/app/dashboard.php
+/index.html/assets/vendor/isotope-layout/isotope.pkgd.min.js 1 -
+/ups.php 2 http://nulinz.com//ups.php
+/bak/.git/config 2 -
+/99vt 6 -
+/test_phpinfo3.php 2 -
+/home 6 -
+/ckeditor/kcfinder/js/helper.js 1 -
+/school/teacher/examDetails.php 2 -
+/base.jsa 1 -
+/adminer-4.7.0-mysql.php 1 -
+/config/config.json 1 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.1.php 1 -
+/images/vuln.php 2 http://nulinz.com//images/vuln.php
+/test1.php 2 -
+/wp-content/plugins/seoplugins/mar.php 2 -
+/test/ 6 -
+/app/ 2 -
+/school/admin/Viewexamination.php 6 https://nulinz.com/school/admin/viewstaffAttendance.php
+/school/teacher/viewmark.php 2 -
+/helpers/utility.js 1 -
+/HNAP1 8 -
+/xmlrpc.php 2 -
+/uploads/up.php 2 http://nulinz.com//uploads/up.php
+/___proxy_subdomain_cpcalendars/adminer-4.6.3-mysql.php 1 -
+/school/teacher/img/demo-img/pwa.png 94 https://www.nulinz.com/school/teacher/dashboard.php
+/___proxy_subdomain_cpcalendars/ 9 -
+/school/teacher/app/img/demo-img/dark.png 7 https://www.nulinz.com/school/teacher/app/dashboard.php
+/school/staff_app/php/img/demo-img/bootstrap.png 8 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/phone.cfg 2 -
+/wp-content/themes/seotheme/db.php 48 http://nulinz.com//wp-content/themes/seotheme/db.php
+/wp-admin/priv8.php 1 http://nulinz.com//wp-admin/priv8.php
+/phpmyadmin.php 1 -
+/src/ 2 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.8-mysql.php 1 -
+/version 18 -
+/school/staff/app/img/bg-img/31.jpg 12 https://www.nulinz.com/school/staff/app/dashboard.php
+/logs/ 2 -
+/adminer-4.7.5-en.php 1 -
+/include/ 2 -
+/school/admin/reportdailyFeesCollection.php 2 -
+/conf 2 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.6.php 1 -
+/school/admin/settings.php 2 -
+/adminer-4.6.2-mysql-en.php 1 -
+/test_info4.php 2 -
+/test0.php 2 -
+/pv/000000000000.cfg 2 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.3.php 1 -
+/log/ 2 -
+/php.php 2 -
+/school/admin/ediPayslip.php 2 -
+/vendor/php-email-form/validate.js 1 -
+/nmaplowercheck1668603234 2 -
+/uploads/xleet.php 2 http://nulinz.com//uploads/xleet.php
+/xwxx.php 2 http://nulinz.com//xwxx.php
+/pools 4 -
+/wp-admin/includes/class-wp-media-list-data.php 1 -
+/___proxy_subdomain_cpcalendars/adminer-4.6.3/ 1 -
+/school/admin/parent/ 2 -
+/query 4 -
+/test1 2 -
+/test_phpinfo5.php 2 -
+/modules/ictea_base/include/js/ckeditor/kcfinder/js/helper.js 1 -
+/adm.php 1 -
+/school/teacher/img/bg-img/1.jpg 83 https://www.nulinz.com/school/teacher/dashboard.php
+/download/ 2 -
+/_profiler/phpinfo/phpinfo.php 2 -
+/dist/apexcharts.js 141 https://nulinz.com/school/admin/teacherProfile.php
+/backend 2 -
+/___proxy_subdomain_webdisk/robots.txt 4 -
+/school/staff_app/php/img/demo-img/js.png 8 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/school/parent/admin/parent/index.php 2 https://nulinz.com/school/parent/index.php
+/demo 6 -
+/___proxy_subdomain_cpcalendars/data/adminer.php 1 -
+/manager/ 2 -
+/test_phpinfo2.php 2 -
+/school/admin/staffprofile.php&tid=1 6 -
+/wp_logx.php 2 http://nulinz.com//wp_logx.php
+/adminer-4.7.8/ 1 -
+/bak/config 2 -
+/school/admin/viewexamination.php&status=%20Exam%20details%20Info%20Updated 4 https://nulinz.com/school/admin/editexam.php
+/interns/login.php 26 https://nulinz.com/interns/login.php
+/phpinfo.php3 2 -
+/school/teacher/app/img/demo-img/npm.png 7 https://www.nulinz.com/school/teacher/app/dashboard.php
+/docs/cplugError.html/ 6 -
+/new-site 6 -
+/school/admin/viewAttendance.php 2 -
+/testing.php 2 -
+/temp 2 -
+/.aws/credentials 2 -
+/test_phpinfo1.php 2 -
+/test_info2.php 2 -
+/dashboard/info.php 2 -
+/data/config 2 -
+/test/.git/config 2 -
+/school/teacher/homework.phptid=1&class=2&section=2 2 https://www.nulinz.com/school/teacher/dashboard.php
+/upload 2 -
+/old 12 -
+/phpcustom_info/phpinfo.php 2 -
+/wp-content/plugins/easybusy/wp-blog.php 2 http://nulinz.com//wp-content/plugins/easybusy/wp-blog.php
+/wp-admin/admin-ajax.php 1 -
+/admin/controller/extension/wpm.php 2 http://nulinz.com//admin/controller/extension/wpm.php
+/school/img/bg-img/5.jpg 22 https://nulinz.com/school/teacher/document.php
+/XxX.php 2 http://nulinz.com//XxX.php
+/cfg/.git/config 2 -
+/sql.php 1 -
+/tuudluns.php 2 www.google.com
+/DneE 2 -
+/school/teacher/img/bg-img/user1.png 85 https://www.nulinz.com/school/teacher/dashboard.php
+/school/parent/lib/bootstrap/css/bootstrap.min.css.map 81 -
+/vendor/isotope-layout/isotope.pkgd.min.js 1 -
+/000000000000.cfg 2 -
+/level/15/exec/-/sh/run/CR 1 -
+/nulinzManag/employee 16 http://www.nulinz.com/
+/___proxy_subdomain_cpcalendars/wp-includes/class-wp-page-icon.php 1 -
+/school/staff_app/php/service-worker.js 9 -
+/inicio.html 2 -
+/newsite 6 -
+/avp/img/core-img/report-card.png 1 https://www.nulinz.com/avp/app/dashboard.php
+/school/teacher/app/img/demo-img/code.png 7 https://www.nulinz.com/school/teacher/app/dashboard.php
+/Telerik.Web.UI.WebResource.axd 8 -
+/wp-content/upload.php 2 http://nulinz.com//wp-content/upload.php
+/lindex.php 2 -
+/dms/PolycomVVX600/000000000000.cfg 2 -
+/assets/global/plugins/jquery-file-upload/server/php/index.php 2 -
+/app/.git/config 2 -
+/school/parent/assets/icons/newicons/Nuscma-tab-icon.svg 8 https://www.nulinz.com/school/parent/index.php
+/wpx.php 2 http://nulinz.com//wpx.php
+/wp-includes/customize/class-wp-customize-nav-menu.php 2 http://nulinz.com//wp-includes/customize/class-wp-customize-nav-menu.php
+/vendor/jquery.easing/jquery.easing.min.js 1 -
+/symfony/_profiler/phpinfo 2 -
+/wp-2019.php 2 http://nulinz.com//wp-2019.php
+/phpinfo/phpinfo.php 2 -
+/school/staff/app/ 2 -
+/Portal0000.htm 8 -
+/xlt.php 2 http://nulinz.com//xlt.php
+/epa/scripts/win/nsepa_setup.exe 1 -
+/school/admin/teacherprofile.php 4 https://www.nulinz.com/school/admin/teacherProfile.php
+/backend/config 2 -
+/school/staff/app/img/demo-img/sass.png 12 https://www.nulinz.com/school/staff/app/dashboard.php
+/4price.php 2 http://nulinz.com//4price.php
+/adminer-4.7.4/ 1 -
+/info1.php 2 -
+/src/.git/config 2 -
+/service/ 2 -
+/_profiler/phpinfo/info.php 2 -
+/s/2383e2235323e20313e2631323/_/ 8 -
+/cms 6 -
+/___proxy_subdomain_cpcalendars/wp-includes/class-index-wordpress.php 1 -
+/nmaplowercheck1669736921 2 -
+/js/main.js 1 -
+/test_info.php 2 -
+/school/parent/admin/parent/dashboard.php 2 https://nulinz.com/school/parent/index.php
+/school/1/1/1/1/treemap/basic.thml 2 -
+/old_phpinfo.php 2 -
+/___proxy_subdomain_cpcalendars/adminer-4.6.2/ 1 -
+/config/aws.yml 2 -
+/main.shtml 2 -
+/defau11.php 2 -
+/___proxy_subdomain_cpcalendars/admin/adminer.php 1 -
+/doc.php 2 http://nulinz.com//doc.php
+/___proxy_subdomain_cpcalendars/adminer-4.7.6-mysql.php 1 -
+/%c0 1 -
+/bak/ 2 -
+/school/staff/app/img/bg-img/user1.png 12 https://www.nulinz.com/school/staff/app/dashboard.php
+/config/ 2 -
+/assets/css/reset%20-%20Copy.css 1 https://nulinz.com/school/admin/classwiseFeesReport.php
+/wp-includes/class-wordpress-license.php 7 -
+/test5.php 2 -
+/wallet/ 2 -
+/config.js 1 -
+/wp-includes/wp-system-cloud.php 7 -
+/tester.php 2 -
+/123.php 2 -
+/web 6 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.2.php 1 -
+/lib 2 -
+/api/.git/config 2 -
+/___proxy_subdomain_cpcalendars/adm/adminer.php 1 -
+/aws.yml 2 -
+/actuator/health 44 -
+/base.cgi 2 -
+/adminer-4.8.0-mysql-en.php 1 -
+/admin/kcfinder/js/helper.js 1 -
+/libs/config 2 -
+/mac/000000000000.cfg 2 -
+/nulinzManag/employee/ 6 -
+/pinfo.php 2 -
+/dns-query 4 -
+/jo.php 2 -
+/school/teacher/viewAttendance.php 2 -
+//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 1 -
+/backup 2 -
+/adminer-4.7.0.php 1 -
+/phpinfos.php 2 -
+/pi.php 4 http://nulinz.com//pi.php
+/school/staff/app/img/demo-img/js.png 12 https://www.nulinz.com/school/staff/app/dashboard.php
+/wp-content/ 8 -
+/school/parent/img/nuscma_popup.jpg 158 https://nulinz.com/school/parent/dashboard.php
+/school/img/core-img/Nuscma%20logo.svg 810 https://www.nulinz.com/school/teacher/student.php
+/WuEL 2 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.0.php 1 -
+/school/staff_app/php/js/tiny-slider.js 4 https://www.nulinz.com/school/staff_app/php/dashboard.php
+/___proxy_subdomain_cpcalendars/adminer-4.7.5.php 1 -
+/school/teacher/app/img/bg-img/3.jpg 7 https://www.nulinz.com/school/teacher/app/dashboard.php
+/manager/adminer.php 1 -
+/up-kon.php 2 http://nulinz.com//up-kon.php
+/admin/content/sitetree/ 2 -
+/ini.php 4 http://nulinz.com//ini.php
+/privacy-policies.html/assets/vendor/venobox/venobox.min.js 1 -
+/telescope/requests 8 -
+/php52/phpinfo.php 2 -
+/new/ 4 -
+/school/staff/app/img/bg-img/32.jpg 12 https://www.nulinz.com/school/staff/app/dashboard.php
+/sites/all/libraries/elfinder/php/connector.minimal.php 2 -
+/js/zimbraMail/share/model/ZmSettings.js 1 -
+/git/.git/config 2 -
+/sources/ 2 -
+/service/rest/swagger.json 1 -
+/Electron/download/windows/%5CProgram%20Files%5C3CX%20Phone%20System%5CData%5CDB%5Cbase%5C16384%5C16393 2 -
+/o.php 4 -
+/___proxy_subdomain_cpcalendars/phpmyadmin.php 1 -
+/test_info5.php 2 -
+/index.html/assets/vendor/jquery.easing/jquery.easing.min.js 1 -
+/.well-known/security.txt 16 -
+/adminer-4.7.4.php 1 -
+/info4.php 2 -
+/school/teacher/updateMark.php 2 https://www.nulinz.com/school/teacher/examDetail.php
+/vendor/owl.carousel/owl.carousel.min.js 1 -
+/test_info1.php 2 -
+/shell.php 2 http://nulinz.com//shell.php
+/adminer-4.6.3-mysql-en.php 1 -
+/wp-content/plugins/fighter/fk.php 2 http://nulinz.com//wp-content/plugins/fighter/fk.php
+/source/ 2 -
+/data/adminer.php 1 -
+/adminer-4.7.8.php 1 -
+/school/teacher/app/img/bg-img/31.jpg 7 https://www.nulinz.com/school/teacher/app/dashboard.php
+/admin/.git/config 2 -
+/Public/home/js/check.js 1 -
+/wp/ 4 -
+/main.jsa 1 -
+/dev 6 -
+//cdn.ampproject.org/v0/amp-ad-0.1.js 1 -
+/index.php 12 -
+/school/staff/app/dashboard.php 8 -
+/new-index.php 2 http://nulinz.com//new-index.php
+/school/admin/busStopEdit.php 2 -
+/phpinfo4.php 2 -
+/inc 2 -
+/cfg/000000000000.cfg 2 -
+/main.yml 2 -
+/franchiseassests/js/jquery-3.4.1.js 4 https://www.nulinz.com/distributorship.php
+/wp-includes/assets/pi.php 2 http://nulinz.com//wp-includes/assets/pi.php
+/school/admin/sectionWokdoneReport.php 6 https://nulinz.com/school/admin/SectionlistProfile.php
+/info3.php 2 -
+/school/teacher/sourcemaps/tiny-slider.js.map 12 -
+/avp/app/service-worker.js 228 https://www.nulinz.com/avp/app/dashboard.php
+/ftp/000000000000.cfg 2 -
+/school/admin/.php 2 -
+/includes/config 2 -
+/temp.php 2 -
+/apple-touch-icon-precomposed.png 18 -
+/school/staff/app/img/icons/icon-180x180.png 8 https://www.nulinz.com/school/staff/app/dashboard.php
+/___proxy_subdomain_cpcalendars/adminer/ 1 -
+/owa/auth/x.js 10 -
+/sites/all/libraries/elfinder/connectors/php/connector.php 2 -
+/___proxy_subdomain_cpcalendars/adminer-4.7.8/ 1 -
+/small.php 2 http://nulinz.com//small.php
+/apple-touch-icon.png 18 -
+/avp/app/img/product/1.png 14 https://www.nulinz.com/avp/app/dashboard.php
+/___proxy_subdomain_cpcalendars/adminer-4.6.2-mysql-en.php 1 -
+/Pol/000000000000.cfg 2 -
+/test 14 -
+/qq.php 2 -
+/wp-content/plugins/masterx/wpx.php 2 http://nulinz.com//wp-content/plugins//masterx/wpx.php
+/phpinfo3.php 2 -
+/temp/.git/config 2 -
+/school/admin/SectioneditProfiles.php 2 -
+/new.php 2 -
+/school/admin/classwiseStudentStrengthreport.php 2 -
+/download/file.ext 2 -
+/avp/app/img/product/3.png 15 https://www.nulinz.com/avp/app/dashboard.php
+/wallets/ 2 -
+/school/teacher/app/img/bg-img/32.jpg 7 https://www.nulinz.com/school/teacher/app/dashboard.php
+/conf/ 2 -
+/___proxy_subdomain_cpcalendars/mysql.php 1 -
+/logs 2 -
+/1h6j5.php 2 http://nulinz.com//1h6j5.php
+/index.html/assets/vendor/bootstrap/js/bootstrap.bundle.min.js 1 -
+/wp-content/uploads/typehub/custom/6bcA6abd/.RxR.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 853
+117.213.139.157 1679 1701 70969600 20221124071735
+59.93.12.239 1287 1291 50109790 20221127120257
+117.206.141.113 1056 1061 14874164 20221125114013
+117.253.185.101 974 987 50276951 20221107110800
+59.98.41.85 970 978 36179470 20221126115431
+117.213.142.134 959 971 28256713 20221122072813
+106.220.255.223 958 1032 10109414 20221109115910
+157.49.182.64 944 1679 17546869 20221130082602
+157.51.196.35 928 1149 13934271 20221115120818
+157.49.131.183 856 862 7719155 20221120185216
+157.49.164.53 840 858 11125050 20221105201910
+157.46.96.68 826 858 7453089 20221110181217
+157.49.150.145 775 817 3696549 20221130121720
+157.46.118.105 773 856 17038071 20221116160230
+117.213.128.107 746 748 41968980 20221108104616
+117.202.176.224 678 693 34056640 20221130115030
+157.49.159.131 629 691 6581615 20221121122347
+157.49.167.168 628 635 4464197 20221122180919
+117.213.136.144 598 609 49981364 20221103042558
+157.51.196.102 597 903 9191585 20221119101702
+157.49.148.222 575 580 4099084 20221119110920
+157.46.113.82 546 569 5291917 20221107152838
+157.49.152.64 522 539 2470701 20221128091800
+117.253.82.89 503 506 21329508 20221129114437
+106.198.100.201 466 475 4243232 20221120055734
+159.89.103.71 2 2 18600 20221103034522
+157.46.105.220 392 397 2516770 20221111121815
+128.14.133.58 17 17 158100 20221117195035
+107.178.238.34 0 2 116 
+167.94.138.46 2 3 21046 20221128144939
+157.49.248.50 43 215 2918582 20221126042103
+209.141.34.187 32 44 390845 20221118065306
+157.46.121.214 131 158 2084751 20221119112037
+157.45.5.72 84 89 815662 20221119071702
+192.178.10.60 1 12 320192 20221102235414
+87.236.176.54 2 2 18600 20221130065038
+223.187.127.115 4 34 2670949 20221106025649
+198.235.24.8 2 2 59828 20221106045152
+128.1.248.26 13 13 120900 20221130123848
+157.49.130.87 236 1590 38749712 20221130123035
+74.82.47.19 1 1 9300 20221115060136
+185.180.143.138 2 2 18600 20221123070352
+42.236.10.122 0 1 3129906 
+89.97.242.120 1 1 9300 20221109134304
+107.178.232.179 0 2 116 
+35.88.194.250 3 3 89742 20221121071100
+157.51.197.5 196 214 2906778 20221114024812
+192.241.210.173 2 2 18600 20221101030808
+128.14.141.34 9 9 83700 20221118034726
+110.224.92.189 2 7 2538 20221128060736
+223.187.117.39 65 71 624728 20221115072703
+223.187.117.201 6 6 20716 20221128060849
+157.245.122.33 2 2 18600 20221109083828
+157.49.235.33 104 188 1295949 20221124023337
+52.90.96.80 2 2 18600 20221115042352
+49.44.76.165 2 14 185849 20221123051755
+195.123.241.30 0 1 3129906 
+157.49.192.216 23 87 2958566 20221121074944
+157.49.141.204 244 244 2104915 20221120091139
+205.185.121.69 8 18 254504 20221118065144
+184.105.139.106 1 1 9300 20221104062313
+14.29.228.249 2 2 18600 20221102114155
+34.219.185.244 2 2 18600 20221120193702
+157.49.213.254 70 107 543237 20221121111803
+64.62.197.132 2 2 18600 20221130021602
+23.90.160.130 4 4 37200 20221110180203
+65.109.128.164 2 2 18600 20221127014720
+106.198.100.179 138 143 984333 20221120071429
+103.28.52.66 1 1 9300 20221120203444
+198.235.24.163 2 2 59828 20221118220155
+165.225.104.75 2 2 18600 20221110025330
+205.210.31.30 2 2 59828 20221130054544
+192.178.10.62 3 12 632651 20221102235414
+198.235.24.47 1 1 29914 20221111064846
+20.55.120.78 1 1 9300 20221119131051
+107.178.232.230 0 2 116 
+20.113.29.76 2 2 59828 20221117093702
+162.142.125.10 4 6 42092 20221125135918
+157.46.117.152 355 361 1269902 20221126072951
+117.206.141.134 223 225 17171569 20221103112423
+106.198.100.165 10 11 72867 20221121044611
+65.49.20.69 2 2 18600 20221117113853
+138.199.63.40 2 2 59828 20221101030528
+198.235.24.133 2 2 59828 20221112060211
+157.49.176.154 339 352 1436168 20221123144623
+193.118.53.210 14 14 130200 20221127201623
+168.151.115.169 0 1 3129906 
+20.13.152.87 1 1 9300 20221114082909
+162.142.125.8 1 2 11746 20221114073849
+199.244.88.220 2 2 18600 20221112225943
+111.9.9.198 0 1 2446 
+152.39.207.79 0 1 3129906 
+107.178.229.253 0 2 116 
+20.231.126.132 15 15 448710 20221112074028
+198.235.24.150 4 4 119656 20221125022613
+223.187.118.213 37 47 934917 20221118120227
+223.187.121.39 222 222 1874084 20221115121438
+106.198.100.159 57 84 1198873 20221121165728
+35.86.214.236 2 2 18600 20221124140230
+91.74.91.98 4 34 2670949 20221130073154
+192.241.212.9 2 2 18600 20221116040318
+49.44.85.101 2 6 125752 20221126150827
+167.94.146.59 2 3 21046 20221113015043
+117.187.173.2 1 13 133299 20221118010325
+168.151.108.116 0 1 3129906 
+178.62.202.131 2 2 18600 20221123233842
+87.236.176.153 0 1 2446 
+157.49.143.151 4 4 15706 20221125123319
+143.198.219.206 1 1 29914 20221112185230
+184.105.139.124 2 2 18600 20221120080341
+167.248.133.117 2 3 21046 20221101103205
+223.187.115.18 33 33 220908 20221118121847
+184.105.247.223 2 2 18600 20221111122239
+92.114.61.103 0 1 3129906 
+198.235.24.35 2 2 59828 20221118200659
+157.49.129.109 23 28 235704 20221119042140
+35.89.200.91 3 3 89742 20221107071155
+157.49.174.58 10 20 390618 20221129132108
+193.235.141.178 2 3 21046 20221104185112
+157.49.228.13 7 38 592723 20221125135918
+185.81.157.154 1 1 29914 20221116023714
+223.187.118.109 74 83 1810435 20221102152344
+223.187.124.132 2 2 3200 20221116121951
+157.51.198.24 196 219 1054147 20221126145340
+106.198.100.203 25 25 153600 20221119201119
+106.197.65.179 2 2 2538 20221106013217
+167.94.145.57 4 6 42092 20221129222049
+193.186.4.143 2 2 18600 20221122122639
+27.106.94.70 2 6 125752 20221126150827
+49.247.212.112 4 4 37200 20221113001458
+223.187.122.201 5 5 37200 20221128082616
+157.49.160.156 163 163 1148007 20221107190333
+157.46.116.124 242 243 3635042 20221117145723
+104.244.74.55 2 2 18600 20221128023133
+157.49.135.49 17 18 82231 20221102001036
+209.141.49.169 12 21 233588 20221118065233
+106.198.44.33 161 285 2995509 20221126151513
+130.185.215.247 1 1 9300 20221102192713
+157.50.47.240 51 54 290171 20221120042014
+13.76.143.70 2 2 59828 20221110123416
+128.1.248.34 2 2 18600 20221124005425
+66.249.88.164 4 22 465499 20221130082609
+20.164.202.149 2 2 59828 20221117221444
+59.36.168.250 1 1 9300 20221107075002
+66.249.88.188 3 20 2963899 20221130082609
+93.159.230.87 5 5 46500 20221127045054
+205.185.126.167 1 1 9300 20221128010436
+157.46.96.1 30 38 1909345 20221115062008
+149.56.150.152 10 12 199266 20221110172340
+35.216.244.6 1 1 29914 20221110010407
+149.56.150.52 4 33 2668503 20221110172423
+106.198.100.175 22 22 53500 20221123064102
+159.65.54.69 8 8 121088 20221104161026
+49.247.213.246 1 1 9300 20221122054713
+185.142.236.34 2 3 62274 20221116051257
+157.46.119.36 209 211 2606730 20221115144009
+205.210.31.20 2 2 59828 20221112183749
+52.88.35.19 2 2 18600 20221128062953
+34.78.250.6 2 2 716 20221102182549
+157.49.254.168 6 42 2691109 20221128031644
+167.99.248.88 2 2 18600 20221117022011
+3.91.194.240 2 2 59828 20221109154603
+165.22.231.129 2 2 18600 20221108143707
+18.205.109.94 1 1 9300 20221113054457
+161.35.191.96 1 1 9300 20221106230710
+193.235.141.168 2 3 21046 20221114212744
+198.235.24.128 2 2 59828 20221118150423
+66.102.8.130 5 27 1598742 20221130082606
+52.39.41.175 2 2 18600 20221120193612
+106.198.35.54 2 3 2538 20221120015349
+167.94.138.61 2 3 21046 20221103023653
+20.124.47.144 0 3 43861 
+3.138.198.174 1 1 9300 20221112100219
+107.178.238.47 0 2 3129906 
+170.187.164.180 4 4 60544 20221127175524
+69.160.160.56 14 44 5207059 20221130223602
+223.187.119.159 13 48 251680 20221130115812
+198.199.95.203 1 1 9300 20221117040657
+205.210.31.8 2 2 59828 20221125223539
+43.156.25.237 2 2 18600 20221113030232
+192.241.212.209 2 2 18600 20221123042813
+20.105.171.188 1 1 9300 20221108183358
+111.207.155.211 0 3 7338 
+87.236.176.184 2 2 18600 20221124210337
+198.199.95.144 1 1 9300 20221113034953
+23.129.64.143 1 1 9300 20221128014317
+46.101.104.80 3 3 89742 20221104193356
+181.214.206.161 1 1 0 20221110194614
+185.180.143.79 6 6 55800 20221130124635
+157.46.116.76 131 209 5739084 20221121100953
+157.46.105.77 452 472 32537308 20221108132014
+54.187.62.193 2 2 18600 20221101204910
+198.235.24.29 1 1 29914 20221101192556
+185.27.99.143 2 2 18600 20221111233607
+54.198.0.135 2 2 18600 20221124014935
+20.213.84.134 1 1 9300 20221121062940
+197.253.246.20 1 1 9300 20221123022248
+205.210.31.35 2 2 59828 20221130074236
+59.93.10.135 106 106 2432589 20221119113018
+159.203.9.140 2 2 18600 20221127173547
+20.203.22.11 2 2 59828 20221123231519
+157.45.87.251 118 122 1290480 20221120171907
+93.158.91.249 2 2 18600 20221103225759
+162.142.125.211 1 2 11746 20221119161101
+157.51.193.117 203 207 529465 20221125131205
+106.75.103.149 3 17 428290 20221101184245
+23.90.160.122 4 4 37200 20221111170549
+157.49.157.6 17 25 88029 20221101100148
+205.210.31.47 2 2 59828 20221125203858
+64.62.197.120 2 2 18600 20221113051613
+51.159.99.253 2 2 59828 20221116135350
+110.224.90.189 4 4 5076 20221128080422
+35.89.233.205 1 1 9300 20221127190447
+185.180.143.8 4 4 57814 20221124005451
+64.227.12.166 2 2 18600 20221105133300
+82.112.184.223 0 1 3129906 
+157.49.225.35 62 64 286196 20221125150525
+87.236.176.11 2 2 18600 20221116015157
+223.187.118.234 2 2 2378 20221128174014
+192.241.207.249 2 2 18600 20221114035441
+35.240.3.175 2 2 716 20221103074904
+27.115.124.6 4 33 2668503 20221129071636
+205.210.31.167 4 4 119656 20221126224651
+157.49.173.123 37 37 129080 20221129163144
+159.223.67.54 3 3 89742 20221103144702
+5.188.62.174 8 8 67062 20221120213627
+106.75.181.249 2 9 229102 20221101184245
+178.62.82.141 8 8 43102 20221126024408
+52.11.124.16 2 2 18600 20221128192608
+206.204.3.80 0 1 3129906 
+209.141.33.65 10 19 232143 20221118055133
+172.105.35.108 1 1 0 20221128200604
+52.95.75.18 1 29 517990 20221110172710
+106.198.100.171 25 29 116347 20221122140257
+198.235.24.182 2 2 59828 20221118141239
+106.217.3.65 10 14 12690 20221121162424
+152.39.169.46 0 1 3129906 
+167.94.138.117 4 5 39646 20221126141449
+35.88.214.87 1 1 9300 20221127191247
+157.49.141.115 103 103 276923 20221129174926
+198.235.24.185 4 4 119656 20221126093849
+51.79.207.171 6 7 7134 20221130191437
+223.187.113.92 2 3 45094 20221130125543
+157.45.250.47 45 45 463258 20221120173414
+5.178.2.90 2 2 18600 20221126011912
+119.8.235.140 0 1 3129906 
+168.151.167.215 0 1 3129906 
+162.142.125.210 2 3 21046 20221126182349
+192.241.203.30 2 2 18600 20221104030737
+198.235.24.16 2 2 59828 20221122152502
+165.227.134.192 2 2 18600 20221107004523
+167.248.133.47 4 6 42092 20221120121939
+103.149.192.62 2 2 18600 20221110070451
+157.49.72.42 4 25 958437 20221120033312
+72.13.46.6 6 6 48262 20221125014833
+185.66.88.47 2 2 18600 20221125083919
+160.20.10.50 2 2 18600 20221107224412
+157.46.127.83 35 37 631229 20221115095908
+193.235.141.170 2 3 21046 20221109201419
+157.51.196.39 52 67 654309 20221117074353
+38.242.241.116 2 2 18600 20221117070133
+87.236.176.228 0 1 2446 
+209.141.55.120 14 23 228153 20221118055136
+157.49.146.239 2 2 7964 20221126140739
+183.136.225.42 6 8 143148 20221124020718
+161.35.81.189 2 2 18600 20221119195600
+45.83.65.126 2 2 18600 20221109115331
+106.197.111.212 187 198 4118174 20221114162852
+35.89.39.66 3 3 89742 20221114071055
+147.182.147.123 2 2 18600 20221113070043
+180.163.220.68 2 3 2141213 20221125112248
+167.71.237.31 1 1 9300 20221104232341
+52.38.8.180 2 2 18600 20221120193713
+198.199.93.172 2 2 18600 20221125043317
+205.210.31.186 2 2 59828 20221125030358
+106.197.40.237 71 83 1016518 20221105121257
+205.210.31.42 2 2 59828 20221106022209
+87.236.176.59 0 1 2446 
+35.91.23.218 2 2 18600 20221114192452
+103.149.192.110 2 2 18600 20221127082043
+157.46.105.115 12 52 3140024 20221128060700
+134.122.98.164 2 2 18600 20221108202015
+143.110.182.40 2 2 18600 20221110114733
+173.44.166.135 14 15 3201010 20221115231347
+54.151.253.102 19 19 159060 20221114063756
+106.198.100.151 56 59 234633 20221122123139
+35.177.44.241 7 7 65100 20221119114255
+208.100.26.232 1 1 0 20221129154843
+198.235.24.140 2 2 59828 20221129142727
+121.4.79.217 2 2 18600 20221124140522
+196.199.119.154 12 13 3195528 20221107224443
+185.14.97.176 2 2 18600 20221128010335
+106.75.173.98 2 9 229102 20221101184353
+167.172.37.121 2 2 18600 20221104092740
+23.251.102.74 21 21 195300 20221126003444
+198.235.24.56 2 2 59828 20221123040529
+54.189.149.162 2 2 18600 20221121192650
+52.140.116.120 2 2 18600 20221111155858
+157.51.165.157 114 136 1399100 20221101114741
+180.149.4.140 0 1 3129906 
+20.121.130.114 8 8 63326 20221127191901
+184.105.247.200 2 2 18600 20221105090504
+106.197.35.122 152 152 7250213 20221124110718
+107.178.232.242 0 1 58 
+67.205.188.206 2 2 59828 20221126233309
+157.51.194.93 114 124 1773244 20221103141403
+20.241.233.77 0 10 211055 
+66.249.83.23 4 15 876677 20221102235414
+103.225.125.170 5 35 3316553 20221108090226
+157.46.117.177 465 470 3299648 20221109173020
+8.219.233.139 2 3 21046 20221130160113
+66.249.88.160 2 24 1916085 20221130082605
+223.187.116.18 65 66 917112 20221118133758
+146.190.71.20 2 2 18600 20221103082844
+207.46.13.148 0 1 3216 
+198.235.24.144 2 2 59828 20221125175819
+139.59.67.11 2 2 18600 20221103212228
+64.62.197.221 1 1 9300 20221105055758
+137.184.173.17 2 2 18600 20221112214036
+206.204.23.145 0 1 3129906 
+157.49.162.235 287 323 2284893 20221123071948
+36.110.211.5 0 1 3129906 
+205.210.31.40 2 2 59828 20221111204234
+198.199.119.138 2 2 18600 20221102030938
+185.180.143.136 2 2 18600 20221115125838
+147.182.148.0 1 1 9300 20221102152619
+87.236.176.15 0 1 2446 
+23.236.162.113 2 2 59828 20221122030453
+35.89.215.203 1 1 9300 20221128192653
+178.128.201.82 2 2 18600 20221128020935
+117.253.185.31 72 72 1396156 20221105111743
+180.163.220.114 0 1 3129906 
+167.248.133.45 5 7 51392 20221128171200
+198.235.24.178 4 4 119656 20221114000825
+192.241.202.61 1 1 9300 20221130045335
+157.51.194.217 131 133 1159613 20221102114031
+194.32.122.73 2 2 79222 20221122021311
+93.158.90.72 2 2 18600 20221120012900
+157.45.161.15 58 61 702255 20221119151714
+117.206.139.147 401 430 23308107 20221109103721
+27.4.43.8 4 34 2670949 20221125080518
+205.210.31.16 2 2 59828 20221104115339
+198.235.24.3 2 2 59828 20221113145654
+161.35.188.242 2 2 59828 20221112133144
+205.210.31.45 2 2 59828 20221129214452
+51.79.144.105 4 4 3948 20221125100412
+167.172.35.230 2 2 18600 20221104082629
+198.235.24.27 2 2 59828 20221126011101
+167.94.138.62 6 9 63138 20221124142150
+139.59.110.155 2 2 18600 20221105104929
+138.197.156.166 2 2 18600 20221121091808
+192.241.202.160 1 1 9300 20221105030917
+87.236.176.10 0 1 2446 
+147.182.146.239 1 1 9300 20221103111313
+74.82.47.34 1 1 9300 20221107020522
+38.242.241.9 2 2 18600 20221108050604
+157.245.95.12 1 1 9300 20221101075909
+157.49.216.167 27 55 502152 20221127135152
+159.203.126.5 2 3 21046 20221112183712
+113.31.102.176 2 8 222665 20221101184244
+188.166.117.97 2 2 59828 20221112233245
+35.93.71.113 1 1 9300 20221109191152
+5.189.171.179 25 25 2915 20221110034020
+157.50.56.40 117 117 939542 20221120085207
+205.210.31.136 2 2 59828 20221116011530
+157.49.145.8 64 64 739235 20221117161750
+118.123.105.89 1 2 11746 20221129032122
+185.196.220.81 14 14 5012 20221110061006
+107.178.237.27 0 2 116 
+68.183.151.233 2 2 18600 20221107094359
+54.202.141.51 1 1 9300 20221121192959
+4.224.80.114 2 2 59828 20221103085431
+20.250.1.124 6 6 3498 20221118134334
+209.141.35.128 30 42 430906 20221118070228
+34.209.154.127 2 2 18600 20221101204942
+35.88.29.234 2 2 18600 20221114192510
+157.49.201.252 263 274 2499564 20221123142617
+139.144.69.48 4 4 60544 20221118050642
+35.162.160.103 3 3 89742 20221128071059
+45.83.65.24 2 2 18600 20221123084839
+123.6.49.38 0 2 6259812 
+157.49.171.145 29 39 1563261 20221107051012
+205.210.31.185 4 4 119656 20221114024356
+192.241.201.218 2 2 18600 20221124043018
+143.110.189.160 2 2 18600 20221108022053
+66.240.236.109 9 9 83700 20221130044053
+205.210.31.148 2 2 59828 20221125221057
+35.89.241.244 2 2 18600 20221120193637
+78.138.47.212 0 1 3129906 
+167.248.133.60 4 6 42092 20221129110728
+172.173.249.236 8 8 63326 20221128160238
+69.10.40.142 3 3 59828 20221113120500
+205.210.31.144 2 2 59828 20221115143429
+184.105.139.101 2 2 18600 20221126041803
+167.94.145.59 1 2 11746 20221105110353
+185.224.128.10 2 2 18600 20221114035934
+198.235.24.161 2 2 59828 20221125144458
+76.72.172.162 2 2 59828 20221129073342
+162.142.125.219 2 3 21046 20221124175052
+205.210.31.21 2 2 59828 20221115212257
+205.210.31.34 2 2 59828 20221102012704
+47.254.85.182 2 2 18600 20221130233335
+157.45.144.62 58 68 984900 20221116174749
+93.158.90.67 0 2 116 
+157.49.141.5 252 259 1187875 20221129153908
+157.51.199.117 17 17 151577 20221109065325
+116.179.33.72 0 1 1639 
+198.199.95.154 1 1 9300 20221103030943
+36.106.166.108 1 1 29914 20221116054324
+223.247.178.167 2 2 18600 20221128113658
+192.241.195.77 1 1 9300 20221115040224
+3.94.202.183 4 34 2670949 20221104024001
+107.178.232.244 0 2 116 
+46.232.208.236 0 1 3129906 
+93.159.230.89 2 2 18600 20221127005022
+167.94.138.60 1 2 11746 20221113095908
+117.206.141.174 184 193 1516599 20221114051815
+18.189.2.147 3 3 27900 20221116104948
+157.49.151.111 85 86 1158314 20221118161334
+159.89.39.199 1 2 11746 20221128110230
+167.94.146.60 2 3 21046 20221119170057
+140.246.164.95 2 2 18600 20221117085748
+45.192.150.12 2 2 59828 20221121113756
+128.14.134.134 10 10 93000 20221130171222
+85.208.115.246 14 15 3201010 20221115215408
+157.51.64.115 49 57 619288 20221103074116
+54.218.97.26 2 2 18600 20221108193108
+157.51.193.101 2 2 1974 20221125144918
+223.187.126.253 14 17 7820622 20221115144922
+157.245.158.224 1 1 9300 20221103160232
+209.141.41.193 24 34 354751 20221118070242
+152.39.197.207 0 1 3129906 
+106.203.126.199 54 55 159078 20221124125406
+167.248.133.46 6 8 60692 20221118114922
+18.225.25.214 10 10 299140 20221124113230
+46.101.164.72 0 1 3129906 
+193.56.29.155 3 3 27900 20221124231532
+45.33.102.90 3 3 27900 20221115053444
+198.235.24.165 1 1 29914 20221127062231
+46.232.208.26 0 1 3129906 
+192.241.212.72 1 1 9300 20221122042611
+91.221.109.244 2 2 716 20221123232110
+65.108.93.76 2 2 59828 20221102052326
+198.235.24.162 2 2 59828 20221118182551
+23.129.64.223 1 1 9300 20221128011757
+205.210.31.13 4 4 119656 20221105093402
+192.241.213.13 2 2 18600 20221106031337
+198.235.24.156 3 3 89742 20221104211315
+87.236.176.181 1 1 9300 20221127180455
+138.197.194.139 0 2 6259812 
+65.49.20.87 2 2 18600 20221129031122
+59.93.11.166 198 217 18548910 20221115115713
+128.14.209.170 1 1 9300 20221108042411
+165.227.154.169 2 2 59828 20221104232754
+87.236.176.45 2 2 18600 20221113113025
+157.49.155.117 209 222 1810881 20221101175615
+213.32.122.82 7 7 209398 20221130162730
+157.49.253.250 7 59 1148645 20221125075602
+174.140.244.78 2 2 18600 20221107211724
+185.180.143.11 1 1 9300 20221127110149
+64.62.197.183 2 2 18600 20221116002537
+35.92.171.33 2 2 18600 20221120193612
+157.46.97.116 75 88 726704 20221114072212
+20.228.194.134 1 1 9300 20221119144313
+18.207.219.18 2 2 18600 20221101192230
+206.81.26.125 2 2 18600 20221104070703
+51.142.244.43 8 8 63326 20221101033703
+77.111.247.30 1 1 0 20221101074728
+167.248.133.118 2 4 23492 20221112154243
+107.178.232.180 0 2 116 
+206.189.88.211 1 1 9300 20221107143543
+87.236.176.2 0 1 2446 
+178.128.113.189 2 2 18600 20221106011254
+110.224.84.249 2 2 2538 20221130100059
+87.236.176.174 0 1 2446 
+159.89.167.168 2 2 18600 20221111085921
+43.134.171.185 2 2 18600 20221105052354
+157.49.135.103 4 4 16618 20221126135203
+192.178.10.58 0 7 199202 
+45.55.135.165 1 1 9300 20221118214427
+44.201.106.144 1 1 9300 20221120050621
+198.235.24.43 2 2 59828 20221104114930
+117.202.176.226 203 215 15506641 20221119074530
+18.224.128.89 6 6 179484 20221124112658
+66.102.8.148 5 33 2002066 20221103153553
+52.26.150.115 2 2 18600 20221121191655
+167.94.138.63 2 3 21046 20221109050455
+116.179.33.199 2 2 18600 20221109061503
+185.181.60.189 6 6 55800 20221123141515
+14.29.231.172 2 2 18600 20221109063918
+198.235.24.173 2 2 59828 20221108091359
+157.51.196.218 39 57 492584 20221116144623
+185.180.143.137 1 1 9300 20221101211811
+20.102.116.67 2 2 59828 20221127010546
+157.49.93.29 312 322 1555244 20221122081022
+128.199.87.242 2 2 59828 20221108215513
+117.206.139.45 197 200 704950 20221112100609
+216.19.201.208 0 1 3129906 
+117.206.139.133 122 124 1519497 20221111105451
+66.240.236.116 1 1 9300 20221124063727
+146.190.66.235 2 2 18600 20221104155120
+193.46.254.155 1 1 406 20221108231757
+116.179.33.205 2 2 18600 20221110153453
+106.198.100.185 13 13 72843 20221119160357
+44.229.11.127 2 2 59828 20221103024023
+66.249.83.210 1 17 590058 20221130131646
+37.139.53.40 2 2 59828 20221105174245
+74.82.47.17 2 2 18600 20221125012558
+54.202.142.204 2 2 18600 20221120193633
+172.105.161.142 1 1 9300 20221115193746
+128.1.248.42 12 12 111600 20221128212648
+157.46.119.31 343 354 3033384 20221114150909
+20.25.26.20 3 3 69128 20221109131138
+43.158.217.205 1 1 9300 20221109033924
+157.49.144.248 20 20 240972 20221125085044
+20.243.136.174 2 2 59828 20221110163950
+35.86.92.25 2 2 18600 20221103191406
+157.49.140.83 241 287 3425269 20221121173001
+205.209.96.18 1 1 9300 20221120221843
+117.203.71.160 254 274 11483677 20221117112709
+65.49.20.70 2 2 18600 20221123110957
+157.51.197.118 181 182 2628369 20221114103646
+223.187.119.201 4 4 13626 20221128060832
+104.248.51.10 2 2 18600 20221107235448
+18.246.23.79 2 2 18600 20221127190826
+157.49.248.199 52 84 1155587 20221124075015
+223.187.115.201 8 10 26758 20221128060812
+45.83.64.222 0 1 2446 
+157.51.71.26 73 83 504902 20221112143444
+167.94.145.58 2 3 21046 20221116124821
+185.142.236.35 2 3 62274 20221113181431
+167.94.138.44 2 3 21046 20221120004048
+64.62.197.186 2 2 18600 20221124114458
+157.46.97.85 35 35 275193 20221107164832
+106.197.35.148 2 2 2538 20221123140036
+64.227.66.224 2 2 18600 20221105160844
+93.159.230.88 6 6 55800 20221127035115
+196.19.244.198 0 1 3129906 
+157.51.192.28 41 51 732121 20221108122730
+117.253.186.77 369 379 15902246 20221105110750
+157.45.228.41 66 66 397732 20221119194854
+185.180.143.140 2 2 18600 20221104141823
+45.83.67.35 0 1 2446 
+107.178.238.36 0 2 116 
+43.128.225.120 2 2 18600 20221124164244
+157.49.128.0 43 44 370672 20221117173545
+205.210.31.55 2 2 59828 20221115185001
+64.62.197.171 1 1 9300 20221103085509
+157.45.142.49 23 27 7863917 20221114162506
+205.169.39.63 2 4 6278412 20221130154354
+139.59.125.186 3 3 89742 20221103031310
+181.214.218.69 4 4 37200 20221129172203
+157.49.177.129 322 356 4408712 20221130080322
+106.203.122.175 27 30 204953 20221124060735
+71.6.232.24 2 2 18600 20221114091216
+106.203.122.31 16 19 40836 20221123135809
+157.49.155.180 42 44 347275 20221129064548
+103.195.203.1 45 48 311362 20221121182727
+106.197.35.114 2 3 2538 20221124074057
+162.211.152.100 2 2 59828 20221104205331
+192.241.206.190 2 2 18600 20221108032756
+77.111.247.129 1 1 0 20221101074728
+107.178.200.228 0 2 116 
+82.80.249.158 16 26 3291126 20221105074646
+198.235.24.155 2 2 59828 20221105064426
+103.208.85.25 2 2 18600 20221116155438
+185.104.248.7 3 3 59828 20221102223010
+185.27.99.135 0 2 116 
+106.220.255.200 97 99 522032 20221112162835
+117.213.130.159 216 219 13276564 20221110105847
+161.35.83.43 1 1 9300 20221115040308
+157.46.121.110 137 137 1243812 20221118132854
+164.90.140.154 2 2 18600 20221103061221
+205.210.31.173 2 2 59828 20221119174257
+87.236.176.96 2 2 18600 20221122034504
+106.197.40.227 6 7 118098 20221105062854
+157.49.178.151 194 223 7909631 20221107113510
+159.223.35.132 2 2 59828 20221120064129
+146.190.89.243 3 3 89742 20221116182226
+167.99.184.212 2 2 18600 20221121124114
+198.235.24.6 2 2 59828 20221108003720
+134.209.22.33 2 2 18600 20221104115139
+3.10.152.60 5 5 46500 20221110035545
+185.142.236.40 4 6 124548 20221128192951
+117.206.138.110 133 136 12199586 20221104102610
+27.115.124.45 4 34 5798409 20221125070038
+87.236.176.132 0 1 2446 
+157.46.125.220 13 15 77613 20221110050927
+157.49.135.9 5 5 23319 20221119155423
+34.238.232.11 2 2 18600 20221101193544
+51.254.49.99 2 2 59828 20221105052009
+157.51.193.148 247 250 1483515 20221125090310
+198.235.24.151 2 2 59828 20221122172325
+162.142.125.7 2 3 21046 20221115162309
+128.14.136.18 19 19 176700 20221130112315
+110.224.85.169 34 41 738833 20221130060548
+156.146.62.203 2 2 43954 20221123113823
+164.92.160.98 2 2 59828 20221105233232
+157.49.174.176 385 386 3618067 20221106150026
+205.185.122.184 10 20 146992 20221118065138
+106.198.36.222 24 39 809153 20221116125223
+34.231.243.248 2 2 18600 20221105212504
+87.236.176.179 2 2 18600 20221119035805
+23.129.64.229 2 2 18600 20221128174531
+152.39.140.120 0 1 3129906 
+34.219.57.141 1 1 9300 20221128192623
+192.241.206.69 3 3 27900 20221120042245
+157.49.202.181 16 40 781123 20221123112108
+194.38.20.161 8 8 239312 20221120001259
+43.129.219.189 1 1 9300 20221127205638
+157.46.104.124 53 56 681173 20221104112425
+128.14.209.162 20 20 186000 20221127062647
+117.213.138.199 379 397 19778672 20221116124131
+154.209.125.119 16 16 478624 20221116171139
+35.216.204.3 2 2 59828 20221104081441
+71.6.232.26 2 2 18600 20221121093056
+65.49.20.103 1 1 9300 20221118034119
+54.153.9.108 0 1 3129906 
+157.49.192.5 26 28 80326 20221123040845
+34.220.75.240 4 4 37200 20221117192919
+162.142.125.213 2 3 21046 20221103000513
+41.74.138.118 2 2 18600 20221108203211
+192.241.210.225 1 1 9300 20221119041548
+27.5.75.123 2 41 648843 20221114172356
+93.159.230.83 6 6 55800 20221127025055
+157.46.100.238 188 199 1789352 20221118105755
+205.185.116.25 24 33 330024 20221118070120
+80.82.77.139 4 6 124548 20221130095622
+106.198.100.189 55 55 487723 20221120113807
+184.105.139.110 1 1 9300 20221109055238
+223.187.114.132 17 17 108644 20221116121645
+198.235.24.12 2 2 59828 20221104225206
+62.171.177.111 12 12 1166 20221114180204
+209.141.51.222 12 12 111600 20221107025727
+110.224.84.169 6 6 108612 20221130093433
+64.62.197.212 2 2 18600 20221101061610
+4.233.106.66 1 1 9300 20221120013016
+157.45.161.16 56 56 691850 20221119173009
+42.83.147.34 5 5 46500 20221111141257
+103.149.192.22 2 2 18600 20221119014846
+192.241.200.88 1 1 9300 20221111025903
+66.249.83.208 1 14 3927518 20221130131646
+162.142.125.212 1 2 11746 20221105023039
+106.198.100.167 30 31 74326 20221121175824
+4.234.85.191 2 2 18600 20221106003920
+157.49.130.26 216 219 5827598 20221117071253
+66.34.212.150 1 1 13787 20221130053012
+103.192.80.244 3 3 89742 20221108081013
+40.76.125.56 1 1 9300 20221107095707
+47.242.62.236 2 3 21046 20221109175742
+157.49.148.36 2 3 2378 20221127081233
+64.62.197.108 2 2 18600 20221128162030
+42.236.10.114 0 1 3129906 
+146.190.91.54 2 2 18600 20221115175707
+87.236.176.198 2 2 18600 20221104060024
+187.8.120.14 2 2 18600 20221103195411
+198.235.24.146 2 2 59828 20221112155912
+43.158.216.231 1 1 9300 20221101185445
+167.248.133.62 2 3 21046 20221128175701
+223.187.124.115 16 26 69016 20221129054211
+5.227.29.27 2 2 59828 20221108140133
+110.224.88.169 14 14 133021 20221130063815
+157.49.143.234 41 41 239470 20221127143129
+184.105.247.238 3 3 27900 20221121025948
+54.191.129.34 2 2 18600 20221110193001
+152.89.196.211 74 74 652384 20221130100330
+106.197.40.247 35 37 430980 20221104112128
+183.136.225.35 4 6 124548 20221103001502
+87.236.176.66 0 1 2446 
+107.178.238.50 0 2 116 
+167.248.133.61 2 3 21046 20221126163633
+183.136.225.32 43 75 1507730 20221129195648
+184.105.139.111 2 2 18600 20221102011618
+106.198.100.173 28 32 155027 20221120042245
+157.49.159.255 136 136 368436 20221126160957
+101.68.211.3 11 14 336392 20221110003030
+106.198.100.205 52 52 365438 20221120183523
+93.158.90.71 0 2 116 
+205.210.31.60 2 2 59828 20221113053800
+42.236.10.103 0 1 3129906 
+118.123.105.86 11 11 102300 20221121145251
+162.142.125.222 5 6 48946 20221124142138
+47.89.156.78 2 2 18600 20221125122929
+66.249.83.19 0 11 1758899 
+110.224.88.171 4 4 5076 20221128125106
+59.98.32.111 4 34 2670949 20221112193721
+157.49.134.86 129 129 895203 20221119194805
+203.78.168.175 0 1 3129906 
+103.153.254.110 2 2 18600 20221105174339
+178.32.197.93 2 2 59828 20221105034851
+192.241.202.75 2 2 18600 20221112034557
+146.190.111.102 2 2 18600 20221128103407
+157.51.194.244 5 11 19426 20221103065549
+66.249.83.21 0 7 32927 
+185.99.135.187 2 2 59828 20221110020338
+103.253.146.141 2 2 18600 20221118202611
+43.158.214.10 1 1 9300 20221120050133
+35.161.124.164 2 2 18600 20221101204822
+13.52.255.41 2 2 18600 20221114072221
+54.149.191.123 2 2 18600 20221110193022
+223.187.117.204 2 2 11376 20221130120021
+34.215.181.84 2 2 18600 20221114192518
+173.255.213.227 2 2 18600 20221108220214
+52.32.75.147 1 1 9300 20221109191110
+87.236.176.81 0 1 2446 
+117.206.136.133 209 209 17348472 20221114120206
+223.187.113.204 2 3 45174 20221130122952
+193.29.60.222 6 6 48462 20221103175144
+71.6.232.22 2 2 18600 20221107020444
+106.198.100.191 146 151 875459 20221122172644
+54.202.112.110 1 1 9300 20221109191225
+159.223.236.187 2 2 18600 20221127215411
+157.46.99.116 241 270 5664486 20221109093239
+157.51.90.70 125 130 8583086 20221103183427
+64.62.197.33 2 2 18600 20221119101811
+64.62.197.11 1 1 9300 20221124180556
+157.49.158.236 113 113 1613028 20221115160053
+178.232.18.96 2 2 18600 20221122122235
+157.45.150.68 96 107 1629683 20221120130541
+167.94.138.119 2 3 21046 20221128193715
+199.244.57.253 0 1 3129906 
+140.246.136.252 2 2 18600 20221116043225
+157.51.194.175 295 306 2276144 20221102082302
+205.210.31.180 2 2 59828 20221105140124
+93.158.91.252 0 2 116 
+13.57.26.242 1 1 9300 20221123195612
+205.210.31.5 2 2 59828 20221111133027
+35.93.148.149 2 2 18600 20221128192632
+54.187.134.172 2 2 18600 20221109191036
+20.90.86.187 4 4 119656 20221110130438
+40.77.167.52 0 1 31837 
+193.118.53.194 5 5 46500 20221129223900
+74.82.47.26 2 2 18600 20221110134656
+3.239.45.78 2 2 59828 20221118065749
+34.171.122.59 8 8 63326 20221112004446
+223.187.116.39 5 6 367919 20221115094726
+42.236.10.117 4 33 2668503 20221129144617
+205.169.39.118 0 1 3129906 
+198.235.24.28 2 2 59828 20221101184241
+37.139.128.222 1 1 9300 20221115101515
+43.158.213.246 2 2 18600 20221116050801
+8.219.95.195 2 3 21046 20221125092944
+51.158.37.180 2 2 59828 20221108121805
+198.235.24.176 2 2 59828 20221127053017
+167.94.138.45 3 5 32792 20221122174627
+75.101.182.59 2 2 59828 20221120201104
+185.81.157.168 1 1 29914 20221110114549
+5.189.183.89 12 12 1166 20221107015048
+34.216.183.238 2 2 18600 20221117192943
+157.49.142.123 132 159 1413456 20221125075845
+77.74.177.119 8 8 74400 20221126215027
+87.236.176.128 1 1 9300 20221107103004
+64.62.197.103 2 2 18600 20221108011059
+184.105.247.231 2 2 18600 20221112082815
+5.189.172.220 25 25 2915 20221129022424
+167.248.133.44 2 3 21046 20221122045219
+170.64.136.154 1 1 9300 20221126090945
+68.183.145.142 2 2 18600 20221125160629
+23.129.64.134 0 1 3129906 
+192.241.206.26 2 2 18600 20221107032243
+157.46.123.8 66 74 392424 20221115173355
+223.187.123.132 22 22 214921 20221116122344
+188.212.139.188 0 1 3129906 
+64.62.197.128 2 2 18600 20221114110244
+54.87.233.122 2 2 59828 20221109140120
+207.154.200.192 2 2 59828 20221119233301
+3.89.119.108 2 2 59828 20221124112637
+106.197.35.108 6 8 7614 20221123114548
+134.209.117.157 2 2 18600 20221111020004
+209.141.36.112 26 34 283748 20221118055136
+5.188.62.76 2 2 18600 20221107190136
+110.224.80.169 18 18 171406 20221130091914
+192.241.209.152 2 2 18600 20221109032855
+107.178.200.215 0 2 116 
+87.236.176.87 1 1 9300 20221110140448
+209.141.36.231 8 20 155064 20221118065242
+192.241.212.116 1 1 9300 20221126043859
+150.223.5.75 1 1 9300 20221110201439
+106.198.33.91 293 316 2606477 20221102161146
+3.8.143.165 6 6 55800 20221113023652
+198.235.24.177 2 2 59828 20221116004318
+54.190.111.243 2 2 18600 20221114192535
+107.178.232.252 0 4 232 
+106.203.70.180 20 20 973939 20221125035950
+94.102.61.8 13 13 120900 20221130085803
+191.96.252.215 2 2 18600 20221115231321
+101.68.211.2 6 7 181930 20221128151903
+192.241.192.251 2 2 18600 20221110032022
+157.49.160.16 465 477 4338292 20221106091559
+174.92.139.132 16 17 3219610 20221122115917
+157.49.165.44 18 18 134598 20221123092757
+157.46.111.217 225 226 2192461 20221105112017
+128.14.134.170 3 3 27900 20221129140604
+18.170.38.81 7 7 65100 20221112064754
+157.51.196.254 122 209 4329189 20221116071608
+66.102.8.154 0 26 1956413 
+147.182.191.20 2 2 18600 20221110092300
+104.131.47.213 2 3 21046 20221121021559
+159.89.112.205 2 2 59828 20221130174433
+223.187.119.132 3 3 18291 20221116122016
+167.94.146.58 2 3 21046 20221111032025
+106.197.35.100 2 3 2538 20221122114626
+106.198.100.181 104 144 2810742 20221123051803
+162.221.192.26 2 2 18600 20221128054421
+157.46.72.105 48 53 491272 20221124101858
+64.225.21.137 2 2 18600 20221119134030
+93.158.90.68 2 2 18600 20221128030757
+157.51.196.151 231 288 2861948 20221115161305
+198.199.95.71 2 2 18600 20221127044940
+5.182.210.92 4 4 37200 20221119012255
+3.142.141.44 13 68 720653 20221129100343
+106.203.126.247 30 30 82554 20221123163859
+123.6.49.4 0 1 3129906 
+205.185.116.89 16 26 189472 20221118070239
+205.210.31.28 2 2 59828 20221125190057
+194.110.203.60 4 4 37200 20221120175432
+195.88.253.86 0 1 3129906 
+106.198.100.177 6 37 2365586 20221121135522
+205.210.31.168 4 4 119656 20221126033344
+107.178.229.158 0 2 116 
+192.241.208.82 2 2 18600 20221121042453
+117.202.181.127 345 354 18985182 20221128115052
+157.50.29.230 8 11 25274 20221121034515
+52.27.114.171 2 2 18600 20221127190415
+184.105.247.244 1 1 9300 20221122052653
+185.244.195.103 0 1 3129906 
+167.99.61.186 2 2 18600 20221103050501
+178.62.106.221 2 2 18600 20221109063319
+167.71.230.37 2 2 18600 20221113190752
+15.207.151.173 13 14 3206390 20221122091856
+157.51.82.200 18 47 2785605 20221101050558
+188.241.206.30 0 1 3129906 
+121.5.231.252 10 10 93000 20221109065430
+205.210.31.14 2 2 59828 20221119112645
+34.208.61.230 1 1 9300 20221110193030
+106.222.97.191 2 6 2538 20221108150036
+157.46.120.228 280 298 3067507 20221109060805
+66.249.83.206 1 10 1606101 20221130131642
+27.115.124.109 0 2 6259812 
+180.163.220.67 2 30 527290 20221125112206
+198.235.24.184 2 2 59828 20221130061643
+208.93.216.119 2 2 18600 20221104023305
+157.51.194.193 36 36 154599 20221101085318
+205.210.31.153 2 2 59828 20221108163508
+192.241.206.57 2 2 18600 20221128045144
+143.110.219.151 2 2 18600 20221102051158
+192.241.201.77 1 1 9300 20221118041306
+18.191.46.221 13 68 720653 20221119060026
+142.93.135.17 2 2 18600 20221105145208
+18.236.199.124 2 2 18600 20221108192958
+162.142.125.9 6 9 63138 20221122110936
+64.62.197.80 2 2 18600 20221127103911
+194.36.99.194 2 2 18600 20221115215345
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20221101 604 732 9842212 53
+20221102 1339 1437 59155285 41
+20221103 654 751 36745469 51
+20221104 384 461 19244224 47
+20221105 1696 1757 36634820 43
+20221106 1592 1648 17109765 22
+20221107 2200 2288 74439860 47
+20221108 1259 1344 76975329 40
+20221109 1527 1617 36939051 43
+20221110 1191 1289 25388987 48
+20221111 523 535 4411995 27
+20221112 431 478 5325703 34
+20221113 208 216 1113714 25
+20221114 1310 1423 41238443 36
+20221115 2186 2529 60370619 39
+20221116 1485 1722 44517197 38
+20221117 909 954 23263188 27
+20221118 722 885 14891003 52
+20221119 2498 2922 36812742 45
+20221120 1871 1931 17990598 39
+20221121 2086 2458 54210979 36
+20221122 2221 2277 49765861 28
+20221123 1825 1979 35433769 33
+20221124 673 809 19893216 32
+20221125 1890 2200 54432988 43
+20221126 1860 2119 43757349 36
+20221127 1416 1493 148671435 35
+20221128 984 1107 37650264 46
+20221129 1033 1186 48958901 26
+20221130 3123 5527 120141307 49
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 38
+2mn-5mn 21
+15mn-30mn 35
+0s-30s 865
+30s-2mn 42
+1h+ 123
+5mn-15mn 37
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 271
+/school/admin/studentProfile.php 6184 89791817 3 17
+/school/admin/studentView.php 3578 116406052 4 5
+/ 1793 25204154 826 796
+/school/admin/teacherProfile.php 1334 16588654 2 16
+/school/admin/stdPGraph.php 1288 35048 0 3
+/school/admin/markGraph.php 1259 31736 0 5
+/school/admin/SectionlistProfile.php 1212 19650874 1 9
+/school/admin/printStudentFees.php 1044 424185906 1 17
+/school/admin/index.php 920 8426098 4 0
+/school/admin/chart_Data.php 892 776815 0 23
+/school/admin/ 876 8160520 3 0
+/school/index.php 705 894875 151 49
+/school/teacher/dashboard.php 688 2720404 6 6
+/school/admin/staffprofile.php 610 7174274 0 3
+/school/admin/classSectionView.php 608 3903172 1 1
+/school/admin/paybusfees1.php 588 3380054 0 2
+/school/admin/teacherView.php 572 4461229 4 3
+/school/admin/ajax.php 535 110172 0 3
+/school/parent/dashboard.php 524 3253508 4 6
+/school/admin/payBusfees.php 446 2578924 0 3
+/school/admin/viewexamination.php 446 2569500 0 1
+/school/admin/addBusfees.php 432 3124300 1 3
+/school/admin/reportDailyFeesCollected.php 403 2390700 1 0
+/school/admin/reportBuswise.php 376 1724313 1 3
+/school/admin/ExamDetails.php 370 2420430 1 2
+/school/admin/paymentExpenses.php 38 208854 0 1
+/admin 4 22524 0 2
+/school/teacher/addallowance.php 30 75410 0 0
+/school/ 268 340092 70 3
+/school/admin/deletebankdetails.php 2 0 0 0
+/school/staff/app/ 12 14432 0 0
+/school/admin/paymentExpense.php 4 22744 0 0
+/school/admin/PurchaseOrderItem.php 90 610480 0 3
+/avp/app/schedule.php 14 33194 0 2
+/school/admin/placeOrder.php 90 489932 0 0
+/avp/app/previous_test.php 12 28320 0 1
+/school/admin/classwiseReport.php 12 86118 0 0
+/school/teacher/student.php 128 475312 1 2
+/avp/webfonts/fa-solid-900.woff2 53 7975016 2 1
+/school/admin/itemList.php 22 143954 0 0
+/school/admin/editbusbill.php 171 707022 0 0
+/school/admin/staffcreate.php 54 316412 0 0
+/school/admin/Sectionsubjects.php 4 16232 0 0
+/school/parent/subject.php 50 70566 0 1
+/school/teacher/subject.php 70 197090 0 2
+/school/admin/viewBusroot.php 70 575582 0 0
+/school/teacher/app/ 20 24072 1 0
+/school/admin/sec_wiseSubgraph.php 71 6706 0 0
+/school/staff/app/takeAttendance.php 4 9152 0 0
+/school/admin/reportStudentfees.php 6 135354 0 0
+/assets/vendor/icofont/fonts/icofont.woff2 26 13984568 4 11
+/school/parent/login.php 16 15966 1 0
+/school/parent/ 180 205706 7 1
+/school/parent/1ndex.php 2 2486 0 0
+/school/admin/supplierList.php 72 409910 0 0
+/school/admin/g1.php 150 18526 0 0
+/school/admin/deletehomework.php 4 96 0 0
+/school/admin/insertAttendance.php 80 499670 0 2
+/school/parent/transport.php 56 97700 0 0
+/school/admin/setting.php 108 919830 1 2
+/school/teacher/homework.php 92 273882 0 0
+/school/admin/busStopsEdit.php 24 133194 0 0
+/school/teacher/examDetail.php 42 106124 0 0
+/school/teacher/formsubmit.php 7 127 0 0
+/school/parent/graph2.php 100 6979 0 3
+/school/admin/expenseCreated.php 92 521408 0 1
+/school/admin/Receiver.php 14 78770 0 0
+/school/admin/classwiseFeesReport.php 185 1098064 0 1
+/assets/vendor/icofont/fonts/icofont.woff 1 645604 0 1
+/api/v2/cmdb/system/admin/admin 5 1790 0 3
+/school/admin/teachergraph.php 46 2987 0 0
+/school/teacher/addsubject.php 6 14706 0 0
+/avp/webfonts/fa-solid-900.ttf 2 795456 0 0
+/assets/vendor/boxicons/fonts/boxicons.woff2 26 2338024 2 9
+/school/teacher/viewMark.php 14 32278 0 0
+/school/admin/studentCreate.php 52 443308 1 1
+/school/admin/officestaffattendance.php 42 254204 0 0
+/school/admin/teacherCreate.php 70 408800 0 0
+/school/admin/viewexamMarks.php 118 1498398 0 1
+/school/staff/app/student.php 10 23730 0 0
+/school/admin/supplierProfile.php 124 772802 0 2
+/school/demo/ 2 2538 0 1
+/school/admin/sectionStudentReport.php 122 728652 0 0
+/school/admin/classwiseStudentView.php 125 846544 0 1
+/school/teacher/formsubmit 1 358 0 0
+/school/teacher/workdone.php 136 376720 0 0
+/school/teacher/app/timetable.php 2 4790 0 0
+/school/admin/deletepayslip.php 12 226 0 0
+/school/admin/deleteallowance.php 6 0 0 0
+/school/admin/termPaid.php 7 44760 0 0
+/school/admin/print_classwithsec_wisestrength.php 4 179156 0 0
+/school/admin/ExamAssignDate.php 68 419444 0 0
+/school/admin/sectioneditstudents.php 56 322474 0 0
+/school/staff/app/subject.php 2 4956 0 0
+/school/admin/top.php 32 23874 0 1
+/school/admin/takeAttendance.php 82 499638 0 0
+/school/parent/index.php 266 345779 6 8
+/api/v2/cmdb/system/admin/guest 1 358 0 0
+/avp/app/index.php 16 20176 5 0
+/school/admin/studentclasschange.php 94 526106 0 1
+/test.php 2 960 0 0
+/wordpress 6 0 0 0
+/school/admin/Storeroom.php 22 120890 0 0
+/school/admin/printFeesPaid.php 336 809850 2 12
+/school/admin/classwiseStudentStrengthReport.php 90 706850 0 0
+/school/teacher/viewExam.php 44 154576 0 0
+/school/teacher/document.php 36 116804 0 0
+/school/admin/sectionGraphProfile.php 166 6333 0 3
+/school/teacher/analysis.php 16 37866 0 0
+/school/admin/print1.php 6 389494 0 0
+/school/parent/document.php 44 90880 0 0
+/school/admin/PurchaseOrder.php 60 364026 0 0
+/api/report 2 716 0 2
+/school/admin/sectiondeletestudents.php 6 144 0 0
+/ALFA_DATA/alfacgiapi/perl.alfa 5 2915 0 0
+/school/admin/clswisePending.php 334 2289774 0 1
+/school/admin/editbusroot.php 186 1354344 0 0
+/internship.php 16 56864 1 4
+/school/teacher/profile.php 78 199852 0 1
+/school/admin/timetable-col.php 10 8390 0 2
+/school/1/1/1/1/treemap/multi-dimensional.html 2 2022 0 0
+/school/admin/accountNewGl.php 48 277942 0 0
+/school/1/1/1/1/treemap/distributed.html 2 2398 0 0
+/school/admin/viewstaffAttendance.php 56 341340 0 0
+/school/admin/itemCreated.php 20 110428 0 0
+/school/teacher/saleryslip.php 12 28408 0 1
+/school/admin/viewtimeTable.php 68 460800 0 4
+/avp/app/news.php 14 27762 0 0
+/school/staff/css/fonts/bootstrap-iconsd862.woff2 5 562200 0 0
+/school/admin/printclassSectionView.php 28 1298614 0 0
+/old 6 0 0 0
+/school/admin/sectionaddstudents.php 72 424642 0 0
+/school/admin/Sectionstudents.php 4 1009740 0 0
+/privacy-policies.html 20 129026 0 2
+/new 6 0 0 0
+/school/staff/app/profile.php 4 9908 0 0
+/school/admin/classwiseTermfeesReport.php 237 1600597 0 0
+/school/teacher/modifySubject.php 14 35026 0 0
+/school/admin/updatemarks.php 278 2386612 0 2
+/avp/app/key.php 22 43192 0 0
+/api/v2/cmdb/system/admin/Admin 1 358 0 0
+/school/admin/addBusRoot.php 64 361938 0 1
+/school/parent/my_profile.php 84 162800 0 0
+/school/admin/formSubmit.php 163 2291 1 1
+/terms.html 14 100284 0 1
+/school/admin/supply.php 333 26110 0 2
+/school/teacher/examAssign.php 40 102756 0 0
+/school/admin/schoolList.php 64 374222 0 0
+/school/staff/app/dashboard.php 24 93506 0 0
+/avp/app/edit_profile.php 2 4506 0 0
+/avp/webfonts/fa-regular-400.woff2 3 75288 0 0
+/school/admin/sec_wiseSubGraph.php 14 5012 0 0
+/api/v2/cmdb/system/admin/ADMIN 1 358 0 0
+/school/admin/printClasswiseStudentReport.php 42 65860 1 1
+/avp/app/ 2 2522 1 0
+/school/admin/graph.php 240 25418 0 0
+/school/admin/feesPending.php 11 68923 0 0
+/school/parent/attendance.php 60 82442 0 0
+/school/admin/editbankdetails.php 56 295940 0 0
+/school/admin/printFeesTermwise.php 36 59360 0 0
+/school/staff_app/css/fonts/bootstrap-iconsd862.woff2 1 112440 0 0
+/school/admin/transportfeesPay.php 4 22564 0 0
+/school/admin/sectioneditsubjects.php 28 176818 0 0
+/school/staff_app/php/dashboard.php 16 62164 0 0
+/api/v2/cmdb/system/admin/user 1 358 0 0
+/school/admin/editexam.php 86 410932 0 0
+/school/admin/ExamDetailsModify.php 62 379358 0 0
+/school/staff/app/addsubject.php 12 29032 0 0
+/school/admin/payteacher.php 14 85648 0 1
+/school/admin/secwFessGraph.php 136 34858 0 1
+/home 6 0 0 4
+/school/admin/sectionWokdoneReport.php 51 278116 0 0
+/school/teacher/app/student.php 6 14496 0 1
+/school/admin/deleteexam.php 2 0 0 0
+/avp/app/profile.php 10 22380 0 0
+/school/admin/sec_wiseExamgraph.php 43 4550 0 0
+/school/admin/expenseView.php 76 446976 0 1
+/school/teacher/addstudent.php 8 22498 0 0
+/school/admin/busEdit.php 44 250976 0 0
+/school/admin/classwiseStrength.php 12 75344 0 2
+/school/teacher/saleryDetails.php 70 193972 0 0
+/cgi-sys/404.html 56 26573 14 1
+/school/admin/viewAttendence.php 62 373706 0 0
+/school/teacher/css/fonts/bootstrap-iconsd862.woff2 32 3598080 0 0
+/school/admin/TeacherWokdoneReport.php 79 424007 0 0
+/school/admin/Completepo.php 16 88910 0 0
+/api/v2/cmdb/system/admin/root 1 358 0 0
+/school/admin/sectionaddsubjects.php 68 432082 0 0
+/school/teacher/app/dashboard.php 14 54992 0 0
+/school/admin/editPayslip.php 154 630244 0 1
+/school/admin/classView.php 306 3580114 1 3
+/school/admin/allowanceReport.php 93 445314 0 0
+/school/admin/sectiondeletesubjects.php 2 44 0 0
+/school/parent/profile_edit.php 2 4200 0 0
+/school/admin/print2.php 4 0 0 0
+/school/admin/printclasswiseStudentStrengthReport.php 4 259792 0 0
+/bc 6 0 0 0
+/school/admin/staffview.php 216 1207132 0 0
+/api/v2/cmdb/system/admin/ADM 1 358 0 1
+/school/teacher/timetable.php 32 75106 0 0
+/bk 6 0 0 0
+/school/admin/edithomework.php 16 88264 0 0
+/school/teacher/ajax.php 39 2804 0 0
+/school/1/1/1/1/treemap/color-scale.html 2 2470 0 0
+/school/parent/workdone.php 20 28718 0 0
+/upl.php 1 358 0 1
+/school/admin/promoteStudent.php 48 345436 2 2
+/school/admin/printsectionwiseFeesReport.php 16 28412 1 1
+/avp/app/dashboard.php 243 1304396 5 9
+/school/teacher/viewAttendence.php 146 375018 0 1
+/register.php 6 12302 0 1
+/school/admin/addBus.php 58 328236 0 0
+/school/teacher/bankdetails.php 44 135368 0 0
+/school/teacher/ 101 121127 3 0
+/school/teacher/addworkdone.php 130 355660 0 1
+/school/staff/app/workdone.php 2 4996 0 0
+/school/admin/viewMarks.php 186 1084986 0 1
+/school/teacher/index.php 65 77412 7 5
+/school/teacher/takeAttendance.php 192 1186118 0 4
+/school/teacher/app/index.php 2 2408 1 0
+/backup 6 0 0 0
+/school/admin/classSectionCreate.php 56 323496 0 1
+/wp-plain.php 5 2915 0 1
+/school/staff_app/php/student.php 6 14238 0 0
+/school/admin/editexamdate.php 6 33684 0 0
+/school/admin/paybusfees2.php 130 804754 0 2
+/school/admin/studentProfileEdit.php 114 660502 0 0
+/school/staff/app/index.php 10 11988 0 0
+/school/admin/editsectionstudents.php 4 22948 0 0
+/school/admin/pdf/printclasswiseReport.php 10 7642 0 0
+/main 6 0 0 0
+/school/admin/paysalary.php 108 1431376 0 1
+/school/admin/printclasswiseReport.php 24 1543678 0 0
+/school/parent/homework.php 62 88620 0 0
+/school/1/1/1/1/treemap/basic.html 2 2052 0 0
+/school/admin/transportbill.php 118 47899682 1 1
+/Electron/download/windows/\\Program%20Files\\3CX%20Phone%20System\\Data\\DB\\base\\16384\\16393 1 13787 1 1
+/school/admin/printclswisePending.php 8 904 0 1
+/school/admin/attendanceList.php 36 201028 0 0
+/api/v2/cmdb/system/admin/Adm 1 358 0 0
+/school/teacher/app/workdone.php 2 4996 0 0
+/distributorship.php 16 26912 0 2
+/school/teacher/daywise_Attendance.php 34 78016 0 0
+/Autodiscover/Autodiscover.xml 4 1384 4 3
+/school/parent/graph1.php 192 14144 0 2
+/school/admin/att-data.php 217 12644 0 0
+/school/admin/demo-data.php 263 98011 0 8
+/school/admin/schoolProfile.php 18 104428 0 0
+/school/admin/addbusroute.php 48 267578 0 0
+/school/admin/busProfile.php 200 1142142 0 0
+/school/admin/allowance.php 72 403702 0 1
+/school/parent/exam.php 96 139800 0 1
+/school/teacher/examination.php 198 565044 0 0
+/school/admin/classCreate.php 34 194220 0 0
+/school/admin/viewBus.php 128 717372 0 0
+/school/admin/printclasswisefeesreport.php 258 471240 0 3
+/school/admin/termPending.php 7 44905 0 0
+/alfacgiapi/perl.alfa 5 2915 0 4
+/school/admin/timeTableCreate.php 64 358004 0 0
+/api/v2/cmdb/system/admin/adm 1 358 0 0
+/school/admin/changeStudentClass.php 18 101424 0 0
+/school/parent/fees.php 84 179484 0 0
+/school/teacher/updateMark.php 36 97400 0 0
+/school/admin/createExamination.php 172 1953722 0 1
+/cpanel 4 54294 0 1
+/wp 6 0 0 0
+/school/parent/examdetails.php 76 109682 0 0
+/school/admin/staffAttendance.php 72 492142 0 1
+/avp/app/exam.php 34 124336 0 0
+/school/admin/supplierCreated.php 46 259452 0 0
+/school/admin/editsectionsubjects.php 4 22284 0 0
+END_SIDER

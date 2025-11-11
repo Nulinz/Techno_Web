@@ -1,0 +1,793 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202412 will be lost/reset.
+# Last config file used to build this data file was /home2/nuscmy3y/tmp/awstats/awstats.ptppost.in.nuscma.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2691                
+POS_VISITOR 19651               
+POS_DAY 22454               
+POS_DOMAIN 3445                
+POS_LOGIN 3889                
+POS_ROBOT 4044                
+POS_WORMS 4335                
+POS_EMAILSENDER 4466                
+POS_EMAILRECEIVER 4609                
+POS_SESSION 23151               
+POS_SIDER 23308               
+POS_FILETYPES 4744                
+POS_DOWNLOADS 4863                
+POS_OS 4911                
+POS_BROWSER 5089                
+POS_SCREENSIZE 5870                
+POS_UNKNOWNREFERER 5944                
+POS_UNKNOWNREFERERBROWSER 6642                
+POS_ORIGIN 7050                
+POS_SEREFERRALS 7184                
+POS_PAGEREFS 7328                
+POS_SEARCHWORDS 7476                
+POS_KEYWORDS 7628                
+POS_MISC 2355                
+POS_ERRORS 7687                
+POS_CLUSTER 3745                
+POS_SIDER_404 7826                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250101140020 1 0 11583839680246
+FirstTime 20241201105626
+LastTime 20241231132056
+LastUpdate 20250101184429 1 0 0 0 0
+TotalVisits 69                  
+TotalUnique 69                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 69                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 2 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 391866 10 14 101949
+1 4 4 97876 6 9 51180
+2 4 4 171464 3 7 53007
+3 21 22 1558232 32 56 21914
+4 3 3 73407 18 28 6413
+5 6 6 269340 450 476 258116
+6 4 4 220402 10 22 175760
+7 4 4 97876 0 8 2148
+8 6 6 146814 432 438 424302
+9 10 11 370128 14 43 15095
+10 16 16 1126660 21 22 9231
+11 4 4 97876 430 438 254004
+12 4 4 97876 4 9 344718
+13 12 13 664118 18 52 24200
+14 4 4 220402 433 441 255528
+15 6 6 269340 0 12 3580
+16 13 13 293628 0 18 5012
+17 2 2 171464 26 28 456474
+18 4 4 97876 28 34 458622
+19 6 6 146814 4 13 3938
+20 4 4 97876 4 12 3173
+21 6 6 146814 454 464 707456
+22 18 19 377256 403 445 244137
+23 18 19 57578 57 115 25294
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+us 83 85 2072330
+ca 21 21 1677846
+gb 16 16 636556
+it 16 16 1249186
+de 10 11 247602
+in 8 10 152638
+se 8 8 195752
+ru 4 4 97876
+cn 4 4 220402
+be 4 4 97876
+ua 2 2 48938
+au 2 2 48938
+ch 2 2 171464
+nl 2 2 272172
+bg 2 2 48938
+ao 1 1 24469
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+no_user_agent 20 2016764 20241221081528 0
+bot[\s_+:,\.\;\/\\-] 4 97876 20241212015922 0
+Applebot/ 3 51850 20241211025333 0
+MixrankBot 2 48938 20241205000840 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+css 5 14560 0 0
+html 165 6974071 0 0
+php 20 274352 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+macosx10 1 1
+android10 2 2
+unix 5 4
+macosx15 18 17
+win7 8 8
+Unknown 59 58
+win10 79 77
+linux 14 14
+ios_iphone 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 36
+chrome71.0.2623.112 2 2
+chrome80.0.3987.162 2 2
+chrome128.0.0.0 3 2
+chrome122.0.0.0 2 2
+chrome131.0.0.0 6 4
+chrome117.0.0.0 1 1
+chrome100.0.4896.60 4 4
+opera70.0.3728.95 2 2
+chrome107.0.0.0 3 3
+safari17.3.1 2 2
+safari 2 2
+chrome129.0.0.0 6 6
+chrome105.0.0.0 4 4
+chrome103.0.0.0 5 4
+msie10.0 2 2
+chrome72.0.3626.121 4 4
+firefox123 2 2
+Unknown 14 14
+chrome77.0.3865.90 4 4
+firefox67.0 2 2
+chrome63.0.3239.132 2 2
+chrome80.0.3987.149 4 4
+chrome127.0.0.0 6 6
+chrome91.0.4472.114 10 10
+chrome58.0.3029.110 4 4
+mozilla 49 48
+chrome83.0.4103.97 4 4
+chrome84.0.4147.105 4 4
+chrome116.0.0.0 1 1
+chrome95.0.4638.69 4 4
+firefox79.0 2 2
+chrome39.0.2171.95 1 1
+firefox133.0 2 2
+chrome78.0.3904.108 19 19
+firefox76.0 4 4
+chrome79.0.3945.88 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20241230160417
+Mozilla/5.0_(compatible;_Dataprovider.com) 20241208135603
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20241229112144
+Mozilla/5.0_(compatible) 20241227192721
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20241221060332
+Python/3.11_aiohttp/3.9.5 20241231132056
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Python/3.11_aiohttp/3.9.5 20241231132056
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20241221060332
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 185 185
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 5
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+406 44 9944
+404 3001 1671058
+301 6 1408
+403 13 6232
+409 23 913
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 385
+/wp-admin/css/colors/midnight/ 1 -
+/wp-includes/Requests/about.php 20 -
+/function.php 2 -
+/wp-admin/user/cloud.php 8 -
+/edit.php 2 -
+/wp-admin/maint/ 1 -
+/images/icons/todaytalks_tab_icon.jpeg 61 -
+/wp-p.php7 20 -
+/alfanew.php7 20 -
+/upload/2024-06-15-11:22:47%20am-Triple_Jubilee_Coimbatore.jpg 6 http://www.ptppost.in/
+/img/xmrlpc.php 20 -
+/wordpress 6 -
+/wp-admin/images/about.php 10 -
+/x/index.php 2 -
+/new/wp-json/wp/v2/users 2 -
+/Sunil_Gavaskar_backs.php 2 -
+/filemanager/dialog.php 2 -
+/lv.php 2 -
+/wp-includes/Requests/Text/admin.php 20 -
+/wp-includes/install.php 2 -
+/mah.php 2 -
+/radio.php 2 -
+/upload/2024-06-18-04:05:30%20pm-AI_meteoric_rise.jpg 6 http://www.ptppost.in/
+/.well-known/acme-challenge/upfile.php 2 -
+/upload/2024-06-05-04:29:50%20pm-Air_India_Vistara.jpg 6 http://www.ptppost.in/
+/wp-content/themes/about.php 22 -
+/xmrlpc.php 20 -
+/Vijay_Raghava_merger.php 4 -
+/wp-content/plugins/background-image-cropper/ups.php 2 -
+/old/wp-json/wp/v2/users 2 -
+/config.php 2 -
+/about.php 22 -
+/class.api.php 2 -
+/wp-admin/user/xmrlpc.php 8 -
+/wp-json/oembed/1.0/embed 2 -
+/.well-known/acme-challenge/inputs.php 2 -
+/menu.php 2 -
+/.well-known/security.txt 2 -
+/autoload_classmap.php 2 -
+/wp.php 2 -
+/wp-includes/customize/about.php 20 -
+/defaults.php 2 -
+/wp-content/uploads/wpr-addons/forms/ 2 -
+/wp-content/about.php 22 -
+/wp-admin/xmrlpc.php 10 -
+/wp-content/plugins/core/include.php 2 -
+/randkeyword.php 2 -
+/wsoyanz.php 20 -
+/berlin.php 20 -
+/wp-admin/css/index.php 11 -
+/.well-known/pki-validation/xmrlpc.php 20 -
+/wordpress/wp-json/wp/v2/users 2 -
+/Wonder_Jammu_Kashmir.php 4 -
+/options.php 2 -
+/core 6 -
+/.qiodetme.php 2 -
+/wp-content/plugins/fix/ 2 -
+/Malayalam_cinema_Filmmakers.php 2 -
+/doc.php 2 -
+/libraries/vendor/updates.php 20 -
+/next_Wasim_Akram.php 4 -
+/wp-content/themes/seotheme/db.php 20 -
+/wp-admin/includes/cloud.php 11 -
+/admin/ 2 -
+/home 6 -
+/classwithtostring.php 2 -
+/xp.php 2 -
+/wp-admin/images/Mhbgf.php 1 -
+/wp-includes/rest-api/about.php 20 -
+/wp-admin/setup-config.php 3 -
+/.well-known/install.php 2 -
+/.well-known/pki-validation/index.php 2 -
+/wp-admin/network/index.php 1 -
+/wp-content/banners/about.php 20 -
+/.well-known/acme-challenge/plugins.php 2 -
+/wp-admin/network/xmrlpc.php 10 -
+/sitemap 6 -
+/yanz.php 20 -
+/wp-content/plugins/seoplugins/db.php 20 -
+/.tmb/ 2 -
+/img/ 2 -
+/wp-admin/js/widgets/xmrlpc.php 10 -
+/humans.txt 2 -
+/wp-includes/Text/about.php 20 -
+/avaa.php 20 -
+/wp-includes/js/ 2 -
+/upload/2024-06-14-02:31:26%20pm-Shakib_Al_Hasan.jpg 6 http://www.ptppost.in/
+/chosen.php 2 -
+/wp-admin/maint/index.php 2 -
+/wp-includes/images/ 2 -
+/AI_meteoric_rise.php 6 -
+/Air_India_Vistara.php 4 -
+/wp-content/uploads/2023/05/404.php 2 -
+/.well-known/plugins.php 2 -
+/wp-includes/about.php 20 -
+/images/xmrlpc.php 20 -
+/x.php 2 -
+/BTS_Welcomes_Jin.php 6 -
+/upload/2024-06-14-12:04:29%20pm-Vijay_Raghava_merger.jpg 6 http://www.ptppost.in/
+/wp-content/plugins/hellopress/wp_filemanager.php 10 -
+/alfa-rex2.php7 20 -
+/wp-admin/ 1 -
+/images/cloud.php 20 -
+/wp-content/updraft/about.php 20 -
+/upload/2024-06-14-11:48:32%20am-Anirudh_Ravichander.jpg 6 http://www.ptppost.in/
+/adminfuns.php7 20 -
+/upload/2024-06-14-03:51:04%20pm-BTS_Welcomes_Jin.jpg 6 http://www.ptppost.in/
+/wp-signup.php 2 -
+/alfanew.php 20 -
+/wp-admin/includes/ 1 -
+/wp-content/admin.php 2 -
+/.well-known/pki-validation/cloud.php 20 -
+/./images/icons/todaytalks_tab_icon.jpeg 7 -
+/network.php 2 -
+/wp-atom.php 2 -
+/upload/2024-06-15-06:01:56%20pm-Terrible_Israeli_attacks.jpg 6 http://www.ptppost.in/
+/uploads/ 2 -
+/wp-login.php 1 -
+/css/cloud.php 20 -
+/ebs.php7 20 -
+/wp-includes/PHPMailer/ 2 -
+/cloud.php 20 -
+/wp-admin/js/ 1 -
+/.well-known/pki-validation/ 2 -
+/cgi-bin/about.php 20 -
+/wp-includes/SimplePie/ 2 -
+/wp-content/plugins/revslider/includes/external/page/index.php 2 -
+/ws.php7 20 -
+/newsite 6 -
+/Vikravandi_by_election.php 8 -
+/.well-known/pki-validation/about.php 22 -
+/wp-content/themes/sketch/404.php 2 -
+/alfa.php 2 -
+/upload/2024-06-03-05:51:25%20pm-Amul_Milk_Gets_Pricier.jpg 6 http://www.ptppost.in/
+/file.php 6 -
+/403.php 20 -
+/wp-includes/rest-api/ 2 -
+/wp-content/upgrade/ 2 -
+/wp-includes/theme-compat/ 2 -
+/.well-known/acme-challenge/admin.php 2 -
+/wp-content/gallery/about.php 20 -
+/alfa-rex.php7 20 -
+/upload/2024-06-03-01:00:17%20pm-RBI_Expected_Maintain.jpg 6 http://www.ptppost.in/
+/checkbex.php 2 -
+/wp-includes/style-engine/about.php 22 -
+/app/ 6 -
+/Tata_Group_Eyes.php 4 -
+/.well-known/about.php 22 -
+/wp-content/plugins/Cache/Cache.php 20 -
+/testing 6 -
+/updates.php 20 -
+/wp-admin/ajax-actions.php 10 -
+/wp-includes/css/index.php 2 -
+/wp-includes/blocks/about.php 20 -
+/dropdown.php 22 -
+/cgi-bin/inputs.php 2 -
+/web.php 2 -
+/.well-known/index.php 2 -
+/assets/ 2 -
+/atomlib.php 2 -
+/wp-admin/css/colors/ 1 -
+/wp-includes/assets/ 2 -
+/Terrible_Israeli_attacks.php 6 -
+/.well-known/acme-challenge/license.php 2 -
+/wp-admin/images/ 1 -
+/wp-includes/css/dist/components/ 2 -
+/upload/2024-06-15-01:34:27%20pm-India_vs_Canada_Predictions.jpg 6 http://www.ptppost.in/
+/wp-content/plugins/seoo/wsoyanz1.php 20 -
+/info.php 2 -
+/wp-content/uploads/ 2 -
+/wp-content/uploads/2020/09/ 2 -
+/wp-admin/js/widgets/cloud.php 11 -
+/sitemap.xml 4 -
+/lock.php 2 -
+/wp-settings.php 2 -
+/blog/wp-json/wp/v2/users 2 -
+/admin/function.php 2 -
+/wp-includes/css/ 2 -
+/wp-content/blogs.dir/about.php 20 -
+/wp-includes/pomo/ 2 -
+/simple.php 2 -
+/images/about.php 20 -
+/wp-admin/css/colors/blue/ 1 -
+/wso.php 2 -
+/upload/2024-06-03-05:29:58%20pm-Foreign_Investors_Pull_25_5k_Crore.jpg 6 http://www.ptppost.in/
+/wp-content/plugins/WordPressCore/include.php 2 -
+/wp-includes/Text/ 2 -
+/cgi-bin/cgi-bin/about.php 2 -
+/moon.php 2 -
+/Anirudh_Ravichander.php 8 -
+/wp-admin/includes/xmrlpc.php 10 -
+/index/function.php 6 -
+/wp-includes/class-wp-smtp-bar.php 2 -
+/wp-content/updates.php 20 -
+/wp-admin/network/ 1 -
+/wp-content/plugins/pwnd/pwnd.php 2 -
+/.ll/.qiodetme.php 4 -
+/wp-content/plugins/awesome-coming-soon/come.php 20 -
+/wp-trackback.php 2 -
+/wp-admin/network/cloud.php 10 -
+/default.php 2 -
+/wp-includes/mah.php 2 -
+/wp 6 -
+/css/index.php 2 -
+/wp-consar.php 20 -
+/wp-2019.php 2 -
+/ioxi002.php 2 -
+/wp-includes.bak/html-api/about.php 20 -
+/wp-admin/maint/about.php 1 -
+/wp-content/plugins/core-plugin/include.php 2 -
+/wp-admin/css/about.php 10 -
+/wp-content/item.php 2 -
+/cong.php 2 -
+/wp-content/plugins/seoo/wsoyanz.php 20 -
+/wp-content/languages/about.php 20 -
+/wp-content/plugins/simple/simple.php 20 -
+/.well-known/pki-validation/shell.php 2 -
+/login/ 6 -
+/wp-content/languages/index.php 2 -
+/modules/mod_simplefileuploadv1.3/elements/ 2 -
+/admin-post.php 20 -
+/xleet.php 2 -
+/wp-admin/images/cloud.php 10 -
+/502.shtml 2 https://md-in-62.webhostbox.net:2083/
+/wp-includes/fonts/ 2 -
+/wp-admin/css/colors/blue/cloud.php 10 -
+/wp-admin/maint/maint/ajax-actions.php 10 -
+/wp-content/plugins/pwnd/ 2 -
+/wp-admin/install.php 4 -
+/upload/upload.php 2 -
+/wp-content/upgrade-temp-backup/about.php 20 -
+/wp-includes/ 2 -
+/wp-content/mah.php 2 -
+/wp-content/themes/aahana/json.php 20 -
+/wp-content/plugins/fix/as.php 2 -
+/wp-includes/repeater.php 20 -
+/assets/images/ 2 -
+/load.php 2 -
+/wp-admin/css/colors/coffee/ 1 -
+/admin.php 42 -
+/js/ 2 -
+/wp-includes/widgets/about.php 20 -
+/wp-content/plugins/not/includes/about.php 20 -
+/wp-content/plugins/wp-conflg.php 20 -
+/img/about.php 20 -
+/RBI_Expected_Maintain.php 4 -
+/up.php 2 -
+/Vijay_Sethupathi_Surprising.php 2 -
+/wp-content/languages/ 2 -
+/ajax-actions.php 20 -
+/wp-content/plugins/seoplugins/mar.php 20 -
+/wp-json/wp/v2/users 2 -
+/wp-admin/css/colors/coffee/xmrlpc.php 10 -
+/wp-includes/js/tinymce/ 2 -
+/cgi-bin/admin.php 2 -
+/ws.php 2 -
+/feed/ 4 -
+/install.php 2 -
+/wp-admin/js/about.php 20 -
+/xmlrpc.php 2 -
+/wp-admin/css/colors/coffee/cloud.php 10 -
+/wp-content/themes/ 2 -
+/wp-includes/ID3/license.txt 4 -
+/wp-admin/dropdown.php 10 -
+/.git/config 6 -
+/img/cloud.php 20 -
+/wp-includes/ID3/ 2 -
+/upload/2024-06-15-04:49:01%20pm-Vikravandi_by_election.jpg 6 http://www.ptppost.in/
+/cgi-bin/cloud.php 20 -
+/wp-content/themes/pridmag/db.php 22 -
+/wp-content/plugins/wp-theme-editor/include.php 20 -
+/wp-admin/js/index.php 1 -
+/wp-admin/css/colors/blue/index.php 1 -
+/upload/2024-06-15-04:40:22%20pm-Vijay_Sethupathi_Surprising.jpg 6 http://www.ptppost.in/
+/wp-admin/cloud.php 10 -
+/wp-includes/pomo/about.php 20 -
+/upload/2024-06-15-05:45:01%20pm-Southwest_Airlines_plane.jpg 6 http://www.ptppost.in/
+/wp-content/install.php 2 -
+/libraries/legacy/updates.php 20 -
+/wp-admin/css/ 1 -
+/wp-includes/block-patterns/about.php 20 -
+/wp/wp-json/wp/v2/users 2 -
+/wp-admin/images/xmrlpc.php 10 -
+/wp-includes/widgets/ 2 -
+/Amul_Milk_Gets_Pricier.php 4 -
+/assets/img/ 2 -
+/libraries/phpmailer/updates.php 20 -
+/Southwest_Airlines_plane 6 -
+/wp-includes/certificates/ 2 -
+/1.php 2 -
+/upload/2024-06-15-12:04:46%20pm-Malayalam_cinema_Filmmakers.jpg 6 http://www.ptppost.in/
+/Shakib_Al_Hasan.php 4 -
+/media/system/js/core.js 3 -
+/cache-compat.php 20 -
+/wp-content/uploads/elementor/ 2 -
+/wp-admin/includes/about.php 11 -
+/wp-content/plugins/index.php 2 -
+/wp-content/repeater.php 20 -
+/wp-includes/Requests/Text/ 2 -
+/about/function.php 2 -
+/wp-content/plugins/ioptimization/ 2 -
+/repeater.php 20 -
+/wp-content/themes/seotheme/mar.php 22 -
+/upload.php 2 -
+/wp-includes/css/dist/block-directory/ 2 -
+/upload/2024-06-13-12:52:29%20pm-Sunil_Gavaskar_backs.jpg 6 http://www.ptppost.in/
+/wp-includes/Requests/ 2 -
+/wp-content/plugins/ 2 -
+/wp-includes/images/about.php 20 -
+/wp-includes/SimplePie/HTTP/ 2 -
+/wp-includes/IXR/about.php 20 -
+/wp-includes/SimplePie/index.php 2 -
+/.well-known/acme-challenge/about.php 2 -
+/.env.example 4 -
+/wp-admin/repeater.php 10 -
+/inc.php 2 -
+/wp-admin/css/colors/cloud.php 10 -
+/about.php7 20 -
+/wp-content/index.php 2 -
+/wp-content/uploads/2022/09/ 2 -
+/wp-content/plugins/seoplugins/ 2 -
+/css/ 2 -
+/ 1 https://md-in-62.webhostbox.net:2083/
+/.well-known/acme-challenge/cloud.php 40 -
+/wp-content/uploads/index.php 2 -
+/themes.php 2 -
+/wp-content/ 2 -
+/wp-admin/css/colors/blue/xmrlpc.php 10 -
+/ads.txt 20 -
+/security.txt 2 -
+/upload/2024-06-14-12:21:43%20pm-MP_Kangana_Ranaut.jpg 6 http://www.ptppost.in/
+/wp-admin/js/widgets/about.php7 10 -
+/dir.php 2 -
+/plugin.php 2 -
+/robots.txt 28 -
+/wp-admin/images/index.php 11 -
+/script.js 12 -
+/bs1.php 2 -
+/wp-content/themes/travelscape/json.php 2 -
+/sendgrid.env 2 -
+/wp-json/wp/v2/users/ 2 -
+/test.php 2 -
+/css/xmrlpc.php 20 -
+/wp-includes/customize/ 2 -
+/bak.php 2 -
+/Mumbai_Airport_Incident.php 4 -
+/adminer.php 2 -
+/css/load.php 2 -
+/wp-content/plugins/linkpreview/db.php 20 -
+/.well-known/acme-challenge/xmrlpc.php 20 -
+/wp-admin/user/ 1 -
+/wp-conf.php 4 -
+/.well-known/pki-validation/install.php 2 -
+/alfanew2.php7 20 -
+/404.php 2 -
+/content.php 22 -
+/new 6 -
+/wp-info.php 2 -
+/upload/2024-06-15-11:42:04%20am-next_Wasim_Akram.jpg 6 http://www.ptppost.in/
+/includes/ 2 -
+/wp-includes/IXR/ 2 -
+/wp-includes/SimplePie/about.php 22 -
+/bypass.php 2 -
+/WhatsApp_New_Features.php 4 -
+/MP_Kangana_Ranaut.php 4 -
+/wp-mail.php 2 -
+/tiny.php 2 -
+/wp-content/plugins/fix/up.php 2 -
+/wp-content/uploads/2020/12/ 2 -
+/wp-content/themes/wp-classic/inc/index.php 2 -
+/cgi-bin/xmrlpc.php 22 -
+/wp-includes/ID3/about.php 20 -
+/wp-includes/js/jquery/jquery.js 3 -
+/wp-conflg.php 2 -
+/old 6 -
+/lock360.php 2 -
+/wp-admin/css/colors/xmrlpc.php 10 -
+/blog 6 -
+/templates/hcapmaster_comps.php 2 -
+/.well-known/acme-challenge/index.php 4 -
+/themes/zMousse/otuz1.php 2 -
+/wp-admin/css/colors/index.php 10 -
+/.well-known/acme-challenge/install.php 2 -
+/shell.php 2 -
+/wp-content/plugins/plugin/ 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 69
+52.53.154.128 16 16 5728 20241214231158
+13.52.180.90 12 12 4296 20241207225453
+84.17.48.80 10 10 857320 20241217102556
+159.89.204.105 9 9 771588 20241205034646
+149.56.150.109 6 6 514392 20241208135544
+49.13.222.129 4 5 100788 20241213225626
+54.88.179.33 4 4 342928 20241211003203
+115.231.78.2 4 4 220402 20241203155406
+198.235.24.43 2 2 171464 20241211024802
+195.90.221.76 2 2 48938 20241211083638
+147.185.132.207 2 2 171464 20241220054105
+116.202.111.235 2 2 0 20241208024612
+128.199.14.145 2 2 48938 20241216183902
+142.93.175.240 2 2 48938 20241213152953
+199.45.155.68 2 2 48938 20241223075559
+68.183.154.110 2 2 48938 20241218182817
+165.227.229.195 2 2 48938 20241205074006
+185.247.137.113 2 2 48938 20241229112144
+167.94.138.38 2 2 48938 20241230160418
+144.217.135.235 2 3 51850 20241208135602
+167.94.145.96 2 2 48938 20241215055304
+156.146.36.112 2 2 48938 20241219014213
+93.158.92.13 2 2 48938 20241225163822
+206.168.34.58 2 2 48938 20241229190437
+167.172.50.196 2 2 48938 20241219201219
+146.70.178.166 2 2 171464 20241206030702
+62.197.144.67 2 2 272172 20241222222746
+34.58.187.83 2 2 48938 20241214092529
+193.34.74.25 2 2 48938 20241201160313
+167.94.145.105 2 2 48938 20241205202923
+87.236.176.82 2 2 48938 20241225061055
+198.235.24.198 2 2 171464 20241217034827
+168.119.177.84 2 3 51850 20241208092729
+128.199.2.198 2 2 48938 20241226215523
+84.17.47.115 2 2 171464 20241204095526
+34.27.67.32 2 2 48938 20241214104949
+167.172.129.187 2 2 48938 20241219123215
+84.17.47.113 2 2 171464 20241220031233
+154.216.18.107 1 1 24469 20241209041314
+205.210.31.174 2 2 171464 20241214140142
+87.236.176.234 2 2 48938 20241215041907
+138.197.40.24 2 2 48938 20241205091616
+49.13.87.175 2 3 51850 20241213232703
+205.210.31.88 2 2 171464 20241217175845
+35.85.153.157 2 2 48938 20241205144653
+162.142.125.199 2 2 48938 20241207134536
+93.158.70.111 2 2 48938 20241219163958
+178.254.38.45 2 2 48938 20241217051251
+78.47.36.129 2 3 51850 20241208035734
+109.199.118.129 2 2 48938 20241224035807
+51.159.30.40 2 2 48938 20241231132056
+205.210.31.239 2 2 171464 20241221060332
+93.158.90.45 2 2 48938 20241205093309
+199.244.88.232 2 2 48938 20241205003718
+157.173.122.176 2 2 48938 20241230214542
+143.198.22.205 2 2 48938 20241204085417
+34.69.247.71 2 2 48938 20241214194527
+185.247.137.236 2 2 48938 20241227160821
+82.165.193.212 2 2 48938 20241219115952
+178.254.12.183 2 2 48938 20241206011111
+199.45.154.143 2 2 48938 20241221161640
+199.244.88.225 2 2 48938 20241219105636
+209.127.108.28 1 1 0 20241201160312
+185.92.210.134 2 2 171464 20241205034455
+139.59.23.92 2 2 48938 20241227192721
+93.158.90.36 2 2 48938 20241211083903
+212.102.33.89 2 2 48938 20241202124453
+24.144.91.196 2 2 48938 20241212213835
+146.70.160.222 2 2 171464 20241201105626
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20241201 5 5 220402 3
+20241202 2 2 48938 1
+20241203 4 4 220402 1
+20241204 4 4 220402 2
+20241205 23 23 1236680 8
+20241206 4 4 220402 2
+20241207 14 14 53234 2
+20241208 14 17 669942 5
+20241209 1 1 24469 1
+20241211 10 10 612268 4
+20241212 2 2 48938 1
+20241213 8 10 201576 3
+20241214 24 24 324006 5
+20241215 4 4 97876 2
+20241216 2 2 48938 1
+20241217 16 16 1249186 4
+20241218 2 2 48938 1
+20241219 12 12 293628 6
+20241220 4 4 342928 2
+20241221 4 4 220402 2
+20241222 2 2 272172 1
+20241223 2 2 48938 1
+20241224 2 2 48938 1
+20241225 4 4 97876 2
+20241226 2 2 48938 1
+20241227 4 4 97876 2
+20241229 4 4 97876 2
+20241230 4 4 97876 2
+20241231 2 2 48938 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 68
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/ 149 6696887 64 64
+/cgi-sys/404.html 14 5012 1 0
+/index.php 6 269340 2 2
+/new/xmlrpc.php 3 1074 0 1
+/wp/xmlrpc.php 3 1074 0 0
+/old/xmlrpc.php 3 1074 0 0
+/wordpress/xmlrpc.php 3 1074 0 0
+/test/ 2 272172 1 1
+/xmlrpc.php 1 358 1 0
+/blog/xmlrpc.php 1 358 0 1
+END_SIDER
