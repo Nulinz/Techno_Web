@@ -61,30 +61,17 @@
         <div class="col-lg-12">
           <div class="who-we-are">
             <div>
-              <h3>Who We Are?</h3>
-              <p><i class="fa-solid fa-caret-right"></i>&nbsp; Technomerates - An upcoming Techno-conglomerate has
-                spread up its wings in varied spectrum of
-                construction & construction management technologies. Technomerates is a multi-disciplined
-                construction company delivering high quality projects. We are hundred percent committed to delivering
-                excellence, completing projects on schedule and on budget.</p>
-              <p><i class="fa-solid fa-caret-right"></i>&nbsp; Technomerates and its key team have demonstrated their
-                strength in strategic planning, housing NICMAR graduates who have been recognized for sweeping
-                improvements in efficiency, product & process development with projects valued to 1000+ crores.</p>
-              <p><i class="fa-solid fa-caret-right"></i>&nbsp; Technomerates key team have post graduates from
-                Machessutes who have contributed in conceptualizing and creating cost dampening opportunities by
-                leveraging creative and intuitive techniques. Their expertise &amp; vast experience in field of
-                construction with post graduation from Massecutes facilitated for employing unique and new construction
-                methodologies viz. Tunnel form, Designing, Manufacturing tunnel form with plywood, wall form &amp; table
-                form for an area of 2,00,000sqft to build 167,85,600sqft of&nbsp;formwork&nbsp;area.</p>
-              <p><i class="fa-solid fa-caret-right"></i>&nbsp; Technomerates key team houses MS Structure IIT alumnus
-                who is conversant in designing multi storied & commercial structures, maven in designing precast
-                structures with 10lakh+sqft designed as of day, the maven ability to analyse the structure, facilitates
-                in envisaging complication in designs & resolve them to optimized design, the quench for technology had
-                ended in designing precast Toilet POD's, self stressing prestressing bed, Formwork. The passion towards
-                design has ended up providing design solutions for cantilever deck platforms, PEB transportable toilets
-                etc.</p>
-              <p><i class="fa-solid fa-caret-right"></i>&nbsp; Technomerates & its team are known for their cost saving
-                design, adapting KAIZEN on all its projects.</p>
+              <h3>Leadership & Expertise</h3>
+              <p><i class="fa-solid fa-caret-right"></i>&nbsp; Mr. Saravanan, the Founder & CEO, embodies the fusion of 
+                engineering, analytics, and entrepreneurship. He leads a team of professionals with elite educational 
+                backgrounds:</p>
+              <p><i class="fa-solid fa-caret-right"></i>&nbsp; Postgraduates in Construction Management from NICMAR</p>
+              <p><i class="fa-solid fa-caret-right"></i>&nbsp; Business Analysts from Great Lakes Institute of Management</p>
+              <p><i class="fa-solid fa-caret-right"></i>&nbsp; Business Intelligence Experts from University of Texas, Austin</p>
+              <p><i class="fa-solid fa-caret-right"></i>&nbsp; Design Thinkers from Massachusetts</p>
+              <p><i class="fa-solid fa-caret-right"></i>&nbsp; IIT-trained Structural Designers mentored by Prof. A. Mehar Prasad and Prof. Devdas Menon</p>
+              <p><i class="fa-solid fa-caret-right"></i>&nbsp; This intellectual blend gives Technomerates the ability to analyze complex 
+                projects, innovate solutions, and execute them with precision.</p>
             </div>
           </div>
         </div>
@@ -99,7 +86,7 @@
         <div class="col-lg-4">
           <div class="counter-data">
             <div class="count">
-              <span class="odometer" data-count="4" data-status="yes">0</span><i>Projects</i>
+              <span class="odometer" data-count="12" data-status="yes">0</span><i>Projects</i>
             </div>
             <h4>Completed</h4>
           </div>
@@ -107,7 +94,7 @@
         <div class="col-lg-4">
           <div class="counter-data upper-space">
             <div class="count">
-              <span class="odometer" data-count="10" data-status="yes">0</span><i>Projects</i>
+              <span class="odometer" data-count="15" data-status="yes">0</span><i>Projects</i>
             </div>
             <h4>Ongoing</h4>
           </div>
@@ -115,7 +102,7 @@
         <div class="col-lg-4">
           <div class="counter-data">
             <div class="count">
-              <span class="odometer" data-count="9" data-status="yes">0</span><i>Locations</i>
+              <span class="odometer" data-count="12" data-status="yes">0</span><i>Locations</i>
             </div>
             <h4>Sites</h4>
           </div>

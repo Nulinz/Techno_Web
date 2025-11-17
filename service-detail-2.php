@@ -97,12 +97,16 @@
         <div class="col-lg-12">
           <div class="who-we-are">
             <div>
-              <h3>ONSTRU AI-Driven Portal for Your Complete Construction Solutions</h3>
-              <p>Onstru is an innovative, AI-powered platform designed to revolutionize the way you approach your
-                construction needs. Acting as a one-stop solution, it provides accurate, real-time information, ensuring
-                cost-effectiveness, quality, and efficiency across all your projects.</p>
-              <p>At the core of Onstru is its powerful AI engine, which simplifies the complex processes involved in
-                construction. Here's how Onstru can elevate your construction experience :</p>
+                <h3>Onstru - The Social Platform for Construction Professionals</h3>
+                <p>Technomerates launched <a href="https://onstru.com">onstru.com</a>, a social media and digital ecosystem
+                    that connects construction professionals, companies, and vendors under one digital roof. Its vision is 
+                    to make construction smart, data-driven, and collaborative. AI-driven professional networking for engineers, 
+                    architects, and contractors.</p>
+                <!--<h3>Onstru DLR</h3>-->
+                <!--<p>Face recognition, Duplicate identification, Geo-tagged attendance, Contractor-wise and trade-wise reporting, -->
+                <!--    Automated dues tracking for laborers (to prevent wage denial)</p>-->
+                <!--<p>Through ONSTRU, Technomerates bridges the gap between human labor and artificial intelligence — empowering -->
+                <!--    the workforce and improving project accountability.</p>-->
             </div>
           </div>
         </div>

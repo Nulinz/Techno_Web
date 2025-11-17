@@ -52,9 +52,9 @@
                           <a href="javascript:void(0)">Services</a>
                           <ul class="sub-menu">
                             <li><a href="./service-detail-1.php">Construction Project</a></li>
-                            <li><a href="./service-detail-2.php">ONSTRU AI-Driven E-Commerce Platform</a></li>
-                            <li><a href="./services1.php">AFMS - Aluminium Formwork Management System</a></li>
-                            <li><a href="./service-detail-4.php">AI-Driven ERP Solutions For Construction Projects</a>
+                            <li><a href="https://onstru.com">ONSTRU AI-Driven E-Commerce Platform</a></li>
+                            <li><a href="https://urfws.com">URFMS - Used Refurbished Formwork Management System</a></li>
+                            <li><a href="https://onstru.com/ERP">AI-Driven ERP Solutions For Construction Projects</a>
                             </li>
                           </ul>
                         </li>
@@ -72,18 +72,18 @@
                         <li class="menu-item-has-children">
                           <a href="javascript:void(0)">Products</a>
                           <ul class="sub-menu">
-                            <li><a href="./service-detail-4.php">ERP Construction</a></li>
-                            <li><a href="https://onstru.com/DLR/">DLR</a></li>
+                            <li><a href="https://onstru.com/ERP">ERP Construction</a></li>
+                            <li><a href="https://onstru.com/dlr/web/">DLR</a></li>
                           </ul>
                         </li>
                         
-                         <li class="menu-item-has-children">
-                          <a href="javascript:void(0)">Formworks</a>
-                          <ul class="sub-menu">
-                                <li><a href="formworks-rental.php">Formworks Rental</a></li>
-                                <li><a href="hire_buy.php">Hire and Buy Formworks</a></li>
-                          </ul>
-                        </li>
+                        <!-- <li class="menu-item-has-children">-->
+                        <!--  <a href="javascript:void(0)">Formworks</a>-->
+                        <!--  <ul class="sub-menu">-->
+                        <!--        <li><a href="formworks-rental.php">Formworks Rental</a></li>-->
+                        <!--        <li><a href="hire_buy.php">Hire and Buy Formworks</a></li>-->
+                        <!--  </ul>-->
+                        <!--</li>-->
                         
                       </ul>
                     </li>
@@ -186,10 +186,11 @@
               <li class="menu-item-has-children">
                 <a href="javascript:void(0)">Services</a>
                 <ul class="sub-menu">
-                  <li><a href="./service-detail-1.php">Construction Project</a></li>
-                  <li><a href="./service-detail-2.php">ONSTRU AI-Driven E-Commerce Platform</a></li>
-                  <li><a href="./services1.php">AFMS - Aluminium Formwork Management System</a></li>
-                  <li><a href="./service-detail-4.php">AI-Driven ERP Solutions For Construction Projects</a></li>
+                    <li><a href="./service-detail-1.php">Construction Project</a></li>
+                    <li><a href="https://onstru.com">ONSTRU AI-Driven E-Commerce Platform</a></li>
+                    <li><a href="https://urfws.com">URFMS - Used Refurbished Formwork Management System</a></li>
+                    <li><a href="https://onstru.com/ERP">AI-Driven ERP Solutions For Construction Projects</a>
+                    </li>
                 </ul>
               </li>
               <li class="menu-item-has-children">
@@ -203,8 +204,8 @@
               <li class="menu-item-has-children">
                 <a href="javascript:void(0)">Products</a>
                 <ul class="sub-menu">
-                  <li><a href="https://erpcontruction.com/aditya_2/">ERP</a></li>
-                  <li><a href="https://onstru.com/DLR/">ONSTRU DLR</a></li>
+                  <li><a href="https://onstru.com/ERP">ERP</a></li>
+                  <li><a href="https://onstru.com/dlr/web/">ONSTRU DLR</a></li>
                 </ul>
               </li>
                <li class="menu-item-has-children">

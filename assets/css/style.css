@@ -1285,7 +1285,7 @@ button.scrollTopStick:hover i {
 }
 
 .counter-style-one .counter-data .count {
-    font-size: 85px;
+    font-size: 50px;
     color: var(--counter-black);
     font-family: 'Poppins';
     -webkit-text-fill-color: transparent;
@@ -1301,7 +1301,7 @@ span.counter {
 }
 
 .counter-style-one .counter-data .count i {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 900;
     color: var(--counter-black-2);
     -webkit-text-fill-color: var(--counter-black-2);
@@ -7977,4 +7977,10 @@ img.light-icon {
 
 .mobile-nav.desktop-menu h2 {
     color: #222;
+}
+
+@media screen and (min-width: 1200px) {
+    .counter-style-one .counter-data .count {
+        font-size: 75px;
+    }
 }

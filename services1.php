@@ -34,7 +34,7 @@
       <div class="row">
         <div class="banner-details">
           <h2>Services</h2>
-          <p>Aluminium Formwork Management System</p>
+          <p>Used Refurbished Formwork Management System</p>
         </div>
       </div>
     </div>
@@ -49,7 +49,7 @@
               </a>
             </li>
             <li class="current">
-              <p style="line-height: 20px;" class="mt-2">Aluminium Formwork Management System</p>
+              <p style="line-height: 20px;" class="mt-2">Used Refurbished Formwork Management System</p>
             </li>
           </ul>
         </div>
@@ -60,14 +60,11 @@
 
   <section class="about-afms my-5">
     <div class="about-head">
-      <h3 class="text-center text-uppercase fw-bold fs-3">Aluminium Formwork Management System</h3>
+      <h3 class="text-center text-uppercase fw-bold fs-3">URFMS — Used Refurbished Formwork Management System</h3>
     </div>
 
     <div class="about-ct mt-3" style="width: 90%; margin: auto;">
-      <p class="text-center">The Aluminium Formwork Management System (AFMS) is designed to transform how aluminum
-        formwork components are
-        managed throughout construction projects. The system addresses challenges related to managing large volumes of
-        components, ensuring efficiency, accuracy, and longevity in construction projects.</p>
+      <p class="text-center">A pioneering turnkey formwork marketplace launched by Technomerates, enabling:</p>
     </div>
   </section>
 
@@ -77,40 +74,23 @@
       <div class="row align-items-center">
         <div class="col-lg-4">
           <div class="services-nav">
-            <h2>AFMS Services</h2>
+            <h2>URFMS Services</h2>
             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
               <li class="nav-item" role="presentation">
                 <button class="nav-link active" id="pills-1-tab" data-bs-toggle="pill" data-bs-target="#pills-1"
-                  type="button" role="tab" aria-controls="pills-1" aria-selected="true">Comprehensive Inventory
-                  Management</button>
+                  type="button" role="tab" aria-controls="pills-1" aria-selected="true">Formwork Revival Program</button>
               </li>
               <li class="nav-item" role="presentation">
                 <button class="nav-link" id="pills-2-tab" data-bs-toggle="pill" data-bs-target="#pills-2" type="button"
-                  role="tab" aria-controls="pills-2" aria-selected="false">Quick Identification and
-                  Retrieval</button>
+                  role="tab" aria-controls="pills-2" aria-selected="false">Formwork Reengineering Services</button>
               </li>
               <li class="nav-item" role="presentation">
                 <button class="nav-link" id="pills-3-tab" data-bs-toggle="pill" data-bs-target="#pills-3" type="button"
-                  role="tab" aria-controls="pills-3" aria-selected="false">Efficient Stacking
-                  Solutions</button>
+                  role="tab" aria-controls="pills-3" aria-selected="false">Precision Welding Refurbishment</button>
               </li>
               <li class="nav-item" role="presentation">
                 <button class="nav-link" id="pills-4-tab" data-bs-toggle="pill" data-bs-target="#pills-4" type="button"
-                  role="tab" aria-controls="pills-4" aria-selected="false">Tailored Modification
-                  Services</button>
-              </li>
-              <li class="nav-item" role="presentation">
-                <button class="nav-link" id="pills-5-tab" data-bs-toggle="pill" data-bs-target="#pills-5" type="button"
-                  role="tab" aria-controls="pills-5" aria-selected="false">Age and Usage
-                  Tracking</button>
-              </li>
-              <li class="nav-item" role="presentation">
-                <button class="nav-link" id="pills-6-tab" data-bs-toggle="pill" data-bs-target="#pills-6" type="button"
-                  role="tab" aria-controls="pills-6" aria-selected="false">Comprehensive Services</button>
-              </li>
-              <li class="nav-item" role="presentation">
-                <button class="nav-link" id="pills-7-tab" data-bs-toggle="pill" data-bs-target="#pills-7" type="button"
-                  role="tab" aria-controls="pills-7" aria-selected="false">Construction Execution Support</button>
+                  role="tab" aria-controls="pills-4" aria-selected="false">Circular Formwork Marketplace</button>
               </li>
             </ul>
           </div>
@@ -121,11 +101,10 @@
               <figure>
                 <img class="w-100" src="./assets/images/serviceimg.png" alt="Services Nav Image 1">
                 <figcaption>
-                  <h3>Comprehensive Inventory Management</h3>
-                  <p>The system utilizes UHF RFID technology to tag each aluminum formwork component. This allows for
-                    bulk scanning of items and ensures accurate tracking without manual verification. With RFID readers,
-                    the system enables instant inventory checks, reducing human error and improving stock management
-                    efficiency.</p>
+                  <h3>Formwork Revival Program</h3>
+                  <p>We buy back and refurbish used aluminum formwork to like-new condition through precision engineering 
+                  and quality checks, reducing project costs, minimizing waste, and delivering durable, high-performance 
+                  solutions quickly and affordably.</p>
                 </figcaption>
               </figure>
             </div>
@@ -133,10 +112,10 @@
               <figure>
                 <img class="w-100" src="./assets/images/serviceimg.png" alt="Services Nav Image 2">
                 <figcaption>
-                  <h3>Quick Identification and Retrieval</h3>
-                  <p>Each component is equipped with RFID tags containing unique information. By scanning these tags,
-                    construction teams can quickly identify and retrieve components, drastically minimizing the time
-                    spent searching for specific items.</p>
+                  <h3>Formwork Reengineering Services</h3>
+                  <p>We redesign, modify, and reprocess aluminum formwork to enhance performance and efficiency. 
+                  Through precise engineering and quality-controlled processes, we extend formwork life, cut costs, and 
+                  deliver reliable, customized solutions for modern construction needs.</p>
                 </figcaption>
               </figure>
             </div>
@@ -144,10 +123,10 @@
               <figure>
                 <img class="w-100" src="./assets/images/serviceimg.png" alt="Services Nav Image 3">
                 <figcaption>
-                  <h3>Efficient Stacking Solutions</h3>
-                  <p>After project completion, components need to be stored for future use. The system offers tailored
-                    stacking solutions, ensuring easy access and maximum space utilization. This leads to safe storage
-                    and faster retrieval in subsequent projects.</p>
+                  <h3>Precision Welding Refurbishment</h3>
+                  <p>We use advanced robotic and friction welding technologies to refurbish aluminum formwork with unmatched 
+                  accuracy. Our process enhances strength, restores alignment, and ensures long-lasting performance, 
+                  delivering consistent, high-quality results for demanding construction projects.</p>
                 </figcaption>
               </figure>
             </div>
@@ -155,44 +134,10 @@
               <figure>
                 <img class="w-100" src="./assets/images/serviceimg.png" alt="Services Nav Image 4">
                 <figcaption>
-                  <h3>Tailored Modification Services</h3>
-                  <p>When projects change, existing formwork often needs modification. AFMS provides design solutions
-                    that allow easy reconfiguration of formwork, making them suitable for new projects. This approach
-                    extends the lifecycle of formwork materials, ensuring cost savings.</p>
-                </figcaption>
-              </figure>
-            </div>
-            <div class="tab-pane fade" id="pills-5" role="tabpanel" aria-labelledby="pills-5-tab">
-              <figure>
-                <img class="w-100" src="./assets/images/serviceimg.png" alt="Services Nav Image 5">
-                <figcaption>
-                  <h3>Age and Usage Tracking</h3>
-                  <p>Monitoring the age and usage frequency of components is crucial for maintaining their durability
-                    and safety. The system logs every instance of component usage, enabling proactive maintenance and
-                    timely replacements, thus reducing the risk of component failure during critical construction
-                    phases.</p>
-                </figcaption>
-              </figure>
-            </div>
-            <div class="tab-pane fade" id="pills-6" role="tabpanel" aria-labelledby="pills-6-tab">
-              <figure>
-                <img class="w-100" src="./assets/images/serviceimg.png" alt="Services Nav Image 5">
-                <figcaption>
-                  <h3>Comprehensive Services</h3>
-                  <p>Beyond technology, the system also includes services such as component identification, cleaning,
-                    welding, buffing, and packing. This broad service offering ensures that formwork components are
-                    managed end-to-end, from procurement to final project delivery.</p>
-                </figcaption>
-              </figure>
-            </div>
-            <div class="tab-pane fade" id="pills-6" role="tabpanel" aria-labelledby="pills-6-tab">
-              <figure>
-                <img class="w-100" src="./assets/images/serviceimg.png" alt="Services Nav Image 5">
-                <figcaption>
-                  <h3>Construction Execution Support</h3>
-                  <p>The system supports projects by providing expert services for the execution of construction using
-                    aluminum formwork. Whether formwork is client-supplied or provided by the system, the AFMS ensures
-                    efficient project completion through seamless integration of services and technology.</p>
+                  <h3>Circular Formwork Marketplace</h3>
+                  <p>URFMS is India’s first platform to commercialize circular economy practices in formwork, cutting 
+                  project costs and minimizing material waste through smart reuse, refurbishment, and sustainable 
+                  lifecycle management for construction companies.</p>
                 </figcaption>
               </figure>
             </div>
@@ -209,15 +154,15 @@
         <div class="col-lg-4">
           <div class="counter-data">
             <div class="count">
-              <span class="odometer" data-count="20" data-status="yes">0</span><i>Years</i>
+              <span class="odometer" data-count="25" data-status="yes">0</span><i>Years</i>
             </div>
-            <h4>Professional experience</h4>
+            <h4>Experience</h4>
           </div>
         </div>
         <div class="col-lg-4">
           <div class="counter-data upper-space">
             <div class="count">
-              <span class="odometer" data-count="300" data-status="yes">0</span><i>People</i>
+              <span class="odometer" data-count="46" data-status="yes">0</span><i>People</i>
             </div>
             <h4>Employees in team</h4>
           </div>
@@ -225,9 +170,9 @@
         <div class="col-lg-4">
           <div class="counter-data">
             <div class="count">
-              <span class="odometer" data-count="350" data-status="yes">0</span><i>Locations</i>
+              <span class="odometer" data-count="9" data-status="yes">0</span><i>Locations</i>
             </div>
-            <h4>Sites in development</h4>
+            <h4>Sites</h4>
           </div>
         </div>
       </div>
@@ -601,14 +546,14 @@
       <div class="row align-items-center justify-content-between">
         <div class="col-lg-6">
           <div class="cta-data">
-            <h2>Why Choose AFMS?</h2>
+            <h2>Why Choose URFMS?</h2>
             <p>Advanced RFID technology for seamless inventory and retrieval. Custom stacking and modification
               solutions. Accurate data tracking for maintenance. A range of services to support every stage of formwork
               management, from inventory to construction execution. AFMS revolutionizes how aluminum formwork components
               are managed, delivering a cost-effective, streamlined, and efficient solution for modern construction
               needs.</p>
-            <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#exampleModal1"
-              class="theme-btn">Download <i class="fa-solid fa-angles-right"></i></a>
+            <!--<a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#exampleModal1"-->
+            <!--  class="theme-btn">Download <i class="fa-solid fa-angles-right"></i></a>-->
           </div>
         </div>
         <div class="col-lg-5">
@@ -642,27 +587,27 @@
             <div class="c-form-2">
               <h3>Start Consulting</h3>
               <div class="parallax" style="background-image: url(assets/images/pattren.png);"></div>
-             <form action="" method="POST"  enctype="multipart/form-data" onsubmit="sendAjaxRequest(this); return false;">
-                        <div class="row g-0">
-                            <input type="text" class="form-control" name="name" id="exampleInputText1" placeholder="Full Name" required>
-                        </div>
-                        <div class="row g-0">
-                            <input type="email" class="form-control" name="email" id="exampleInputEmail1" placeholder="Email Address" required>
-                        </div>
-                        <div class="row g-0">
-                            <input type="number" class="form-control" name="contact" id="exampleInputPassword1" min="1000000000" max="9999999999" oninput="validate_contact(this)" 
-                                   placeholder="Phone No" required>
-                        </div>
-                        <div class="row g-0">
-                            <input type="text" class="form-control" name="subject" id="exampleInputText2" placeholder="Subject" required>
-                            <input hidden type="text" name="contact_form">
-                        </div>
-                        <div class="row g-0">
-                            <textarea placeholder="Question / Message?" rows="2" name="message" class="h-auto" required></textarea>
-                        </div>
-                        <button  type="submit" class="theme-btn">Submit Now <i class="fa-solid fa-angles-right"></i></button>
-                    </form>
-                   <a hidden id="dfile"  href="./assets/images/formwork_management.pptx" download >File</a>
+                <form action="" method="POST"  enctype="multipart/form-data" onsubmit="sendAjaxRequest(this); return false;">
+                    <div class="row g-0">
+                        <input type="text" class="form-control" name="name" id="exampleInputText1" placeholder="Full Name" required>
+                    </div>
+                    <div class="row g-0">
+                        <input type="email" class="form-control" name="email" id="exampleInputEmail1" placeholder="Email Address" required>
+                    </div>
+                    <div class="row g-0">
+                        <input type="number" class="form-control" name="contact" id="exampleInputPassword1" min="1000000000" max="9999999999" oninput="validate_contact(this)" 
+                               placeholder="Phone No" required>
+                    </div>
+                    <div class="row g-0">
+                        <input type="text" class="form-control" name="subject" id="exampleInputText2" placeholder="Subject" required>
+                        <input hidden type="text" name="contact_form">
+                    </div>
+                    <div class="row g-0">
+                        <textarea placeholder="Question / Message?" rows="2" name="message" class="h-auto" required></textarea>
+                    </div>
+                    <button  type="submit" class="theme-btn">Submit Now <i class="fa-solid fa-angles-right"></i></button>
+                </form>
+                <a hidden id="dfile"  href="./assets/images/formwork_management.pptx" download >File</a>
             </div>
           </div>
         </div>

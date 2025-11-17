@@ -85,8 +85,13 @@
                 </div>
                 <div class="col-lg-7">
                     <div class="">
-                        <h3>Formworks Hire & Buy</h3>
-                        <p class="mt-2"> At Technomerates, we empower construction projects with flexible ownership options through our Hire & Buy Formworks Solution. Every construction project comes with unique challenges, timelines, and budget constraints. Our Aluminium and Modular (Paschal) Formworks offer the best of both worlds—instant access to advanced formwork technology with the flexibility to transition into full ownership</p>
+                        <h3>Hire & Buy Concept — First in India</h3>
+                        <p class="mt-2"> 
+                            Technomerates introduced the “Hire & Buy” model, India’s first hybrid procurement solution that: 
+                            Eliminates the dependency on pure rental markets. Enables developers to own formwork assets gradually. 
+                            Offers financial flexibility and operational freedom for mid-size builders. This innovation has reshaped 
+                            the economics of construction procurement across India.
+                        </p>
                     </div>
                 </div>
 

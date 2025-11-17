@@ -1,30 +1,30 @@
 <footer class="footer-style-one">
-    <div class="footer-p-1">
-        <div class="container">
-            <div class="row">
-                <div class="footer-first">
-                    <div class="footer-logo">
-                        <a href="./index.php">
-                            <img src="./assets/images/logo.png" height="75px" alt="logoo">
-                        </a>
-                    </div>
-                    <div class="contact-info d-flex-all">
-                        <div class="images d-flex-all justify-content-start">
-                            <figure>
-                                <img src="https://via.placeholder.com/60x60" alt="Contact Images">
-                            </figure>
-                            <figure>
-                                <img src="https://via.placeholder.com/60x60" alt="Contact Images">
-                            </figure>
-                        </div>
-                        <p>Sales representative <a href="tel:+91 7550 265 502"><span>+91 75502 65502</span></a> free call !</p>
-                    </div>
-                    <a href="https://wa.me/917550265502" target="__blank" class="theme-btn">Get a Consultation <i
-                            class="fa-solid fa-angles-right"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
+    <!--<div class="footer-p-1">-->
+    <!--    <div class="container">-->
+    <!--        <div class="row">-->
+    <!--            <div class="footer-first">-->
+    <!--                <div class="footer-logo">-->
+    <!--                    <a href="./index.php">-->
+    <!--                        <img src="./assets/images/logo.png" height="75px" alt="logoo">-->
+    <!--                    </a>-->
+    <!--                </div>-->
+    <!--                <div class="contact-info d-flex-all">-->
+    <!--                    <div class="images d-flex-all justify-content-start">-->
+    <!--                        <figure>-->
+    <!--                            <img src="https://via.placeholder.com/60x60" alt="Contact Images">-->
+    <!--                        </figure>-->
+    <!--                        <figure>-->
+    <!--                            <img src="https://via.placeholder.com/60x60" alt="Contact Images">-->
+    <!--                        </figure>-->
+    <!--                    </div>-->
+    <!--                    <p>Sales representative <a href="tel:+91 7550 265 502"><span>+91 75502 65502</span></a> free call !</p>-->
+    <!--                </div>-->
+    <!--                <a href="https://wa.me/917550265502" target="__blank" class="theme-btn">Get a Consultation <i-->
+    <!--                        class="fa-solid fa-angles-right"></i></a>-->
+    <!--            </div>-->
+    <!--        </div>-->
+    <!--    </div>-->
+    <!--</div>-->
     <div class="footer-p-2">
         <div class="container">
             <div class="row">

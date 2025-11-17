@@ -111,9 +111,9 @@
               <!-- <img class="light-icon" src="assets/images/icon-2.svg" alt="Icon"> -->
               <img class="dark-icon" src="assets/images/icon-2.png" alt="Icon">
             </div>
-            <h3><a href="./service-detail-2.php">ONSTRU AI-Driven E-Commerce Platform</a></h3>
+            <h3><a href="https://onstru.com">ONSTRU AI-Driven E-Commerce Platform</a></h3>
             <p>Onstru is an innovative, AI-powered platform designed to revolutionize...</p>
-            <a class="icon" href="./service-detail-2.php">
+            <a class="icon" href="https://onstru.com">
               <i class="fa-solid fa-angles-right"></i>
             </a>
           </div>
@@ -124,9 +124,9 @@
               <!-- <img class="light-icon" src="assets/images/icon-3.svg" alt="Icon"> -->
               <img class="dark-icon" src="assets/images/icon-3.png" alt="Icon">
             </div>
-            <h3><a href="./service-detail-3.php">AFMS - Aluminum Formwork Management System</a></h3>
+            <h3><a href="https://urfws.com">URFMS - Used Refurbished Formwork Solutions</a></h3>
             <p>Technomerates Pvt Ltd presents an advanced Formwork...</p>
-            <a class="icon" href="./service-detail-3.php">
+            <a class="icon" href="https://urfws.com">
               <i class="fa-solid fa-angles-right"></i>
             </a>
           </div>
@@ -169,13 +169,10 @@
             <h2>Our Vision</h2>
             <div class="about-info">
               <p>
-                Technomerates envisions becoming a Construction Tech conglomerate that transforms the construction and
-                construction management sector to align with the new era of technology. By merging innovative
-                technological solutions with traditional construction practices, we aim to set unprecedented standards
-                in efficiency, innovation, and sustainability. Through our relentless pursuit of excellence and
-                innovation, we seek to redefine the future of construction, propelling the industry into a dynamic and
-                technology-driven era. Join us on this transformative journey as we reshape construction for the modern
-                age.
+                Technomerates aims to benchmark global construction practices and transform India’s building landscape 
+                through innovation, intelligence, and integrity. By integrating advanced technologies, data-driven processes, 
+                and ethical execution, we strive to elevate quality, accelerate delivery, and set new industry standards 
+                that shape the future of Indian construction.
               </p>
               <!-- <figure>
                 <img src="assets/images/signature.png" alt="Signature">
@@ -200,14 +197,10 @@
             <h2>Our Mission</h2>
             <div class="about-info">
               <p>
-                Technomerates Pvt Ltd is dedicated to leveraging the power of technology to revolutionize the
-                construction industry. Through a holistic approach that combines traditional construction expertise with
-                innovative AI, IoT, and Data Analytics solutions, we aim to redefine construction and construction
-                management for the modern era. Our mission is to empower construction professionals with
-                state-of-the-art tools such as ONSTRU AI-powered BOTs, advanced Formwork Management systems, and
-                integrated ERP solutions. By driving efficiency, sustainability, and excellence in every project, we are
-                committed to shaping a future where technology seamlessly enhances every aspect of the construction
-                process.
+                Our mission is to provide scalable, sustainable, and technology-integrated construction 
+                solutions that elevate performance while reducing cost. Through advanced systems, 
+                data-driven planning, and user-focused design, we aim to create spaces that enhance human 
+                experience and deliver long-term value across diverse project environments.
               </p>
               <!-- <figure>
                 <img src="assets/images/signature.png" alt="Signature">
@@ -542,10 +535,26 @@
                 <h2 class="accordion-header" id="headingOne">
                   <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
                     aria-expanded="true" aria-controls="collapseOne">
-                    <span class="num">01.</span> Innovative Construction
+                    <span class="num">01.</span> Our Goals
                   </button>
                 </h2>
                 <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                  data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    <p>Achieve ₹50 crore turnover in core construction in the coming financial year. Expand POD and Slim+ 
+                    systems across residential and commercial verticals pan-India. Launch AI-based construction ERP integrating 
+                    design, cost, and site analytics. File for IPO listing by 2027 to strengthen public and market presence.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTwo">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo"
+                    aria-expanded="true" aria-controls="collapseTwo">
+                    <span class="num">02.</span> Innovative Construction
+                  </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                   data-bs-parent="#accordionExample">
                   <div class="accordion-body">
                     <p>Technomerates key team have post graduates from Machessutes who have contributed in
@@ -558,13 +567,13 @@
                 </div>
               </div>
               <div class="accordion-item">
-                <h2 class="accordion-header" id="headingTwo">
+                <h2 class="accordion-header" id="headingThree">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                    <span class="num">02.</span> Strategic Excellence
+                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    <span class="num">03.</span> Strategic Excellence
                   </button>
                 </h2>
-                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                   data-bs-parent="#accordionExample">
                   <div class="accordion-body">
                     <p>Technomerates and its key team have demonstrated their strength in strategic planning, housing
@@ -574,13 +583,13 @@
                 </div>
               </div>
               <div class="accordion-item">
-                <h2 class="accordion-header" id="headingThree">
+                <h2 class="accordion-header" id="headingFour">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                     <span class="num">03.</span> Design Expertise
                   </button>
                 </h2>
-                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                   data-bs-parent="#accordionExample">
                   <div class="accordion-body">
                     <p>Technomerates key team houses MS Structure IIT alumnus who is conversant in designing multi
@@ -951,10 +960,10 @@
           <div class="estimated-price popup mt-4">
             <div class="est-form row bg-dark">
               <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <a href="./service-detail-4.php"><button class="theme-btn">ERP <i class="fa-solid fa-angles-right"></i></button></a>
+                <a href="https://onstru.com/ERP"><button class="theme-btn">ERP <i class="fa-solid fa-angles-right"></i></button></a>
               </div>
               <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <a href="https://onstru.com/DLR/"><button class="theme-btn">DLR <i class="fa-solid fa-angles-right"></i></button></a>
+                <a href="https://onstru.com/dlr/web"><button class="theme-btn">DLR <i class="fa-solid fa-angles-right"></i></button></a>
               </div>
             </div>
           </div>
