@@ -1,1032 +1,1231 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zxx">
 
 <head>
-  <!-- Meta Options -->
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="Awaiken">
+    <title>URFWS</title>
 
-  <!-- Title -->
-  <title>Home</title>
-
-  <!-- CDN Style -->
-  <?php include('./cdn_style.php'); ?>
-
+    <?php include('./cdn_style.php'); ?>
 </head>
-<style>
-  @media screen and (min-width: 990px) {
-    .project-post img {
-        height: 400px;
-    }
-
-    .project-style-one .project-post .project-data .project-icon {
-        content: "\f101";
-        width: 60px;
-        height: 100%;
-        position: absolute;
-        font-family: "Font Awesome 6 Free";
-        font-weight: 900;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        transform: skew(-38.5deg, 0deg);
-        top: 0;
-        right: -16px;
-        color: var(--black);
-        background: var(--card-side);
-    }
-    
-    .project-style-one .project-post .project-data h3 a {
-        font-size: 18px;
-        line-height: 30px;
-        color: var(--black);
-    }
-
-  }
-</style>
 
 <body>
 
-  <!-- Header -->
-  <?php include('./header.php') ?>
+    <!-- Preloader Start -->
+    <?php include('./loader.php'); ?>
+    <!-- Preloader End -->
 
-  <!-- Featured Slider One Start -->
-  <section class="featured-slider-one" style="background: grey;">
-    <div class="container-fluid p-0 m-0">
-      <div class="ro f-slider-one owl-carousel">
-        <div class="f-slider-layer">
-          <img src="./assets/images/carousel1.jpg" alt="Slider 1">
-          <div class="f-slider-one-data">
-            <h1>Technomerates Pvt Ltd</h1>
-            <p>A conglomerate of innovation, leveraging the power of AI, IoT, and Data Science to revolutionize
-              construction management. Our solutions redefine efficiency, safety, and decision-making, paving the way
-              for smarter, more advanced construction processes.</p>
-            <!-- <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#modal2" class="theme-btn">Start
-              Consulting <i class="fa-solid fa-angles-right"></i></a> -->
-            <a href="https://wa.me/917550265502" target="__blank" class="theme-btn">Start Consulting <i class="fa-solid fa-angles-right"></i></a>
-          </div>
-        </div>
-        <div class="f-slider-layer">
-          <img src="./assets/images/project/project_aadarsh.png" alt="Project Img">
-          <div class="f-slider-one-data">
-            <h1>Aadarsh Group's - Aadarsh Green</h1>
-            <p>Technomerates is thrilled to announce Aadarsh Group's latest under-construction project, Aadarsh Green. This luxurious property is being developed in the prime location of Kempanahalli, near Yelahanka New Town.</p>
-            <a href="./new-project-1.php" target="__blank" class="theme-btn">View Project <i class="fa-solid fa-angles-right"></i></a>
-          </div>
-        </div>
-        <div class="f-slider-layer">
-          <img src="./assets/images/project/project_address.png" alt="Project Img 2">
-          <div class="f-slider-one-data">
-            <h1>The Address Villa</h1>
-            <p>We are excited to announce our collaboration with S&P Foundation on their prestigious project, "The Address" Villa in Mambakam, near Medavakkam, Chennai. As we bring our expertise and commitment to excellence to this remarkable project. We are eager to embark on this journey and create outstanding living spaces that exemplify quality and innovation.</p>
-            <a href="./new-project-2.php" target="__blank" class="theme-btn">View Project <i class="fa-solid fa-angles-right"></i></a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- Featured Slider One End -->
+    <!-- Header Start -->
+    <?php include('./navbar.php'); ?>
+    <!-- Header End -->
 
-  <!-- Service Style One Start -->
-  <section class="gap service-style-one">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
-          <div class="service-data">
-            <div class="svg-icon d-flex-all">
-              <!-- <img class="light-icon" src="assets/images/icon-1.svg" alt="Icon"> -->
-              <img class="dark-icon" src="assets/images/icon-1.png" alt="Icon">
-            </div>
-            <h3><a href="./service-detail-1.php">Construction Projects</a></h3>
-            <p>At Technomerates Pvt. Ltd., we believe in transforming ideas into reality...</p>
-            <a class="icon" href="./service-detail-1.php">
-              <i class="fa-solid fa-angles-right"></i>
-            </a>
-          </div>
+    <!-- Hero Section Start -->
+    <div class="hero hero-video">
+        <!-- Video Start -->
+        <div class="hero-bg-video">
+            <video autoplay muted loop id="myVideo">
+                <source src="https://demo.awaikenthemes.com/assets/videos/inspaire-video.mp4" type="video/mp4">
+            </video>
         </div>
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
-          <div class="service-data">
-            <div class="svg-icon d-flex-all">
-              <!-- <img class="light-icon" src="assets/images/icon-2.svg" alt="Icon"> -->
-              <img class="dark-icon" src="assets/images/icon-2.png" alt="Icon">
-            </div>
-            <h3><a href="https://onstru.com">ONSTRU AI-Driven E-Commerce Platform</a></h3>
-            <p>Onstru is an innovative, AI-powered platform designed to revolutionize...</p>
-            <a class="icon" href="https://onstru.com">
-              <i class="fa-solid fa-angles-right"></i>
-            </a>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
-          <div class="service-data">
-            <div class="svg-icon d-flex-all">
-              <!-- <img class="light-icon" src="assets/images/icon-3.svg" alt="Icon"> -->
-              <img class="dark-icon" src="assets/images/icon-3.png" alt="Icon">
-            </div>
-            <h3><a href="https://urfws.com">URFMS - Used Refurbished Formwork Solutions</a></h3>
-            <p>Technomerates Pvt Ltd presents an advanced Formwork...</p>
-            <a class="icon" href="https://urfws.com">
-              <i class="fa-solid fa-angles-right"></i>
-            </a>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-6 col-sm-12 text-center">
-          <div class="service-data">
-            <div class="svg-icon d-flex-all">
-              <!-- <img class="light-icon" src="assets/images/icon-3.svg" alt="Icon"> -->
-              <img class="dark-icon" src="assets/images/icon-4.png" alt="Icon">
-            </div>
-            <h3><a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#modal1">AI-Driven ERP Solutions For Construction Projects</a></h3>
-            <p>Technomerates Pvt Ltd offers a groundbreaking ERP solution...</p>
-            <a class="icon" href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#modal1">
-              <i class="fa-solid fa-angles-right"></i>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- Service Style Two End -->
+        <!-- Video End -->
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-10">
+                    <!-- Hero Content Start -->
+                    <div class="hero-content">
+                        <!-- Section Title Start -->
+                        <div class="section-title">
+                            <h3 class="wow fadeInUp">URFWS by Technomerates Pvt. Ltd.</h3>
+                            <h1 class="text-anime-style-2" data-cursor="-opaque">Renew. Reuse. Reinforce.</h1>
+                            <p class="wow fadeInUp" data-wow-delay="0.2s">World’s First Used & Refurbished Aluminium
+                                Formwork Warehouse Buy | Rent | Refurbish | Trade-In — One Platform. Endless
+                                Possibilities.</p>
+                        </div>
+                        <!-- Section Title End -->
 
-  <!-- About Style One Start -->
-  <section class="gap no-top about-style-one">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6">
-          <div class="about-data-left">
-            <figure>
-              <img src="./assets/images/vision2.png" class="rounded-2" alt="About One">
-            </figure>
-            <figure class="about-image">
-              <img src="./assets/images/vision1.png" class="rounded-2" alt="About Two">
-            </figure>
-          </div>
-        </div>
-        <div class="col-lg-6">
-          <div class="about-data-right">
-            <span>Welcome to Our Company</span>
-            <h2>Our Vision</h2>
-            <div class="about-info">
-              <p>
-                Technomerates aims to benchmark global construction practices and transform India’s building landscape 
-                through innovation, intelligence, and integrity. By integrating advanced technologies, data-driven processes, 
-                and ethical execution, we strive to elevate quality, accelerate delivery, and set new industry standards 
-                that shape the future of Indian construction.
-              </p>
-              <!-- <figure>
-                <img src="assets/images/signature.png" alt="Signature">
-              </figure>
-              <h3>Walimes Jonnie</h3>
-              <h4>Director of Constro Company</h4> -->
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- About Style One End -->
-
-  <!-- About Style Two Start -->
-  <section class="gap no-top about-style-one">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6">
-          <div class="about-data-right">
-            <span>Welcome to Our Company</span>
-            <h2>Our Mission</h2>
-            <div class="about-info">
-              <p>
-                Our mission is to provide scalable, sustainable, and technology-integrated construction 
-                solutions that elevate performance while reducing cost. Through advanced systems, 
-                data-driven planning, and user-focused design, we aim to create spaces that enhance human 
-                experience and deliver long-term value across diverse project environments.
-              </p>
-              <!-- <figure>
-                <img src="assets/images/signature.png" alt="Signature">
-              </figure>
-              <h3>Walimes Jonnie</h3>
-              <h4>Director of Constro Company</h4> -->
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6">
-          <div class="about-data-left">
-            <figure>
-              <img src="./assets/images/mission2.png" class="rounded-2" alt="About One">
-            </figure>
-            <figure class="about-image">
-              <img src="./assets/images/mission1.png" class="rounded-2" alt="About Two">
-            </figure>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- About Style Two End -->
-
-  <!-- Counter Style One Start -->
-  <section class="gap no-top counter-style-one">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-4">
-          <div class="counter-data">
-            <div class="count">
-              <span class="odometer" data-count="25" data-status="yes">0</span><i>Years</i>
-            </div>
-            <h4>Experience</h4>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="counter-data upper-space">
-            <div class="count">
-              <span class="odometer" data-count="46" data-status="yes">0</span><i>People</i>
-            </div>
-            <h4>Employees in team</h4>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="counter-data">
-            <div class="count">
-              <span class="odometer" data-count="9" data-status="yes">0</span><i>Locations</i>
-            </div>
-            <h4>Sites</h4>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- Counter Style One End -->
-
-  <!-- Project Style One Start -->
-  <section class="gap project-style-one light-bg-color">
-    <div class="heading">
-      <figure>
-        <img src="assets/images/heading-icon.png" height="50px" alt="Heading Icon">
-      </figure>
-      <span>Company Projects</span>
-      <h2>Projects Completed</h2>
-    </div>
-    <div class="container">
-      <div class="row project-slider owl-carousel">
-        <div class="col-lg-12">
-          <div class="project-post">
-            <figure>
-              <img src="./assets/images/project/project_spre.png" alt="project-img-1">
-            </figure>
-            <div class="project-data">
-              <h3><a href="./projects-completed.php">SPRE Vatrathunda - Mumbai</a></h3>
-              <!-- <p>This project was successfully completed against an extremely tight programme.</p> -->
-              <a class="project-icon" href="./projects-completed.php">
-                <i class="fa-solid fa-angles-right"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-12">
-          <div class="project-post">
-            <figure>
-              <img src="./assets/images/project/project_casagrand.png" alt="project-img-2">
-            </figure>
-            <div class="project-data">
-              <h3><a href="./projects-completed.php">Casagrand Zingo - Chennai</a></h3>
-              <!-- <p>This project was successfully completed against an extremely tight programme.</p> -->
-              <a class="project-icon" href="./projects-completed.php">
-                <i class="fa-solid fa-angles-right"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-12">
-          <div class="project-post">
-            <figure>
-              <img src="./assets/images/project/project_sobha.png" alt="project-img-3">
-            </figure>
-            <div class="project-data">
-              <h3><a href="./projects-completed.php">Sobha Developers Yard - Bangalore</a></h3>
-              <!-- <p>This project was successfully completed against an extremely tight programme.</p> -->
-              <a class="project-icon" href="./projects-completed.php">
-                <i class="fa-solid fa-angles-right"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-12">
-          <div class="project-post">
-            <figure>
-              <img src="./assets/images/project/project_caparo.png" alt="project-img-4">
-            </figure>
-            <div class="project-data">
-              <h3><a href="./projects-completed.php">Caparo Powerhouse - Chennai</a></h3>
-              <!-- <p>This project was successfully completed against an extremely tight programme.</p> -->
-              <a class="project-icon" href="./projects-completed.php">
-                <i class="fa-solid fa-angles-right"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- Project Style One End -->
-
-  <!-- Team Style One Start -->
-  <!-- <section class="gap team-style-one">
-    <div class="heading-style-2">
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-lg-6 col-md-8">
-            <div class="data">
-              <span>Our Skilled Team</span>
-              <h2>Meet The Expert Team</h2>
-            </div>
-          </div>
-          <div class="col-lg-6 col-md-4">
-            <div class="team-slider-nav">
-
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="team-slider owl-carousel">
-            <div class="team-data">
-              <div class="team-image">
-                <figure>
-                  <img src="https://via.placeholder.com/275x430" alt="team-3">
-                </figure>
-              </div>
-              <div class="team-info">
-                <h3>Harald Gindl, MBA</h3>
-                <p>Head Railway Construction</p>
-                <div class="team-social-media">
-                  <a class="fb icon" href="#">
-                    <i class="fa-brands fa-facebook-f"></i>
-                  </a>
-                  <a class="tw icon" href="#">
-                    <i class="fa-brands fa-twitter"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="team-data">
-              <div class="team-image">
-                <figure>
-                  <img src="https://via.placeholder.com/275x430" alt="team-1">
-                </figure>
-              </div>
-              <div class="team-info">
-                <h3>Edward Jeffrey</h3>
-                <p>Finance Department</p>
-                <div class="team-social-media">
-                  <a class="fb icon" href="#">
-                    <i class="fa-brands fa-facebook-f"></i>
-                  </a>
-                  <a class="tw icon" href="#">
-                    <i class="fa-brands fa-twitter"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="team-data">
-              <div class="team-image">
-                <figure>
-                  <img src="https://via.placeholder.com/275x430" alt="team-2">
-                </figure>
-              </div>
-              <div class="team-info">
-                <h3>Nicholas Larry</h3>
-                <p>Railway Manager</p>
-                <div class="team-social-media">
-                  <a class="fb icon" href="#">
-                    <i class="fa-brands fa-facebook-f"></i>
-                  </a>
-                  <a class="tw icon" href="#">
-                    <i class="fa-brands fa-twitter"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="team-data">
-              <div class="team-image">
-                <figure>
-                  <img src="https://via.placeholder.com/275x430" alt="team-3">
-                </figure>
-              </div>
-              <div class="team-info">
-                <h3>Stephen</h3>
-                <p>Creative Worker</p>
-                <div class="team-social-media">
-                  <a class="fb icon" href="#">
-                    <i class="fa-brands fa-facebook-f"></i>
-                  </a>
-                  <a class="tw icon" href="#">
-                    <i class="fa-brands fa-twitter"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="team-data">
-              <div class="team-image">
-                <figure>
-                  <img src="https://via.placeholder.com/275x430" alt="team-1">
-                </figure>
-              </div>
-              <div class="team-info">
-                <h3>Eric Scot</h3>
-                <p>Cheif Railway Construction</p>
-                <div class="team-social-media">
-                  <a class="fb icon" href="#">
-                    <i class="fa-brands fa-facebook-f"></i>
-                  </a>
-                  <a class="tw icon" href="#">
-                    <i class="fa-brands fa-twitter"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="team-data">
-              <div class="team-image">
-                <figure>
-                  <img src="https://via.placeholder.com/275x430" alt="team-2">
-                </figure>
-              </div>
-              <div class="team-info">
-                <h3>Alexander</h3>
-                <p>Head Railway Construction</p>
-                <div class="team-social-media">
-                  <a class="fb icon" href="#">
-                    <i class="fa-brands fa-facebook-f"></i>
-                  </a>
-                  <a class="tw icon" href="#">
-                    <i class="fa-brands fa-twitter"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="team-data">
-              <div class="team-image">
-                <figure>
-                  <img src="https://via.placeholder.com/275x430" alt="team-3">
-                </figure>
-              </div>
-              <div class="team-info">
-                <h3>Jose Tyler</h3>
-                <p>HR Department</p>
-                <div class="team-social-media">
-                  <a class="fb icon" href="#">
-                    <i class="fa-brands fa-facebook-f"></i>
-                  </a>
-                  <a class="tw icon" href="#">
-                    <i class="fa-brands fa-twitter"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="team-data">
-              <div class="team-image">
-                <figure>
-                  <img src="https://via.placeholder.com/275x430" alt="team-2">
-                </figure>
-              </div>
-              <div class="team-info">
-                <h3>Henry Vincent</h3>
-                <p>Construction Manager</p>
-                <div class="team-social-media">
-                  <a class="fb icon" href="#">
-                    <i class="fa-brands fa-facebook-f"></i>
-                  </a>
-                  <a class="tw icon" href="#">
-                    <i class="fa-brands fa-twitter"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section> -->
-  <!-- Team Style One End -->
-
-  <!-- Core Features Start -->
-  <section class="core-features">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6">
-          <div class="space">
-            <div class="heading-style-2">
-              <div class="container">
-                <div class="row">
-                  <div class="col-lg-12">
-                    <div class="data">
-                      <span>Core Features</span>
-                      <h2>What Makes Us Different</h2>
+                        <!-- Hero Button Start -->
+                        <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
+                            <a href="about.php" class="btn-default">explore more</a>
+                            <a href="projects.php" class="btn-default btn-highlighted">view projects</a>
+                        </div>
+                        <!-- Hero Button End -->
                     </div>
+                    <!-- Hero Content End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Hero Section End -->
+
+    <!-- About Us Section Start -->
+    <div class="about-us">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <!-- About Us Images Start -->
+                    <div class="about-us-images">
+                        <!-- About Image 1 Start -->
+                        <div class="about-img-1">
+                            <figure class="image-anime reveal">
+                                <img src="images/about-img-1.jpg" alt="">
+                            </figure>
+                        </div>
+                        <!-- About Image 1 End -->
+
+                        <!-- About Image 2 Start -->
+                        <div class="about-img-2">
+                            <figure class="image-anime reveal">
+                                <img src="images/about-img-2.jpg" alt="">
+                            </figure>
+
+                            <!-- Feedback Counter Start -->
+                            <div class="experience-counter">
+                                <h3><span class="counter">15</span>+</h3>
+                                <p>Years of experience</p>
+                            </div>
+                            <!-- Feedback Counter End -->
+                        </div>
+                        <!-- About Image 2 End -->
+
+                        <!-- Feedback Counter Start -->
+                        <div class="feedback-counter">
+                            <p><span class="counter">95</span>%</p>
+                            <h3>positive feedback</h3>
+                        </div>
+                        <!-- Feedback Counter End -->
+                    </div>
+                    <!-- About Us Images End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- About Us Content Start -->
+                    <div class="about-us-content">
+                        <!-- Section Title Start -->
+                        <div class="section-title">
+                            <h3 class="wow fadeInUp">about us</h3>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Global hub for used and refurbished
+                                aluminium formwork solutions.</span>
+                            </h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.2s">We don’t just sell used formwork — We
+                                redesign, Reengineer, and Refurbish each system to perfectly fit your building
+                                requirements, ensuring precision, durability, and affordability.</p>
+                        </div>
+                        <!-- Section Title End -->
+
+                        <!-- About Us Content Body Start -->
+                        <div class="about-us-content-body">
+                            <!-- About Content Info Start -->
+                            <div class="about-us-content-info">
+                                <!-- About Us Content List Start -->
+                                <div class="about-us-content-list wow fadeInUp" data-wow-delay="0.4s">
+                                    <ul>
+                                        <li>Precision. Reengineer. Reshape.</li>
+                                        <li>Robotic Friction Welding</li>
+                                    </ul>
+                                </div>
+                                <!-- About Us Content List End -->
+
+                                <!-- About Us Content Button Start -->
+                                <div class="about-us-content-btn wow fadeInUp" data-wow-delay="0.6s">
+                                    <a href="about.php" class="btn-default">read more</a>
+                                </div>
+                                <!-- About Us Content Button End -->
+                            </div>
+                            <!-- About Content Info End -->
+
+                            <!-- About Content List Start -->
+                            <?php /* <div class="about-us-contact-list">
+       <!-- About Contact Item Start -->
+       <div class="about-contact-item wow fadeInUp" data-wow-delay="0.4s">
+           <div class="icon-box">
+               <i class="fa-solid fa-phone"></i>
+           </div>
+           <div class="about-contact-content">
+               <p>need any help?</p>
+               <h3>+(1) 235 800 999</h3>
+           </div>
+       </div>
+       <!-- About Contact Item End -->
+
+       <!-- About Contact Item Start -->
+       <div class="about-contact-item wow fadeInUp" data-wow-delay="0.6s">
+           <div class="icon-box">
+               <figure class="image-anime">
+                   <img src="images/author-1.jpg" alt="">
+               </figure>
+           </div>
+           <div class="about-contact-content">
+               <h3>leslie alexander</h3>
+               <p>co founder</p>
+           </div>
+       </div>
+       <!-- About Contact Item End -->
+   </div> */ ?>
+                            <div class="about-us-content-info">
+                                <!-- About Us Content List Start -->
+                                <div class="about-us-content-list wow fadeInUp" data-wow-delay="0.4s">
+                                    <ul>
+                                        <li>T6061 Extrusion Treatment</li>
+                                        <li>Fitment & Reuse Testing</li>
+                                    </ul>
+                                </div>
+                                <!-- About Us Content List End -->
+                            </div>
+                            <!-- About Content Info End -->
+                        </div>
+                        <!-- About Us Content Body End -->
+                    </div>
+                    <!-- About Us Content End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About Us Section End -->
+
+    <!-- Why Choose Us Section Start -->
+    <div class="why-choose-us">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-5">
+                    <!-- Why Choose Content Start -->
+                    <div class="why-choose-content">
+                        <!-- Section Title Start -->
+                        <div class="section-title">
+                            <h3 class="wow fadeInUp">why choose us</h3>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Our Supply Models</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.2s">Technomerates Pvt. Ltd. is an upcoming
+                                tech-based construction company revolutionizing the industry through cost-effective,
+                                technology-integrated turnkey solutions.</p>
+                        </div>
+                        <!-- Section Title End -->
+
+                        <!-- Why Choose Item List Start -->
+                        <div class="why-choose-item-list">
+                            <!-- Why Choose Item Start -->
+                            <div class="why-choose-item wow fadeInUp" data-wow-delay="0.4s">
+                                <!-- Icon Box Start -->
+                                <div class="icon-box">
+                                    <img src="images/icon-why-choose-1.svg" alt="">
+                                </div>
+                                <!-- Icon Box End -->
+
+                                <!-- Why Choose Item Content Start -->
+                                <div class="why-choose-item-content">
+                                    <h3>Outright Purchase</h3>
+                                    <p>Buy fully refurbished aluminium formwork, custom-engineered to your project
+                                        requirements. Ideal for low repetition projects where new systems are
+                                        cost-prohibitive.</p>
+                                </div>
+                                <!-- Why Choose Item Content End -->
+                            </div>
+                            <!-- Why Choose Item End -->
+
+                            <!-- Why Choose Item Start -->
+                            <div class="why-choose-item wow fadeInUp" data-wow-delay="0.6s">
+                                <!-- Icon Box Start -->
+                                <div class="icon-box">
+                                    <img src="images/icon-why-choose-2.svg" alt="">
+                                </div>
+                                <!-- Icon Box End -->
+
+                                <!-- Why Choose Item Content Start -->
+                                <div class="why-choose-item-content">
+                                    <h3>Hire & Buy (Own-As-You-Pay)</h3>
+                                    <p>Use now, own later. Gain immediate access to formwork and convert to ownership
+                                        after rental completion.</p>
+                                </div>
+                                <!-- Why Choose Item Content End -->
+                            </div>
+                            <!-- Why Choose Item End -->
+
+                            <!-- Why Choose Item Start -->
+                            <div class="why-choose-item wow fadeInUp" data-wow-delay="0.8s">
+                                <!-- Icon Box Start -->
+                                <div class="icon-box">
+                                    <img src="images/icon-why-choose-3.svg" alt="">
+                                </div>
+                                <!-- Icon Box End -->
+
+                                <!-- Why Choose Item Content Start -->
+                                <div class="why-choose-item-content">
+                                    <h3>Rental / Lease</h3>
+                                    <p>For short-term or temporary projects, we provide ready-to-dispatch inventory and
+                                        flexible terms to keep your sites moving without capital lock-in.</p>
+                                </div>
+                                <!-- Why Choose Item Content End -->
+                            </div>
+                            <!-- Why Choose Item End -->
+                        </div>
+                        <!-- Why Choose Item List End -->
+                    </div>
+                    <!-- Why Choose Content End -->
+                </div>
+
+                <div class="col-lg-7">
+                    <!-- Why Choose Images Images Start -->
+                    <div class="why-choose-images">
+                        <!-- Why Choose Box 1 Start -->
+                        <div class="why-choose-img-box-1">
+                            <!-- Why Choose img 1 Start -->
+                            <div class="why-choose-img-1">
+                                <figure class="image-anime reveal">
+                                    <img src="images/why-choose-img-1.jpg" alt="">
+                                </figure>
+                            </div>
+                            <!-- Why Choose img 1 End -->
+
+                            <!-- Why Choose img 2 Start -->
+                            <div class="why-choose-img-2">
+                                <figure class="image-anime reveal">
+                                    <img src="images/why-choose-img-2.jpg" alt="">
+                                </figure>
+                            </div>
+                            <!-- Why Choose img 2 End -->
+                        </div>
+                        <!-- Why Choose Box 1 End -->
+
+                        <!-- Why Choose Box 2 Start -->
+                        <div class="why-choose-img-box-2">
+                            <!-- Why Choose img 3 Start -->
+                            <div class="why-choose-img-3">
+                                <figure class="image-anime reveal">
+                                    <img src="images/why-choose-img-3.jpg" alt="">
+                                </figure>
+                            </div>
+                            <!-- Why Choose img 3 End -->
+
+                            <!-- Why Choose img 4 Start -->
+                            <div class="why-choose-img-4">
+                                <figure class="image-anime reveal">
+                                    <img src="images/why-choose-img-4.jpg" alt="">
+                                </figure>
+                            </div>
+                            <!-- Why Choose img 4 End -->
+                        </div>
+                        <!-- Why Choose Box 2 End -->
+                    </div>
+                    <!-- Why Choose Images Images End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Why Choose Us Section End -->
+
+    <!-- Our Services Section Start -->
+    <div class="our-services">
+        <div class="container">
+            <div class="row section-row align-items-center">
+                <div class="col-lg-6">
+                    <!-- Section Title Start -->
+                    <div class="section-title">
+                        <h3 class="wow fadeInUp">our services</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Innovative design services for <span>every
+                                need</span></h2>
+                    </div>
+                    <!-- Section Title End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- Section Title Content Start -->
+                    <div class="section-title-content">
+                        <p class="wow fadeInUp" data-wow-delay="0.2s">We offer a range of bespoke interior design
+                            services tailored to your unique needs. From concept development to final installation.</p>
+                    </div>
+                    <!-- Section Title Content End -->
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <!-- Service Item Start -->
+                    <div class="service-item wow fadeInUp">
+                        <!-- Service Image Start -->
+                        <div class="service-image">
+                            <a href="service-single.php" data-cursor-text="View">
+                                <figure class="image-anime">
+                                    <img src="images/service-1.jpg" alt="">
+                                </figure>
+                            </a>
+                        </div>
+                        <!-- Service Image End -->
+
+                        <!-- Service Button Start -->
+                        <div class="service-btn">
+                            <a href="service-single.php"><img src="images/arrow-white.svg" alt=""></a>
+                        </div>
+                        <!-- Service Button End -->
+
+                        <!-- Service Content Start -->
+                        <div class="service-content">
+                            <h3><a href="service-single.php">residential interior design</a></h3>
+                            <p>We create personalized living spaces that reflect your style and functional needs.</p>
+                        </div>
+                        <!-- Service Content End -->
+                    </div>
+                    <!-- Service Item End -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Service Item Start -->
+                    <div class="service-item wow fadeInUp" data-wow-delay="0.2s">
+                        <!-- Service Image Start -->
+                        <div class="service-image">
+                            <a href="service-single.php" data-cursor-text="View">
+                                <figure class="image-anime">
+                                    <img src="images/service-2.jpg" alt="">
+                                </figure>
+                            </a>
+                        </div>
+                        <!-- Service Image End -->
+
+                        <!-- Service Button Start -->
+                        <div class="service-btn">
+                            <a href="service-single.php"><img src="images/arrow-white.svg" alt=""></a>
+                        </div>
+                        <!-- Service Button End -->
+
+                        <!-- Service Content Start -->
+                        <div class="service-content">
+                            <h3><a href="service-single.php">commercial interior design</a></h3>
+                            <p>Enhancing business environments with professional, functional, and aesthetically.</p>
+                        </div>
+                        <!-- Service Content End -->
+                    </div>
+                    <!-- Service Item End -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Service Item Start -->
+                    <div class="service-item wow fadeInUp" data-wow-delay="0.4s">
+                        <!-- Service Image Start -->
+                        <div class="service-image">
+                            <a href="service-single.php" data-cursor-text="View">
+                                <figure class="image-anime">
+                                    <img src="images/service-3.jpg" alt="">
+                                </figure>
+                            </a>
+                        </div>
+                        <!-- Service Image End -->
+
+                        <!-- Service Button Start -->
+                        <div class="service-btn">
+                            <a href="service-single.php"><img src="images/arrow-white.svg" alt=""></a>
+                        </div>
+                        <!-- Service Button End -->
+
+                        <!-- Service Content Start -->
+                        <div class="service-content">
+                            <h3><a href="service-single.php">furniture and decor selection</a></h3>
+                            <p>Our experts help you choose the perfect furniture and decor complement your style.</p>
+                        </div>
+                        <!-- Service Content End -->
+                    </div>
+                    <!-- Service Item End -->
+                </div>
+
+                <div class="col-lg-12">
+                    <!-- All Services Button Start -->
+                    <div class="all-services-btn wow fadeInUp" data-wow-delay="0.6s">
+                        <a href="services.php" class="btn-default">see all services</a>
+                    </div>
+                    <!-- All Services Button End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Our Services Section End -->
+
+    <!-- Intro Video Section Start -->
+    <?php /* <div class="intro-video">
+<div class="container-fluid">
+  <div class="row">
+      <div class="col-lg-12">
+          <!-- Intro Video Image Start -->
+          <div class="intro-video-box">
+              <!-- Intro Image Start -->
+              <div class="intro-video-image">
+                  <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video"
+                      data-cursor-text="Play">
+                      <figure class="image-anime">
+                          <img src="images/intro-video-bg.jpg" alt="">
+                      </figure>
+                  </a>
+              </div>
+              <!-- Intro Image End -->
+
+              <!-- Video Play Button Start -->
+              <div class="video-play-button">
+                  <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video"
+                      data-cursor-text="Play">play</a>
+              </div>
+              <!-- Video Play Button End -->
+          </div>
+          <!-- Intro Video Btn End -->
+      </div>
+  </div>
+</div>
+</div> */ ?>
+    <!-- Intro Video Section End -->
+
+    <!-- How We Work Start -->
+    <div class="how-we-work">
+        <div class="container">
+            <div class="row section-row align-items-center">
+                <div class="col-lg-6">
+                    <!-- Section Title Start -->
+                    <div class="section-title dark-section">
+                        <h3 class="wow fadeInUp">how we work</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">From Concept to Completion — Simplifying
+                            Formwork the Smart Way</span></h2>
+                    </div>
+                    <!-- Section Title End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- Section Title Content Start -->
+                    <div class="section-title-content dark-section">
+                        <p class="wow fadeInUp" data-wow-delay="0.2s">Our comprehensive turnkey approach guides every
+                            client through each stage of the process — from design conceptualization and refurbishment
+                            planning to project delivery and after-service support. Every step is engineered for
+                            efficiency, precision, and value creation.</p>
+                    </div>
+                    <!-- Section Title Content End -->
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <!-- How We Work List Start -->
+                    <div class="how-we-work-list">
+                        <!-- How We Item Start -->
+                        <div class="how-we-work-item wow fadeInUp">
+                            <div class="icon-box">
+                                <img src="images/icon-how-we-work-1.svg" alt="">
+                            </div>
+                            <div class="how-we-work-content">
+                                <h3>01. Project Consultation & Assessment</h3>
+                                <p>We analyze your project to recommend Buy, Rent, or Trade-In.</p>
+                            </div>
+                        </div>
+                        <!-- How We Item End -->
+
+                        <!-- How We Item Start -->
+                        <div class="how-we-work-item wow fadeInUp" data-wow-delay="0.2s">
+                            <div class="icon-box">
+                                <img src="images/icon-how-we-work-2.svg" alt="">
+                            </div>
+                            <div class="how-we-work-content">
+                                <h3>02. Design & Engineering Planning</h3>
+                                <p>We design optimized formwork layouts ensuring reuse, safety, and efficiency.</p>
+                            </div>
+                        </div>
+                        <!-- How We Item End -->
+
+                        <!-- How We Item Start -->
+                        <div class="how-we-work-item wow fadeInUp" data-wow-delay="0.4s">
+                            <div class="icon-box">
+                                <img src="images/icon-how-we-work-3.svg" alt="">
+                            </div>
+                            <div class="how-we-work-content">
+                                <h3>03. Refurbishment & Reprocessing</h3>
+                                <p>Precision refurbishment ensures quality, strength, and like-new performance.</p>
+                            </div>
+                        </div>
+                        <!-- How We Item End -->
+
+                        <!-- How We Item Start -->
+                        <div class="how-we-work-item wow fadeInUp" data-wow-delay="0.6s">
+                            <div class="icon-box">
+                                <img src="images/icon-how-we-work-4.svg" alt="">
+                            </div>
+                            <div class="how-we-work-content">
+                                <h3>04. Project Dispatch & Execution Support</h3>
+                                <p>Delivered with support, RFID tracking, and sustainable Buyback options.</p>
+                            </div>
+                        </div>
+                        <!-- How We Item End -->
+                    </div>
+                    <!-- How We Work List End -->
+
+                    <!-- How Work Company Slider Start -->
+                    <?php /* <div class="how-work-company-slider">
+              <div class="swiper">
+                  <div class="swiper-wrapper">
+                      <!-- Company Support Logo Start -->
+                      <div class="swiper-slide">
+                          <div class="company-logo">
+                              <img src="images/company-logo-1.svg" alt="">
+                          </div>
+                      </div>
+                      <!-- Company Support Logo End -->
+
+                      <!-- Company Support Logo Start -->
+                      <div class="swiper-slide">
+                          <div class="company-logo">
+                              <img src="images/company-logo-2.svg" alt="">
+                          </div>
+                      </div>
+                      <!-- Company Support Logo End -->
+
+                      <!-- Company Support Logo Start -->
+                      <div class="swiper-slide">
+                          <div class="company-logo">
+                              <img src="images/company-logo-3.svg" alt="">
+                          </div>
+                      </div>
+                      <!-- Company Support Logo End -->
+
+                      <!-- Company Support Logo Start -->
+                      <div class="swiper-slide">
+                          <div class="company-logo">
+                              <img src="images/company-logo-4.svg" alt="">
+                          </div>
+                      </div>
+                      <!-- Company Support Logo End -->
+
+                      <!-- Company Support Logo Start -->
+                      <div class="swiper-slide">
+                          <div class="company-logo">
+                              <img src="images/company-logo-5.svg" alt="">
+                          </div>
+                      </div>
+                      <!-- Company Support Logo End -->
+
+                      <!-- Company Support Logo Start -->
+                      <div class="swiper-slide">
+                          <div class="company-logo">
+                              <img src="images/company-logo-1.svg" alt="">
+                          </div>
+                      </div>
+                      <!-- Company Support Logo End -->
                   </div>
-                </div>
               </div>
+          </div> */ ?>
+                    <!-- How Work Company Slider End -->
+                </div>
             </div>
-            <div class="accordion" id="accordionExample">
-              <div class="accordion-item">
-                <h2 class="accordion-header" id="headingOne">
-                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
-                    aria-expanded="true" aria-controls="collapseOne">
-                    <span class="num">01.</span> Our Goals
-                  </button>
-                </h2>
-                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                  data-bs-parent="#accordionExample">
-                  <div class="accordion-body">
-                    <p>Achieve ₹50 crore turnover in core construction in the coming financial year. Expand POD and Slim+ 
-                    systems across residential and commercial verticals pan-India. Launch AI-based construction ERP integrating 
-                    design, cost, and site analytics. File for IPO listing by 2027 to strengthen public and market presence.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="accordion-item">
-                <h2 class="accordion-header" id="headingTwo">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo"
-                    aria-expanded="true" aria-controls="collapseTwo">
-                    <span class="num">02.</span> Innovative Construction
-                  </button>
-                </h2>
-                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                  data-bs-parent="#accordionExample">
-                  <div class="accordion-body">
-                    <p>Technomerates key team have post graduates from Machessutes who have contributed in
-                      conceptualizing and creating cost dampening opportunities by leveraging creative and intuitive
-                      techniques. Their expertise & vast experience in field of construction with post graduation from
-                      Massecutes facilitated for employing unique and new construction methodologies viz. Tunnel form,
-                      Designing, Manufacturing tunnel form with plywood, wall form & table form for an area of
-                      2,00,000sqft to build 167,85,600sqft of formwork area.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="accordion-item">
-                <h2 class="accordion-header" id="headingThree">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                    <span class="num">03.</span> Strategic Excellence
-                  </button>
-                </h2>
-                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                  data-bs-parent="#accordionExample">
-                  <div class="accordion-body">
-                    <p>Technomerates and its key team have demonstrated their strength in strategic planning, housing
-                      NICMAR graduates who have been recognized for sweeping improvements in efficiency, product &
-                      process development with projects valued to 1000+ crores.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="accordion-item">
-                <h2 class="accordion-header" id="headingFour">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                    <span class="num">03.</span> Design Expertise
-                  </button>
-                </h2>
-                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
-                  data-bs-parent="#accordionExample">
-                  <div class="accordion-body">
-                    <p>Technomerates key team houses MS Structure IIT alumnus who is conversant in designing multi
-                      storied & commercial structures, maven in designing precast structures with 10lakh+sqft designed
-                      as of day, the maven ability to analyse the structure, facilitates in envisaging complication in
-                      designs & resolve them to optimized design, the quench for technology had ended in designing
-                      precast Toilet POD's, self stressing prestressing bed, formwork. The passion towards design has
-                      ended up providing design solutions for cantilever deck platforms, PEB transportable toilets etc.
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
-        <div class="col-lg-6">
-          <div class="shape">
-            <div class="video">
-              <figure>
-                <img src="./assets/images/features1.jpg" alt="Core Feature Img">
-              </figure>
-              <!--<a class="video-play-btn" data-fancybox="" href="#">-->
-              <!--  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35"-->
-              <!--    height="56" viewBox="0 0 35 56">-->
-              <!--    <defs>-->
-              <!--      <clipPath id="clip-video_arrow">-->
-              <!--        <rect width="35" height="56" />-->
-              <!--      </clipPath>-->
-              <!--    </defs>-->
-              <!--    <g id="video_arrow" data-name="video arrow" clip-path="url(#clip-video_arrow)">-->
-              <!--      <path id="Shape_1" data-name="Shape 1" d="M1362,5000.8,1327,4972V5027Z"-->
-              <!--        transform="translate(-1326.998 -4971.996)" fill="rgba(0,0,0,0)" />-->
-              <!--      <path id="Shape_1_-_Outline" data-name="Shape 1 - Outline"-->
-              <!--        d="M1333,5015.017l19.29-14.437L1333,4984.7v30.313M1327,5027V4972l35,28.807Z"-->
-              <!--        transform="translate(-1326.998 -4971.996)" />-->
-              <!--    </g>-->
-              <!--  </svg>-->
-              <!--</a>-->
-            </div>
-          </div>
-        </div>
-      </div>
     </div>
-  </section>
-  <!-- Core Features End -->
+    <!-- How We Work End -->
 
-  <!-- Client Style One Start -->
-  <!-- <div class="gap client-style-one">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="client-slider owl-carousel">
-            <img class="w-auto m-auto" src="https://via.placeholder.com/230x40" alt="client-1">
-            <img class="w-auto m-auto" src="https://via.placeholder.com/230x40" alt="client-2">
-            <img class="w-auto m-auto" src="https://via.placeholder.com/230x40" alt="client-3">
-            <img class="w-auto m-auto" src="https://via.placeholder.com/230x40" alt="client-4">
-            <img class="w-auto m-auto" src="https://via.placeholder.com/230x40" alt="client-5">
-            <img class="w-auto m-auto" src="https://via.placeholder.com/230x40" alt="client-1">
-            <img class="w-auto m-auto" src="https://via.placeholder.com/230x40" alt="client-2">
-          </div>
+    <!-- Our Project Start -->
+    <div class="our-project">
+        <div class="container">
+            <div class="row section-row align-items-center">
+                <div class="col-lg-5">
+                    <!-- Section Title Start -->
+                    <div class="section-title">
+                        <h3 class="wow fadeInUp">latest project</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Creative projects that define<span> our
+                                style</span></h2>
+                    </div>
+                    <!-- Section Title End -->
+                </div>
+
+                <div class="col-lg-7">
+                    <!-- Section Title Content Start -->
+                    <div class="section-title-content">
+                        <p class="wow fadeInUp" data-wow-delay="0.2s">Our portfolio showcases a diverse range of
+                            projects, from beautifully crafted residential spaces functional and stylish commercial
+                            interiors</p>
+                    </div>
+                    <!-- Section Title Content End -->
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <!-- Our Project Nav start -->
+                    <div class="our-Project-nav wow fadeInUp" data-wow-delay="0.4s">
+                        <ul>
+                            <li><a href="#" class="active-btn" data-filter="*">all</a></li>
+                            <li><a href="#" data-filter=".architecture">architecture</a></li>
+                            <li><a href="#" data-filter=".interior">interior</a></li>
+                            <li><a href="#" data-filter=".bedroom">bedroom</a></li>
+                            <li><a href="#" data-filter=".furniture">furniture</a></li>
+                            <li><a href="#" data-filter=".kitchen">kitchen</a></li>
+                        </ul>
+                    </div>
+                    <!-- Our Project Nav End -->
+                </div>
+
+                <div class="col-lg-12">
+                    <!-- Project Item Boxes start -->
+                    <div class="row project-item-boxes align-items-center">
+                        <div class="col-md-6 project-item-box architecture bedroom">
+                            <!-- Project Item Start -->
+                            <div class="project-item wow fadeInUp">
+                                <div class="project-image">
+                                    <div class="project-featured-image">
+                                        <figure class="image-anime">
+                                            <img src="images/project-1.jpg" alt="">
+                                        </figure>
+                                    </div>
+
+                                    <div class="project-btn">
+                                        <a href="project-single.php"><img src="images/arrow-white.svg" alt=""></a>
+                                    </div>
+                                </div>
+
+                                <div class="project-content">
+                                    <h3>residential spaces</h3>
+                                    <h2><a href="project-single.php">urban retreat: modern design meets comfort</a>
+                                    </h2>
+                                </div>
+                            </div>
+                            <!-- Project Item End -->
+                        </div>
+
+                        <div class="col-md-6 project-item-box interior kitchen">
+                            <!-- Project Item Start -->
+                            <div class="project-item wow fadeInUp" data-wow-delay="0.2s">
+                                <div class="project-image">
+                                    <div class="project-featured-image">
+                                        <figure class="image-anime">
+                                            <img src="images/project-2.jpg" alt="">
+                                        </figure>
+                                    </div>
+
+                                    <div class="project-btn">
+                                        <a href="project-single.php"><img src="images/arrow-white.svg" alt=""></a>
+                                    </div>
+                                </div>
+
+                                <div class="project-content">
+                                    <h3>luxury homes</h3>
+                                    <h2><a href="project-single.php">luxurious loft: industrial chic for living</a>
+                                    </h2>
+                                </div>
+                            </div>
+                            <!-- Project Item End -->
+                        </div>
+
+                        <div class="col-md-6 project-item-box furniture architecture">
+                            <!-- Project Item Start -->
+                            <div class="project-item wow fadeInUp" data-wow-delay="0.4s">
+                                <div class="project-image">
+                                    <div class="project-featured-image">
+                                        <figure class="image-anime">
+                                            <img src="images/project-3.jpg" alt="">
+                                        </figure>
+                                    </div>
+
+                                    <div class="project-btn">
+                                        <a href="project-single.php"><img src="images/arrow-white.svg" alt=""></a>
+                                    </div>
+                                </div>
+
+                                <div class="project-content">
+                                    <h3>outdoor living spaces</h3>
+                                    <h2><a href="project-single.php">coastal vibes: serenity by the sea</a></h2>
+                                </div>
+                            </div>
+                            <!-- Project Item End -->
+                        </div>
+
+                        <div class="col-md-6 project-item-box kitchen bedroom">
+                            <!-- Project Item Start -->
+                            <div class="project-item wow fadeInUp" data-wow-delay="0.6s">
+                                <div class="project-image">
+                                    <div class="project-featured-image">
+                                        <figure class="image-anime">
+                                            <img src="images/project-4.jpg" alt="">
+                                        </figure>
+                                    </div>
+
+                                    <div class="project-btn">
+                                        <a href="project-single.php"><img src="images/arrow-white.svg" alt=""></a>
+                                    </div>
+                                </div>
+
+                                <div class="project-content">
+                                    <h3>modern designs</h3>
+                                    <h2><a href="project-single.php">minimalist haven: simple, clean, inviting
+                                            spaces</a></h2>
+                                </div>
+                            </div>
+                            <!-- Project Item End -->
+                        </div>
+                    </div>
+                    <!-- Project Item Boxes End -->
+                </div>
+            </div>
         </div>
-      </div>
     </div>
-  </div> -->
-  <!-- Client Style One End -->
+    <!-- Our Project End -->
 
-  <!-- Renovation Start -->
-  <section class="gap renovation py-5">
-    <div class="parallax"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="reno-data">
-            <h3 class="mb-3">Our Strengths</h3>
-            <p style="font-size: 12px; width: 70%;">
-              Executed super structure of G+10 floors - 6600sqm in 21 days - Deshuttered formwork for the slabs @ 12hrs,
-              achieved pour cycle time of 24hrs with key significant technique improvements viz casting of starters of
-              walls along with slabs, early deshuttering using high early strength concrete thereby increasing the
-              repetition of the formwork and lower capital cost on formwork.
-              Deshuttered formwork for the slabs @ 12hrs and achieved pour cycle time of 24hrs.
-              Established formwork system with formwork pressure of 65kg/sqm - without intermediate tie rods for a
-              column size of 1.2X1.2m.
-              Hotshot in designing concrete mixes - Designed more than 600 concrete mixes out of which few includes
-              usage of advanced chemical admixtures viz poly carbo oxylic ether base and mineral admixtures viz micro
-              silica, fly ash.
-              Having hands-on up to M60 grade Self Compacting Concrete- Whiz in optimizing the cement content in
-              concrete.
-              Established CLC block manufacturing unit and manufactured 30lakh bricks in a period of one year.
-              Established Formwork system - Designed & built - To pour column and slab on single go - Formwork area - 9
-              lakh sqft.
-              Conversant in Formwork Technologies - Which includes Tunnel form, Aluminum Form work, Table form, Gang
-              form, Plastic Form, Jump form. Also have designed and manufactured formwork for more than 200000sqft which
-              includes Tunnel form fabrication with ply wood, Gang form and Table form to cater a requirement of 167
-              lakhs sqft formwork area.
-            </p>
-            <!-- <div class="bbtn">'
-              <figure>
-                <img class="w-auto circle-layer" src="assets/images/circle-text.png" alt="Circle Text">
-              </figure>
-              <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#exampleModal1"><i
-                  class="fa-solid fa-arrow-up-long"></i></a>
-            </div> -->
-          </div>
+    <!-- Our Skill Start -->
+    <div class="our-skill">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <!-- Our Skill Content Start -->
+                    <div class="our-skill-content">
+                        <!-- Section Title Start -->
+                        <div class="section-title">
+                            <h3 class="wow fadeInUp">our skills</h3>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Skills that Shape the<span> Future of
+                                    Construction</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.2s">Our engineering team collaborates with
+                                builders to deliver precise, cost-effective, and sustainable aluminium formwork
+                                solutions with lasting performance.</p>
+                        </div>
+                        <!-- Section Title End -->
+
+                        <!-- About SkillBar Start -->
+                        <div class="our-skillbar">
+                            <!-- Skills Progress Bar Start -->
+                            <div class="skills-progress-bar">
+                                <!-- Skill Item Start -->
+                                <div class="skillbar" data-percent="95%">
+                                    <div class="skill-data">
+                                        <div class="skill-title">Design Adaptation & Precision Engineering</div>
+                                        <div class="skill-no">95%</div>
+                                    </div>
+                                    <div class="skill-progress">
+                                        <div class="count-bar"></div>
+                                    </div>
+                                </div>
+                                <!-- Skill Item End -->
+                            </div>
+                            <!-- Skills Progress Bar End -->
+
+                            <!-- Skills Progress Bar Start -->
+                            <div class="skills-progress-bar">
+                                <!-- Skill Item Start -->
+                                <div class="skillbar" data-percent="90%">
+                                    <div class="skill-data">
+                                        <div class="skill-title">Project Challenges & Turnkey Solutions</div>
+                                        <div class="skill-no">90%</div>
+                                    </div>
+                                    <div class="skill-progress">
+                                        <div class="count-bar"></div>
+                                    </div>
+                                </div>
+                                <!-- Skill Item End -->
+                            </div>
+                            <!-- Skills Progress Bar End -->
+
+                            <!-- Skills Progress Bar Start -->
+                            <div class="skills-progress-bar">
+                                <!-- Skill Item Start -->
+                                <div class="skillbar" data-percent="88%">
+                                    <div class="skill-data">
+                                        <div class="skill-title">Refurbishment Technology & Quality Control</div>
+                                        <div class="skill-no">88%</div>
+                                    </div>
+                                    <div class="skill-progress">
+                                        <div class="count-bar"></div>
+                                    </div>
+                                </div>
+                                <!-- Skill Item End -->
+                            </div>
+                            <!-- Skills Progress Bar End -->
+
+                            <!-- Skills Progress Bar Start -->
+                            <div class="skills-progress-bar">
+                                <!-- Skill Item Start -->
+                                <div class="skillbar" data-percent="80%">
+                                    <div class="skill-data">
+                                        <div class="skill-title">Sustainability & Circular Construction</div>
+                                        <div class="skill-no">80%</div>
+                                    </div>
+                                    <div class="skill-progress">
+                                        <div class="count-bar"></div>
+                                    </div>
+                                </div>
+                                <!-- Skill Item End -->
+                            </div>
+                            <!-- Skills Progress Bar End -->
+                        </div>
+                        <!-- About SkillBar End -->
+                    </div>
+                    <!-- Our Skill Content End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- Our Skill Image Start -->
+                    <div class="our-skill-image">
+                        <div class="our-skill-img-1">
+                            <figure class="image-anime reveal">
+                                <img src="images/our-skill-img-1.jpg" alt="">
+                            </figure>
+                        </div>
+
+                        <div class="our-skill-img-2">
+                            <figure class="image-anime reveal">
+                                <img src="images/our-skill-img-2.jpg" alt="">
+                            </figure>
+                        </div>
+
+                        <div class="our-skill-img-3">
+                            <figure class="image-anime reveal">
+                                <img src="images/our-skill-img-3.jpg" alt="">
+                            </figure>
+                        </div>
+                    </div>
+                    <!-- Our Skill Image End -->
+                </div>
+            </div>
         </div>
-      </div>
     </div>
-  </section>
-  <!-- Renovation End -->
+    <!-- Our Skill End -->
 
-  <!-- Client Review Style One Start -->
-  <!-- <section class="gap client-review-style-one">
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-lg-6">
-          <div class="head-review">
-            <span>Testimonials</span>
-            <h3>Client's Reviews</h3>
-          </div>
-          <div class="client-review-slider owl-carousel">
-            <div class="slider-data">
-              <p>To my mind, the greatest reward for any renovation project is being able to experience the
-                transformation from beginning to end. I enjoy getting to see how a renovation can go from an idea to a
-                reality and lead to an elevated mood and heightened productivity.</p>
-              <div class="bio d-flex-all justify-content-start w-100">
-                <div class="icon d-flex-all">
-                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26"
-                    height="26" viewBox="0 0 26 26">
-                    <defs>
-                      <clipPath id="clip-Inverted">
-                        <rect width="26" height="26" />
-                      </clipPath>
-                    </defs>
-                    <g id="Inverted_" data-name="Inverted commas flaky" clip-path="url(#clip-Inverted)">
-                      <path id="Path_3444" data-name="Path 3"
-                        d="M.032,24.036V14.478l-.032,0V8.991C.4.4,9.086,0,9.086,0V5.961c-3.535,0-3.555,3.03-3.555,3.03v4.045h5.5v11ZM0,8.991Z"
-                        transform="translate(14 0.964)" />
-                      <path id="Path_weee4" data-name="Path 4"
-                        d="M.032,24.036V14.478l-.032,0V8.991C.4.4,9.086,0,9.086,0V5.961c-3.535,0-3.555,3.03-3.555,3.03v4.045h5.5v11ZM0,8.991Z"
-                        transform="translate(0.969 0.964)" />
-                    </g>
-                  </svg>
+    <!-- Our Testimonial Start -->
+    <div class="our-testimonials">
+        <div class="container-fluid">
+            <div class="row no-gutters">
+                <div class="col-lg-6">
+                    <!-- Our Testimonial Image Start -->
+                    <div class="our-testimonials-image">
+                        <figure class="image-anime">
+                            <img src="./images/testimonial-img.jpg" alt="">
+                        </figure>
+                    </div>
+                    <!-- Our Testimonial Image End -->
                 </div>
-                <div class="details w-100">
-                  <h3>Marko Marlee</h3>
-                  <p>Chairman, Building Corp</p>
+
+                <div class="col-lg-6">
+                    <!-- Our Testimonial Content Start -->
+                    <div class="our-testimonial-content">
+                        <!-- Section Title Start -->
+                        <div class="section-title">
+                            <h3 class="wow fadeInUp">client testimonials</h3>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Trusted by India’s Leading Developers &
+                                Builders</span></h2>
+                        </div>
+                        <!-- Section Title End -->
+
+                        <!-- Testimonial Slider Start -->
+                        <div class="testimonial-slider">
+                            <div class="swiper">
+                                <div class="swiper-wrapper" data-cursor-text="Drag">
+                                    <!-- Testimonial Slide Start -->
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-item">
+                                            <div class="testimonial-rating">
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                            </div>
+                                            <div class="testimonial-body">
+                                                <div class="testimonial-content">
+                                                    <p>URFW by Technomerates transformed the way we plan and execute our
+                                                        formwork. Their refurbished systems performed like new —
+                                                        precise, durable, and cost-effective. The turnkey service
+                                                        simplified everything from design to delivery.</p>
+                                                </div>
+                                            </div>
+                                            <div class="testimonial-body">
+                                                <!-- <div class="author-image">
+                                                    <figure class="image-anime">
+                                                        <img src="images/author-1.jpg" alt="">
+                                                    </figure>
+                                                </div> -->
+                                                <div class="author-content">
+                                                    <h3>Shapoorji Pallonji Real Estate (SPRE)</h3>
+                                                    <p>Mumbai</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Testimonial Slide End -->
+
+                                    <!-- Testimonial Slide Start -->
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-item">
+                                            <div class="testimonial-rating">
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                            </div>
+                                            <div class="testimonial-content">
+                                                <p>For our Bengaluru projects, URFW delivered re-engineered formwork
+                                                    that perfectly matched our layout and repetition requirements. The
+                                                    material quality, alignment, and service standards were exceptional.
+                                                </p>
+                                            </div>
+                                            <div class="testimonial-body">
+                                                <!-- <div class="author-image">
+                                                    <figure class="image-anime">
+                                                        <img src="images/author-1.jpg" alt="">
+                                                    </figure>
+                                                </div> -->
+                                                <div class="author-content">
+                                                    <h3>Sobha Developers</h3>
+                                                    <p>Bengaluru</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Testimonial Slide End -->
+
+                                    <!-- Testimonial Slide Start -->
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-item">
+                                            <div class="testimonial-rating">
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                            </div>
+                                            <div class="testimonial-content">
+                                                <p>The affordability and flexibility URFW offers have made aluminium
+                                                    formwork accessible for mid-size developers like us. The refurbished
+                                                    panels arrived ready to use, saving us both time and cost.</p>
+                                            </div>
+                                            <div class="testimonial-body">
+                                                <!-- <div class="author-image">
+                                                    <figure class="image-anime">
+                                                        <img src="images/author-1.jpg" alt="">
+                                                    </figure>
+                                                </div> -->
+                                                <div class="author-content">
+                                                    <h3>Urbanac Developers</h3>
+                                                    <p>Bengaluru</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Testimonial Slide End -->
+
+                                    <!-- Testimonial Slide Start -->
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-item">
+                                            <div class="testimonial-rating">
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                            </div>
+                                            <div class="testimonial-content">
+                                                <p>URFW’s ability to customize used formwork to suit project-specific
+                                                    needs is unmatched. Their buyback and trade-in options give great
+                                                    value for future projects too.</p>
+                                            </div>
+                                            <div class="testimonial-body">
+                                                <!-- <div class="author-image">
+                                                    <figure class="image-anime">
+                                                        <img src="images/author-1.jpg" alt="">
+                                                    </figure>
+                                                </div> -->
+                                                <div class="author-content">
+                                                    <h3>KSV Infra</h3>
+                                                    <p>Bengaluru</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Testimonial Slide End -->
+
+                                    <!-- Testimonial Slide Start -->
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-item">
+                                            <div class="testimonial-rating">
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                            </div>
+                                            <div class="testimonial-content">
+                                                <p>We were impressed with the precision and finishing of the refurbished
+                                                    formwork supplied by URFW. The system integrated smoothly into our
+                                                    project schedule, ensuring efficiency and timely completion.</p>
+                                            </div>
+                                            <div class="testimonial-body">
+                                                <!-- <div class="author-image">
+                                                    <figure class="image-anime">
+                                                        <img src="images/author-1.jpg" alt="">
+                                                    </figure>
+                                                </div> -->
+                                                <div class="author-content">
+                                                    <h3>Maverick Developers</h3>
+                                                    <p>Hubli</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Testimonial Slide End -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Testimonial Slider End -->
+
+                        <!-- Testimonial Rating Counter Start -->
+                        <div class="testimonial-rating-counter">
+                            <div class="rating-counter">
+                                <h2><span class="counter">4.82</span></h2>
+                            </div>
+                            <div class="testimonial-rating-content">
+                                <div class="testimonial-client-rating">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                </div>
+                                <p>2,488 reviews</p>
+                            </div>
+                        </div>
+                        <!-- Testimonial Rating Counter End -->
+                    </div>
+                    <!-- Our Testimonial Content End -->
                 </div>
-              </div>
             </div>
-            <div class="slider-data">
-              <p>To my mind, the greatest reward for any renovation project is being able to experience the
-                transformation from beginning to end. I enjoy getting to see how a renovation can go from an idea to a
-                reality and lead to an elevated mood and heightened productivity.</p>
-              <div class="bio d-flex-all justify-content-start w-100">
-                <div class="icon d-flex-all">
-                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26"
-                    height="26" viewBox="0 0 26 26">
-                    <defs>
-                      <clipPath id="clip-Inverted_comma">
-                        <rect width="26" height="26" />
-                      </clipPath>
-                    </defs>
-                    <g id="Inver" data-name="Inverted commas flaky" clip-path="url(#clip-Inverted_comma)">
-                      <path id="Path_332" data-name="Path 3"
-                        d="M.032,24.036V14.478l-.032,0V8.991C.4.4,9.086,0,9.086,0V5.961c-3.535,0-3.555,3.03-3.555,3.03v4.045h5.5v11ZM0,8.991Z"
-                        transform="translate(14 0.964)" />
-                      <path id="Path_3344" data-name="Path 4"
-                        d="M.032,24.036V14.478l-.032,0V8.991C.4.4,9.086,0,9.086,0V5.961c-3.535,0-3.555,3.03-3.555,3.03v4.045h5.5v11ZM0,8.991Z"
-                        transform="translate(0.969 0.964)" />
-                    </g>
-                  </svg>
-                </div>
-                <div class="details w-100">
-                  <h3>Christopher</h3>
-                  <p>Social Worker</p>
-                </div>
-              </div>
-            </div>
-            <div class="slider-data">
-              <p>To my mind, the greatest reward for any renovation project is being able to experience the
-                transformation from beginning to end. I enjoy getting to see how a renovation can go from an idea to a
-                reality and lead to an elevated mood and heightened productivity.</p>
-              <div class="bio d-flex-all justify-content-start w-100">
-                <div class="icon d-flex-all">
-                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26"
-                    height="26" viewBox="0 0 26 26">
-                    <defs>
-                      <clipPath id="clip-Inve">
-                        <rect width="26" height="26" />
-                      </clipPath>
-                    </defs>
-                    <g id="Inverted_co" data-name="Inverted commas flaky" clip-path="url(#clip-Inve)">
-                      <path id="Path_35555" data-name="Path 3"
-                        d="M.032,24.036V14.478l-.032,0V8.991C.4.4,9.086,0,9.086,0V5.961c-3.535,0-3.555,3.03-3.555,3.03v4.045h5.5v11ZM0,8.991Z"
-                        transform="translate(14 0.964)" />
-                      <path id="Path_4545454" data-name="Path 4"
-                        d="M.032,24.036V14.478l-.032,0V8.991C.4.4,9.086,0,9.086,0V5.961c-3.535,0-3.555,3.03-3.555,3.03v4.045h5.5v11ZM0,8.991Z"
-                        transform="translate(0.969 0.964)" />
-                    </g>
-                  </svg>
-                </div>
-                <div class="details w-100">
-                  <h3>Donald Paul</h3>
-                  <p>Constructor</p>
-                </div>
-              </div>
-            </div>
-            <div class="slider-data">
-              <p>To my mind, the greatest reward for any renovation project is being able to experience the
-                transformation from beginning to end. I enjoy getting to see how a renovation can go from an idea to a
-                reality and lead to an elevated mood and heightened productivity.</p>
-              <div class="bio d-flex-all justify-content-start w-100">
-                <div class="icon d-flex-all">
-                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26"
-                    height="26" viewBox="0 0 26 26">
-                    <defs>
-                      <clipPath id="clip-Inverted_coadsadad">
-                        <rect width="26" height="26" />
-                      </clipPath>
-                    </defs>
-                    <g id="Inverte" data-name="Inverted commas flaky" clip-path="url(#clip-Inverted_coadsadad)">
-                      <path id="Path_3fewrrw" data-name="Path 3"
-                        d="M.032,24.036V14.478l-.032,0V8.991C.4.4,9.086,0,9.086,0V5.961c-3.535,0-3.555,3.03-3.555,3.03v4.045h5.5v11ZM0,8.991Z"
-                        transform="translate(14 0.964)" />
-                      <path id="Path_werwer4" data-name="Path 4"
-                        d="M.032,24.036V14.478l-.032,0V8.991C.4.4,9.086,0,9.086,0V5.961c-3.535,0-3.555,3.03-3.555,3.03v4.045h5.5v11ZM0,8.991Z"
-                        transform="translate(0.969 0.964)" />
-                    </g>
-                  </svg>
-                </div>
-                <div class="details w-100">
-                  <h3>Kevin Samuel</h3>
-                  <p>Creative Head</p>
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
-        <div class="col-lg-6">
-          <figure>
-            <img src="https://via.placeholder.com/620x630" alt="Client Images">
-          </figure>
-        </div>
-      </div>
     </div>
-  </section> -->
-  <!-- Client Review Style One End -->
+    <!-- Our Testimonial End -->
 
-  <!-- Blog Style One Start -->
-  <!-- <section class="gap no-top blog-style-one">
-    <div class="heading">
-      <figure>
-        <img src="assets/images/heading-icon.png" alt="heading-icon">
-      </figure>
-      <span>Let us Help Guide</span>
-      <h2>Recent Articles</h2>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-4 col-md-6 col-sm-12">
-          <div class="blog-post">
-            <div class="blog-image">
-              <figure>
-                <img src="https://via.placeholder.com/415x270" alt="blog-img-1">
-              </figure>
-              <a href="blog-detail.html">
-                <i class="fa-solid fa-angles-right"></i>
-              </a>
-            </div>
-            <div class="blog-data">
-              <span class="blog-date">January 9, 2022</span>
-              <h2>
-                <a href="blog-detail.html">Differently to build bigger and better</a>
-              </h2>
-              <div class="blog-author d-flex-all justify-content-start">
-                <div class="author-img">
-                  <figure>
-                    <img src="https://via.placeholder.com/60x60" alt="Blog Author Img">
-                  </figure>
-                </div>
-                <div class="details">
-                  <h3> <span>by</span> Jakki James</h3>
-                </div>
-              </div>
-            </div>
+    <!-- Our Blog Section Start -->
+    <?php /* <div class="our-blog">
+<div class="container">
+  <div class="row section-row align-items-center">
+      <div class="col-lg-6">
+          <!-- Section Title Start -->
+          <div class="section-title">
+              <h3 class="wow fadeInUp">latest news</h3>
+              <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Your guide to</span> inspired
+                  interiors</h2>
           </div>
-        </div>
-        <div class="col-lg-4 col-md-6 col-sm-12">
-          <div class="blog-post">
-            <div class="blog-image">
-              <figure>
-                <img src="https://via.placeholder.com/415x270" alt="blog-img-2">
-              </figure>
-              <a href="blog-detail.html">
-                <i class="fa-solid fa-angles-right"></i>
-              </a>
-            </div>
-            <div class="blog-data">
-              <span class="blog-date">January 9, 2022</span>
-              <h2>
-                <a href="blog-detail.html">Seven Mistakes To Avoid During Construction</a>
-              </h2>
-              <div class="blog-author d-flex-all justify-content-start">
-                <div class="author-img">
-                  <figure>
-                    <img src="https://via.placeholder.com/60x60" alt="Blog Author Img">
-                  </figure>
-                </div>
-                <div class="details">
-                  <h3> <span>by</span> Jakki James</h3>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 col-sm-12">
-          <div class="blog-post">
-            <div class="blog-image">
-              <figure>
-                <img src="https://via.placeholder.com/415x270" alt="blog-img-3">
-              </figure>
-              <a href="blog-detail.html">
-                <i class="fa-solid fa-angles-right"></i>
-              </a>
-            </div>
-            <div class="blog-data">
-              <span class="blog-date">January 9, 2022</span>
-              <h2>
-                <a href="blog-detail.html">Build Climate Change-Resilient Infrastructure</a>
-              </h2>
-              <div class="blog-author d-flex-all justify-content-start">
-                <div class="author-img">
-                  <figure>
-                    <img src="https://via.placeholder.com/60x60" alt="Blog Author Img 1">
-                  </figure>
-                </div>
-                <div class="details">
-                  <h3> <span>by</span> Jakki James</h3>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+          <!-- Section Title End -->
       </div>
-      <div class="common-btn">
-        <a href="our-blog-1.html" class="theme-btn">View All Posts <i class="fa-solid fa-angles-right"></i></a>
-      </div>
-    </div>
-  </section> -->
-  <!-- Blog Style One End -->
 
-  <!-- Footer -->
-  <?php include('./footer.php'); ?>
-
-  <!-- Scroll to Top Button -->
-  <button id="scrollTop" class="scrollTopStick">
-    <i class="fa-solid fa-arrow-up"></i>
-  </button>
-
-  <!-- Modal1 -->
-  <div class="modal fade popups est-popup" id="modal1" tabindex="-1" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered">
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body bg-dark">
-          <h3 class="text-center text-uppercase bg-dark text-white">Our Products</h3>
-          <div class="estimated-price popup mt-4">
-            <div class="est-form row bg-dark">
-              <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <a href="https://onstru.com/ERP"><button class="theme-btn">ERP <i class="fa-solid fa-angles-right"></i></button></a>
-              </div>
-              <div class="col-lg-6 d-flex justify-content-center align-items-center">
-                <a href="https://onstru.com/dlr/web"><button class="theme-btn">DLR <i class="fa-solid fa-angles-right"></i></button></a>
-              </div>
-            </div>
+      <div class="col-lg-6">
+          <!-- Section Title Content Start -->
+          <div class="section-title-content">
+              <p class="wow fadeInUp" data-wow-delay="0.2s">Your journey to inspired interiors begins here.
+                  Our blog offers a wealth of resources, including design tips, trend analyses.</p>
           </div>
-        </div>
+          <!-- Section Title Content End -->
       </div>
-    </div>
   </div>
 
-  <!-- Modal2 -->
-  <div class="modal fade popups conslt-popup" id="modal2" tabindex="-1" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered">
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <div class="contact-form-one popup">
-            <div class="c-form-2">
-              <h3>Start Consulting</h3>
-              <div class="parallax" style="background-image: url(assets/images/pattren.png);"></div>
-              <form>
-                <div class="row g-0">
-                  <input type="text" class="form-control" id="exampleInputText1" placeholder="Full Name">
-                </div>
-                <div class="row g-0">
-                  <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email Address">
-                </div>
-                <div class="row g-0">
-                  <input type="number" class="form-control" id="exampleInputPassword1" min="1000000000" max="9999999999" oninput="validate_contact(this)" placeholder="Phone No">
-                </div>
-                <div class="row g-0">
-                  <select id="inputState-21" class="form-control">
-                    <option selected>Subject</option>
-                    <option>Subject 1</option>
-                    <option>Subject 2</option>
-                    <option>Subject 3</option>
-                  </select>
-                </div>
-                <div class="row g-0">
-                  <textarea placeholder="Question / Message?" rows="2" class="h-auto"></textarea>
-                </div>
-                <button type="submit" class="theme-btn">Submit Now <i class="fa-solid fa-angles-right"></i></button>
-              </form>
-            </div>
+  <div class="row">
+      <div class="col-lg-4 col-md-6">
+          <!-- Post Item Start -->
+          <div class="post-item wow fadeInUp">
+              <!-- Post Featured Image Start-->
+              <div class="post-featured-image">
+                  <figure>
+                      <a href="blog-single.php" class="image-anime" data-cursor-text="View">
+                          <img src="images/post-1.jpg" alt="">
+                      </a>
+                  </figure>
+              </div>
+              <!-- Post Featured Image End -->
+
+              <!-- Post Item Body Start -->
+              <div class="post-item-body">
+                  <!-- Post Item Content Start -->
+                  <div class="post-item-content">
+                      <h3><a href="blog-single.php">How Does One Go About a Buying Furniture?</a></h3>
+                  </div>
+                  <!-- Post Item Content End -->
+
+                  <!-- Blog Item Button Start -->
+                  <div class="post-item-btn">
+                      <a href="blog-single.php" class="post-btn">read more</a>
+                  </div>
+                  <!-- Blog Item Button End -->
+              </div>
+              <!-- Post Item Body End -->
           </div>
-        </div>
+          <!-- Post Item End -->
       </div>
-    </div>
+
+      <div class="col-lg-4 col-md-6">
+          <!-- Post Item Start -->
+          <div class="post-item wow fadeInUp" data-wow-delay="0.2s">
+              <!-- Post Featured Image Start-->
+              <div class="post-featured-image">
+                  <figure>
+                      <a href="blog-single.php" class="image-anime" data-cursor-text="View">
+                          <img src="images/post-2.jpg" alt="">
+                      </a>
+                  </figure>
+              </div>
+              <!-- Post Featured Image End -->
+
+              <!-- Post Item Body Start -->
+              <div class="post-item-body">
+                  <!-- Post Item Content Start -->
+                  <div class="post-item-content">
+                      <h3><a href="blog-single.php">Innovative Décor Ideas Shaping Homes Today</a></h3>
+                  </div>
+                  <!-- Post Item Content End -->
+
+                  <!-- Blog Item Button Start -->
+                  <div class="post-item-btn">
+                      <a href="blog-single.php" class="post-btn">read more</a>
+                  </div>
+                  <!-- Blog Item Button End -->
+              </div>
+              <!-- Post Item Body End -->
+          </div>
+          <!-- Post Item End -->
+      </div>
+
+      <div class="col-lg-4 col-md-6">
+          <!-- Post Item Start -->
+          <div class="post-item wow fadeInUp" data-wow-delay="0.4s">
+              <!-- Post Featured Image Start-->
+              <div class="post-featured-image">
+                  <figure>
+                      <a href="blog-single.php" class="image-anime" data-cursor-text="View">
+                          <img src="images/post-3.jpg" alt="">
+                      </a>
+                  </figure>
+              </div>
+              <!-- Post Featured Image End -->
+
+              <!-- Post Item Body Start -->
+              <div class="post-item-body">
+                  <!-- Post Item Content Start -->
+                  <div class="post-item-content">
+                      <h3><a href="blog-single.php">Design Industry Updates You Should Know About</a></h3>
+                  </div>
+                  <!-- Post Item Content End -->
+
+                  <!-- Blog Item Button Start -->
+                  <div class="post-item-btn">
+                      <a href="blog-single.php" class="post-btn">read more</a>
+                  </div>
+                  <!-- Blog Item Button End -->
+              </div>
+              <!-- Post Item Body End -->
+          </div>
+          <!-- Post Item End -->
+      </div>
+
+      <div class="col-lg-12">
+          <!-- Our Blog Footer Start -->
+          <div class="our-blog-footer wow fadeInUp" data-wow-delay="0.6s">
+              <a href="blog.php" class="btn-default">See All Blogs</a>
+          </div>
+          <!-- Our Blog Footer End -->
+      </div>
   </div>
+</div>
+</div> */ ?>
+    <!-- Our Blog Section End -->
 
-  <!-- CDN Script -->
-  <?php include('./cdn_script.php'); ?>
+    <!-- Footer Start -->
+    <?php include('./footer.php'); ?>
+    <!-- Footer End -->
 
+    <?php include('./cdn_script.php'); ?>
 </body>
-
-<script>
-  function validate_contact(input) {
-    const value = input.value;
-
-    if (value.length > 10) {
-      input.value = value.slice(0, 10);
-    }
-  }
-</script>
 
 </html>

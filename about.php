@@ -1,518 +1,1048 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zxx">
 
 <head>
-  <!-- Meta Options -->
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <!-- Title -->
-  <title>About</title>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="Awaiken">
+    <title>URFWS</title>
 
-  <!-- CDN Style -->
-  <?php include('./cdn_style.php'); ?>
-
+    <?php include('./cdn_style.php'); ?>
 </head>
 
 <body>
 
-  <!-- Header Style One Start -->
-  <?php include('./header.php'); ?>
+    <!-- Preloader Start -->
+    <?php include('./loader.php'); ?>
+    <!-- Preloader End -->
 
-  <!-- Banner Style One Start -->
-  <section class="banner-style-one">
-    <div class="parallax" style="background-image: url(assets/images/pattren-3.png);"></div>
-    <div class="container">
-      <div class="row">
-        <div class="banner-details">
-          <h2>About Us</h2>
-          <!-- <p>our values and vaulted us to the top of our industry.</p> -->
-        </div>
-      </div>
-    </div>
-    <div class="breadcrums">
-      <div class="container">
-        <div class="row">
-          <ul>
-            <li>
-              <a href="./index.php">
-                <i class="fa-solid fa-house"></i>
-                <p>Home</p>
-              </a>
-            </li>
-            <li class="current">
-              <p>About Us</p>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- Banner Style One End -->
-  <!-- About-First Start -->
-  <section class="gap about-first">
-    <div class="container">
-      <div class="row">
-        <h2>Technomerates - Different in Thinking Different in Making</h2>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="who-we-are">
-            <div>
-              <h3>Leadership & Expertise</h3>
-              <p><i class="fa-solid fa-caret-right"></i>&nbsp; Mr. Saravanan, the Founder & CEO, embodies the fusion of 
-                engineering, analytics, and entrepreneurship. He leads a team of professionals with elite educational 
-                backgrounds:</p>
-              <p><i class="fa-solid fa-caret-right"></i>&nbsp; Postgraduates in Construction Management from NICMAR</p>
-              <p><i class="fa-solid fa-caret-right"></i>&nbsp; Business Analysts from Great Lakes Institute of Management</p>
-              <p><i class="fa-solid fa-caret-right"></i>&nbsp; Business Intelligence Experts from University of Texas, Austin</p>
-              <p><i class="fa-solid fa-caret-right"></i>&nbsp; Design Thinkers from Massachusetts</p>
-              <p><i class="fa-solid fa-caret-right"></i>&nbsp; IIT-trained Structural Designers mentored by Prof. A. Mehar Prasad and Prof. Devdas Menon</p>
-              <p><i class="fa-solid fa-caret-right"></i>&nbsp; This intellectual blend gives Technomerates the ability to analyze complex 
-                projects, innovate solutions, and execute them with precision.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- About-First End -->
-  <!-- Counter Style One Start -->
-  <section class="gap no-top counter-style-one">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-4">
-          <div class="counter-data">
-            <div class="count">
-              <span class="odometer" data-count="12" data-status="yes">0</span><i>Projects</i>
-            </div>
-            <h4>Completed</h4>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="counter-data upper-space">
-            <div class="count">
-              <span class="odometer" data-count="15" data-status="yes">0</span><i>Projects</i>
-            </div>
-            <h4>Ongoing</h4>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="counter-data">
-            <div class="count">
-              <span class="odometer" data-count="12" data-status="yes">0</span><i>Locations</i>
-            </div>
-            <h4>Sites</h4>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- Counter Style One End -->
+    <!-- Header Start -->
+    <?php include('./navbar.php'); ?>
+    <!-- Header End -->
 
-  <!--About How It Works Start -->
-  <section class="gap about-how-it-works light-bg-color">
-    <div class="heading">
-      <figure>
-        <img src="assets/images/heading-icon.png" height="50px" alt="Heading Icon">
-      </figure>
-      <span>Our</span>
-      <h2>Commitments</h2>
-    </div>
-    <!-- <div class="container">
-      <figure style="position: relative; z-index: 9;">
-        <img class="w-100" src="https://via.placeholder.com/1300x460" alt="About How It Works">
-      </figure>
-    </div> -->
-    <div class="container">
-      <div class="row g-0">
-        <div class="col-lg-3 col-md-6 col-sm-12">
-          <div class="plans">
-            <div class="y-box d-flex-all">
-              1.
-            </div>
-            <h3>Safety</h3>
-            <p>We will never compromise the safety of our people and stakeholders.</p>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-6 col-sm-12">
-          <div class="plans">
-            <div class="y-box d-flex-all">
-              2.
-            </div>
-            <h3>Quality</h3>
-            <p>Our operational excellence instills quality principles that tangibly demonstrate success.</p>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-6 col-sm-12">
-          <div class="plans">
-            <div class="y-box d-flex-all">
-              3.
-            </div>
-            <h3>Focus</h3>
-            <p>We are clear in our approach. We are disciplined and thorough in how we work and deliver for our clients and customers.</p>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-6 col-sm-12">
-          <div class="plans">
-            <div class="y-box d-flex-all">
-              4.
-            </div>
-            <h3>Trust</h3>
-            <p> We deliver what we promise. We act safely and ethically and we care for the environment and communities we work in at all times.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!--About How It Works End -->
-
-  <!--About Key Benefits Start -->
-  <!-- <section class="gap about-key-benefits">
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-lg-6">
-          <div class="data">
-            <figure>
-              <img class="w-100" src="https://via.placeholder.com/580x640" alt="About key Benefits">
-            </figure>
-          </div>
-        </div>
-        <div class="col-lg-6">
-          <div class="data">
-            <h2>Key Benefits</h2>
-            <ul>
-              <li>
-                <i class="fa-solid fa-check"></i>
-                <p>Labor expenses are a common target for cost reduction measures in the construction industry</p>
-              </li>
-              <li>
-                <i class="fa-solid fa-check"></i>
-                <p> A good material management system includes proper communication, scheduling, and tracking tools.</p>
-              </li>
-              <li>
-                <i class="fa-solid fa-check"></i>
-                <p>Faster supplies can be used upon delivery to a construction site, the better.</p>
-              </li>
-              <li>
-                <i class="fa-solid fa-check"></i>
-                <p>Effective material management systems not only ensure that materials are in the right place</p>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section> -->
-  <!--About Key Benefits End -->
-
-  <!-- Team Style One Start -->
-  <!-- <section class="gap no-top team-style-one">
-    <div class="heading-style-2">
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-lg-6 col-md-8">
-            <div class="data">
-              <span>Our Skilled Team</span>
-              <h2>Meet The Expert Team</h2>
-            </div>
-          </div>
-          <div class="col-lg-6 col-md-4">
-            <div class="team-slider-nav">
-
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="team-slider owl-carousel">
-            <div class="team-data">
-              <div class="team-image">
-                <figure>
-                  <img src="https://via.placeholder.com/280x430" alt="team-3">
-                </figure>
-              </div>
-              <div class="team-info">
-                <h3>Harald Gindl, MBA</h3>
-                <p>Head Railway Construction</p>
-                <div class="team-social-media">
-                  <a class="fb icon" href="#">
-                    <i class="fa-brands fa-facebook-f"></i>
-                  </a>
-                  <a class="tw icon" href="#">
-                    <i class="fa-brands fa-twitter"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="team-data">
-              <div class="team-image">
-                <figure>
-                  <img src="https://via.placeholder.com/280x430" alt="team-1">
-                </figure>
-              </div>
-              <div class="team-info">
-                <h3>Edward Jeffrey</h3>
-                <p>Finance Department</p>
-                <div class="team-social-media">
-                  <a class="fb icon" href="#">
-                    <i class="fa-brands fa-facebook-f"></i>
-                  </a>
-                  <a class="tw icon" href="#">
-                    <i class="fa-brands fa-twitter"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="team-data">
-              <div class="team-image">
-                <figure>
-                  <img src="https://via.placeholder.com/280x430" alt="team-2">
-                </figure>
-              </div>
-              <div class="team-info">
-                <h3>Nicholas Larry</h3>
-                <p>Railway Manager</p>
-                <div class="team-social-media">
-                  <a class="fb icon" href="#">
-                    <i class="fa-brands fa-facebook-f"></i>
-                  </a>
-                  <a class="tw icon" href="#">
-                    <i class="fa-brands fa-twitter"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="team-data">
-              <div class="team-image">
-                <figure>
-                  <img src="https://via.placeholder.com/280x430" alt="team-3">
-                </figure>
-              </div>
-              <div class="team-info">
-                <h3>Stephen</h3>
-                <p>Creative Worker</p>
-                <div class="team-social-media">
-                  <a class="fb icon" href="#">
-                    <i class="fa-brands fa-facebook-f"></i>
-                  </a>
-                  <a class="tw icon" href="#">
-                    <i class="fa-brands fa-twitter"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="team-data">
-              <div class="team-image">
-                <figure>
-                  <img src="https://via.placeholder.com/280x430" alt="team-1">
-                </figure>
-              </div>
-              <div class="team-info">
-                <h3>Eric Scot</h3>
-                <p>Cheif Railway Construction</p>
-                <div class="team-social-media">
-                  <a class="fb icon" href="#">
-                    <i class="fa-brands fa-facebook-f"></i>
-                  </a>
-                  <a class="tw icon" href="#">
-                    <i class="fa-brands fa-twitter"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="team-data">
-              <div class="team-image">
-                <figure>
-                  <img src="https://via.placeholder.com/280x430" alt="team-2">
-                </figure>
-              </div>
-              <div class="team-info">
-                <h3>Alexander</h3>
-                <p>Head Railway Construction</p>
-                <div class="team-social-media">
-                  <a class="fb icon" href="#">
-                    <i class="fa-brands fa-facebook-f"></i>
-                  </a>
-                  <a class="tw icon" href="#">
-                    <i class="fa-brands fa-twitter"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="team-data">
-              <div class="team-image">
-                <figure>
-                  <img src="https://via.placeholder.com/280x430" alt="team-3">
-                </figure>
-              </div>
-              <div class="team-info">
-                <h3>Jose Tyler</h3>
-                <p>HR Department</p>
-                <div class="team-social-media">
-                  <a class="fb icon" href="#">
-                    <i class="fa-brands fa-facebook-f"></i>
-                  </a>
-                  <a class="tw icon" href="#">
-                    <i class="fa-brands fa-twitter"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="team-data">
-              <div class="team-image">
-                <figure>
-                  <img src="https://via.placeholder.com/280x430" alt="team-2">
-                </figure>
-              </div>
-              <div class="team-info">
-                <h3>Henry Vincent</h3>
-                <p>Construction Manager</p>
-                <div class="team-social-media">
-                  <a class="fb icon" href="#">
-                    <i class="fa-brands fa-facebook-f"></i>
-                  </a>
-                  <a class="tw icon" href="#">
-                    <i class="fa-brands fa-twitter"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section> -->
-  <!-- Team Style One End -->
-
-  <!-- Renovation Start -->
-  <section class="gap renovation py-5">
-    <div class="parallax"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="reno-data">
-          <h3 class="mb-3">Our Strengths</h3>
-            <p style="font-size: 12px; width: 70%;">
-              Executed super structure of G+10 floors - 6600sqm in 21 days - Deshuttered formwork for the slabs @ 12hrs,
-              achieved pour cycle time of 24hrs with key significant technique improvements viz casting of starters of
-              walls along with slabs, early deshuttering using high early strength concrete thereby increasing the
-              repetition of the formwork and lower capital cost on formwork.
-              Deshuttered formwork for the slabs @ 12hrs and achieved pour cycle time of 24hrs.
-              Established formwork system with formwork pressure of 65kg/sqm - without intermediate tie rods for a
-              column size of 1.2X1.2m.
-              Hotshot in designing concrete mixes - Designed more than 600 concrete mixes out of which few includes
-              usage of advanced chemical admixtures viz poly carbo oxylic ether base and mineral admixtures viz micro
-              silica, fly ash.
-              Having hands-on up to M60 grade Self Compacting Concrete- Whiz in optimizing the cement content in
-              concrete.
-              Established CLC block manufacturing unit and manufactured 30lakh bricks in a period of one year.
-              Established Formwork system - Designed & built - To pour column and slab on single go - Formwork area - 9
-              lakh sqft.
-              Conversant in Formwork Technologies - Which includes Tunnel form, Aluminum Form work, Table form, Gang
-              form, Plastic Form, Jump form. Also have designed and manufactured formwork for more than 200000sqft which
-              includes Tunnel form fabrication with ply wood, Gang form and Table form to cater a requirement of 167
-              lakhs sqft formwork area.
-            </p>
-            <!-- <div class="bbtn">
-              <figure>
-                <img class="w-auto circle-layer" src="assets/images/circle-text.png" alt="Circle Text">
-              </figure>
-              <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#exampleModal"><i
-                  class="fa-solid fa-arrow-up-long"></i></a>
-            </div> -->
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- Renovation End -->
-
-  <!-- Footer Style One Start -->
-  <?php include('./footer.php'); ?>
-
-  <button id="scrollTop" class="scrollTopStick">
-    <i class="fa-solid fa-arrow-up"></i>
-  </button>
-  
-  <!-- Modal -->
-  <div class="modal fade popups est-popup" id="exampleModal" tabindex="-1" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered">
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-          <div class="estimated-price popup">
-            <div class="est-form">
-              <h3>Estimatied Price</h3>
-              <p>To get the cost estimation of your house please select from the following:</p>
-              <form>
-                <div class="row">
-                  <div class="form-group col-md-12">
-                    <label for="inputState-1">House Area</label>
-                    <select id="inputState-1" class="form-control">
-                      <option selected>Choose Area</option>
-                      <option>...</option>
-                    </select>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="form-group col-md-6 space">
-                    <label for="inputState-2">Room</label>
-                    <select id="inputState-2" class="form-control">
-                      <option selected>Select Room</option>
-                      <option>...</option>
-                    </select>
-                  </div>
-                  <div class="form-group col-md-6">
-                    <label for="inputState-3">Bathroom</label>
-                    <div class="gg">
-                      <select id="inputState-3" class="form-control">
-                        <option selected>Select Bathroom</option>
-                        <option>...</option>
-                      </select>
+    <!-- Page Header Start -->
+    <div class="page-header parallaxie">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <!-- Page Header Box Start -->
+                    <div class="page-header-box">
+                        <h1 class="text-anime-style-2" data-cursor="-opaque">About us</h1>
+                        <nav class="wow fadeInUp">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a href="./">home</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">about us</li>
+                            </ol>
+                        </nav>
                     </div>
-                  </div>
+                    <!-- Page Header Box End -->
                 </div>
-                <div class="row checkk g-0">
-                  <p>Building Materials</p>
-                  <div class="form-group col-md-6">
-                    <div class="custom-control custom-radio">
-                      <input checked type="radio" id="customRadio1" name="customRadio" class="custom-control-input">
-                      <label class="custom-control-label" for="customRadio1">A+ Grey Structure</label>
-                    </div>
-                  </div>
-                  <div class="form-group col-md-6">
-                    <div class="custom-control custom-radio">
-                      <input type="radio" id="customRadio2" name="customRadio" class="custom-control-input">
-                      <label class="custom-control-label" for="customRadio2">Premium Finishing</label>
-                    </div>
-                  </div>
-                </div>
-                <div class="est-main">
-                  <p>A+ House Construction Tentative Amount</p>
-                  <div class="est-price">
-                    <p>Estimated Price:</p>
-                    <span class="price">$ 80000</span>
-                  </div>
-                </div>
-              </form>
             </div>
-          </div>
         </div>
-      </div>
     </div>
-  </div>
+    <!-- Page Header End -->
 
-  <!-- CDN Script -->
-  <?php include('./cdn_script.php'); ?>
+    <!-- About Us Section Start -->
+    <div class="about-us page-about-us">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <!-- About Us Images Start -->
+                    <div class="about-us-images">
+                        <!-- About Image 1 Start -->
+                        <div class="about-img-1">
+                            <figure class="image-anime reveal">
+                                <img src="images/about-img-1.jpg" alt="">
+                            </figure>
+                        </div>
+                        <!-- About Image 1 End -->
 
+                        <!-- About Image 2 Start -->
+                        <div class="about-img-2">
+                            <figure class="image-anime reveal">
+                                <img src="images/about-img-2.jpg" alt="">
+                            </figure>
+
+                            <!-- Feedback Counter Start -->
+                            <div class="experience-counter">
+                                <h3><span class="counter">15</span>+</h3>
+                                <p>Years of experience</p>
+                            </div>
+                            <!-- Feedback Counter End -->
+                        </div>
+                        <!-- About Image 2 End -->
+
+                        <!-- Feedback Counter Start -->
+                        <div class="feedback-counter">
+                            <p><span class="counter">95</span>%</p>
+                            <h3>positive feedback</h3>
+                        </div>
+                        <!-- Feedback Counter End -->
+                    </div>
+                    <!-- About Us Images End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- About Us Content Start -->
+                    <div class="about-us-content">
+                        <!-- Section Title Start -->
+                        <div class="section-title">
+                            <h3 class="wow fadeInUp">about us</h3>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Global hub for used and refurbished
+                                aluminium formwork solutions.</span>
+                            </h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.2s">We don’t just sell used formwork — We
+                                redesign, Reengineer, and Refurbish each system to perfectly fit your building
+                                requirements, ensuring precision, durability, and affordability.</p>
+                        </div>
+                        <!-- Section Title End -->
+
+                        <!-- About Us Content Body Start -->
+                        <div class="about-us-content-body">
+                            <!-- About Content Info Start -->
+                            <div class="about-us-content-info">
+                                <!-- About Us Content List Start -->
+                                <div class="about-us-content-list wow fadeInUp" data-wow-delay="0.4s">
+                                    <ul>
+                                        <li>Precision. Reengineer. Reshape.</li>
+                                        <li>Robotic Friction Welding</li>
+                                    </ul>
+                                </div>
+                                <!-- About Us Content List End -->
+
+                                <!-- About Us Content Button Start -->
+                                <div class="about-us-content-btn wow fadeInUp" data-wow-delay="0.6s">
+                                    <a href="about.php" class="btn-default">read more</a>
+                                </div>
+                                <!-- About Us Content Button End -->
+                            </div>
+                            <!-- About Content Info End -->
+                            <div class="about-us-content-info">
+                                <!-- About Us Content List Start -->
+                                <div class="about-us-content-list wow fadeInUp" data-wow-delay="0.4s">
+                                    <ul>
+                                        <li>T6061 Extrusion Treatment</li>
+                                        <li>Fitment & Reuse Testing</li>
+                                    </ul>
+                                </div>
+                                <!-- About Us Content List End -->
+                            </div>
+                            <!-- About Content Info End -->
+                        </div>
+                        <!-- About Us Content Body End -->
+                    </div>
+                    <!-- About Us Content End -->
+                </div>
+
+                <div class="col-lg-12">
+                    <!-- About Facility List Start -->
+                    <div class="about-facility-list">
+                        <!-- About Facility Item Start -->
+                        <div class="about-facility-item wow fadeInUp">
+                            <div class="icon-box">
+                                <img src="images/icon-about-facility-1.svg" alt="">
+                            </div>
+
+                            <div class="about-facility-content">
+                                <h3>Affordable Excellence</h3>
+                                <p>High-performance aluminium formwork at ₹100/sqm effective cost.</p>
+                            </div>
+                        </div>
+                        <!-- About Facility Item End -->
+
+                        <!-- About Facility Item Start -->
+                        <div class="about-facility-item wow fadeInUp" data-wow-delay="0.2s">
+                            <div class="icon-box">
+                                <img src="images/icon-about-facility-2.svg" alt="">
+                            </div>
+
+                            <div class="about-facility-content">
+                                <h3>Engineered Precision</h3>
+                                <p>Custom-designed, tested, and re-engineered for your project.</p>
+                            </div>
+                        </div>
+                        <!-- About Facility Item End -->
+
+                        <!-- About Facility Item Start -->
+                        <div class="about-facility-item wow fadeInUp" data-wow-delay="0.4s">
+                            <div class="icon-box">
+                                <img src="images/icon-about-facility-2.svg" alt="">
+                            </div>
+
+                            <div class="about-facility-content">
+                                <h3>Expert Team</h3>
+                                <p>Powered by IIT & NICMAR professionals delivering turnkey solutions.</p>
+                            </div>
+                        </div>
+                        <!-- About Facility Item End -->
+                    </div>
+                    <!-- About Facility List End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About Us Section End -->
+
+    <!-- Vision Mission Start -->
+    <div class="vision-mission">
+        <div class="container">
+            <div class="row section-row align-items-center">
+                <div class="col-lg-6">
+                    <!-- Section Title Start -->
+                    <div class="section-title dark-section">
+                        <h3 class="wow fadeInUp">vision mission</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Building Smarter. Stronger.
+                            Sustainable.</span></h2>
+                    </div>
+                    <!-- Section Title End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- Section Title Content Start -->
+                    <div class="section-title-content dark-section">
+                        <p class="wow fadeInUp" data-wow-delay="0.2s">Redefining Aluminium Formwork — Turning Used into
+                            Useful.</p>
+                    </div>
+                    <!-- Section Title Content End -->
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <!-- Vision Mission Box Start -->
+                    <div class="vision-mission-box">
+                        <!-- Vision Mission Item Start -->
+                        <div class="vision-mission-item wow fadeInUp">
+                            <div class="icon-box">
+                                <img src="images/icon-our-vision.svg" alt="">
+                            </div>
+                            <div class="vision-mission-content">
+                                <h3>our vision</h3>
+                                <p>Our vision is to revolutionize construction by making premium aluminium formwork
+                                    technology accessible, affordable, and sustainable for every builder. Through
+                                    innovation, refurbishment, and responsible engineering, we empower the industry to
+                                    build smarter, faster, and greener — transforming traditional practices into
+                                    future-ready, cost-efficient, and environmentally responsible construction
+                                    solutions.</p>
+                            </div>
+                        </div>
+                        <!-- Vision Mission Item End -->
+
+                        <!-- Vision Mission Item Start -->
+                        <div class="vision-mission-item wow fadeInUp" data-wow-delay="0.2s">
+                            <div class="icon-box">
+                                <img src="images/icon-our-mission.svg" alt="">
+                            </div>
+                            <div class="vision-mission-content">
+                                <h3>our mission</h3>
+                                <p>Our mission is to deliver turnkey aluminium formwork solutions that seamlessly blend
+                                    engineering precision, cost efficiency, and sustainability. By refurbishing,
+                                    redesigning, and reimagining each system, we provide builders with customized,
+                                    high-performance, and eco-conscious solutions tailored to every project’s unique
+                                    structural, financial, and environmental requirements — driving smarter, sustainable
+                                    construction forward.</p>
+                            </div>
+                        </div>
+                        <!-- Vision Mission Item End -->
+                    </div>
+                    <!-- Vision Mission Box End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Vision Mission End -->
+
+    <!-- Best Selling Start -->
+    <div class="best-selling">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <!-- Best Seeling Content Start -->
+                    <div class="best-selling-content">
+                        <!-- Best Seeling Content Image Start -->
+                        <!-- <div class="best-selling-content-img">
+                            <figure class="image-anime reveal">
+                                <img src="images/best-selling-img-1.jpg" alt="">
+                            </figure>
+                        </div> -->
+                        <!-- Best Seeling Content Image End -->
+
+                        <!-- Section Title Start -->
+                        <div class="section-title">
+                            <h3 class="wow fadeInUp">Best Quality, Trusted Sourcing</h3>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">We use materials only from personally
+                                verified and certified suppliers.</span>
+                            </h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.2s">At URFW by Technomerates, every refurbished
+                                aluminium formwork system begins with verified, traceable, and quality-assured
+                                materials. We source only from personally audited suppliers and extrusion partners,
+                                ensuring each component meets international structural and metallurgical standards.</p>
+                            <p class="wow fadeInUp" data-wow-delay="0.2s">We believe sustainability is strength. By
+                                reusing, reprocessing, and re-engineering aluminium formwork, we reduce carbon
+                                footprint, material waste, and energy use — creating a circular economy model for the
+                                construction industry.</p>
+                            <p class="wow fadeInUp" data-wow-delay="0.2s">From the source of the extrusion to the final
+                                panel delivery, URFW maintains a 100% transparent material tracking process. Each batch
+                                is digitally logged and RFID-tagged, allowing complete traceability for project audits
+                                and quality assurance.</p>
+                        </div>
+                        <!-- Section Title End -->
+                    </div>
+                    <!-- Best Seeling Content End -->
+                </div>
+                <div class="col-lg-6">
+                    <!-- Best Seeling Image Start -->
+                    <div class="best-selling-iamge">
+                        <figure class="image-anime reveal">
+                            <img src="images/best-selling-img-2.jpg" alt="">
+                        </figure>
+                    </div>
+                    <!-- Best Seeling Image End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Best Selling End -->
+
+    <!-- Our Testimonial Start -->
+    <div class="our-testimonials">
+        <div class="container-fluid">
+            <div class="row no-gutters">
+                <div class="col-lg-6">
+                    <!-- Our Testimonial Image Start -->
+                    <div class="our-testimonials-image">
+                        <figure class="image-anime">
+                            <img src="./images/testimonial-img.jpg" alt="">
+                        </figure>
+                    </div>
+                    <!-- Our Testimonial Image End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- Our Testimonial Content Start -->
+                    <div class="our-testimonial-content">
+                        <!-- Section Title Start -->
+                        <div class="section-title">
+                            <h3 class="wow fadeInUp">client testimonials</h3>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Trusted by India’s Leading Developers &
+                                Builders</span></h2>
+                        </div>
+                        <!-- Section Title End -->
+
+                        <!-- Testimonial Slider Start -->
+                        <div class="testimonial-slider">
+                            <div class="swiper">
+                                <div class="swiper-wrapper" data-cursor-text="Drag">
+                                    <!-- Testimonial Slide Start -->
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-item">
+                                            <div class="testimonial-rating">
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                            </div>
+                                            <div class="testimonial-body">
+                                                <div class="testimonial-content">
+                                                    <p>URFW by Technomerates transformed the way we plan and execute our
+                                                        formwork. Their refurbished systems performed like new —
+                                                        precise, durable, and cost-effective. The turnkey service
+                                                        simplified everything from design to delivery.</p>
+                                                </div>
+                                            </div>
+                                            <div class="testimonial-body">
+                                                <!-- <div class="author-image">
+                                                    <figure class="image-anime">
+                                                        <img src="images/author-1.jpg" alt="">
+                                                    </figure>
+                                                </div> -->
+                                                <div class="author-content">
+                                                    <h3>Shapoorji Pallonji Real Estate (SPRE)</h3>
+                                                    <p>Mumbai</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Testimonial Slide End -->
+
+                                    <!-- Testimonial Slide Start -->
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-item">
+                                            <div class="testimonial-rating">
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                            </div>
+                                            <div class="testimonial-content">
+                                                <p>For our Bengaluru projects, URFW delivered re-engineered formwork
+                                                    that perfectly matched our layout and repetition requirements. The
+                                                    material quality, alignment, and service standards were exceptional.
+                                                </p>
+                                            </div>
+                                            <div class="testimonial-body">
+                                                <!-- <div class="author-image">
+                                                    <figure class="image-anime">
+                                                        <img src="images/author-1.jpg" alt="">
+                                                    </figure>
+                                                </div> -->
+                                                <div class="author-content">
+                                                    <h3>Sobha Developers</h3>
+                                                    <p>Bengaluru</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Testimonial Slide End -->
+
+                                    <!-- Testimonial Slide Start -->
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-item">
+                                            <div class="testimonial-rating">
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                            </div>
+                                            <div class="testimonial-content">
+                                                <p>The affordability and flexibility URFW offers have made aluminium
+                                                    formwork accessible for mid-size developers like us. The refurbished
+                                                    panels arrived ready to use, saving us both time and cost.</p>
+                                            </div>
+                                            <div class="testimonial-body">
+                                                <!-- <div class="author-image">
+                                                    <figure class="image-anime">
+                                                        <img src="images/author-1.jpg" alt="">
+                                                    </figure>
+                                                </div> -->
+                                                <div class="author-content">
+                                                    <h3>Urbanac Developers</h3>
+                                                    <p>Bengaluru</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Testimonial Slide End -->
+
+                                    <!-- Testimonial Slide Start -->
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-item">
+                                            <div class="testimonial-rating">
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                            </div>
+                                            <div class="testimonial-content">
+                                                <p>URFW’s ability to customize used formwork to suit project-specific
+                                                    needs is unmatched. Their buyback and trade-in options give great
+                                                    value for future projects too.</p>
+                                            </div>
+                                            <div class="testimonial-body">
+                                                <!-- <div class="author-image">
+                                                    <figure class="image-anime">
+                                                        <img src="images/author-1.jpg" alt="">
+                                                    </figure>
+                                                </div> -->
+                                                <div class="author-content">
+                                                    <h3>KSV Infra</h3>
+                                                    <p>Bengaluru</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Testimonial Slide End -->
+
+                                    <!-- Testimonial Slide Start -->
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-item">
+                                            <div class="testimonial-rating">
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                                <i class="fa-solid fa-star"></i>
+                                            </div>
+                                            <div class="testimonial-content">
+                                                <p>We were impressed with the precision and finishing of the refurbished
+                                                    formwork supplied by URFW. The system integrated smoothly into our
+                                                    project schedule, ensuring efficiency and timely completion.</p>
+                                            </div>
+                                            <div class="testimonial-body">
+                                                <!-- <div class="author-image">
+                                                    <figure class="image-anime">
+                                                        <img src="images/author-1.jpg" alt="">
+                                                    </figure>
+                                                </div> -->
+                                                <div class="author-content">
+                                                    <h3>Maverick Developers</h3>
+                                                    <p>Hubli</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Testimonial Slide End -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Testimonial Slider End -->
+
+                        <!-- Testimonial Rating Counter Start -->
+                        <div class="testimonial-rating-counter">
+                            <div class="rating-counter">
+                                <h2><span class="counter">4.82</span></h2>
+                            </div>
+                            <div class="testimonial-rating-content">
+                                <div class="testimonial-client-rating">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                </div>
+                                <p>2,488 reviews</p>
+                            </div>
+                        </div>
+                        <!-- Testimonial Rating Counter End -->
+                    </div>
+                    <!-- Our Testimonial Content End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Our Testimonial End -->
+
+    <!-- Our Team Section Start -->
+    <div class="our-team">
+        <div class="container">
+            <div class="row section-row align-items-center">
+                <div class="col-lg-5">
+                    <!-- Section Title Start -->
+                    <div class="section-title">
+                        <h3 class="wow fadeInUp">meet our team</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Creative minds always <span>think
+                                something</span></h2>
+                    </div>
+                    <!-- Section Title End -->
+                </div>
+
+                <div class="col-lg-7">
+                    <!-- Section Title Content Start -->
+                    <div class="section-title-content">
+                        <p class="wow fadeInUp" data-wow-delay="0.2s">We offer a range of bespoke interior design
+                            services tailored to your unique needs. From concept development to final installation.</p>
+                    </div>
+                    <!-- Section Title Content End -->
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <!-- Team Member Item Start -->
+                    <div class="team-member-item wow fadeInUp">
+                        <!-- Team Image Start -->
+                        <div class="team-image">
+                            <a href="team-single.php" data-cursor-text="View">
+                                <figure class="image-anime">
+                                    <img src="images/team-1.jpg" alt="">
+                                </figure>
+                            </a>
+
+                            <!-- Team Readmore Button Start -->
+                            <div class="team-readmore-btn">
+                                <a href="#"><img src="images/arrow-white.svg" alt=""></a>
+                            </div>
+                            <!-- Team Readmore Button End -->
+                        </div>
+                        <!-- Team Image End -->
+
+                        <!-- Team Body Start -->
+                        <div class="team-body">
+                            <!-- Team Content Start -->
+                            <div class="team-content">
+                                <h3>harry R. blackston</h3>
+                                <p>co-founder & CEO</p>
+                            </div>
+                            <!-- Team Content End -->
+
+                            <!-- Team Social List Start -->
+                            <div class="team-social-list">
+                                <!-- Team Social Icon Start -->
+                                <div class="team-social-icon">
+                                    <ul>
+                                        <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                        <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    </ul>
+                                </div>
+                                <!-- Team Social Icon End -->
+                            </div>
+                            <!-- Team Social List End -->
+                        </div>
+                        <!-- Team Body End -->
+                    </div>
+                    <!-- Team Member Item Start -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Team Member Item Start -->
+                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.2s">
+                        <!-- Team Image Start -->
+                        <div class="team-image">
+                            <a href="team-single.php" data-cursor-text="View">
+                                <figure class="image-anime">
+                                    <img src="images/team-2.jpg" alt="">
+                                </figure>
+                            </a>
+
+                            <!-- Team Readmore Button Start -->
+                            <div class="team-readmore-btn">
+                                <a href="#"><img src="images/arrow-white.svg" alt=""></a>
+                            </div>
+                            <!-- Team Readmore Button End -->
+                        </div>
+                        <!-- Team Image End -->
+
+                        <!-- Team Body Start -->
+                        <div class="team-body">
+                            <!-- Team Content Start -->
+                            <div class="team-content">
+                                <h3>alexa brook</h3>
+                                <p>human resoures manager</p>
+                            </div>
+                            <!-- Team Content End -->
+
+                            <!-- Team Social List Start -->
+                            <div class="team-social-list">
+                                <!-- Team Social Icon Start -->
+                                <div class="team-social-icon">
+                                    <ul>
+                                        <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                        <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    </ul>
+                                </div>
+                                <!-- Team Social Icon End -->
+                            </div>
+                            <!-- Team Social List End -->
+                        </div>
+                        <!-- Team Body End -->
+                    </div>
+                    <!-- Team Member Item Start -->
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <!-- Team Member Item Start -->
+                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.4s">
+                        <!-- Team Image Start -->
+                        <div class="team-image">
+                            <a href="team-single.php" data-cursor-text="View">
+                                <figure class="image-anime">
+                                    <img src="images/team-3.jpg" alt="">
+                                </figure>
+                            </a>
+
+                            <!-- Team Readmore Button Start -->
+                            <div class="team-readmore-btn">
+                                <a href="#"><img src="images/arrow-white.svg" alt=""></a>
+                            </div>
+                            <!-- Team Readmore Button End -->
+                        </div>
+                        <!-- Team Image End -->
+
+                        <!-- Team Body Start -->
+                        <div class="team-body">
+                            <!-- Team Content Start -->
+                            <div class="team-content">
+                                <h3>suzen hilly</h3>
+                                <p>civil engineering</p>
+                            </div>
+                            <!-- Team Content End -->
+
+                            <!-- Team Social List Start -->
+                            <div class="team-social-list">
+                                <!-- Team Social Icon Start -->
+                                <div class="team-social-icon">
+                                    <ul>
+                                        <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                        <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    </ul>
+                                </div>
+                                <!-- Team Social Icon End -->
+                            </div>
+                            <!-- Team Social List End -->
+                        </div>
+                        <!-- Team Body End -->
+                    </div>
+                    <!-- Team Member Item Start -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Our Team Section End -->
+
+    <!-- How We Work Start -->
+    <div class="how-we-work">
+        <div class="container">
+            <div class="row section-row align-items-center">
+                <div class="col-lg-6">
+                    <!-- Section Title Start -->
+                    <div class="section-title dark-section">
+                        <h3 class="wow fadeInUp">how we work</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">From Concept to Completion — Simplifying
+                            Formwork the Smart Way</span></h2>
+                    </div>
+                    <!-- Section Title End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- Section Title Content Start -->
+                    <div class="section-title-content dark-section">
+                        <p class="wow fadeInUp" data-wow-delay="0.2s">Our comprehensive turnkey approach guides every
+                            client through each stage of the process — from design conceptualization and refurbishment
+                            planning to project delivery and after-service support. Every step is engineered for
+                            efficiency, precision, and value creation.</p>
+                    </div>
+                    <!-- Section Title Content End -->
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <!-- How We Work List Start -->
+                    <div class="how-we-work-list">
+                        <!-- How We Item Start -->
+                        <div class="how-we-work-item wow fadeInUp">
+                            <div class="icon-box">
+                                <img src="images/icon-how-we-work-1.svg" alt="">
+                            </div>
+                            <div class="how-we-work-content">
+                                <h3>01. Project Consultation & Assessment</h3>
+                                <p>We analyze your project to recommend Buy, Rent, or Trade-In.</p>
+                            </div>
+                        </div>
+                        <!-- How We Item End -->
+
+                        <!-- How We Item Start -->
+                        <div class="how-we-work-item wow fadeInUp" data-wow-delay="0.2s">
+                            <div class="icon-box">
+                                <img src="images/icon-how-we-work-2.svg" alt="">
+                            </div>
+                            <div class="how-we-work-content">
+                                <h3>02. Design & Engineering Planning</h3>
+                                <p>We design optimized formwork layouts ensuring reuse, safety, and efficiency.</p>
+                            </div>
+                        </div>
+                        <!-- How We Item End -->
+
+                        <!-- How We Item Start -->
+                        <div class="how-we-work-item wow fadeInUp" data-wow-delay="0.4s">
+                            <div class="icon-box">
+                                <img src="images/icon-how-we-work-3.svg" alt="">
+                            </div>
+                            <div class="how-we-work-content">
+                                <h3>03. Refurbishment & Reprocessing</h3>
+                                <p>Precision refurbishment ensures quality, strength, and like-new performance.</p>
+                            </div>
+                        </div>
+                        <!-- How We Item End -->
+
+                        <!-- How We Item Start -->
+                        <div class="how-we-work-item wow fadeInUp" data-wow-delay="0.6s">
+                            <div class="icon-box">
+                                <img src="images/icon-how-we-work-4.svg" alt="">
+                            </div>
+                            <div class="how-we-work-content">
+                                <h3>04. Project Dispatch & Execution Support</h3>
+                                <p>Delivered with support, RFID tracking, and sustainable Buyback options.</p>
+                            </div>
+                        </div>
+                        <!-- How We Item End -->
+                    </div>
+                    <!-- How We Work List End -->
+
+                    <!-- How Work Company Slider Start -->
+                    <?php /* <div class="how-work-company-slider">
+<div class="swiper">
+<div class="swiper-wrapper">
+<!-- Company Support Logo Start -->
+<div class="swiper-slide">
+<div class="company-logo">
+<img src="images/company-logo-1.svg" alt="">
+</div>
+</div>
+<!-- Company Support Logo End -->
+
+<!-- Company Support Logo Start -->
+<div class="swiper-slide">
+<div class="company-logo">
+<img src="images/company-logo-2.svg" alt="">
+</div>
+</div>
+<!-- Company Support Logo End -->
+
+<!-- Company Support Logo Start -->
+<div class="swiper-slide">
+<div class="company-logo">
+<img src="images/company-logo-3.svg" alt="">
+</div>
+</div>
+<!-- Company Support Logo End -->
+
+<!-- Company Support Logo Start -->
+<div class="swiper-slide">
+<div class="company-logo">
+<img src="images/company-logo-4.svg" alt="">
+</div>
+</div>
+<!-- Company Support Logo End -->
+
+<!-- Company Support Logo Start -->
+<div class="swiper-slide">
+<div class="company-logo">
+<img src="images/company-logo-5.svg" alt="">
+</div>
+</div>
+<!-- Company Support Logo End -->
+
+<!-- Company Support Logo Start -->
+<div class="swiper-slide">
+<div class="company-logo">
+<img src="images/company-logo-1.svg" alt="">
+</div>
+</div>
+<!-- Company Support Logo End -->
+</div>
+</div>
+</div> */ ?>
+                    <!-- How Work Company Slider End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- How We Work End -->
+
+    <!-- Our Faqs Stat -->
+    <div class="our-faqs">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-7">
+                    <!-- Our Faq Content Start -->
+                    <div class="our-faqs-content">
+                        <!-- Section Title Start -->
+                        <div class="section-title">
+                            <h3 class="wow fadeInUp">asked question</h3>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Have your any question look <span>here now</span></h2>
+                        </div>
+                        <!-- Section Title End -->
+
+                        <!-- FAQ Accordion Start -->
+                        <div class="faq-accordion" id="accordion">
+                            <!-- FAQ Item Start -->
+                            <div class="accordion-item wow fadeInUp">
+                                <h2 class="accordion-header" id="heading1">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                                        <span>1.</span> What is URFW by Technomerates?
+                                    </button>
+                                </h2>
+                                <div id="collapse1" class="accordion-collapse collapse" aria-labelledby="heading1"
+                                    data-bs-parent="#accordion">
+                                    <div class="accordion-body">
+                                        <p>URFW (Used Refurbished FormWork) by Technomerates is the world’s first
+                                            dedicated platform for buying, renting, refurbishing, and trading aluminium
+                                            formwork systems. We provide a complete turnkey solution — from buying used
+                                            panels to redesigning, refurbishing, and re-delivering them for your
+                                            building project.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ Item End -->
+
+                            <!-- FAQ Item Start -->
+                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
+                                <h2 class="accordion-header" id="heading2">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                                        <span>2.</span> What does “turnkey solution” mean in formwork?
+                                    </button>
+                                </h2>
+                                <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2"
+                                    data-bs-parent="#accordion">
+                                    <div class="accordion-body">
+                                        <p>A turnkey solution means URFW handles everything — sourcing, designing,
+                                            refurbishing, modifying, testing, and delivering formwork tailored to your
+                                            project. You receive ready-to-install formwork customized to your drawings
+                                            without needing multiple vendors.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ Item End -->
+
+                            <!-- FAQ Item Start -->
+                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
+                                <h2 class="accordion-header" id="heading3">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                                        <span>3.</span> What makes URFW different from other formwork suppliers?
+                                    </button>
+                                </h2>
+                                <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3"
+                                    data-bs-parent="#accordion">
+                                    <div class="accordion-body">
+                                        <p>Unlike typical suppliers, URFW doesn’t just resell used formwork — we
+                                            engineer, refurbish, and customize it to suit your structure. We’re the only
+                                            company in India offering a single-window solution with design,
+                                            reprocessing, and buyback support.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ Item End -->
+
+                            <!-- FAQ Item Start -->
+                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
+                                <h2 class="accordion-header" id="heading4">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                                        <span>4.</span> What is the cost difference between new and refurbished
+                                        aluminium formwork?
+                                    </button>
+                                </h2>
+                                <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4"
+                                    data-bs-parent="#accordion">
+                                    <div class="accordion-body">
+                                        <p>New aluminium formwork typically costs ₹10,500/sqm, whereas URFW refurbished
+                                            systems start at ₹7,500/sqm — offering up to 40% savings. That brings your
+                                            effective formwork cost in construction to just ₹100/sqm.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ Item End -->
+
+                            <!-- FAQ Item Start -->
+                            <div class="accordion-item wow fadeInUp" data-wow-delay="0.8s">
+                                <h2 class="accordion-header" id="heading5">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                                        <span>5.</span> Is refurbished aluminium formwork as strong as new?
+                                    </button>
+                                </h2>
+                                <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5"
+                                    data-bs-parent="#accordion">
+                                    <div class="accordion-body">
+                                        <p>Absolutely. Each URFW system undergoes load testing, fitment validation, and
+                                            material integrity checks to ensure it delivers new-like strength,
+                                            durability, and precision.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- FAQ Item End -->
+                        </div>
+                        <!-- FAQ Accordion End -->
+                    </div>
+                    <!-- Our Faq Content End -->
+                </div>
+
+                <div class="col-lg-5">
+                    <!-- Our Faq Image Start -->
+                    <div class="our-faqs-image">
+                        <figure class="image-anime reveal">
+                            <img src="images/faqs-image.jpg" alt="">
+                        </figure>
+                    </div>
+                    <!-- Our Faq Image End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Our Faqs End -->
+
+    <!-- Our Clients Start -->
+    <div class="our-clients">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="our-clients-box">
+                        <!-- Section Title Start -->
+                        <div class="section-title">
+                            <h3 class="wow fadeInUp">our clients</h3>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">India’s Only Turnkey Used Aluminium
+                                Formwork Provider</h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.2s">URFW by Technomerates is India’s first and
+                                only single-window solution for used aluminium formwork — offering a complete turnkey
+                                service that includes buying, redesigning, refurbishing, renting, and buyback. One
+                                Platform. Total Formwork Solution.</p>
+                        </div>
+                        <!-- Section Title End -->
+
+                        <!-- Client Logo Slider Start -->
+                        <?php /* <div class="our-client-slider">
+<div class="swiper">
+<div class="swiper-wrapper">
+<!-- Client Logo Start -->
+<div class="swiper-slide">
+<div class="client-logo">
+<img src="images/client-logo-1.svg" alt="">
+</div>
+</div>
+<!-- Client Logo End -->
+
+<!-- Client Logo Start -->
+<div class="swiper-slide">
+<div class="client-logo">
+<img src="images/client-logo-2.svg" alt="">
+</div>
+</div>
+<!-- Client Logo End -->
+
+<!-- Client Logo Start -->
+<div class="swiper-slide">
+<div class="client-logo">
+<img src="images/client-logo-3.svg" alt="">
+</div>
+</div>
+<!-- Client Logo End -->
+
+<!-- Client Logo Start -->
+<div class="swiper-slide">
+<div class="client-logo">
+<img src="images/client-logo-4.svg" alt="">
+</div>
+</div>
+<!-- Client Logo End -->
+
+<!-- Client Logo Start -->
+<div class="swiper-slide">
+<div class="client-logo">
+<img src="images/client-logo-1.svg" alt="">
+</div>
+</div>
+<!-- Client Logo End -->
+</div>
+</div>
+</div> */ ?>
+                        <!-- Client Logo Slider End -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Our Clients End -->
+
+    <!-- Footer Start -->
+    <?php include('./footer.php'); ?>
+    <!-- Footer End -->
+
+    <?php include('./cdn_script.php'); ?>
 </body>
 
 </html>
