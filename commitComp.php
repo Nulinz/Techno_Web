@@ -6,7 +6,7 @@
                 <!-- Section Title Start -->
                 <div class="section-title dark-section">
                     <h3 class="wow fadeInUp">Our Commitment</h3>
-                    <h2 class="text-anime-style-2" data-cursor="-opaque">Committed to Excellence Always</span></h2>
+                    <h2 class="text-anime-style-2" data-cursor="-opaque">Committed to <span>Excellence Always</span></h2>
                 </div>
                 <!-- Section Title End -->
             </div>

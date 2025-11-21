@@ -8,7 +8,7 @@
                     <!-- Section Title Start -->
                     <div class="section-title">
                         <h3 class="wow fadeInUp">Core Features</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">What Makes Us Different</span></h2>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">What Makes Us <span>Different</span></h2>
                     </div>
                     <!-- Section Title End -->
 

@@ -140,13 +140,16 @@
                 <div class="col-lg-12">
                     <!-- Page Header Box Start -->
                     <div class="page-header-box">
-                        <h1 class="text-anime-style-2" data-cursor="-opaque">Our Projects</h1>
+                        <h1 class="text-anime-style-2" data-cursor="-opaque">Our <span>Projects</span></h1>
                         <nav class="wow fadeInUp">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="./">home</a></li>
                                 <li class="breadcrumb-item active" aria-current="page">our projects</li>
                             </ol>
                         </nav>
+                        <div class="hero-btn wow fadeInUp mt-4" data-wow-delay="0.4s">
+                            <a href="./structural.php" class="btn-default btn-highlighted">Structural Projects</a>
+                        </div>
                     </div>
                     <!-- Page Header Box End -->
                 </div>

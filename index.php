@@ -46,7 +46,14 @@
     <!-- Header End -->
 
     <!-- Hero Section Start -->
-    <div class="hero parallaxie">
+    <div class="hero hero-video">
+        <!-- Video Start -->
+        <div class="hero-bg-video">
+            <video autoplay muted loop id="myVideo">
+                <source src="./images/home/home-bg.mp4" type="video/mp4">
+            </video>
+        </div>
+        <!-- Video End -->
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-10">
@@ -54,7 +61,7 @@
                     <div class="hero-content">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h1 class="text-anime-style-2" data-cursor="-opaque">Technomerates Pvt Ltd</h1>
+                            <h1 class="text-anime-style-2" data-cursor="-opaque"><span>Technomerates</span> Pvt Ltd</h1>
                             <p class="wow fadeInUp" data-wow-delay="0.2s">A conglomerate of innovation, leveraging the
                                 power of AI, IoT, and Data Science to revolutionize construction management. Our
                                 solutions redefine efficiency, safety, and decision-making, paving the way for smarter,
@@ -285,7 +292,7 @@
 
                     <div class="col-lg-12">
                         <div class="all-services-btn wow fadeInUp" data-wow-delay="0.6s">
-                            <a href="./projects.php" class="btn-default">see all projects</a>
+                            <a href="./projects.php" class="btn-default btn-highlighted">see all projects</a>
                         </div>
                     </div>
                 </div>
@@ -417,6 +424,31 @@
     <!-- Footer Start -->
     <?php include('./footer.php'); ?>
     <!-- Footer End -->
+
+    
+    <!-- Hero Section (Image Section Backup) -->
+    <!-- <div class="hero parallaxie">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-10">
+                    <div class="hero-content">
+                        <div class="section-title">
+                            <h1 class="text-anime-style-2" data-cursor="-opaque">Technomerates Pvt Ltd</h1>
+                            <p class="wow fadeInUp" data-wow-delay="0.2s">A conglomerate of innovation, leveraging the
+                                power of AI, IoT, and Data Science to revolutionize construction management. Our
+                                solutions redefine efficiency, safety, and decision-making, paving the way for smarter,
+                                more advanced construction processes.</p>
+                        </div>
+                        <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
+                            <a href="./about.php" class="btn-default">explore more</a>
+                            <a href="./projects.php" class="btn-default btn-highlighted">view projects</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+    <!-- Hero Section End -->
 
     <?php include('./cdn_script.php'); ?>
 </body>

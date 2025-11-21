@@ -54,7 +54,7 @@
                 <div class="col-lg-12">
                     <!-- Page Header Box Start -->
                     <div class="page-header-box">
-                        <h1 class="text-anime-style-2" data-cursor="-opaque">About Us</h1>
+                        <h1 class="text-anime-style-2" data-cursor="-opaque">About <span>Us</span></h1>
                         <nav class="wow fadeInUp">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="./">home</a></li>
@@ -79,8 +79,7 @@
                     <!-- Section Title Start -->
                     <div class="section-title dark-section">
                         <h3 class="wow fadeInUp">vision & mission</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">Building Excellence Through Purpose</span>
-                        </h2>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Building Excellence</span> Through Purpose</h2>
                     </div>
                     <!-- Section Title End -->
                 </div>
@@ -148,7 +147,7 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h3 class="wow fadeInUp">Built on Proven Excellence</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">Our Strengths</span></h2>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Our <span>Strengths</span></h2>
                             <p class="wow fadeInUp" data-wow-delay="0.2s">Executed a 6,600 sqm G+10 superstructure in 21
                                 days by achieving 12-hour slab deshuttering and a 24-hour pour cycle through techniques
                                 like casting wall starters with slabs and using high early-strength concrete. Developed

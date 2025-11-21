@@ -30,3 +30,7 @@
 
 <!-- Main Custom Css -->
 <link href="css/custom.css" rel="stylesheet" media="screen">
+
+<a href="https://wa.me/917550265502" target="_blank" class="whatsapp-div">
+    <img src="./images/Whatsapp.webp" height="50px" alt="">
+</a>

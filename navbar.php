@@ -42,6 +42,9 @@
                                     <li class="nav-item">
                                         <a class="nav-link" href="./onstru.com/dlr/web">DLR</a>
                                     </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="./onstru.com/task/">Task Management</a>
+                                    </li>
                                 </ul>
                             </li>
                             <li class="nav-item"><a class="nav-link" href="./faqs.php">FAQs</a></li>

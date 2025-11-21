@@ -7,8 +7,8 @@
                     <!-- Section Title Start -->
                     <div class="section-title">
                         <h3 class="wow fadeInUp">our clients</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">Partnering With Visionary Industry
-                            Leaders</h2>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Partnering With Visionary <span>Industry
+                                Leaders</span></h2>
                         <p class="wow fadeInUp" data-wow-delay="0.2s">Empowering clients with reliable, innovative
                             construction solutions that ensure quality, trust, and long-term project success.</p>
                     </div>

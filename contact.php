@@ -54,7 +54,7 @@
                 <div class="col-lg-12">
                     <!-- Page Header Box Start -->
                     <div class="page-header-box">
-                        <h1 class="text-anime-style-2" data-cursor="-opaque">Contact Us</h1>
+                        <h1 class="text-anime-style-2" data-cursor="-opaque">Contact <span>Us</span></h1>
                         <nav class="wow fadeInUp">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="./">home</a></li>
@@ -151,7 +151,7 @@
                     <!-- Section Title Start -->
                     <div class="section-title">
                         <h3 class="wow fadeInUp">Our contact</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">Get in touch with us</h2>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Get in touch <span>with us</span></h2>
                         <p class="wow fadeInUp" data-wow-delay="0.2s">Get in touch to discuss your employee wellbeing
                             needs today. Please give us a call, drop us an email or fill out the contact form and we'll
                             get back to you.</p>

@@ -44,7 +44,7 @@
                     <!-- Section Title Start -->
                     <div class="section-title">
                         <h3 class="wow fadeInUp">About Us</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">Leadership & Expertise</span>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Leadership & <span>Expertise</span>
                         </h2>
                         <p class="wow fadeInUp" data-wow-delay="0.2s">Mr. Saravanan, the Founder & CEO, embodies the
                             fusion of engineering, analytics, and entrepreneurship. He leads a team of professionals
@@ -68,7 +68,7 @@
 
                             <!-- About Us Content Button Start -->
                             <div class="about-us-content-btn wow fadeInUp" data-wow-delay="0.6s">
-                                <a href="about.php" class="btn-default">read more</a>
+                                <a href="about.php" class="btn-default btn-highlighted">read more</a>
                             </div>
                             <!-- About Us Content Button End -->
                         </div>
