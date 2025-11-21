@@ -8,14 +8,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
     <!-- Meta Tags -->
-    <title>Projects | Completed & Ongoing Construction Projects</title>
+    <title>Projects | Completed, Ongoing & New Construction Projects</title>
     <meta name="description"
         content="Explore Technomerates’ completed, ongoing, and new projects showcasing our technology-driven construction solutions and achievements.">
     <meta name="keywords"
         content="construction projects, technomerates projects, ongoing projects, completed projects, new projects">
 
     <!-- Open Graph -->
-    <meta property="og:title" content="Technomerates Projects – Completed & Ongoing">
+    <meta property="og:title" content="Technomerates Projects – Completed, Ongoing & New">
     <meta property="og:description"
         content="View our portfolio of completed, ongoing, and new construction projects built with advanced construction technology.">
     <meta property="og:url" content="https://technomerates.com/projects">
