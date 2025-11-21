@@ -191,7 +191,7 @@ body {
 .btn-default {
 	position: relative;
 	display: inline-block;
-	background: var(--accent-color);
+	background: var(--black-color);
 	color: var(--white-color);
 	font-size: 16px;
 	font-weight: 700;
@@ -206,7 +206,7 @@ body {
 
 .btn-default:hover {
 	background: transparent;
-	color: var(--white-color);
+	color: var(--black-color);
 }
 
 .btn-default::before {
@@ -251,11 +251,12 @@ body {
 }
 
 .btn-default.btn-highlighted {
-	background-color: var(--white-color);
-	color: var(--accent-color);
+	background-color: var(--primary-color);
+	color: var(--black-color);
 }
 
 .btn-default.btn-highlighted:hover {
+	background-color: var(--black-color);
 	color: var(--white-color);
 }
 
@@ -268,11 +269,11 @@ body {
 }
 
 .btn-default.btn-highlighted::after {
-	background-color: var(--accent-color);
+	background-color: var(--black-color);
 }
 
 .cb-cursor:before {
-	background: var(--accent-color);
+	background: var(--primary-color);
 }
 
 .preloader {

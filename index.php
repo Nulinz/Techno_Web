@@ -6,10 +6,31 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta name="author" content="Awaiken">
-    <title>Technomerates</title>
+
+    <!-- Search Console -->
+    <meta name="google-site-verification" content="T76NLtP546MpYjZ4b8teM_AkasWoy96UUSIyxdoYW18" />
+
+    <!-- Meta Tags -->
+    <title>Technomerates Pvt Ltd | Construction Technology, Formwork & Digital Solutions</title>
+    <meta name="description"
+        content="Technomerates is a construction technology company delivering solutions like Aluminium Formwork Management, ERP, ONSTRU, and DLR for modern construction efficiency.">
+    <meta name="keywords"
+        content="technomerates, construction technology, aluminium formwork, afms, construction erp, onstru, dlr, construction software india">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Technomerates Pvt Ltd | Construction Technology Innovators">
+    <meta property="og:description"
+        content="Delivering AI-driven ERP, formwork systems, and digital construction tools to build smarter, more efficient projects.">
+    <meta property="og:url" content="https://technomerates.com/">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://technomerates.com/images/home/hero-bg.webp">
+
+    <!-- Twitter -->
+    <meta name="twitter:title" content="Technomerates | Construction Technology Solutions">
+    <meta name="twitter:description"
+        content="Smart construction tools: ERP, formwork management, e-commerce & site reporting.">
+    <meta name="twitter:image" content="https://technomerates.com/images/home/hero-bg.webp">
+    <meta name="twitter:card" content="summary_large_image">
 
     <?php include('./cdn_style.php'); ?>
 </head>
@@ -43,8 +64,8 @@
 
                         <!-- Hero Button Start -->
                         <div class="hero-btn wow fadeInUp" data-wow-delay="0.4s">
-                            <a href="about.html" class="btn-default">explore more</a>
-                            <a href="projects.html" class="btn-default btn-highlighted">view projects</a>
+                            <a href="./about.php" class="btn-default">explore more</a>
+                            <a href="./projects.php" class="btn-default btn-highlighted">view projects</a>
                         </div>
                         <!-- Hero Button End -->
                     </div>
@@ -261,6 +282,12 @@
                         </div>
                     </div>
                     <!-- Project Item Boxes End -->
+
+                    <div class="col-lg-12">
+                        <div class="all-services-btn wow fadeInUp" data-wow-delay="0.6s">
+                            <a href="./projects.php" class="btn-default">see all projects</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

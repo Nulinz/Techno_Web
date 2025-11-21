@@ -6,10 +6,28 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta name="author" content="Awaiken">
-    <title>Technomerates</title>
+
+    <!-- Meta Tags -->
+    <title>Projects | Completed & Ongoing Construction Projects</title>
+    <meta name="description"
+        content="Explore Technomerates’ completed, ongoing, and new projects showcasing our technology-driven construction solutions and achievements.">
+    <meta name="keywords"
+        content="construction projects, technomerates projects, ongoing projects, completed projects, new projects">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Technomerates Projects – Completed & Ongoing">
+    <meta property="og:description"
+        content="View our portfolio of completed, ongoing, and new construction projects built with advanced construction technology.">
+    <meta property="og:url" content="https://technomerates.com/projects">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="https://technomerates.com/images/project/project-bg.webp">
+
+    <!-- Twitter -->
+    <meta name="twitter:title" content="Our Projects | Technomerates">
+    <meta name="twitter:description"
+        content="See how Technomerates powers construction with tech across residential, commercial & new projects.">
+    <meta name="twitter:image" content="https://technomerates.com/images/project/project-bg.webp">
+    <meta name="twitter:card" content="summary_large_image">
 
     <?php include('./cdn_style.php'); ?>
 </head>
@@ -18,6 +36,7 @@
         background-image: url(./images/project/project-bg.webp);
     }
 </style>
+
 <body>
 
     <?php
@@ -148,7 +167,6 @@
                             <li><a href="#" data-filter=".completed">completed</a></li>
                             <li><a href="#" data-filter=".ongoing">ongoing</a></li>
                             <li><a href="#" data-filter=".new">new</a></li>
-                            <li><a href="#" data-filter=".structural">structural</a></li>
                         </ul>
                     </div>
                     <!-- Our Project Nav End -->

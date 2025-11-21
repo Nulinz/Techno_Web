@@ -6,10 +6,28 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta name="author" content="Awaiken">
-    <title>Technomerates</title>
+
+    <!-- Meta Tags -->
+    <title>About Us | Technomerates Pvt Ltd</title>
+    <meta name="description"
+        content="Technomerates is committed to advancing construction through technology. Learn about our mission, vision, experience, and our dedication to digital transformation in construction.">
+    <meta name="keywords"
+        content="about technomerates, construction technology company, mission technomerates, vision technomerates, construction innovation">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="About Technomerates | Construction Technology Company">
+    <meta property="og:description"
+        content="Discover the mission, vision, and leadership behind Technomerates’ commitment to transforming construction via AI, IoT, and data-driven innovation.">
+    <meta property="og:url" content="https://technomerates.com/about-us">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="https://technomerates.com/images/about/about-bg.webp">
+
+    <!-- Twitter -->
+    <meta name="twitter:title" content="About Technomerates">
+    <meta name="twitter:description"
+        content="Learn about Technomerates’ journey, mission & vision in building a smarter construction future.">
+    <meta name="twitter:image" content="https://technomerates.com/images/about/about-bg.webp">
+    <meta name="twitter:card" content="summary_large_image">
 
     <?php include('./cdn_style.php'); ?>
 </head>
@@ -18,6 +36,7 @@
         background-image: url(./images/about/about-bg.webp);
     }
 </style>
+
 <body>
 
     <!-- Preloader Start -->

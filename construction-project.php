@@ -6,10 +6,29 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta name="author" content="Awaiken">
-    <title>Technomerates</title>
+
+    <!-- Meta Tags -->
+    <title>Our Services | Technomerates Construction Technology Solutions</title>
+    <meta name="description"
+        content="Explore services including ONSTRU, AFMS, ERP, and DLR—designed to digitize and optimize construction operations, materials, labour, and formwork management.">
+    <meta name="keywords"
+        content="construction services, afms, onstru, dlr, construction erp, formwork management, digital construction tools">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Technomerates Services | ERP, AFMS, ONSTRU & DLR">
+    <meta property="og:description"
+        content="Technomerates offers a complete technology stack for construction: intelligent ERP, formwork tracking, material procurement, and labour reporting.">
+    <meta property="og:url" content="https://technomerates.com/services">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://technomerates.com/images/service/construction-bg.webp">
+
+    <!-- Twitter -->
+    <meta name="twitter:title" content="Construction Technology Services by Technomerates">
+    <meta name="twitter:description"
+        content="Digitize your construction business with ERP, formwork management, procurement & reporting tools.">
+    <meta name="twitter:image" content="https://technomerates.com/images/service/construction-bg.webp">
+    <meta name="twitter:card" content="summary_large_image">
+
 
     <?php include('./cdn_style.php'); ?>
 </head>
@@ -18,6 +37,7 @@
         background-image: url(./images/service/construction-bg.webp);
     }
 </style>
+
 <body>
 
     <!-- Preloader Start -->

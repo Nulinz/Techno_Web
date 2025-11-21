@@ -6,13 +6,33 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta name="author" content="Awaiken">
-    <title>Technomerates</title>
+
+    <title>FAQs | Technomerates Construction Technology Solutions</title>
+    <meta name="description"
+        content="Find answers to frequently asked questions about our construction technology products such as ERP, AFMS, ONSTRU, and DLR.">
+    <meta name="keywords"
+        content="technomerates faq, construction technology faq, afms faq, erp faq, onstru faq, dlr faq, construction software questions">
+
+    <meta property="og:title" content="Technomerates FAQs | Construction Technology Help & Support">
+    <meta property="og:description"
+        content="Quick answers to your frequently asked questions about ERP, AFMS, ONSTRU, DLR, services, products, implementation, and support.">
+    <meta property="og:url" content="https://technomerates.com/faqs">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://technomerates.com/images/home/faq-bg.webp">
+
+    <meta name="twitter:title" content="Technomerates FAQs">
+    <meta name="twitter:description"
+        content="Get answers to your most common questions about our construction technology solutions.">
+    <meta name="twitter:image" content="https://technomerates.com/images/home/faq-bg.webp">
+    <meta name="twitter:card" content="summary_large_image">
 
     <?php include('./cdn_style.php'); ?>
 </head>
+<style>
+    .page-header {
+        background-image: url(./images/home/faq-bg.webp);
+    }
+</style>
 
 <body>
 
@@ -79,7 +99,11 @@
                                         aria-labelledby="heading1" data-bs-parent="#accordion">
                                         <div class="accordion-body">
                                             <p>
-                                                Technomerates is a techno conglomerate delivering next-generation construction solutions through advanced engineering, POD technology, SlimBeam/SlimCol systems, digital tools, and turnkey project execution. We combine technology, structural innovation, and project intelligence to help developers build faster, smarter, and more cost-efficiently.
+                                                Technomerates is a techno conglomerate delivering next-generation
+                                                construction solutions through advanced engineering, POD technology,
+                                                SlimBeam/SlimCol systems, digital tools, and turnkey project execution.
+                                                We combine technology, structural innovation, and project intelligence
+                                                to help developers build faster, smarter, and more cost-efficiently.
                                             </p>
                                         </div>
                                     </div>
@@ -100,12 +124,18 @@
                                         <div class="accordion-body">
                                             <p>
                                                 We bring technological depth into construction through: <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> POD-based residential construction systems <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Technoslim Beam & Technoslim Column (Slim+) technology <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> AI-assisted project planning and cycle tracking <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Digital labor management tools <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Engineering-led turnkey execution <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Sustainability-driven construction models
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> POD-based
+                                                residential construction systems <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Technoslim
+                                                Beam & Technoslim Column (Slim+) technology <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> AI-assisted
+                                                project planning and cycle tracking <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Digital labor
+                                                management tools <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i>
+                                                Engineering-led turnkey execution <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i>
+                                                Sustainability-driven construction models
                                             </p>
                                         </div>
                                     </div>
@@ -118,19 +148,26 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false"
                                             aria-controls="collapse3">
-                                            <span>3.</span> What is POD Technology and how does it help residential construction?
+                                            <span>3.</span> What is POD Technology and how does it help residential
+                                            construction?
                                         </button>
                                     </h2>
                                     <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3"
                                         data-bs-parent="#accordion">
                                         <div class="accordion-body">
                                             <p>
-                                                Technomerates’ POD system enables modular, repeatable, and high-speed residential construction. Benefits include: <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> 2–3 day slab cycles <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Reduced project cost <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Improved structural accuracy <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Faster execution with minimal rework <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> High efficiency in mass housing and repetitive layouts
+                                                Technomerates’ POD system enables modular, repeatable, and high-speed
+                                                residential construction. Benefits include: <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> 2–3 day slab
+                                                cycles <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Reduced
+                                                project cost <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Improved
+                                                structural accuracy <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Faster
+                                                execution with minimal rework <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> High
+                                                efficiency in mass housing and repetitive layouts
                                             </p>
                                         </div>
                                     </div>
@@ -143,20 +180,29 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false"
                                             aria-controls="collapse4">
-                                            <span>4.</span> What are Technoslim Beam and Technoslim Column (Slim+) systems?
+                                            <span>4.</span> What are Technoslim Beam and Technoslim Column (Slim+)
+                                            systems?
                                         </button>
                                     </h2>
                                     <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4"
                                         data-bs-parent="#accordion">
                                         <div class="accordion-body">
                                             <p>
-                                                These are Technomerates’ proprietary structural innovations for commercial and high-rise construction, engineered for speed and slender geometry. Advantages: <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> 4–6 day slab cycles <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Slender beams and columns for better architectural efficiency <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Reduced steel and concrete usage <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Better MEP routing and spacious interiors <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Increased repeatability and construction speed <br>
-                                                We have successfully engineered and supplied over 50,000 sq.ft of SlimBeam + SlimCol systems.
+                                                These are Technomerates’ proprietary structural innovations for
+                                                commercial and high-rise construction, engineered for speed and slender
+                                                geometry. Advantages: <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> 4–6 day slab
+                                                cycles <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Slender beams
+                                                and columns for better architectural efficiency <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Reduced steel
+                                                and concrete usage <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Better MEP
+                                                routing and spacious interiors <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Increased
+                                                repeatability and construction speed <br>
+                                                We have successfully engineered and supplied over 50,000 sq.ft of
+                                                SlimBeam + SlimCol systems.
                                             </p>
                                         </div>
                                     </div>
@@ -177,11 +223,16 @@
                                         <div class="accordion-body">
                                             <p>
                                                 Yes. Our turnkey delivery includes: <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Structural design & engineering <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> System planning (PODs, Slim+) <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Project sequencing & cycle planning <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Site execution support <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Digital integration & Quality and safety assurance <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Structural
+                                                design & engineering <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> System
+                                                planning (PODs, Slim+) <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Project
+                                                sequencing & cycle planning <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Site
+                                                execution support <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Digital
+                                                integration & Quality and safety assurance <br>
                                                 This ensures predictable timelines and controlled costs.
                                             </p>
                                         </div>
@@ -195,14 +246,19 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="false"
                                             aria-controls="collapse6">
-                                            <span>6.</span> Can Technomerates support formwork or formwork-related solutions?
+                                            <span>6.</span> Can Technomerates support formwork or formwork-related
+                                            solutions?
                                         </button>
                                     </h2>
                                     <div id="collapse6" class="accordion-collapse collapse" aria-labelledby="heading6"
                                         data-bs-parent="#accordion">
                                         <div class="accordion-body">
                                             <p>
-                                                Yes, but Technomerates itself does not sell or manage formwork on this website. For all formwork-related queries, refurbishment, buyback, or trading, please visit: <a href="https://urfws.com/">www.urfws.com</a> This separate platform handles everything related to used/refurbished formwork on a turnkey basis.
+                                                Yes, but Technomerates itself does not sell or manage formwork on this
+                                                website. For all formwork-related queries, refurbishment, buyback, or
+                                                trading, please visit: <a href="https://urfws.com/">www.urfws.com</a>
+                                                This separate platform handles everything related to used/refurbished
+                                                formwork on a turnkey basis.
                                             </p>
                                         </div>
                                     </div>
@@ -222,12 +278,18 @@
                                         data-bs-parent="#accordion">
                                         <div class="accordion-body">
                                             <p>
-                                                Absolutely. Our team includes specialists trained at IIT, NICMAR, Great Lakes, UT Austin, and internationally recognized design institutes. <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> POD layout engineering <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> SlimBeam & SlimCol structural design <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Load optimization <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Structural cycle-time planning <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Value engineering & Digital-assisted decision-making
+                                                Absolutely. Our team includes specialists trained at IIT, NICMAR, Great
+                                                Lakes, UT Austin, and internationally recognized design institutes. <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> POD layout
+                                                engineering <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> SlimBeam &
+                                                SlimCol structural design <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Load
+                                                optimization <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Structural
+                                                cycle-time planning <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Value
+                                                engineering & Digital-assisted decision-making
                                             </p>
                                         </div>
                                     </div>
@@ -248,11 +310,16 @@
                                         <div class="accordion-body">
                                             <p>
                                                 We provide multiple tech-enabled solutions: <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> DLR (Daily Labour Report) App with face-recognition <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> AI-integrated cycle planning <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Digital project dashboards <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> WhatsApp-based AI assistance <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Onstru — a social platform for construction professionals <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> DLR (Daily
+                                                Labour Report) App with face-recognition <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> AI-integrated
+                                                cycle planning <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Digital
+                                                project dashboards <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i>
+                                                WhatsApp-based AI assistance <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Onstru — a
+                                                social platform for construction professionals <br>
                                                 These tools improve transparency, speed, and accountability.
                                             </p>
                                         </div>
@@ -274,11 +341,16 @@
                                         <div class="accordion-body">
                                             <p>
                                                 We handle: <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Residential mass-housing projects <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Commercial buildings <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Industrial and manufacturing facilities <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Hospitality structures & Township developments <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Special structure projects requiring speed + precision
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Residential
+                                                mass-housing projects <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Commercial
+                                                buildings <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Industrial
+                                                and manufacturing facilities <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Hospitality
+                                                structures & Township developments <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Special
+                                                structure projects requiring speed + precision
                                             </p>
                                         </div>
                                     </div>
@@ -291,7 +363,8 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false"
                                             aria-controls="collapse10">
-                                            <span>10.</span> What is the typical construction speed Technomerates offers?
+                                            <span>10.</span> What is the typical construction speed Technomerates
+                                            offers?
                                         </button>
                                     </h2>
                                     <div id="collapse10" class="accordion-collapse collapse" aria-labelledby="heading10"
@@ -299,9 +372,12 @@
                                         <div class="accordion-body">
                                             <p>
                                                 Depending on the selected system: <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Residential POD Method: 2–3 day slab cycles <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Commercial Slim+ System (Beam + Column): 4–6 day slab cycles
-                                                These are among the fastest achievable cycle times using modern construction systems.
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Residential
+                                                POD Method: 2–3 day slab cycles <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Commercial
+                                                Slim+ System (Beam + Column): 4–6 day slab cycles
+                                                These are among the fastest achievable cycle times using modern
+                                                construction systems.
                                             </p>
                                         </div>
                                     </div>
@@ -322,11 +398,16 @@
                                         <div class="accordion-body">
                                             <p>
                                                 We follow a lean and circular construction ideology, focusing on: <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Reduced concrete and steel use <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Faster cycles = lower energy consumption <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Modular and reusable engineering <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Low-waste construction processes <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Engineering-driven material optimization
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Reduced
+                                                concrete and steel use <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Faster cycles
+                                                = lower energy consumption <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Modular and
+                                                reusable engineering <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Low-waste
+                                                construction processes <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i>
+                                                Engineering-driven material optimization
                                             </p>
                                         </div>
                                     </div>
@@ -346,11 +427,16 @@
                                         data-bs-parent="#accordion">
                                         <div class="accordion-body">
                                             <p>
-                                                Our goal is to build India’s most advanced technology-driven EPC ecosystem, targeting: <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> ₹50 crore turnover in the upcoming financial year <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> National expansion of POD and Slim+ technologies <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> IPO listing by 2027 <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Becoming a benchmark for next-generation construction practices
+                                                Our goal is to build India’s most advanced technology-driven EPC
+                                                ecosystem, targeting: <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> ₹50 crore
+                                                turnover in the upcoming financial year <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> National
+                                                expansion of POD and Slim+ technologies <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> IPO listing
+                                                by 2027 <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Becoming a
+                                                benchmark for next-generation construction practices
                                             </p>
                                         </div>
                                     </div>
@@ -371,10 +457,14 @@
                                         <div class="accordion-body">
                                             <p>
                                                 You can contact us via: <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Website form <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Official email <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Phone or WhatsApp <br>
-                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Onstru.com professional network
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Website form
+                                                <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Official
+                                                email <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Phone or
+                                                WhatsApp <br>
+                                                <i class="fas fa-circle pe-1" style="font-size: 8px;"></i> Onstru.com
+                                                professional network
                                                 Our technical team will respond promptly with guidance and solutions.
                                             </p>
                                         </div>

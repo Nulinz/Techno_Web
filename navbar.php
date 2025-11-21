@@ -18,7 +18,7 @@
                                 <a class="nav-link">Services</a>
                                 <ul>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="./service-detail.php">Construction Project</a>
+                                        <a class="nav-link" href="./construction-project.php">Construction Project</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="./onstru.com">Onstru AI-Driven E-Commerce Platform</a>

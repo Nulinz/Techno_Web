@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /config/
+Disallow: /server.php
+Disallow: /db/
+Disallow: /includes/
+Disallow: /uploads/private/
+Disallow: /error_log
+Disallow: /cgi-bin/
+
+# Allow public assets
+Allow: /assets/
+Allow: /css/
+Allow: /js/
+Allow: /images/
+
+# Sitemap location
+Sitemap: https://technomerates.com/sitemap.xml

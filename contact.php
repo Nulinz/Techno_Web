@@ -6,10 +6,28 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta name="author" content="Awaiken">
-    <title>Technomerates</title>
+
+    <!-- Meta Tags -->
+    <title>Contact Us | Technomerates Pvt Ltd</title>
+    <meta name="description"
+        content="Get in touch with Technomerates for inquiries, partnerships, demos, or support. We’re here to help with your construction technology needs.">
+    <meta name="keywords"
+        content="contact technomerates, support technomerates, construction tech contact, get in touch technomerates">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Contact Technomerates | Construction Technology Solutions">
+    <meta property="og:description"
+        content="Reach out for business inquiries, demo requests, technology partnerships, or support. Based in Chennai, India.">
+    <meta property="og:url" content="https://technomerates.com/contact">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://technomerates.com/images/contact/contact-bg.webp">
+
+    <!-- Twitter -->
+    <meta name="twitter:title" content="Contact Technomerates">
+    <meta name="twitter:description"
+        content="Talk to us for consultations, demos, support or partnership in construction technology.">
+    <meta name="twitter:image" content="https://technomerates.com/images/contact/contact-bg.webp">
+    <meta name="twitter:card" content="summary_large_image">
 
     <?php include('./cdn_style.php'); ?>
 </head>
@@ -18,6 +36,7 @@
         background-image: url(./images/contact/contact-bg.webp);
     }
 </style>
+
 <body>
 
     <!-- Preloader Start -->
