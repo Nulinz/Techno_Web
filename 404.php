@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="Awaiken">
-    <title>URFWS</title>
+    <title>Technomerates</title>
 
     <?php include('./cdn_style.php'); ?>
 </head>
@@ -52,7 +52,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="error-page-image wow fadeInUp">
-                        <img src="images/404-error-img.png" alt="">
+                        <img src="images/404-error-img.webp" alt="">
                     </div>
                     <div class="error-page-content">
                         <div class="section-title">

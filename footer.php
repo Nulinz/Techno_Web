@@ -8,7 +8,7 @@
                         <div class="col-md-6">
                             <!-- Footer Logo Start -->
                             <div class="footer-logo">
-                                <img src="images/logo.png" height="75px" alt="">
+                                <img src="images/logo.webp" height="75px" alt="">
                             </div>
                             <!-- Footer Logo End -->
                         </div>
@@ -20,9 +20,20 @@
                                     <h3>follow our socials</h3>
                                 </div>
                                 <ul>
-                                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <!-- <li>
+                                        <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                                    </li> -->
+                                    <li>
+                                        <a href="https://www.instagram.com/technomerates?igsh=dzVtdWx4amZhaTBo"><i
+                                                class="fa-brands fa-instagram"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="https://in.linkedin.com/company/technomerates-pvt-ltd"><i
+                                                class="fa-brands fa-linkedin-in"></i></a>
+                                    </li>
                                 </ul>
                             </div>
                             <!-- Footer Social Link End -->
@@ -38,10 +49,8 @@
                     <h3>information</h3>
                     <ul>
                         <li><a href="./about.php">About Us</a></li>
-                        <li><a href="./services.php">Our Services</a></li>
-                        <!-- <li><a href="#">careers at company</a></li> -->
-                        <!-- <li><a href="blog.php">read our blog</a></li> -->
-                        <li><a href="projects.php">Our Projects</a></li>
+                        <li><a href="./faqs.php">FAQs</a></li>
+                        <li><a href="./contact.php">Contact Us</a></li>
                     </ul>
                 </div>
                 <!-- Footer Links End -->
@@ -50,13 +59,11 @@
             <div class="col-lg-3 col-md-6">
                 <!-- Footer Links Start -->
                 <div class="footer-links">
-                    <h3>portfolio</h3>
+                    <h3>Portfolio</h3>
                     <ul>
-                        <li><a href="project-single.php">luxury home design</a></li>
-                        <li><a href="project-single.php">residential interior design</a></li>
-                        <li><a href="project-single.php">commercial space design</a></li>
-                        <li><a href="project-single.php">residential interior design</a></li>
-                        <li><a href="project-single.php">renovation and restoration design</a></li>
+                        <li><a href="#">Services</a></li>
+                        <li><a href="#">Projects</a></li>
+                        <li><a href="#">Products</a></li>
                     </ul>
                 </div>
                 <!-- Footer Links End -->
@@ -83,7 +90,7 @@
                             <i class="fa-solid fa-envelope"></i>
                         </div>
                         <div class="footer-contact-content">
-                            <p>sales@urformwork.com</p>
+                            <p>sales@technomerates.com</p>
                         </div>
                     </div>
                     <!-- Footer Contact Item End -->
@@ -94,7 +101,7 @@
                             <i class="fa-solid fa-location-dot"></i>
                         </div>
                         <div class="footer-contact-content">
-                            <p>Chennai, India</p>
+                            <p>Chennai, India - 600127</p>
                         </div>
                     </div>
                     <!-- Footer Contact Item End -->

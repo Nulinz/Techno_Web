@@ -4,7 +4,7 @@
             <div class="navbar navbar-expand-lg">
                 <!-- Logo Start -->
                 <a class="navbar-brand" href="./">
-                    <img src="./images/logo.png" height="60px" alt="Logo">
+                    <img src="./images/logo.webp" height="65px" width="200px" alt="Logo">
                 </a>
                 <!-- Logo End -->
 
@@ -12,40 +12,45 @@
                 <div class="collapse navbar-collapse main-menu">
                     <div class="nav-menu-wrapper">
                         <ul class="navbar-nav mr-auto" id="menu">
-                            <!-- <li class="nav-item submenu"><a class="nav-link" href="./">Home</a>
-                                <ul>
-                                    <li class="nav-item"><a class="nav-link" href="index.php">Home - Image</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="index-video.php">Home - Video</a>
-                                    </li>
-                                    <li class="nav-item"><a class="nav-link" href="index-slider.php">Home - Slider</a>
-                                    </li>
-                                </ul>
-                            </li> -->
                             <li class="nav-item"><a class="nav-link" href="./">Home</a>
                             <li class="nav-item"><a class="nav-link" href="./about.php">About Us</a>
-                            <li class="nav-item"><a class="nav-link" href="./services.php">Services</a></li>
-                            <li class="nav-item"><a class="nav-link" href="./projects.php">Projects</a></li>
-                            <!-- <li class="nav-item"><a class="nav-link" href="blog.php">Blog</a></li> -->
-                            <!-- <li class="nav-item submenu"><a class="nav-link" href="#">Pages</a>
+                            <li class="nav-item submenu">
+                                <a class="nav-link">Services</a>
                                 <ul>
-                                    <li class="nav-item"><a class="nav-link" href="service-single.php">Service
-                                            Details</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="project-single.php">Project
-                                            Details</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="blog-single.php">Blog Details</a>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="./service-detail.php">Construction Project</a>
                                     </li>
-                                    <li class="nav-item"><a class="nav-link" href="image-gallery.php">Image Gallery</a>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="./onstru.com">Onstru AI-Driven E-Commerce Platform</a>
                                     </li>
-                                    <li class="nav-item"><a class="nav-link" href="faqs.php">FAQs</a></li>
-                                    <li class="nav-item"><a class="nav-link" href="404.php">404</a></li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="./urfws.com">URFWS - Used Refurbished Formwork
+                                            Solutions</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="./onstru.com/ERP">AI-Driven ERP Solutions</a>
+                                    </li>
                                 </ul>
-                            </li> -->
+                            </li>
+                            <li class="nav-item"><a class="nav-link" href="./projects.php">Projects</a></li>
+                            <li class="nav-item submenu">
+                                <a class="nav-link">Products</a>
+                                <ul>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="./onstru.com/ERP">ERP Construction</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="./onstru.com/dlr/web">DLR</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item"><a class="nav-link" href="./faqs.php">FAQs</a></li>
                             <li class="nav-item"><a class="nav-link" href="./contact.php">Contact Us</a></li>
                         </ul>
                     </div>
                     <!-- Header Btn Start -->
                     <div class="header-btn d-inline-flex">
-                        <a href="./contact.php" class="btn-default">get in touch</a>
+                        <a href="./contact.php" class="btn-default">Get In Touch</a>
                     </div>
                     <!-- Header Btn End -->
                 </div>

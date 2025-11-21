@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="Awaiken">
-    <title>URFWS</title>
+    <title>Technomerates</title>
 
     <?php include('./cdn_style.php'); ?>
 </head>
@@ -31,7 +31,7 @@
                 <div class="col-lg-12">
                     <!-- Page Header Box Start -->
                     <div class="page-header-box">
-                        <h1 class="text-anime-style-2" data-cursor="-opaque">Services</h1>
+                        <h1 class="text-anime-style-2" data-cursor="-opaque">Our Services</h1>
                         <nav class="wow fadeInUp">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="./">home</a></li>
@@ -57,7 +57,7 @@
                         <div class="service-image">
                             <a href="service-single.php" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/service-1.jpg" alt="">
+                                    <img src="images/service-1.webp" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -86,7 +86,7 @@
                         <div class="service-image">
                             <a href="service-single.php" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/service-2.jpg" alt="">
+                                    <img src="images/service-2.webp" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -115,7 +115,7 @@
                         <div class="service-image">
                             <a href="service-single.php" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/service-3.jpg" alt="">
+                                    <img src="images/service-3.webp" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -144,7 +144,7 @@
                         <div class="service-image">
                             <a href="service-single.php" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/service-4.jpg" alt="">
+                                    <img src="images/service-4.webp" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -173,7 +173,7 @@
                         <div class="service-image">
                             <a href="service-single.php" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/service-5.jpg" alt="">
+                                    <img src="images/service-5.webp" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -202,7 +202,7 @@
                         <div class="service-image">
                             <a href="service-single.php" data-cursor-text="View">
                                 <figure class="image-anime">
-                                    <img src="images/service-6.jpg" alt="">
+                                    <img src="images/service-6.webp" alt="">
                                 </figure>
                             </a>
                         </div>
@@ -315,7 +315,7 @@
                             <!-- Why Choose img 1 Start -->
                             <div class="why-choose-img-1">
                                 <figure class="image-anime reveal">
-                                    <img src="images/why-choose-img-1.jpg" alt="">
+                                    <img src="images/why-choose-img-1.webp" alt="">
                                 </figure>
                             </div>
                             <!-- Why Choose img 1 End -->
@@ -323,7 +323,7 @@
                             <!-- Why Choose img 2 Start -->
                             <div class="why-choose-img-2">
                                 <figure class="image-anime reveal">
-                                    <img src="images/why-choose-img-2.jpg" alt="">
+                                    <img src="images/why-choose-img-2.webp" alt="">
                                 </figure>
                             </div>
                             <!-- Why Choose img 2 End -->
@@ -335,7 +335,7 @@
                             <!-- Why Choose img 3 Start -->
                             <div class="why-choose-img-3">
                                 <figure class="image-anime reveal">
-                                    <img src="images/why-choose-img-3.jpg" alt="">
+                                    <img src="images/why-choose-img-3.webp" alt="">
                                 </figure>
                             </div>
                             <!-- Why Choose img 3 End -->
@@ -343,7 +343,7 @@
                             <!-- Why Choose img 4 Start -->
                             <div class="why-choose-img-4">
                                 <figure class="image-anime reveal">
-                                    <img src="images/why-choose-img-4.jpg" alt="">
+                                    <img src="images/why-choose-img-4.webp" alt="">
                                 </figure>
                             </div>
                             <!-- Why Choose img 4 End -->
@@ -451,19 +451,19 @@
                     <div class="our-skill-image">
                         <div class="our-skill-img-1">
                             <figure class="image-anime reveal">
-                                <img src="images/our-skill-img-1.jpg" alt="">
+                                <img src="images/our-skill-img-1.webp" alt="">
                             </figure>
                         </div>
 
                         <div class="our-skill-img-2">
                             <figure class="image-anime reveal">
-                                <img src="images/our-skill-img-2.jpg" alt="">
+                                <img src="images/our-skill-img-2.webp" alt="">
                             </figure>
                         </div>
 
                         <div class="our-skill-img-3">
                             <figure class="image-anime reveal">
-                                <img src="images/our-skill-img-3.jpg" alt="">
+                                <img src="images/our-skill-img-3.webp" alt="">
                             </figure>
                         </div>
                     </div>

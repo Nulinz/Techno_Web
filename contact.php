@@ -9,11 +9,15 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="Awaiken">
-    <title>URFWS</title>
+    <title>Technomerates</title>
 
     <?php include('./cdn_style.php'); ?>
 </head>
-
+<style>
+    .page-header {
+        background-image: url(./images/contact/contact-bg.webp);
+    }
+</style>
 <body>
 
     <!-- Preloader Start -->
@@ -31,11 +35,11 @@
                 <div class="col-lg-12">
                     <!-- Page Header Box Start -->
                     <div class="page-header-box">
-                        <h1 class="text-anime-style-2" data-cursor="-opaque">Conatct us</h1>
+                        <h1 class="text-anime-style-2" data-cursor="-opaque">Contact Us</h1>
                         <nav class="wow fadeInUp">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="./">home</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">conatct us</li>
+                                <li class="breadcrumb-item active" aria-current="page">contact us</li>
                             </ol>
                         </nav>
                     </div>
@@ -54,7 +58,7 @@
                     <!-- Contact Us Image Start -->
                     <div class="contact-us-image">
                         <figure class="image-anime reveal">
-                            <img src="images/contact-us-image.jpg" alt="">
+                            <img src="./images/contact/contact-img.webp" alt="">
                         </figure>
                     </div>
                     <!-- Contact Us Image End -->
@@ -179,7 +183,7 @@
                             <!-- Contact Info Content Start -->
                             <div class="contact-info-content">
                                 <h3>e-mail support</h3>
-                                <p>sales@urformwork.com</p>
+                                <p>sales@technomerates.com</p>
                             </div>
                             <!-- Contact Info Content End -->
                         </div>
@@ -196,7 +200,7 @@
                             <!-- Contact Info Content Start -->
                             <div class="contact-info-content">
                                 <h3>headquarter</h3>
-                                <p>Chennai, India</p>
+                                <p>Chennai, India - 600127</p>
                             </div>
                             <!-- Contact Info Content End -->
                         </div>

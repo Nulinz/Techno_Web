@@ -9,12 +9,102 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="Awaiken">
-    <title>URFWS</title>
+    <title>Technomerates</title>
 
     <?php include('./cdn_style.php'); ?>
 </head>
-
+<style>
+    .page-header {
+        background-image: url(./images/project/project-bg.webp);
+    }
+</style>
 <body>
+
+    <?php
+    $completed = [
+        [
+            "img" => "images/project/completed/project-img-1.webp",
+            "title" => "SPRE Vatrathunda",
+            "location" => "Mumbai"
+        ],
+        [
+            "img" => "images/project/completed/project-img-2.webp",
+            "title" => "Casagrand Zingo",
+            "location" => "Chennai"
+        ],
+        [
+            "img" => "images/project/completed/project-img-3.webp",
+            "title" => "Sobha Developers Yard",
+            "location" => "Bangalore"
+        ],
+        [
+            "img" => "images/project/completed/project-img-4.webp",
+            "title" => "Caparo Powerhouse",
+            "location" => "Chennai"
+        ],
+    ];
+
+    $ongoing = [
+        [
+            "img" => "images/project/ongoing/project-img-1.webp",
+            "title" => "Adarsh Developers Green",
+            "location" => "Bangalore"
+        ],
+        [
+            "img" => "images/project/ongoing/project-img-2.webp",
+            "title" => "Casagrand Mable",
+            "location" => "Vengambakkam"
+        ],
+        [
+            "img" => "images/project/ongoing/project-img-3.webp",
+            "title" => "Subha Developers Ecostone",
+            "location" => "Bangalore"
+        ],
+        [
+            "img" => "images/project/ongoing/project-img-4.webp",
+            "title" => "Foxconn Dormatory",
+            "location" => "Sunguvachatram"
+        ],
+        [
+            "img" => "images/project/ongoing/project-img-5.webp",
+            "title" => "Individual VHK Apartment",
+            "location" => "Chennai"
+        ],
+        [
+            "img" => "images/project/ongoing/project-img-6.webp",
+            "title" => "Urbanac Bharathia",
+            "location" => "Bangalore"
+        ],
+        [
+            "img" => "images/project/ongoing/project-img-7.webp",
+            "title" => "Caparo Road Works",
+            "location" => "Sunguvachatram"
+        ],
+        [
+            "img" => "images/project/ongoing/project-img-8.webp",
+            "title" => "Poweroll Factory",
+            "location" => "Nagarai"
+        ],
+        [
+            "img" => "images/project/ongoing/project-img-9.webp",
+            "title" => "Caparo Drainage System",
+            "location" => "Sunguvachatram"
+        ],
+    ];
+
+    $new = [
+        [
+            "img" => "images/project/new/project-img-1.webp",
+            "title" => "Aadarsh Green",
+            "location" => "Kempanahalli"
+        ],
+        [
+            "img" => "images/project/new/project-img-2.webp",
+            "title" => "The Address Villa",
+            "location" => "Chennai"
+        ],
+    ];
+    ?>
 
     <!-- Preloader Start -->
     <?php include('./loader.php'); ?>
@@ -31,7 +121,7 @@
                 <div class="col-lg-12">
                     <!-- Page Header Box Start -->
                     <div class="page-header-box">
-                        <h1 class="text-anime-style-2" data-cursor="-opaque">Our projects</h1>
+                        <h1 class="text-anime-style-2" data-cursor="-opaque">Our Projects</h1>
                         <nav class="wow fadeInUp">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="./">home</a></li>
@@ -55,11 +145,10 @@
                     <div class="our-Project-nav wow fadeInUp">
                         <ul>
                             <li><a href="#" class="active-btn" data-filter="*">all</a></li>
-                            <li><a href="#" data-filter=".architecture">architecture</a></li>
-                            <li><a href="#" data-filter=".interior">interior</a></li>
-                            <li><a href="#" data-filter=".bedroom">bedroom</a></li>
-                            <li><a href="#" data-filter=".furniture">furniture</a></li>
-                            <li><a href="#" data-filter=".kitchen">kitchen</a></li>
+                            <li><a href="#" data-filter=".completed">completed</a></li>
+                            <li><a href="#" data-filter=".ongoing">ongoing</a></li>
+                            <li><a href="#" data-filter=".new">new</a></li>
+                            <li><a href="#" data-filter=".structural">structural</a></li>
                         </ul>
                     </div>
                     <!-- Our Project Nav End -->
@@ -68,146 +157,74 @@
                 <div class="col-lg-12">
                     <!-- Project Item Boxes start -->
                     <div class="row project-item-boxes align-items-center">
-                        <div class="col-md-6 project-item-box architecture bedroom">
-                            <!-- Project Item Start -->
-                            <div class="project-item wow fadeInUp" data-wow-delay="0.2s">
-                                <div class="project-image">
-                                    <div class="project-featured-image">
-                                        <figure class="image-anime">
-                                            <img src="images/project-1.jpg" alt="">
-                                        </figure>
+                        <!-- Completed -->
+                        <?php
+                        foreach ($completed as $item) {
+                            ?>
+                            <div class="col-md-6 project-item-box completed">
+                                <div class="project-item wow fadeInUp" data-wow-delay="0.2s">
+                                    <div class="project-image">
+                                        <div class="project-featured-image">
+                                            <figure class="image-anime">
+                                                <img src="<?php echo $item["img"]; ?>" alt="">
+                                            </figure>
+                                        </div>
                                     </div>
-
-                                    <div class="project-btn">
-                                        <a href="project-single.php"><img src="images/arrow-white.svg" alt=""></a>
+                                    <div class="project-content">
+                                        <h3><?php echo $item["title"]; ?></h3>
+                                        <h2><?php echo $item["location"]; ?></h2>
                                     </div>
-                                </div>
-
-                                <div class="project-content">
-                                    <h3>residential spaces</h3>
-                                    <h2><a href="project-single.php">urban retreat: modern design meets comfort</a>
-                                    </h2>
                                 </div>
                             </div>
-                            <!-- Project Item End -->
-                        </div>
+                            <?php
+                        }
+                        ?>
 
-                        <div class="col-md-6 project-item-box interior kitchen">
-                            <!-- Project Item Start -->
-                            <div class="project-item wow fadeInUp" data-wow-delay="0.4s">
-                                <div class="project-image">
-                                    <div class="project-featured-image">
-                                        <figure class="image-anime">
-                                            <img src="images/project-2.jpg" alt="">
-                                        </figure>
+                        <!-- Ongoing -->
+                        <?php
+                        foreach ($ongoing as $item) {
+                            ?>
+                            <div class="col-md-6 project-item-box ongoing">
+                                <div class="project-item wow fadeInUp" data-wow-delay="0.2s">
+                                    <div class="project-image">
+                                        <div class="project-featured-image">
+                                            <figure class="image-anime">
+                                                <img src="<?php echo $item["img"]; ?>" alt="">
+                                            </figure>
+                                        </div>
                                     </div>
-
-                                    <div class="project-btn">
-                                        <a href="project-single.php"><img src="images/arrow-white.svg" alt=""></a>
+                                    <div class="project-content">
+                                        <h3><?php echo $item["title"]; ?></h3>
+                                        <h2><?php echo $item["location"]; ?></h2>
                                     </div>
-                                </div>
-
-                                <div class="project-content">
-                                    <h3>luxury homes</h3>
-                                    <h2><a href="project-single.php">luxurious loft: industrial chic for living</a>
-                                    </h2>
                                 </div>
                             </div>
-                            <!-- Project Item End -->
-                        </div>
+                            <?php
+                        }
+                        ?>
 
-                        <div class="col-md-6 project-item-box furniture architecture">
-                            <!-- Project Item Start -->
-                            <div class="project-item wow fadeInUp" data-wow-delay="0.6s">
-                                <div class="project-image">
-                                    <div class="project-featured-image">
-                                        <figure class="image-anime">
-                                            <img src="images/project-3.jpg" alt="">
-                                        </figure>
+                        <!-- New -->
+                        <?php
+                        foreach ($new as $item) {
+                            ?>
+                            <div class="col-md-6 project-item-box new">
+                                <div class="project-item wow fadeInUp" data-wow-delay="0.2s">
+                                    <div class="project-image">
+                                        <div class="project-featured-image">
+                                            <figure class="image-anime">
+                                                <img src="<?php echo $item["img"]; ?>" alt="">
+                                            </figure>
+                                        </div>
                                     </div>
-
-                                    <div class="project-btn">
-                                        <a href="project-single.php"><img src="images/arrow-white.svg" alt=""></a>
+                                    <div class="project-content">
+                                        <h3><?php echo $item["title"]; ?></h3>
+                                        <h2><?php echo $item["location"]; ?></h2>
                                     </div>
-                                </div>
-
-                                <div class="project-content">
-                                    <h3>outdoor living spaces</h3>
-                                    <h2><a href="project-single.php">coastal vibes: serenity by the sea</a></h2>
                                 </div>
                             </div>
-                            <!-- Project Item End -->
-                        </div>
-
-                        <div class="col-md-6 project-item-box kitchen bedroom">
-                            <!-- Project Item Start -->
-                            <div class="project-item wow fadeInUp" data-wow-delay="0.8s">
-                                <div class="project-image">
-                                    <div class="project-featured-image">
-                                        <figure class="image-anime">
-                                            <img src="images/project-4.jpg" alt="">
-                                        </figure>
-                                    </div>
-
-                                    <div class="project-btn">
-                                        <a href="project-single.php"><img src="images/arrow-white.svg" alt=""></a>
-                                    </div>
-                                </div>
-
-                                <div class="project-content">
-                                    <h3>modern designs</h3>
-                                    <h2><a href="project-single.php">minimalist haven: simple, clean, inviting
-                                            spaces</a></h2>
-                                </div>
-                            </div>
-                            <!-- Project Item End -->
-                        </div>
-
-                        <div class="col-md-6 project-item-box interior">
-                            <!-- Project Item Start -->
-                            <div class="project-item wow fadeInUp" data-wow-delay="1s">
-                                <div class="project-image">
-                                    <div class="project-featured-image">
-                                        <figure class="image-anime">
-                                            <img src="images/project-5.jpg" alt="">
-                                        </figure>
-                                    </div>
-
-                                    <div class="project-btn">
-                                        <a href="project-single.php"><img src="images/arrow-white.svg" alt=""></a>
-                                    </div>
-                                </div>
-
-                                <div class="project-content">
-                                    <h3>Rustic Charm Revived</h3>
-                                    <h2><a href="project-single.php">Nature's Embrace: Timeless Tranquility</a></h2>
-                                </div>
-                            </div>
-                            <!-- Project Item End -->
-                        </div>
-
-                        <div class="col-md-6 project-item-box furniture">
-                            <!-- Project Item Start -->
-                            <div class="project-item wow fadeInUp" data-wow-delay="1.2s">
-                                <div class="project-image">
-                                    <div class="project-featured-image">
-                                        <figure class="image-anime">
-                                            <img src="images/project-6.jpg" alt="">
-                                        </figure>
-                                    </div>
-
-                                    <div class="project-btn">
-                                        <a href="project-single.php"><img src="images/arrow-white.svg" alt=""></a>
-                                    </div>
-                                </div>
-
-                                <div class="project-content">
-                                    <h3>Nature-Inspired Harmony</h3>
-                                    <h2><a href="project-single.php">Bold Accents: Statement Living Design</a></h2>
-                                </div>
-                            </div>
-                            <!-- Project Item End -->
-                        </div>
+                            <?php
+                        }
+                        ?>
                     </div>
                     <!-- Project Item Boxes End -->
                 </div>
