@@ -18,7 +18,7 @@
     <meta property="og:title" content="Technomerates Projects – Completed, Ongoing & New">
     <meta property="og:description"
         content="View our portfolio of completed, ongoing, and new construction projects built with advanced construction technology.">
-    <meta property="og:url" content="https://technomerates.com/projects">
+    <meta property="og:url" content="https://technomerates.com/projects.php">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://technomerates.com/images/project/project-bg.webp">
 

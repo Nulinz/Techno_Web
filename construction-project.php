@@ -18,7 +18,7 @@
     <meta property="og:title" content="Technomerates Services | ERP, AFMS, ONSTRU & DLR">
     <meta property="og:description"
         content="Technomerates offers a complete technology stack for construction: intelligent ERP, formwork tracking, material procurement, and labour reporting.">
-    <meta property="og:url" content="https://technomerates.com/services">
+    <meta property="og:url" content="https://technomerates.com/construction-project.php">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://technomerates.com/images/service/construction-bg.webp">
 

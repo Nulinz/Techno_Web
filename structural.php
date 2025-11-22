@@ -8,26 +8,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
     <!-- Meta Tags -->
-    <title>Projects | Completed, Ongoing & New Construction Projects</title>
-    <meta name="description"
-        content="Explore Technomerates’ completed, ongoing, and new projects showcasing our technology-driven construction solutions and achievements.">
-    <meta name="keywords"
-        content="construction projects, technomerates projects, ongoing projects, completed projects, new projects">
+    <title>Structural Engineering & Precast Design | Technomerates Structural Projects</title>
+    <meta name="description" content="Explore Technomerates’ structural projects: from precast design and tunnel-form construction to special structures and formwork innovation.">
+    <meta name="keywords" content="structural design, precast structures, mivan technology, tunnel form, prefabricated toilets, formwork design, special structures, solar mounting structure">
 
-    <!-- Open Graph -->
-    <meta property="og:title" content="Technomerates Projects – Completed, Ongoing & New">
-    <meta property="og:description"
-        content="View our portfolio of completed, ongoing, and new construction projects built with advanced construction technology.">
-    <meta property="og:url" content="https://technomerates.com/projects">
-    <meta property="og:type" content="article">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:title" content="Structural Engineering & Precast Design – Technomerates" />
+    <meta property="og:description" content="Technomerates delivers cutting-edge structural solutions: precast double-tee, MIVAN, monolithic columns, solar mounting systems, and more." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://technomerates.com/structural.php">
     <meta property="og:image" content="https://technomerates.com/images/project/project-bg.webp">
+    <meta property="og:site_name" content="Technomerates Pvt Ltd" />
 
-    <!-- Twitter -->
-    <meta name="twitter:title" content="Our Projects | Technomerates">
-    <meta name="twitter:description"
-        content="See how Technomerates powers construction with tech across residential, commercial & new projects.">
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Technomerates Structural Projects – Precast & Special Structures" />
+    <meta name="twitter:description" content="Discover our structural engineering expertise: precast designs, MIVAN construction, formwork innovation, and sustainable structures." />
     <meta name="twitter:image" content="https://technomerates.com/images/project/project-bg.webp">
-    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@Technomerates" />
 
     <?php include('./cdn_style.php'); ?>
 </head>
@@ -231,7 +229,7 @@
                         </div>
 
                         <div class="section-title">
-                            <p class="wow fadeInUp" data-wow-delay="0.2s">Project Construction,Design and delivery of
+                            <p class="wow fadeInUp" data-wow-delay="0.2s">Project Construction, Design and delivery of
                                 precast toilet and kitchen in concrete with complete finishes to be showcased in CHTC
                                 Expo.</p>
                         </div>

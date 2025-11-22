@@ -21,14 +21,14 @@
                                         <a class="nav-link" href="./construction-project.php">Construction Project</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="./onstru.com">Onstru AI-Driven E-Commerce Platform</a>
+                                        <a class="nav-link" target="_blank" href="https://onstru.com">Onstru AI-Driven E-Commerce Platform</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="./urfws.com">URFWS - Used Refurbished Formwork
+                                        <a class="nav-link" target="_blank" href="https://urfws.com">URFWS - Used Refurbished Formwork
                                             Solutions</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="./onstru.com/ERP">AI-Driven ERP Solutions</a>
+                                        <a class="nav-link" target="_blank" href="https://onstru.com/ERP">AI-Driven ERP Solutions</a>
                                     </li>
                                 </ul>
                             </li>
@@ -37,13 +37,13 @@
                                 <a class="nav-link">Products</a>
                                 <ul>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="./onstru.com/ERP">ERP Construction</a>
+                                        <a class="nav-link" target="_blank" href="https://onstru.com/ERP">ERP Construction</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="./onstru.com/dlr/web">DLR</a>
+                                        <a class="nav-link" target="_blank" href="https://onstru.com/dlr/web">DLR</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="./onstru.com/task/">Task Management</a>
+                                        <a class="nav-link" target="_blank" href="https://onstru.com/task/">Task Management</a>
                                     </li>
                                 </ul>
                             </li>

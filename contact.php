@@ -18,7 +18,7 @@
     <meta property="og:title" content="Contact Technomerates | Construction Technology Solutions">
     <meta property="og:description"
         content="Reach out for business inquiries, demo requests, technology partnerships, or support. Based in Chennai, India.">
-    <meta property="og:url" content="https://technomerates.com/contact">
+    <meta property="og:url" content="https://technomerates.com/contact.php">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://technomerates.com/images/contact/contact-bg.webp">
 

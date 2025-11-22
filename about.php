@@ -18,7 +18,7 @@
     <meta property="og:title" content="About Technomerates | Construction Technology Company">
     <meta property="og:description"
         content="Discover the mission, vision, and leadership behind Technomerates’ commitment to transforming construction via AI, IoT, and data-driven innovation.">
-    <meta property="og:url" content="https://technomerates.com/about-us">
+    <meta property="og:url" content="https://technomerates.com/about.php">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://technomerates.com/images/about/about-bg.webp">
 

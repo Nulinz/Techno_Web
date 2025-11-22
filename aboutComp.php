@@ -68,7 +68,7 @@
 
                             <!-- About Us Content Button Start -->
                             <div class="about-us-content-btn wow fadeInUp" data-wow-delay="0.6s">
-                                <a href="about.php" class="btn-default btn-highlighted">read more</a>
+                                <a href="./founder.php" class="btn-default btn-highlighted">Founder's Message</a>
                             </div>
                             <!-- About Us Content Button End -->
                         </div>

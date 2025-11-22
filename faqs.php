@@ -16,7 +16,7 @@
     <meta property="og:title" content="Technomerates FAQs | Construction Technology Help & Support">
     <meta property="og:description"
         content="Quick answers to your frequently asked questions about ERP, AFMS, ONSTRU, DLR, services, products, implementation, and support.">
-    <meta property="og:url" content="https://technomerates.com/faqs">
+    <meta property="og:url" content="https://technomerates.com/faqs.php">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://technomerates.com/images/home/faq-bg.webp">
 
