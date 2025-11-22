@@ -180,10 +180,11 @@
                     <div class="row project-item-boxes align-items-center">
                         <!-- Completed -->
                         <?php
+                        $i = 0.1;
                         foreach ($completed as $item) {
                             ?>
                             <div class="col-md-6 project-item-box completed">
-                                <div class="project-item wow fadeInUp" data-wow-delay="0.2s">
+                                <div class="project-item wow fadeInUp" data-wow-delay="<?php echo $i; ?>s">
                                     <div class="project-image">
                                         <div class="project-featured-image">
                                             <figure class="image-anime">
@@ -198,15 +199,17 @@
                                 </div>
                             </div>
                             <?php
+                            $i = 0.1;
                         }
                         ?>
 
                         <!-- Ongoing -->
                         <?php
+                        $i = 0.1;
                         foreach ($ongoing as $item) {
                             ?>
                             <div class="col-md-6 project-item-box ongoing">
-                                <div class="project-item wow fadeInUp" data-wow-delay="0.2s">
+                                <div class="project-item wow fadeInUp" data-wow-delay="<?php echo $i; ?>s">
                                     <div class="project-image">
                                         <div class="project-featured-image">
                                             <figure class="image-anime">
@@ -221,15 +224,17 @@
                                 </div>
                             </div>
                             <?php
+                            $i = 0.1;
                         }
                         ?>
 
                         <!-- New -->
                         <?php
+                        $i = 0.1;
                         foreach ($new as $item) {
                             ?>
                             <div class="col-md-6 project-item-box new">
-                                <div class="project-item wow fadeInUp" data-wow-delay="0.2s">
+                                <div class="project-item wow fadeInUp" data-wow-delay="<?php echo $i; ?>s">
                                     <div class="project-image">
                                         <div class="project-featured-image">
                                             <figure class="image-anime">
@@ -244,6 +249,7 @@
                                 </div>
                             </div>
                             <?php
+                            $i = 0.1;
                         }
                         ?>
                     </div>
