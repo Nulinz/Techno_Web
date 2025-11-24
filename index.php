@@ -62,7 +62,7 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h1 class="text-anime-style-2 text-uppercase mb-2" data-cursor="-opaque"><span>Technomerates</span> Pvt Ltd</h1>
-                            <h3 class="wow fadeInUp fs-5 mb-2 fw-bold">Powered by <span>Innovation.</span> Propelled by <span>Ambition.</span></h3>
+                            <h3 class="wow fadeInUp fs-4 mb-2 fw-bold">Powered by <span>Innovation.</span> Propelled by <span>Ambition.</span></h3>
                             <p class="wow fadeInUp mt-0 mb-3" style="text-align: justify;" data-wow-delay="0.2s">A conglomerate of innovation, leveraging the
                                 power of AI, IOT, and Data Science to revolutionize construction management. Our
                                 solutions redefine efficiency, safety, and decision-making, paving the way for smarter,
