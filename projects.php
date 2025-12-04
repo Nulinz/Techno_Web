@@ -56,11 +56,11 @@
             "title" => "Sobha Developers Yard",
             "location" => "Bangalore"
         ],
-        [
-            "img" => "images/project/completed/project-img-4.webp",
-            "title" => "Caparo Powerhouse",
-            "location" => "Chennai"
-        ],
+        // [
+        //     "img" => "images/project/completed/project-img-4.webp",
+        //     "title" => "Caparo Powerhouse",
+        //     "location" => "Chennai"
+        // ],
     ];
 
     $ongoing = [
@@ -79,11 +79,11 @@
             "title" => "Subha Developers Ecostone",
             "location" => "Bangalore"
         ],
-        [
-            "img" => "images/project/ongoing/project-img-4.webp",
-            "title" => "Foxconn Dormatory",
-            "location" => "Sunguvachatram"
-        ],
+        // [
+        //     "img" => "images/project/ongoing/project-img-4.webp",
+        //     "title" => "Foxconn Dormatory",
+        //     "location" => "Sunguvachatram"
+        // ],
         [
             "img" => "images/project/ongoing/project-img-5.webp",
             "title" => "Individual VHK Apartment",
@@ -94,21 +94,21 @@
             "title" => "Urbanac Bharathia",
             "location" => "Bangalore"
         ],
-        [
-            "img" => "images/project/ongoing/project-img-7.webp",
-            "title" => "Caparo Road Works",
-            "location" => "Sunguvachatram"
-        ],
+        // [
+        //     "img" => "images/project/ongoing/project-img-7.webp",
+        //     "title" => "Caparo Road Works",
+        //     "location" => "Sunguvachatram"
+        // ],
         [
             "img" => "images/project/ongoing/project-img-8.webp",
             "title" => "Poweroll Factory",
             "location" => "Nagarai"
         ],
-        [
-            "img" => "images/project/ongoing/project-img-9.webp",
-            "title" => "Caparo Drainage System",
-            "location" => "Sunguvachatram"
-        ],
+        // [
+        //     "img" => "images/project/ongoing/project-img-9.webp",
+        //     "title" => "Caparo Drainage System",
+        //     "location" => "Sunguvachatram"
+        // ],
     ];
 
     $new = [

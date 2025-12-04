@@ -21,7 +21,39 @@
                                 <!-- Client Logo Start -->
                                 <div class="swiper-slide">
                                     <div class="client-logo">
-                                        <img src="./images/client/client-1.webp" height="75px" width="auto" alt="">
+                                        <img src="./images/client/client-1.webp" height="75px" width="auto" alt="Adarsh">
+                                    </div>
+                                </div>
+                                <!-- Client Logo End -->
+
+                                <!-- Client Logo Start -->
+                                <!-- <div class="swiper-slide">
+                                    <div class="client-logo">
+                                        <img src="./images/client/client-2.webp" height="75px" width="auto" alt="Caparo">
+                                    </div>
+                                </div> -->
+                                <!-- Client Logo End -->
+
+                                <!-- Client Logo Start -->
+                                <div class="swiper-slide">
+                                    <div class="client-logo">
+                                        <img src="./images/client/client-3.webp" height="75px" width="auto" alt="Casagrand">
+                                    </div>
+                                </div>
+                                <!-- Client Logo End -->
+
+                                <!-- Client Logo Start -->
+                                <!-- <div class="swiper-slide">
+                                    <div class="client-logo">
+                                        <img src="./images/client/client-4.webp" height="75px" width="auto" alt="Foxconn">
+                                    </div>
+                                </div> -->
+                                <!-- Client Logo End -->
+
+                                <!-- Client Logo Start -->
+                                <div class="swiper-slide">
+                                    <div class="client-logo">
+                                        <img src="./images/client/client-5.webp" height="75px" width="auto" alt="Hiranandani">
                                     </div>
                                 </div>
                                 <!-- Client Logo End -->
@@ -29,7 +61,7 @@
                                 <!-- Client Logo Start -->
                                 <div class="swiper-slide">
                                     <div class="client-logo">
-                                        <img src="./images/client/client-2.webp" height="75px" width="auto" alt="">
+                                        <img src="./images/client/client-6.webp" height="75px" width="auto" alt="Sobha">
                                     </div>
                                 </div>
                                 <!-- Client Logo End -->
@@ -37,7 +69,7 @@
                                 <!-- Client Logo Start -->
                                 <div class="swiper-slide">
                                     <div class="client-logo">
-                                        <img src="./images/client/client-3.webp" height="75px" width="auto" alt="">
+                                        <img src="./images/client/client-7.webp" height="75px" width="auto" alt="Subha">
                                     </div>
                                 </div>
                                 <!-- Client Logo End -->
@@ -45,39 +77,7 @@
                                 <!-- Client Logo Start -->
                                 <div class="swiper-slide">
                                     <div class="client-logo">
-                                        <img src="./images/client/client-4.webp" height="75px" width="auto" alt="">
-                                    </div>
-                                </div>
-                                <!-- Client Logo End -->
-
-                                <!-- Client Logo Start -->
-                                <div class="swiper-slide">
-                                    <div class="client-logo">
-                                        <img src="./images/client/client-5.webp" height="75px" width="auto" alt="">
-                                    </div>
-                                </div>
-                                <!-- Client Logo End -->
-
-                                <!-- Client Logo Start -->
-                                <div class="swiper-slide">
-                                    <div class="client-logo">
-                                        <img src="./images/client/client-6.webp" height="75px" width="auto" alt="">
-                                    </div>
-                                </div>
-                                <!-- Client Logo End -->
-
-                                <!-- Client Logo Start -->
-                                <div class="swiper-slide">
-                                    <div class="client-logo">
-                                        <img src="./images/client/client-7.webp" height="75px" width="auto" alt="">
-                                    </div>
-                                </div>
-                                <!-- Client Logo End -->
-
-                                <!-- Client Logo Start -->
-                                <div class="swiper-slide">
-                                    <div class="client-logo">
-                                        <img src="./images/client/client-8.webp" height="75px" width="auto" alt="">
+                                        <img src="./images/client/client-8.webp" height="75px" width="auto" alt="Bharatiya">
                                     </div>
                                 </div>
                                 <!-- Client Logo End -->
