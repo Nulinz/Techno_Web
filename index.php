@@ -276,14 +276,14 @@
                                 <div class="project-image">
                                     <div class="project-featured-image">
                                         <figure class="image-anime">
-                                            <img src="images/project/completed/project-img-4.webp" alt="">
+                                            <img src="images/project/ongoing/project-img-3.webp" alt="">
                                         </figure>
                                     </div>
                                 </div>
 
                                 <div class="project-content">
-                                    <h3>Caparo Powerhouse</h3>
-                                    <h2>Chennai</h2>
+                                    <h3>Subha Developers Ecostone</h3>
+                                    <h2>Bangalore</h2>
                                 </div>
                             </div>
                             <!-- Project Item End -->
